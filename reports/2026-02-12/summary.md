@@ -1,30 +1,30 @@
-# Lead Generation Report — 2026-02-12 19:00 ET
+# Lead Generation Report — 2026-02-12 20:00 ET
 
-**Total Leads:** 605
+**Total Leads:** 622
 
 ## Priority Breakdown
-- **High:** 399
-- **Low:** 134
+- **High:** 414
+- **Low:** 136
 - **Medium:** 72
 
 ## By Category
-- **esh_scout:** 116
-- **auto:** 48
-- **property_mgmt:** 42
+- **esh_scout:** 118
+- **auto:** 55
+- **property_mgmt:** 43
 - **restaurant:** 40
 - **real_estate:** 34
-- **detailing:** 31
+- **detailing:** 34
 - **property_manager:** 26
 - **auto_shop:** 25
 - **gutter:** 23
 - **hoa:** 21
 - **cleaning:** 21
 - **healthcare:** 21
+- **warehouse:** 20
 - **construction:** 20
-- **warehouse:** 19
+- **apartments:** 20
 - **kitchen:** 19
 - **epoxy:** 18
-- **apartments:** 17
 - **apartment_complex:** 14
 - **bathroom:** 12
 - **mobile_detailing:** 10
@@ -37,16 +37,16 @@
 - **Auto Body Shop:** 1
 
 ## By City
-- **Stuart:** 323
-- **Jensen Beach:** 43
+- **Stuart:** 337
+- **Jensen Beach:** 44
 - **Port St Lucie:** 40
 - **Palm City:** 35
 - **Boca Raton:** 23
 - **Fort Pierce:** 18
 - **West Palm Beach:** 17
 - **Austin:** 16
+- **Charlotte:** 14
 - **Naples:** 13
-- **Charlotte:** 12
 - **Jupiter:** 10
 - **Sarasota:** 10
 - **Nashville:** 10

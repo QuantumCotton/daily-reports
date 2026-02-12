@@ -1,20 +1,20 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 17:49 UTC",
+  "generated_at": "2026-02-12 18:06 UTC",
   "leads": {
-    "total": 585,
+    "total": 589,
     "contacted": 0,
-    "uncontacted": 585,
+    "uncontacted": 589,
     "by_priority": {
-      "High": 384,
+      "High": 387,
       "Medium": 72,
-      "Low": 129
+      "Low": 130
     },
     "by_category": {
-      "esh_scout": 111,
+      "esh_scout": 112,
+      "auto": 43,
       "restaurant": 40,
       "property_mgmt": 40,
-      "auto": 40,
       "real_estate": 34,
       "detailing": 28,
       "property_manager": 26,
@@ -40,7 +40,7 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 309,
+      "Stuart": 312,
       "Jensen Beach": 43,
       "Port St Lucie": 40,
       "Palm City": 34,
@@ -55,8 +55,8 @@
       "Nashville": 10,
       "Vero Beach": 8,
       "Sewall's Point": 8,
+      "Scottsdale": 8,
       "Delray Beach": 7,
-      "Scottsdale": 7,
       "Port St. Lucie": 2,
       "Treasure Coast": 2
     }

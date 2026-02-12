@@ -229,3 +229,337 @@
 [21:22:56]     FOUND PHONE: 561-905-0148
 [21:23:01] Wrote 32 enriched contacts back to CSV
 [21:23:01] CRM dashboard rebuilt
+[21:23:03] Pushed to GitHub
+[21:23:03] SMART ENRICHER COMPLETE: 32 emails found, 23 drafts
+[21:23:03] ============================================================
+[21:24:47] ============================================================
+[21:24:47] SMART ENRICHER — Search-based contact finder
+[21:24:47] Batch size: 100
+[21:24:47] ============================================================
+[21:24:47] Z.AI webSearchPrime loaded
+[21:24:47] Loaded 622 leads
+[21:24:47] Leads needing email: 565
+[21:24:47] Processing batch of 100
+[21:24:47]   [1/100] Cleaning Services Stuart, Jensen Beach F
+[21:24:50]     FOUND EMAIL: office@customcleaningtc.com
+[21:24:55]   [2/100] Treasure Coast Real Estate: Treasure Coa
+[21:25:04]   [3/100] Top Rated Car Dealerships near Stuart, F
+[21:25:12]   [4/100] New & Used Cars For Sale
+[21:25:20]   [5/100] Starling Buick GMC Dealership in Stuart,
+[21:25:29]   [6/100] Treasure Coast Toyota Of Stuart
+[21:25:37]   [7/100] Martin Meadows | Home Owners Association
+[21:25:45]   [8/100] Circle Bay Yacht Club
+[21:25:53]   [9/100] Treasure Coast, FL - TourSeniorLiving.or
+[21:26:01]   [10/100] The Gardens of Port St. Lucie Senior Liv
+[21:26:16]   [11/100] jd treasure coast assisted living facili
+[21:26:24]   [12/100] Treasure Coast ALF | Port St. Lucie, Flo
+[21:26:32]   [13/100] 10 Best Assisted Living Facilities in St
+[21:26:41]   [14/100] Premium Concrete Floor Coatings Services
+[21:26:44]     FOUND EMAIL: premiumconcretecoatings@outlook.com
+[21:26:49]   [15/100] Epoxy Garage Floor Solutions in Stuart
+[21:26:52]     FOUND EMAIL: Gary@GaryLeavenworth.com
+[21:26:57]   [16/100] Jupiter Custom Garage Floor Coatings & C
+[21:27:05]   [17/100] Top Flooring Alternatives to Epoxy in St
+[21:27:17]   [18/100] Stuart Florida Real Estate | Premier Gro
+[21:27:26]   [19/100] Metallic Epoxy Flooring Experts in Palm 
+[21:27:29]     FOUND EMAIL: Floorcoatingpro@gmail.com
+[21:27:29]     FOUND PHONE: 3767807543
+[21:27:34]   [20/100] flooring contractors in palm city, fl
+[21:27:37]     FOUND EMAIL: tsa@selectdesigncenter.com
+[21:27:37]     FOUND PHONE: 772.444.3325
+[21:27:42]   [21/100] Concrete Flooring Installation in Palm C
+[21:27:45]     FOUND PHONE: 561-905-0148
+[21:27:50]   [22/100] THE 10 BEST Restaurants in Stuart (Updat
+[21:27:53]     FOUND EMAIL: Management@pez-vela.com
+[21:27:53]     FOUND PHONE: (772) 291-2794
+[21:27:58]   [23/100] Dining - Historic Downtown Stuart
+[21:28:01]     FOUND EMAIL: info@downtownstuartflorida.com
+[21:28:01]     FOUND PHONE: (772) 600-5025
+[21:28:06]   [24/100] The 10 Best Restaurants Near Me in Stuar
+[21:28:10]     FOUND EMAIL: events@tidehouse.com
+[21:28:10]     FOUND PHONE: 772-771-3160
+[21:28:15]   [25/100] Home - BOATHOUSE - Fish restaurant in St
+[21:28:18]     FOUND EMAIL: sailfish@stuartboathouse.com
+[21:28:18]     FOUND PHONE: (772) 266-4586
+[21:28:23]   [26/100] The Sailor's Return Restaurant in Stuart
+[21:28:25]     FOUND PHONE: (772) 872-7250
+[21:28:30]   [27/100] Stuart Fish Grill - Stuart, FL
+[21:28:34]     FOUND PHONE: 772-237-5461
+[21:28:39]   [28/100] The Black Marlin | Bar & Restaurant in H
+[21:28:42]     FOUND PHONE: (772) 286-3126
+[21:28:47]   [29/100] Hudson's On The River | Waterfront Dinin
+[21:28:49]     FOUND EMAIL: HHRIVERINN@GMAIL.COM
+[21:28:49]     FOUND PHONE: (843)-681-2772
+[21:28:54]   [30/100] Gutter Installation & Downspout Services
+[21:28:58]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[21:28:58]     FOUND PHONE: 772-334-3139
+[21:29:03]   [31/100] Jensen Beach FL Seamless Gutter Services
+[21:29:06]     FOUND EMAIL: gutterhawks@gmail.com
+[21:29:06]     FOUND PHONE: 561-933-5721
+[21:29:11]   [32/100] Gutter Installation in Jensen Beach, FL,
+[21:29:15]     FOUND EMAIL: DLBlanton@bellsouth.net
+[21:29:15]     FOUND PHONE: (772) 266-4016
+[21:29:20]   [33/100] Jensen Seamless Gutters
+[21:29:22]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[21:29:22]     FOUND PHONE: 772-334-3139
+[21:29:27]   [34/100] Gutter Installation Jensen Beach, FL – V
+[21:29:31]     FOUND PHONE: (239) 423-7466
+[21:29:36]   [35/100] Seamless Gutters | Jensen Beach, FL
+[21:29:39]     FOUND EMAIL: support@seamlessgutters.co
+[21:29:39]     FOUND PHONE: 772-334-3139
+[21:29:44]   [36/100] Jensen Beach Seamless Gutters
+[21:29:47]     FOUND EMAIL: gutterhawks@gmail.com
+[21:29:47]     FOUND PHONE: 561-933-5721
+[21:29:52]   [37/100] Jensen Beach Kitchen and Bath Remodeling
+[21:29:56]     FOUND EMAIL: jensenbeachsales@gmail.com
+[21:29:56]     FOUND PHONE: (772) 222-2284
+[21:30:01]   [38/100] GLS Remodeling | Kitchen & Bathroom Remo
+[21:30:01] ============================================================
+[21:30:01] SMART ENRICHER — Search-based contact finder
+[21:30:01] Batch size: 50
+[21:30:01] ============================================================
+[21:30:01] Z.AI webSearchPrime loaded
+[21:30:01] Loaded 622 leads
+[21:30:01] Leads needing email: 565
+[21:30:01] Processing batch of 50
+[21:30:01]   [1/50] Cleaning Services Stuart, Jensen Beach F
+[21:30:05]     FOUND EMAIL: info@glsremodeling.com
+[21:30:05]     FOUND PHONE: (772) 610-4545
+[21:30:09]   [2/50] Treasure Coast Real Estate: Treasure Coa
+[21:30:10]   [39/100] Victory Kitchen & Bath | Remodeling, Cab
+[21:30:14]     FOUND PHONE: 1740178376
+[21:30:18]   [3/50] Top Rated Car Dealerships near Stuart, F
+[21:30:19]   [40/100] General Contractor Jensen Beach Florida 
+[21:30:23]     FOUND EMAIL: contact@sweetgc.com
+[21:30:23]     FOUND PHONE: (772) 206-2670
+[21:30:27]   [4/50] New & Used Cars For Sale
+[21:30:28]   [41/100] Martin North Hospital | Cleveland Clinic
+[21:30:31]     FOUND EMAIL: PHPPRcontactus@providence.org
+[21:30:31]     FOUND PHONE: (772) 287-5200
+[21:30:35]   [5/50] Starling Buick GMC Dealership in Stuart,
+[21:30:36]   [42/100] Hospitals near Stuart, FL - Healthgrades
+[21:30:38]     FOUND PHONE: 772.287.5200
+[21:30:43]   [43/100] Martin North Hospital | Cleveland Clinic
+[21:30:43]   [6/50] Treasure Coast Toyota Of Stuart
+[21:30:47]     FOUND EMAIL: PHPPRcontactus@providence.org
+[21:30:47]     FOUND PHONE: (772) 287-5200
+[21:30:52]   [7/50] Martin Meadows | Home Owners Association
+[21:30:52]   [44/100] HCA Florida Stuart Emergency
+[21:30:56]     FOUND EMAIL: info@stuartmartinchamber.org
+[21:30:56]     FOUND PHONE: (772) 203-8015
+[21:31:01]   [45/100] HOSPITALS/EMERGENCY ROOM Category | Stua
+[21:31:01]   [8/50] Circle Bay Yacht Club
+[21:31:04]     FOUND PHONE: (772) 223-2300
+[21:31:09]   [46/100] Cleveland Clinic Martin Health-Stuart in
+[21:31:09]   [9/50] Treasure Coast, FL - TourSeniorLiving.or
+[21:31:13]     FOUND EMAIL: singhr@ccf.org
+[21:31:13]     FOUND PHONE: (772) 223-2300
+[21:31:18]   [10/50] The Gardens of Port St. Lucie Senior Liv
+[21:31:18]   [47/100] Martin Memorial Hospital South, Stuart, 
+[21:31:21]     FOUND PHONE: 772-223-4902
+[21:31:26]   [11/50] jd treasure coast assisted living facili
+[21:31:26]   [48/100] Cleveland Clinic Martin North Hospital -
+[21:31:29]     FOUND EMAIL: PHPPRcontactus@providence.org
+[21:31:29]     FOUND PHONE: 772.287.5200
+[21:31:34]   [12/50] Treasure Coast ALF | Port St. Lucie, Flo
+[21:31:34]   [49/100] Top-rated Handyman in Stuart, FL
+[21:31:38]     FOUND EMAIL: terret3@bellsouth.net
+[21:31:38]     FOUND PHONE: 4337193238
+[21:31:42]   [13/50] 10 Best Assisted Living Facilities in St
+[21:31:43]   [50/100] Handyman Services in Stuart FL | Home & 
+[21:31:47]     FOUND EMAIL: office@homeandbeyondfl.com
+[21:31:47]     FOUND PHONE: (772) 877-9898
+[21:31:51]   [14/50] Premium Concrete Floor Coatings Services
+[21:31:52]   [51/100] Handyman & Home Repair Services in Stuar
+[21:31:56]     FOUND EMAIL: info@stuartmartinchamber.org
+[21:31:56]     FOUND PHONE: 772-287-1088
+[21:31:59]   [15/50] Epoxy Garage Floor Solutions in Stuart
+[21:32:01]   [52/100] Stuart Pressure Washing & Handyman LLC: 
+[21:32:04]     FOUND EMAIL: Info@pressurewashingandhandyman.com
+[21:32:04]     FOUND PHONE: 1222030128
+[21:32:06]   [16/50] Jupiter Custom Garage Floor Coatings & C
+[21:32:09]   [53/100] Treasure Coast Auto Spa: Treasure Coast 
+[21:32:13]     FOUND PHONE: (772) 204-1286
+[21:32:14]   [17/50] Top Flooring Alternatives to Epoxy in St
+[21:32:18]   [54/100] MDS Auto Detailing
+[21:32:20]     FOUND EMAIL: support@giftly.com
+[21:32:20]     FOUND PHONE: (561) 373-7737
+[21:32:22]   [18/50] Stuart Florida Real Estate | Premier Gro
+[21:32:25]   [55/100] Doctor Detail of the Treasure Coast: Aut
+[21:32:29]     FOUND PHONE: (772) 405-7010
+[21:32:32]   [19/50] Metallic Epoxy Flooring Experts in Palm 
+[21:32:34]   [56/100] Lio's Quality detailing
+[21:32:35]     FOUND EMAIL: epoxytreasurecoast@gmail.comP
+[21:32:35]     FOUND PHONE: (772) 877-5222
+[21:32:37]     FOUND EMAIL: liosqdllc@gmail.com
+[21:32:37]     FOUND PHONE: (772) 348-9559
+[21:32:40]   [20/50] flooring contractors in palm city, fl
+[21:32:42]   [57/100] Florida Finest Detailing: Home
+[21:32:44]     FOUND EMAIL: tsa@selectdesigncenter.com
+[21:32:44]     FOUND PHONE: 772.444.3325
+[21:32:46]     FOUND EMAIL: atlanticautocoatings@gmail.com
+[21:32:46]     FOUND PHONE: 4536826401
+[21:32:49]   [21/50] Concrete Flooring Installation in Palm C
+[21:32:51]   [58/100] Ceramic Coating Experts | Best Auto Deta
+[21:32:52]     FOUND PHONE: 561-905-0148
+[21:32:54]     FOUND EMAIL: showtimedetailing28@gmail.com
+[21:32:54]     FOUND PHONE: (772) 237-1407
+[21:32:57]   [22/50] THE 10 BEST Restaurants in Stuart (Updat
+[21:32:59]   [59/100] Lion Heartz Detailing: Mobile Auto Detai
+[21:33:00]     FOUND EMAIL: Management@pez-vela.com
+[21:33:00]     FOUND PHONE: 772.291.2794
+[21:33:02]     FOUND PHONE: (772)-480-4133
+[21:33:05]   [23/50] Dining - Historic Downtown Stuart
+[21:33:07]   [60/100] Booking - Showtime Detailing
+[21:33:08]     FOUND EMAIL: info@downtownstuartflorida.com
+[21:33:08]     FOUND PHONE: (772) 286-3126
+[21:33:11]     FOUND PHONE: 3398759846
+[21:33:13]   [24/50] The 10 Best Restaurants Near Me in Stuar
+[21:33:16]   [61/100] HOME - DA Detailing - PSL
+[21:33:16]     FOUND EMAIL: events@tidehouse.com
+[21:33:16]     FOUND PHONE: (425) 505-1536
+[21:33:19]     FOUND EMAIL: info@tcfoodbank.org
+[21:33:19]     FOUND PHONE: 1641012012
+[21:33:21]   [25/50] Home - BOATHOUSE - Fish restaurant in St
+[21:33:24]   [62/100] Full Service Catering | Treasure Coast |
+[21:33:24]     FOUND EMAIL: sailfish@stuartboathouse.com
+[21:33:24]     FOUND PHONE: (772) 266-4586
+[21:33:27]     FOUND EMAIL: Jamie@tribekitchen.com
+[21:33:27]     FOUND PHONE: (516) 209-7606
+[21:33:29]   [26/50] The Sailor's Return Restaurant in Stuart
+[21:33:32]   [63/100] Catering services along the Treasure Coa
+[21:33:33]     FOUND EMAIL: tracywdavis@bellsouth.net
+[21:33:33]     FOUND PHONE: (772) 872-7250
+[21:33:35]     FOUND EMAIL: example@gmail.com
+[21:33:35]     FOUND PHONE: (561) 907-2202
+[21:33:38]   [27/50] Stuart Fish Grill - Stuart, FL
+[21:33:40]   [64/100] True Roots Catering | Vero Beach | Stuar
+[21:33:40]     FOUND PHONE: 772-237-5461
+[21:33:43]     FOUND EMAIL: info@truerootscatering.com
+[21:33:43]     FOUND PHONE: (772) 259-1972
+[21:33:45]   [28/50] The Black Marlin | Bar & Restaurant in H
+[21:33:48]   [65/100] Catering Revolution: Catering Services i
+[21:33:48]     FOUND PHONE: (772) 286-3126
+[21:33:51]     FOUND EMAIL: Events@harboragecaterers.com
+[21:33:51]     FOUND PHONE: (772) 283-6116
+[21:33:53]   [29/50] Hudson's On The River | Waterfront Dinin
+[21:33:56]   [66/100] Premier Catering Services in Fort Pierce
+[21:33:56]     FOUND EMAIL: info@hudsonsrestaurant.com
+[21:33:56]     FOUND PHONE: (843)-681-2772
+[21:33:59]     FOUND EMAIL: Catering@ShellysBistro.com
+[21:33:59]     FOUND PHONE: (204) 930-3266
+[21:34:01]   [30/50] Gutter Installation & Downspout Services
+[21:34:04]   [67/100] CT Catering
+[21:34:04]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[21:34:04]     FOUND PHONE: 1000674723
+[21:34:07]     FOUND EMAIL: Smith@ct-catering.com
+[21:34:07]     FOUND PHONE: (203) 332-1223
+[21:34:09]   [31/50] Jensen Beach FL Seamless Gutter Services
+[21:34:12]   [68/100] Caterer Service in Treasure Coast, FL | 
+[21:34:13]     FOUND EMAIL: gutterhawks@gmail.com
+[21:34:13]     FOUND PHONE: 561-933-5721
+[21:34:15]     FOUND PHONE: 772 286-0877
+[21:34:18]   [32/50] Gutter Installation in Jensen Beach, FL,
+[21:34:20]   [69/100] Purple Olive: Catering Service | Saint A
+[21:34:22]     FOUND EMAIL: jmiron@sharfiholding.com
+[21:34:22]     FOUND PHONE: 2024041916
+[21:34:23]     FOUND EMAIL: purpleolive2004@gmail.com
+[21:34:23]     FOUND PHONE: (904) 461-1250
+[21:34:27]   [33/50] Jensen Seamless Gutters
+[21:34:28]   [70/100] Investment properties Martin County FL -
+[21:34:34]   [34/50] Gutter Installation Jensen Beach, FL – V
+[21:34:37]   [71/100] CRA Investment Program | Martin County F
+[21:34:38]     FOUND PHONE: (239) 423-7466
+[21:34:39]     FOUND EMAIL: jpinkston@ci.stuart.fl.us
+[21:34:39]     FOUND PHONE: (772) 288-5375
+[21:34:43]   [35/50] Seamless Gutters | Jensen Beach, FL
+[21:34:44]   [72/100] Martin County, FL commercial real estate
+[21:34:46]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[21:34:46]     FOUND PHONE: 772-334-3139
+[21:34:47]     FOUND EMAIL: wolfecommercialrealestate@gmail.com
+[21:34:47]     FOUND PHONE: (772) 323-7037
+[21:34:51]   [36/50] Jensen Beach Seamless Gutters
+[21:34:52]   [73/100] Martin County Existing Condo Sales Climb
+[21:34:54]     FOUND EMAIL: support@seamlessgutters.co
+[21:34:54]     FOUND PHONE: 772-334-3139
+[21:34:56]     FOUND PHONE: 1843812072
+[21:34:59]   [37/50] Jensen Beach Kitchen and Bath Remodeling
+[21:35:01]   [74/100] Martin County, FL Homes for Sale - The Z
+[21:35:01]     FOUND EMAIL: jensenbeachsales@gmail.com
+[21:35:01]     FOUND PHONE: (772) 222-2284
+[21:35:04]     FOUND PHONE: (561) 214-0164
+[21:35:06]   [38/50] GLS Remodeling | Kitchen & Bathroom Remo
+[21:35:09]   [75/100] Martin County Real Estate Market Update 
+[21:35:10]     FOUND EMAIL: info@glsremodeling.com
+[21:35:10]     FOUND PHONE: (772) 610-4545
+[21:35:12]     FOUND EMAIL: info@pamartinfl.gov
+[21:35:12]     FOUND PHONE: 1431128282
+[21:35:15]   [39/50] Victory Kitchen & Bath | Remodeling, Cab
+[21:35:17]   [76/100] Restaurants In Jensen Beach Florida | Di
+[21:35:18]     FOUND EMAIL: info@VictoryKB.com
+[21:35:18]     FOUND PHONE: 772-444-8668
+[21:35:20]     FOUND EMAIL: inquiry@islandbeachresort.com
+[21:35:20]     FOUND PHONE: (772) 334-1131
+[21:35:23]   [40/50] General Contractor Jensen Beach Florida 
+[21:35:25]   [77/100] The 10 Best Restaurants Near Me in Jense
+[21:35:27]     FOUND EMAIL: contact@sweetgc.com
+[21:35:27]     FOUND PHONE: (772) 206-2670
+[21:35:28]     FOUND PHONE: 1298686555
+[21:35:32]   [41/50] Martin North Hospital | Cleveland Clinic
+[21:35:33]   [78/100] The Nest | American Restaurant in Jensen
+[21:35:35]     FOUND EMAIL: roiwestonfl@ccf.org
+[21:35:35]     FOUND PHONE: (772) 287-5200
+[21:35:36]     FOUND EMAIL: Info@nestontheriver.com
+[21:35:36]     FOUND PHONE: (772) 229-7575
+[21:35:40]   [42/50] Hospitals near Stuart, FL - Healthgrades
+[21:35:41]   [79/100] Where to eat? Downtown Jensen Beach teem
+[21:35:44]     FOUND EMAIL: PHPPRcontactus@providence.org
+[21:35:44]     FOUND PHONE: 5607079948
+[21:35:45]     FOUND EMAIL: takotikijensenbeach@gmail.com
+[21:35:45]     FOUND PHONE: (772) 208-5554
+[21:35:49]   [43/50] Martin North Hospital | Cleveland Clinic
+[21:35:50]   [80/100] Mulligan's Beach House
+[21:35:52]     FOUND EMAIL: PHPPRcontactus@providence.org
+[21:35:52]     FOUND PHONE: (772) 287-5200
+[21:35:53]     FOUND EMAIL: mary@mulligansbeachsports.com
+[21:35:53]     FOUND PHONE: 772.600.7377
+[21:35:57]   [44/50] HCA Florida Stuart Emergency
+[21:35:58]   [81/100] Restaurants Jensen Beach | Seafood Resta
+[21:36:00]     FOUND EMAIL: info@stuartmartinchamber.org
+[21:36:00]     FOUND PHONE: (772) 203-8015
+[21:36:01]     FOUND EMAIL: mary@mulligansbeachsports.com
+[21:36:01]     FOUND PHONE: (772) 877-3139
+[21:36:05]   [45/50] HOSPITALS/EMERGENCY ROOM Category | Stua
+[21:36:06]   [82/100] Crawdaddy - Jensen Beach
+[21:36:08]     FOUND PHONE: (772) 223-2300
+[21:36:09]     FOUND EMAIL: krensouth1@gmail.com
+[21:36:09]     FOUND PHONE: 1000867983
+[21:36:13]   [46/50] Cleveland Clinic Martin Health-Stuart in
+[21:36:14]   [83/100] The Best Restaurants in Jensen Beach, Fl
+[21:36:17]     FOUND EMAIL: singhr@ccf.org
+[21:36:17]     FOUND PHONE: (772) 223-2300
+[21:36:22]   [47/50] Martin Memorial Hospital South, Stuart, 
+[21:36:23]     FOUND EMAIL: takotikijensenbeach@gmail.com
+[21:36:23]     FOUND PHONE: (772) 208-5554
+[21:36:25]     FOUND EMAIL: WebsiteContactUs@wellmed.net
+[21:36:25]     FOUND PHONE: 772-223-4902
+[21:36:28]   [84/100] Office Cleaning in Stuart FL | Serving T
+[21:36:30]   [48/50] Cleveland Clinic Martin North Hospital -
+[21:36:31]     FOUND EMAIL: office@customcleaningtc.com
+[21:36:31]     FOUND PHONE: 1104594020
+[21:36:33]     FOUND EMAIL: PHPPRcontactus@providence.org
+[21:36:33]     FOUND PHONE: 772.287.5200
+[21:36:36]   [85/100] Snap Clean: Cleaning Services in Treasur
+[21:36:38]   [49/50] Top-rated Handyman in Stuart, FL
+[21:36:40]     FOUND PHONE: (772) 206-0109
+[21:36:41]     FOUND EMAIL: terret3@bellsouth.net
+[21:36:41]     FOUND PHONE: 4337193238
+[21:36:45]   [86/100] Commercial Cleaning Services in Palm Bea
+[21:36:46]   [50/50] Handyman Services in Stuart FL | Home & 
+[21:36:48]     FOUND EMAIL: office@customcleaningtc.com
+[21:36:48]     FOUND PHONE: 1705179990
+[21:36:50]     FOUND EMAIL: office@homeandbeyondfl.com
+[21:36:50]     FOUND PHONE: (772)877-9898
+[21:36:53]   [87/100] Janitorial Services - FREEDOM COAST CLEA
+[21:36:55] Wrote 26 enriched contacts back to CSV
+[21:36:55] CRM dashboard rebuilt

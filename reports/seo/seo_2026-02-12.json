@@ -2,6 +2,45 @@
   "date": "2026-02-12",
   "results": [
     {
+      "keyword": "roofing contractor Stuart FL",
+      "kmjk_position": null,
+      "total_results": 10,
+      "top_result": "THE BEST 10 ROOFING in STUART, FL - Updated 2026 - Hours - Yelp",
+      "competitors": [
+        "THE BEST 10 ROOFING in STUART, FL - Updated 2026 -",
+        "Top 10 Best Roofers in Stuart, FL | Angi",
+        "Best Roofers in Stuart, FL | GAF Roofing Contracto",
+        "10 Best Roofers in Stuart, FL 2026 - Porch",
+        "The Metal Roof Experts | Top Roofing Company in St"
+      ]
+    },
+    {
+      "keyword": "kitchen renovation Palm City FL",
+      "kmjk_position": null,
+      "total_results": 10,
+      "top_result": "TOP 10 BEST Kitchen Remodeling near Palm City, FL - Yelp",
+      "competitors": [
+        "TOP 10 BEST Kitchen Remodeling near Palm City, FL ",
+        "Best 15 Kitchen Remodelers in Palm City, FL | Kitc",
+        "Top 10 Best Kitchen and bathroom remodelers in Pal",
+        "Kitchen Remodel in Palm City, Florida | Best Kitch",
+        "Palm City Kitchen Remodelers - DreamMaker Bath & K"
+      ]
+    },
+    {
+      "keyword": "kitchen remodel Jensen Beach FL",
+      "kmjk_position": null,
+      "total_results": 10,
+      "top_result": "TOP 10 BEST Kitchen Remodeling Contractors near Jensen Beach ...",
+      "competitors": [
+        "TOP 10 BEST Kitchen Remodeling Contractors near Je",
+        "Jensen Beach Kitchen and Bath Remodeling",
+        "Cooke Construction | Kitchen Remodeling Jensen Bea",
+        "Remodeling Contractor Jensen Beach | Island Kitche",
+        "Get Kitchen Remodeling in Jensen Beach, FL"
+      ]
+    },
+    {
       "keyword": "gutter installation Jensen Beach FL",
       "kmjk_position": null,
       "total_results": 10,
@@ -22,48 +61,9 @@
       "competitors": [
         "THE BEST 10 HANDYMAN in STUART, FL - Updated 2026 ",
         "Top-rated Handyman in Stuart, FL",
-        "Handyman & Home Repair Services in Stuart, FL",
-        "Who can help with handyman work in Stuart? - Faceb",
-        "Handyman Services in Stuart FL | Home & Beyond"
-      ]
-    },
-    {
-      "keyword": "roofing contractor Stuart FL",
-      "kmjk_position": null,
-      "total_results": 10,
-      "top_result": "THE BEST 10 ROOFING in STUART, FL - Updated 2026 - Hours - Yelp",
-      "competitors": [
-        "THE BEST 10 ROOFING in STUART, FL - Updated 2026 -",
-        "Top 10 Best Roofers in Stuart, FL | Angi",
-        "Best Roofers in Stuart, FL | GAF Roofing Contracto",
-        "10 Best Roofers in Stuart, FL 2026 - Porch",
-        "The Metal Roof Experts | Top Roofing Company in St"
-      ]
-    },
-    {
-      "keyword": "kitchen renovation Palm City FL",
-      "kmjk_position": null,
-      "total_results": 10,
-      "top_result": "TOP 10 BEST Kitchen Remodel near Palm City, FL - Yelp",
-      "competitors": [
-        "TOP 10 BEST Kitchen Remodel near Palm City, FL - Y",
-        "Best 15 Kitchen Remodelers in Palm City, FL | Kitc",
-        "Top 10 Best Kitchen and bathroom remodelers in Pal",
-        "Kitchen Remodel in Palm City, Florida | Best Kitch",
-        "Palm City Kitchen Remodelers - DreamMaker Bath & K"
-      ]
-    },
-    {
-      "keyword": "bathroom remodel Stuart FL",
-      "kmjk_position": null,
-      "total_results": 10,
-      "top_result": "TOP 10 BEST Bathroom Remodeling in Stuart, FL - Yelp",
-      "competitors": [
-        "TOP 10 BEST Bathroom Remodeling in Stuart, FL - Ye",
-        "Kitchen Bath & Home Design | Remodel: Stuart, Flor",
-        "Bathroom Remodeling | Stuart, FL",
-        "Home | Kitchen and Bath Remodel from Stuart KBF",
-        "East Coast Kitchen & Bath | Remodeling Services | "
+        "Top 10 Best Handymen in Stuart, FL - Angie's List",
+        "Handyman Services in Stuart FL | Home & Beyond",
+        "Handyman & Home Repair Services in Stuart, FL"
       ]
     }
   ]

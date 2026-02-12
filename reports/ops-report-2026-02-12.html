@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Ops Report — Thursday, February 12, 2026</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0a0a0f; color: #e0e0e0; font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; }
+  .container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+  .header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 1px solid #c9a84c33; border-radius: 12px; padding: 30px; margin-bottom: 24px; text-align: center; }
+  .header h1 { color: #c9a84c; font-size: 28px; margin-bottom: 4px; }
+  .header .subtitle { color: #888; font-size: 14px; }
+  .header .brand { color: #c9a84c; font-size: 12px; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 8px; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+  .stat-card { background: #1a1a2e; border: 1px solid #c9a84c22; border-radius: 8px; padding: 20px; text-align: center; }
+  .stat-card .number { font-size: 36px; font-weight: 700; color: #c9a84c; }
+  .stat-card .label { color: #888; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; }
+  .section { background: #1a1a2e; border: 1px solid #c9a84c22; border-radius: 8px; padding: 24px; margin-bottom: 20px; }
+  .section h2 { color: #c9a84c; font-size: 18px; margin-bottom: 16px; border-bottom: 1px solid #c9a84c22; padding-bottom: 8px; }
+  table { width: 100%; border-collapse: collapse; }
+  th { background: #0d1117; color: #c9a84c; text-align: left; padding: 10px 12px; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+  td { padding: 8px 12px; border-bottom: 1px solid #ffffff08; font-size: 14px; }
+  tr:hover { background: #ffffff05; }
+  .num { text-align: right; font-weight: 600; color: #c9a84c; }
+  code { background: #0d1117; padding: 2px 6px; border-radius: 4px; font-size: 12px; color: #7ee787; }
+  .footer { text-align: center; color: #555; font-size: 12px; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ffffff08; }
+  .badge { display: inline-block; background: #c9a84c22; color: #c9a84c; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="brand">Elite Service Hub</div>
+    <h1>Daily Operations Report</h1>
+    <div class="subtitle">Thursday, February 12, 2026 — 05:23 AM ET</div>
+    <div class="subtitle" style="margin-top:4px;">KMJK Group Lead Generation System</div>
+  </div>
+
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="number">0</div>
+      <div class="label">Total Leads</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">0</div>
+      <div class="label">Found Today</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">0</div>
+      <div class="label">Categories</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">13</div>
+      <div class="label">Active Cron Jobs</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Leads by Category</h2>
+    <table>
+      <thead><tr><th>Category</th><th style="text-align:right">Count</th></tr></thead>
+      <tbody><tr><td colspan="2">No leads yet</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>Top 10 Priority Leads</h2>
+    <table>
+      <thead><tr><th>Business</th><th>Category</th><th>Location</th><th>Phone</th></tr></thead>
+      <tbody><tr><td colspan="4">No leads yet</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>Scheduled Tasks</h2>
+    <table>
+      <thead><tr><th>Task</th><th>Schedule</th><th>Agent</th><th>Last Run</th></tr></thead>
+      <tbody><tr><td>[Night] Lead Scout - Epoxy/Flooring Search</td><td><code>0 3,5,7,9,11 * * *</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Night] Lead Scout - Kitchen/Renovation Search</td><td><code>15 3,5,7,9,11 * * *</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Night] Lead Scout - Craigslist Monitor</td><td><code>30 3,5,7,9,11 * * *</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Night] Lead Scout - Nextdoor/Forum Monitor</td><td><code>45 3,5,7,9,11 * * *</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Night] Outreach Writer - Draft Emails</td><td><code>0 4,8,12 * * *</code></td><td>outreach-writer</td><td>Never</td></tr>
+<tr><td>[Night] Strategy Review</td><td><code>30 6 * * *</code></td><td>strategy-planner</td><td>Never</td></tr>
+<tr><td>[Day] Lead Scout - Mixed Search</td><td><code>0 13,15,17,19,21,23,1 * * *</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Day] Craigslist Quick Check</td><td><code>30 14,18,22 * * *</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Day] Outreach Drafts</td><td><code>30 16 * * *</code></td><td>outreach-writer</td><td>Never</td></tr>
+<tr><td>Daily Operations Report</td><td><code>0 12 * * *</code></td><td>strategy-planner</td><td>Never</td></tr>
+<tr><td>[Weekly] Property Manager Deep Search</td><td><code>0 4 * * 1</code></td><td>lead-scout</td><td>Never</td></tr>
+<tr><td>[Weekly] Strategy Review</td><td><code>0 13 * * 1</code></td><td>strategy-planner</td><td>Never</td></tr>
+<tr><td>[Weekly] SEO Analysis</td><td><code>0 14 * * 3</code></td><td>seo-analyst</td><td>Never</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>Active Agents</h2>
+    <span class="badge">deep-researcher (default) (Deep Researcher)</span> <span class="badge">coding-specialist</span> <span class="badge">research-analyst</span> <span class="badge">creative-writer</span> <span class="badge">lead-generator</span> <span class="badge">lead-scout</span> <span class="badge">outreach-writer</span> <span class="badge">seo-analyst</span> <span class="badge">github-reviewer</span> <span class="badge">strategy-planner</span> 
+  </div>
+
+  <div class="footer">
+    Generated by GlitchGo — Elite Service Hub Autonomous Operations<br>
+    2026-02-12T10:23:39.417Z
+  </div>
+</div>
+</body>
+</html>

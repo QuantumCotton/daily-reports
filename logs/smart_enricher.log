@@ -91,3 +91,141 @@
 [21:14:51]     FOUND PHONE: 772-286-0155
 [21:14:56] Wrote 25 enriched contacts back to CSV
 [21:14:56] CRM dashboard rebuilt
+[21:14:57] Pushed to GitHub
+[21:14:57] SMART ENRICHER COMPLETE: 25 emails found, 2 drafts
+[21:14:57] ============================================================
+[21:16:13] ============================================================
+[21:16:13] SMART ENRICHER — Search-based contact finder
+[21:16:13] Batch size: 50
+[21:16:13] ============================================================
+[21:16:13] Z.AI webSearchPrime loaded
+[21:16:13] Loaded 622 leads
+[21:16:13] Leads needing email: 597
+[21:16:13] Processing batch of 50
+[21:16:13]   [1/50] Cleaning Services Stuart, Jensen Beach F
+[21:16:21]   [2/50] Luxury Homes of the Treasure Coast
+[21:16:23]     FOUND EMAIL: Kevin@TradewindRe.com
+[21:16:28]   [3/50] Treasure Coast Real Estate: Treasure Coa
+[21:16:36]   [4/50] Top Rated Car Dealerships near Stuart, F
+[21:16:45]   [5/50] New & Used Cars For Sale
+[21:16:54]   [6/50] All Dealers in Stuart, FL 34997
+[21:16:57]     FOUND EMAIL: sales@jldauto.net
+[21:16:57]     FOUND PHONE: (772) 288-2099
+[21:17:02]   [7/50] Starling Buick GMC Dealership in Stuart,
+[21:17:05]     FOUND PHONE: (772) 210-0299
+[21:17:10]   [8/50] Honda Dealership Stuart FL
+[21:17:13]     FOUND EMAIL: events@hohmartin.org
+[21:17:13]     FOUND PHONE: (772) 286-4673
+[21:17:18]   [9/50] Treasure Coast Toyota Of Stuart
+[21:17:21]     FOUND PHONE: (772) 283-8300
+[21:17:26]   [10/50] Wallace Chrysler, Jeep, Dodge, Ram & Wag
+[21:17:29]     FOUND EMAIL: users@wallaceautogroup.net
+[21:17:29]     FOUND PHONE: 772-291-5172
+[21:17:34]   [11/50] Our Experienced Handyman Palm City, FL
+[21:17:36]     FOUND EMAIL: info@tamcare.com
+[21:17:36]     FOUND PHONE: 3459463101
+[21:17:41]   [12/50] Palm City Handyman Service
+[21:17:44]     FOUND EMAIL: tchomecarerepair@gmail.com
+[21:17:44]     FOUND PHONE: 3459463101
+[21:17:49]   [13/50] Handyman & Home Repair Services in Palm 
+[21:17:54]     FOUND EMAIL: tchomecarerepair@gmail.com
+[21:17:54]     FOUND PHONE: (772) 882-5798
+[21:17:59]   [14/50] Martin County
+[21:18:02]     FOUND EMAIL: eciampi@martin.fl.us
+[21:18:02]     FOUND PHONE: (772) 403-1064
+[21:18:07]   [15/50] Lawn Care and Lawn Maintenance
+[21:18:09]     FOUND EMAIL: Contractors@BelmontProviderNetwork.com
+[21:18:09]     FOUND PHONE: (772) 263-1656
+[21:18:14]   [16/50] Wolf's Landscape & Maintenance
+[21:18:17]     FOUND EMAIL: info@wolfscuts.com
+[21:18:17]     FOUND PHONE: 1000636144
+[21:18:22]   [17/50] Martin County Condo & Homeowners Associa
+[21:18:25]     FOUND EMAIL: jeanette.m.lugo@gmail.com
+[21:18:25]     FOUND PHONE: (772) 293-0352
+[21:18:30]   [18/50] Martin Downs Property Owners Association
+[21:18:33]     FOUND EMAIL: reception@mdpoa.org
+[21:18:33]     FOUND PHONE: (772) 283-4746
+[21:18:38]   [19/50] Beau Rivage Estates HOA
+[21:18:42]     FOUND EMAIL: fenglund@bellsouth.net
+[21:18:42]     FOUND PHONE: 1313679510
+[21:18:47]   [20/50] Martin Meadows | Home Owners Association
+[21:18:54]   [21/50] Circle Bay Yacht Club
+[21:18:57]     FOUND PHONE: 772.287.0990
+[21:19:02]   [22/50] The Landings of Martin County | HOA in S
+[21:19:06]     FOUND EMAIL: tkryzda@martin.fl.us
+[21:19:06]     FOUND PHONE: (772) 288-5939
+[21:19:11]   [23/50] Master Association - Welcome to Hammock 
+[21:19:13]     FOUND EMAIL: Master.HammockCreek@gmail.com
+[21:19:13]     FOUND PHONE: 772-334-8900
+[21:19:18]   [24/50] Community Association - Reblawpa
+[21:19:22]     FOUND EMAIL: jee@reblawpa.com
+[21:19:22]     FOUND PHONE: (772) 287-8045
+[21:19:27]   [25/50] Treasure Coast, FL - TourSeniorLiving.or
+[21:19:31]     FOUND PHONE: (772) 732-1223
+[21:19:36]   [26/50] The Best Assisted Living Facilities in P
+[21:19:39]     FOUND EMAIL: info@brightenalf.comALF
+[21:19:39]     FOUND PHONE: 772-237-5165
+[21:19:44]   [27/50] Treasure Coast Senior Living Communities
+[21:19:47]     FOUND EMAIL: faithmarie@tc-seniorliving.com
+[21:19:47]     FOUND PHONE: (954) 549-7566
+[21:19:52]   [28/50] JD Treasure Coast ALF in Florida - Oasis
+[21:19:55]     FOUND EMAIL: jlibratore@youroasisadvisor.com
+[21:19:55]     FOUND PHONE: (772) 214-0806
+[21:20:00]   [29/50] The Gardens of Port St. Lucie Senior Liv
+[21:20:08]   [30/50] Castlewood Assisted Living Residence
+[21:20:11]     FOUND EMAIL: brittanyf.cal@outlook.com
+[21:20:11]     FOUND PHONE: (605) 793-2234
+[21:20:16]   [31/50] jd treasure coast assisted living facili
+[21:20:19]     FOUND PHONE: (646) 823-7554
+[21:20:24]   [32/50] Treasure Coast ALF | Port St. Lucie, Flo
+[21:20:28]     FOUND PHONE: (561) 510-8367
+[21:20:33]   [33/50] 10 Best Assisted Living Facilities in St
+[21:20:37]     FOUND PHONE: (772) 207-7622
+[21:20:42]   [34/50] Independent Living - CarePatrol of The T
+[21:20:45]     FOUND EMAIL: lvelez@carepatrol.com
+[21:20:45]     FOUND PHONE: (321) 273-2424
+[21:20:50]   [35/50] Premium Concrete Floor Coatings Services
+[21:20:53]     FOUND PHONE: 844-844-4164
+[21:20:58]   [36/50] Epoxy Garage Floor Solutions in Stuart
+[21:21:02]     FOUND PHONE: 772.779.3799
+[21:21:07]   [37/50] Garage Floor Installations in Stuart, FL
+[21:21:11]     FOUND EMAIL: tlosee@certapro.com
+[21:21:11]     FOUND PHONE: 844-844-4164
+[21:21:16]   [38/50] Jupiter Custom Garage Floor Coatings & C
+[21:21:19]     FOUND PHONE: (772) 222-6280
+[21:21:24]   [39/50] Top Flooring Alternatives to Epoxy in St
+[21:21:27]     FOUND PHONE: (561) 565-0336
+[21:21:32]   [40/50] Sewalls Point Property Management | Sout
+[21:21:36]     FOUND EMAIL: mbuo1989@bellsouth.net
+[21:21:36]     FOUND PHONE: (772) 287-2455
+[21:21:41]   [41/50] Luxury Airbnb Property Management in Sew
+[21:21:44]     FOUND EMAIL: contact@luxurylodgingstr.com
+[21:21:44]     FOUND PHONE: 1414656042
+[21:21:49]   [42/50] REALTORS® & real estate agents in Sewall
+[21:21:52]     FOUND EMAIL: AlexanderHaighRealtor@Gmail.com
+[21:21:52]     FOUND PHONE: 772-240-0997
+[21:21:57]   [43/50] Kathi Lundstrom, Real Estate Agent - Ill
+[21:22:00]     FOUND EMAIL: kathione@bellsouth.net
+[21:22:00]     FOUND PHONE: 772-631-2370
+[21:22:05]   [44/50] Florida Commercial Real Estate Company: 
+[21:22:07]     FOUND EMAIL: cpelaez@commercialrealestatellc.com
+[21:22:07]     FOUND PHONE: 772.221.1118
+[21:22:12]   [45/50] Stuart Florida Real Estate | Premier Gro
+[21:22:15]     FOUND PHONE: 772.337.8250
+[21:22:20]   [46/50] About Us - Management Specialists Port S
+[21:22:24]     FOUND EMAIL: info@mgtspec.com
+[21:22:24]     FOUND PHONE: (877) 665-5505
+[21:22:29]   [47/50] We Acquired R. Russell Properties!
+[21:22:33]     FOUND EMAIL: mcoady@brickpoint.com
+[21:22:33]     FOUND PHONE: 1768212691
+[21:22:38]   [48/50] Palm City Garage Floor Coatings | Garage
+[21:22:40]     FOUND EMAIL: sales@comercrossgarage.com
+[21:22:40]     FOUND PHONE: (772) 222-6280
+[21:22:45]   [49/50] Professional Garage Floors in Palm City,
+[21:22:48]     FOUND EMAIL: customsurfacesolutionsllc@gmail.com
+[21:22:48]     FOUND PHONE: 772-448-1968
+[21:22:53]   [50/50] Professional Concrete Floor Coatings Pal
+[21:22:56]     FOUND EMAIL: customsurfacesolutionsllc@gmail.com
+[21:22:56]     FOUND PHONE: 561-905-0148
+[21:23:01] Wrote 32 enriched contacts back to CSV
+[21:23:01] CRM dashboard rebuilt

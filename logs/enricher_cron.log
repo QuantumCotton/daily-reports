@@ -256,3 +256,124 @@ CRM v2 generated: 622 leads, 83 emails, 105 phones, 2026-02-12 21:36 UTC
 [22:06:59] Wrote 34 enriched contacts back to CSV
 CRM v2 generated: 622 leads, 565 emails, 116 phones, 2026-02-12 22:06 UTC
 [22:06:59] CRM dashboard rebuilt
+[22:07:01] Pushed to GitHub
+[22:07:01] SMART ENRICHER COMPLETE: 34 emails found, 30 drafts
+[22:07:01] ============================================================
+[22:30:01] ============================================================
+[22:30:01] SMART ENRICHER — Search-based contact finder
+[22:30:01] Batch size: 50
+[22:30:01] ============================================================
+[22:30:01] Z.AI webSearchPrime loaded
+[22:30:01] Loaded 622 leads
+[22:30:01] Leads needing email: 57
+[22:30:01] Processing batch of 50
+[22:30:01]   [1/50] Top Rated Car Dealerships near Stuart, F
+[22:30:10]   [2/50] Circle Bay Yacht Club
+[22:30:18]   [3/50] Treasure Coast, FL - TourSeniorLiving.or
+[22:30:27]   [4/50] Treasure Coast Auto Spa: Treasure Coast 
+[22:30:30]     FOUND EMAIL: ceramicprotcas@treasurecoastautospa.com
+[22:30:35]   [5/50] Ceramic Coating Experts | Best Auto Deta
+[22:30:38]     FOUND EMAIL: showtimedetailing28@gmail.com
+[22:30:38]     FOUND PHONE: 2006217259
+[22:30:43]   [6/50] Lion Heartz Detailing: Mobile Auto Detai
+[22:30:51]   [7/50] 10 Best Roofers in Stuart, FL 2026 - Por
+[22:31:00]   [8/50] Car Dealerships in Stuart, FL 34997 - Ke
+[22:31:03]     FOUND EMAIL: sales@jldauto.net
+[22:31:08]   [9/50] ROSSMAN: Vacation Rental Management, Cap
+[22:31:11]     FOUND EMAIL: Frontdesk@RossmanRealty.com
+[22:31:16]   [10/50] The Real Estate Leaders of the Treasure 
+[22:31:21]     FOUND EMAIL: info@stuartmartinchamber.org
+[22:31:26]   [11/50] Gutter Contractor | The Brothers that ju
+[22:31:29]     FOUND EMAIL: will@viralbitespos.com
+[22:31:34]   [12/50] Commercial Cleaning Jobs, Employment in 
+[22:31:43]   [13/50] The Brennity at Tradition Senior Living 
+[22:31:51]   [14/50] 3 Best Assisted Living Communities in Fo
+[22:32:00]   [15/50] The Brennity at Vero Beach Senior Living
+[22:32:08]   [16/50] Property Management Jobs, Employment in 
+[22:32:12]     FOUND PHONE: 6880420380
+[22:32:17]   [17/50] Palm Tree Auto Sales: Used Car Dealer in
+[22:32:21]     FOUND PHONE: (772) 288-2099
+[22:32:26]   [18/50] Bathroom Remodeling Contractor | Stuart,
+[22:32:29]     FOUND PHONE: (772) 453-0909
+[22:32:34]   [19/50] Stuart Bathroom Contractors - DreamMaker
+[22:32:37]     FOUND EMAIL: info@dreammaker-stuart.com
+[22:32:37]     FOUND PHONE: (561) 459-1004
+[22:32:42]   [20/50] Bathroom Remodelers​ Stuart, FL | Adamo 
+[22:32:45]     FOUND EMAIL: davidadamo779@gmail.com
+[22:32:45]     FOUND PHONE: (862) 344-4286
+[22:32:50]   [21/50] Palm Tree Auto Sales: Used Car Dealer in
+[22:32:53]     FOUND PHONE: (772) 288-2099
+[22:32:58]   [22/50] Coastal Management Professionals: Truste
+[22:33:02]     FOUND EMAIL: zachary@coastalrepros.com
+[22:33:02]     FOUND PHONE: 561-310-9672
+[22:33:07]   [23/50] 4 Best Assisted Living Communities in Je
+[22:33:15]   [24/50] JC Epoxy Coatings
+[22:33:18]     FOUND EMAIL: randerson3222@yahoo.com
+[22:33:23]   [25/50] Port St Lucie Epoxy Pros
+[22:33:26]     FOUND EMAIL: info@theepoxypros.com
+[22:33:26]     FOUND PHONE: 772-918-9687
+[22:33:31]   [26/50] Gizze Construction Inc
+[22:33:35]     FOUND EMAIL: Gizzeconstruction@gmail.com
+[22:33:35]     FOUND PHONE: 772-333-5655
+[22:33:40]   [27/50] Quest Property Management Services for Y
+[22:33:43]     FOUND PHONE: (772) 785-8884
+[22:33:48]   [28/50] Apartments for Rent in Fort Pierce FL
+[22:33:53]     FOUND EMAIL: sales-usa@theblueground.com
+[22:33:53]     FOUND PHONE: 972 289 8633
+[22:33:58]   [29/50] Apartments for Rent in Fort Pierce, FL
+[22:34:01]     FOUND EMAIL: sales-usa@theblueground.com
+[22:34:01]     FOUND PHONE: 972 289 8633
+[22:34:06]   [30/50] Apartments for Rent in 34947
+[22:34:10]     FOUND EMAIL: pinecreekvillage@liveamc.com
+[22:34:10]     FOUND PHONE: (772) 667-5247
+[22:34:15]   [31/50] Apartments for Rent in Fort Pierce FL wi
+[22:34:23]   [32/50] Home Services at Jensen Beach #221
+[22:34:27]     FOUND EMAIL: cgallant@floridaelkscts.org
+[22:34:27]     FOUND PHONE: (844) 476-2140
+[22:34:32]   [33/50] Fort Pierce, FL Warehouses for Rent
+[22:34:35]     FOUND EMAIL: Pmayorga383@gmail.com
+[22:34:35]     FOUND PHONE: (786) 366-3966
+[22:34:40]   [34/50] New Construction Homes for Sale in Port 
+[22:34:44]     FOUND PHONE: (866) 833-3715
+[22:34:49]   [35/50] Port Saint Lucie, FL New Construction Ho
+[22:34:57]   [36/50] New homes for sale & real estate in Port
+[22:35:01]     FOUND PHONE: 844-759-7732
+[22:35:06]   [37/50] Watson Association Management - HOA & Pr
+[22:35:09]     FOUND EMAIL: paminfo@watsonrealtycorp.com
+[22:35:09]     FOUND PHONE: 772-871-0004
+[22:35:14]   [38/50] Property Managers in Port Saint Lucie, F
+[22:35:17]     FOUND EMAIL: Choicepropertiesrentals@gmail.com
+[22:35:17]     FOUND PHONE: 772-871-2727
+[22:35:22]   [39/50] Property Management Companies in Port Sa
+[22:35:26]     FOUND EMAIL: Choicepropertiesrentals@gmail.com
+[22:35:26]     FOUND PHONE: 772-871-2727
+[22:35:31]   [40/50] Apartments in Port St. Lucie, FL
+[22:35:33]     FOUND PHONE: (772) 667-5390
+[22:35:38]   [41/50] Rental Listings in Fort Pierce FL
+[22:35:46]   [42/50] Cheap Apartments for Rent in Fort Pierce
+[22:35:50]     FOUND EMAIL: sales-usa@theblueground.com
+[22:35:50]     FOUND PHONE: 972 289 8633
+[22:35:55]   [43/50] Tru Mobile Detailing
+[22:35:58]     FOUND PHONE: 561-453-5181
+[22:36:03]   [44/50] Car Detailing Jupiter, FL
+[22:36:06]     FOUND EMAIL: officialluxautocare@gmail.com
+[22:36:06]     FOUND PHONE: (772) 304-4919
+[22:36:11]   [45/50] Clearshine Detailing: Vehicle Detailing 
+[22:36:14]     FOUND EMAIL: office@reigncitysoftwash.com
+[22:36:14]     FOUND PHONE: (772) 304-4919
+[22:36:19]   [46/50] Premium Car Detailing in Jupiter, FL
+[22:36:22]     FOUND EMAIL: beyondlimitspb@gmail.com
+[22:36:22]     FOUND PHONE: (561)460-3337
+[22:36:27]   [47/50] Jupiter, FL
+[22:36:30]     FOUND EMAIL: Hello@friendsofjupiterbeach.org
+[22:36:30]     FOUND PHONE: 561-746-5134
+[22:36:35]   [48/50] Garage Floor Coating: Professional Epoxy
+[22:36:38]     FOUND PHONE: (772) 205-4627
+[22:36:43]   [49/50] Custom Kitchen and Bathroom Remodeling i
+[22:36:47]     FOUND EMAIL: elliott@kitchenrp.com
+[22:36:47]     FOUND PHONE: (954) 564-1611
+[22:36:52]   [50/50] Kitchen, Flooring & Bathroom Remodeling 
+[22:36:55]     FOUND PHONE: 561.865.5659
+[22:37:00] Wrote 26 enriched contacts back to CSV
+CRM v2 generated: 622 leads, 591 emails, 147 phones, 2026-02-12 22:37 UTC
+[22:37:00] CRM dashboard rebuilt

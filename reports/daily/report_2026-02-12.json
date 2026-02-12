@@ -1,28 +1,28 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 14:38 UTC",
+  "generated_at": "2026-02-12 14:55 UTC",
   "leads": {
-    "total": 464,
+    "total": 477,
     "contacted": 0,
-    "uncontacted": 464,
+    "uncontacted": 477,
     "by_priority": {
-      "High": 295,
+      "High": 306,
       "Medium": 62,
-      "Low": 107
+      "Low": 109
     },
     "by_category": {
-      "esh_scout": 91,
-      "restaurant": 37,
+      "esh_scout": 93,
+      "restaurant": 39,
       "property_mgmt": 35,
+      "real_estate": 27,
       "auto_shop": 23,
-      "detailing": 22,
+      "detailing": 23,
       "healthcare": 21,
       "property_manager": 20,
-      "real_estate": 20,
       "cleaning": 19,
+      "hoa": 18,
       "construction": 18,
       "gutter": 18,
-      "hoa": 17,
       "warehouse": 17,
       "epoxy": 14,
       "auto": 14,
@@ -40,11 +40,11 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 232,
+      "Stuart": 243,
       "Jensen Beach": 38,
       "Port St Lucie": 34,
       "Palm City": 26,
-      "Boca Raton": 18,
+      "Boca Raton": 19,
       "Fort Pierce": 15,
       "West Palm Beach": 14,
       "Austin": 13,
@@ -56,7 +56,7 @@
       "Vero Beach": 7,
       "Delray Beach": 7,
       "Nashville": 7,
-      "Scottsdale": 5,
+      "Scottsdale": 6,
       "Port St. Lucie": 2,
       "Treasure Coast": 2
     }

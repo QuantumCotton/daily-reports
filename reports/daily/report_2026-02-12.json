@@ -1,20 +1,20 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 15:13 UTC",
+  "generated_at": "2026-02-12 15:30 UTC",
   "leads": {
-    "total": 487,
+    "total": 496,
     "contacted": 0,
-    "uncontacted": 487,
+    "uncontacted": 496,
     "by_priority": {
-      "High": 307,
+      "High": 315,
       "Medium": 62,
-      "Low": 118
+      "Low": 119
     },
     "by_category": {
-      "esh_scout": 102,
+      "esh_scout": 103,
       "restaurant": 39,
-      "property_mgmt": 35,
-      "real_estate": 27,
+      "property_mgmt": 36,
+      "real_estate": 29,
       "auto_shop": 23,
       "detailing": 23,
       "healthcare": 21,
@@ -24,11 +24,11 @@
       "construction": 18,
       "gutter": 18,
       "warehouse": 17,
-      "epoxy": 14,
+      "epoxy": 17,
       "auto": 14,
+      "kitchen": 13,
+      "apartments": 13,
       "apartment_complex": 12,
-      "kitchen": 12,
-      "apartments": 12,
       "mobile_detailing": 9,
       "roofing": 8,
       "bathroom": 8,
@@ -40,10 +40,10 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 244,
+      "Stuart": 248,
       "Jensen Beach": 38,
       "Port St Lucie": 34,
-      "Palm City": 26,
+      "Palm City": 30,
       "Boca Raton": 19,
       "Fort Pierce": 15,
       "Austin": 14,
@@ -56,7 +56,7 @@
       "Sewall's Point": 8,
       "Vero Beach": 7,
       "Delray Beach": 7,
-      "Scottsdale": 6,
+      "Scottsdale": 7,
       "Port St. Lucie": 2,
       "Treasure Coast": 2
     }

@@ -1,0 +1,60 @@
+{
+  "date": "2026-02-12",
+  "generated_at": "2026-02-12 13:12 UTC",
+  "leads": {
+    "total": 337,
+    "contacted": 0,
+    "uncontacted": 337,
+    "by_priority": {
+      "High": 213,
+      "Medium": 58,
+      "Low": 66
+    },
+    "by_category": {
+      "esh_scout": 50,
+      "restaurant": 32,
+      "auto_shop": 23,
+      "property_manager": 20,
+      "cleaning": 19,
+      "real_estate": 18,
+      "healthcare": 18,
+      "property_mgmt": 18,
+      "warehouse": 17,
+      "detailing": 17,
+      "hoa": 15,
+      "construction": 15,
+      "gutter": 14,
+      "apartment_complex": 12,
+      "epoxy": 12,
+      "mobile_detailing": 9,
+      "handyman": 6,
+      "roofing": 6,
+      "kitchen": 4,
+      "Property Management": 3,
+      "Epoxy Flooring": 3,
+      "Kitchen Renovation": 3,
+      "apartments": 2,
+      "Auto Body Shop": 1
+    },
+    "by_city": {
+      "Stuart": 162,
+      "Jensen Beach": 33,
+      "Port St Lucie": 30,
+      "Palm City": 19,
+      "Fort Pierce": 15,
+      "Boca Raton": 13,
+      "West Palm Beach": 12,
+      "Jupiter": 9,
+      "Sewall's Point": 8,
+      "Vero Beach": 7,
+      "Delray Beach": 7,
+      "Naples": 7,
+      "Charlotte": 6,
+      "Austin": 5,
+      "Port St. Lucie": 2,
+      "Treasure Coast": 2
+    }
+  },
+  "outreach_drafts": 0,
+  "seo_reports": 1
+}

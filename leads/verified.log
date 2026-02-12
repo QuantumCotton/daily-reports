@@ -1,0 +1,13 @@
+
+--- Verification Run: 2026-02-12T12:42:57.619043 ---
+Sample: 10, Verified: 4, Failed: 6, Rate: 40%
+  [FAILED] Best Auto Body Shops near Port Saint Lucie, FL — https://www.carwise.com/auto-body-shops/fl/port%2520saint%2520lucie — website_no_contact
+  [FAILED] Estate Listings on — https://www.slccommercial.com/commercial-real-estate-listings-treasure-coast/ — website_no_contact
+  [VERIFIED] Signature Property Management — https://www.signaturepropertymgmt.com/ — website_confirm
+  [VERIFIED] Property Boss LLC — https://www.propertybossllc.com/stuart — website_confirm
+  [FAILED] Car Detailing Jupiter, FL — https://localsautomarinedetailing.com/ — website_no_contact
+  [VERIFIED] Property Management — https://nex-genpartners.com/services/property-management/ — website_confirm
+  [FAILED] Treasure Coast Realty Group — https://www.treasurecoastrealtygroup.com/ — website_no_contact
+  [FAILED] Apartments for Rent in Fort Pierce FL with Utilities Included — https://www.apartments.com/fort-pierce-fl/utilities-included/ — website_no_contact
+  [FAILED] Martin, FL Property Management Companies — https://www.campbellpropertymanagement.com/martin-property-management-companies — website_no_contact
+  [VERIFIED] Martin County Condo & Homeowners Association Attorneys — https://www.treasurecoastlegal.com/condo-homeowner-associations/ — website_confirm

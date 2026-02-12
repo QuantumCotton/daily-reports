@@ -1,0 +1,93 @@
+[21:10:45] ============================================================
+[21:10:45] SMART ENRICHER — Search-based contact finder
+[21:10:45] Batch size: 30
+[21:10:45] ============================================================
+[21:10:45] Z.AI webSearchPrime loaded
+[21:10:45] Loaded 622 leads
+[21:10:45] Leads needing email: 622
+[21:10:45] Processing batch of 30
+[21:10:45]   [1/30] Property Boss LLC
+[21:10:48]     FOUND EMAIL: Staff@propertybossllc.com
+[21:10:53]   [2/30] Coastal Management Professionals
+[21:10:57]     FOUND EMAIL: Accounting@cpmfl.com
+[21:11:02]   [3/30] Maaco Auto Body & Painting Stuart
+[21:11:06]     FOUND EMAIL: stuartflmaaco@bellsouth.net
+[21:11:06]     FOUND PHONE: 1204650995
+[21:11:11]   [4/30] Floridian Kitchens
+[21:11:14]     FOUND EMAIL: info@floridiankitchens.com
+[21:11:14]     FOUND PHONE: (772) 324-0998
+[21:11:19]   [5/30] Signature Property Management
+[21:11:22]     FOUND EMAIL: Ira@signaturepropertymgmt.com
+[21:11:22]     FOUND PHONE: 772) 219-4474
+[21:11:27]   [6/30] Martin, FL Property Management Companies
+[21:11:30]     FOUND EMAIL: info@pamartinfl.gov
+[21:11:30]     FOUND PHONE: (772) 631-6450
+[21:11:35]   [7/30] Professional HOA & COA Services in Marti
+[21:11:39]     FOUND EMAIL: esposito@macombgov.org
+[21:11:39]     FOUND PHONE: 1016146955
+[21:11:44]   [8/30] Coastal Property Management – Stuart & J
+[21:11:48]     FOUND EMAIL: susan.palmieri@cpmfl.com
+[21:11:48]     FOUND PHONE: 772-600-8900
+[21:11:53]   [9/30] Palm Beach and Martin Counties Property 
+[21:11:56]     FOUND EMAIL: info@pa.martin.fl.us
+[21:11:56]     FOUND PHONE: (772) 288-5608
+[21:12:01]   [10/30] Martin Property Management, Martin Prope
+[21:12:05]     FOUND EMAIL: info@pa.martin.fl.us
+[21:12:05]     FOUND PHONE: 781.532.8250
+[21:12:10]   [11/30] Properties & Communities
+[21:12:13]     FOUND EMAIL: kevin@stewartteam.com
+[21:12:13]     FOUND PHONE: (248) 759-5474
+[21:12:18]   [12/30] St. Lucie and Martin County Property Man
+[21:12:22]     FOUND EMAIL: info@mgtspec.com
+[21:12:22]     FOUND PHONE: (877) 665-5505
+[21:12:27]   [13/30] Trusted Cleaning Company in Stuart FL
+[21:12:30]     FOUND EMAIL: ncsnatyka@gmail.com
+[21:12:30]     FOUND PHONE: 772-220-7915
+[21:12:35]   [14/30] Commercial Cleaning Services in Stuart, 
+[21:12:38]     FOUND EMAIL: office@customcleaningtc.com
+[21:12:38]     FOUND PHONE: 561-935-8549
+[21:12:43]   [15/30] Stuart, FL Commercial Cleaning and Janit
+[21:12:46]     FOUND EMAIL: info@stuartmartinchamber.org
+[21:12:46]     FOUND PHONE: 772-220-7915
+[21:12:51]   [16/30] Cleaning Services Stuart, Jensen Beach F
+[21:12:54]     FOUND PHONE: 772-205-3994
+[21:12:59]   [17/30] Fresh and Clean Cleaning Service, Stuart
+[21:13:05]     FOUND EMAIL: info@cleanandfreshcleaning.com
+[21:13:05]     FOUND PHONE: 786-920-2105
+[21:13:10]   [18/30] Commercial Cleaning Services in Stuart, 
+[21:13:14]     FOUND EMAIL: office@customcleaningtc.com
+[21:13:14]     FOUND PHONE: 772-287-1088
+[21:13:19]   [19/30] Florida Investment Properties
+[21:13:21]     FOUND EMAIL: nabertke@gmail.com
+[21:13:21]     FOUND PHONE: (772) 763-8506
+[21:13:26]   [20/30] Treasure Coast Real Estate
+[21:13:29]     FOUND EMAIL: John@tccommercialre.com
+[21:13:29]     FOUND PHONE: (772) 288-0632
+[21:13:34]   [21/30] Treasure Coast Realty Group
+[21:13:38]     FOUND EMAIL: Meluke@treasurecoastrg.com
+[21:13:38]     FOUND PHONE: (772) 288-0632
+[21:13:43]   [22/30] Excellent Investment
+[21:13:46]     FOUND EMAIL: sales@stewartsresort.com
+[21:13:46]     FOUND PHONE: 1514742893
+[21:13:51]   [23/30] RE/MAX Gold
+[21:13:54]     FOUND EMAIL: Meconnormckinney.re@gmail.com
+[21:13:54]     FOUND PHONE: 973-508-9425
+[21:13:59]   [24/30] Estate Listings on
+[21:14:02]     FOUND EMAIL: spiersrealestate@gmail.com
+[21:14:02]     FOUND PHONE: (868) 622-2685
+[21:14:07]   [25/30] Luxury Homes of the Treasure Coast
+[21:14:10]     FOUND PHONE: 800-274-6637
+[21:14:15]   [26/30] Treasure Coast Fl. Real Estate Articles
+[21:14:18]     FOUND EMAIL: John@tccommericalre.com
+[21:14:18]     FOUND PHONE: (772) 288-0632
+[21:14:23]   [27/30] Treasure Coast Real Estate: Treasure Coa
+[21:14:26]     FOUND PHONE: 1000570592
+[21:14:31]   [28/30] Top Rated Car Dealerships near Stuart, F
+[21:14:35]     FOUND PHONE: 772-872-0501
+[21:14:40]   [29/30] New & Used Cars For Sale
+[21:14:43]     FOUND PHONE: 772.218.7007
+[21:14:48]   [30/30] Wallace Chevrolet
+[21:14:51]     FOUND EMAIL: ewallace@wallacechev.com
+[21:14:51]     FOUND PHONE: 772-286-0155
+[21:14:56] Wrote 25 enriched contacts back to CSV
+[21:14:56] CRM dashboard rebuilt

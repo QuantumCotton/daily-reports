@@ -1,0 +1,109 @@
+[20:53:12] ============================================================
+[20:53:12] LEAD ENRICHER — Batch size: 30
+[20:53:12] ============================================================
+[20:53:12] Z.AI webReader loaded
+[20:53:12] Loaded 622 leads
+[20:53:12] Leads needing enrichment: 622
+[20:53:12] Processing batch of 30
+[20:53:12]   [1/30] Maaco Auto Body & Painting Stuart — https://www.maaco.com/locations/fl/stuart-11152/
+[20:53:25]   [2/30] Floridian Kitchens — https://www.floridiankitchens.com/
+[20:53:32]   [3/30] Signature Property Management — https://www.signaturepropertymgmt.com/
+[20:53:37]   [4/30] Martin, FL Property Management Companies — https://www.campbellpropertymanagement.com/martin-
+[20:53:43]   [5/30] Professional HOA & COA Services in Marti — https://www.tamcare.com/hoa-coa-services-martin-co
+[20:53:48]   [6/30] Coastal Property Management – Stuart & J — https://www.cpmfl.com/
+[20:53:53]   [7/30] Palm Beach and Martin Counties Property  — https://www.homepropertymanagement.com/south-flori
+[20:54:00]   [8/30] Martin Property Management, Martin Prope — https://www.homeriver.com/florida/martin-property-
+[20:54:15]   [9/30] Properties & Communities — https://www.watsonassociationmanagement.com/proper
+[20:54:49]   [10/30] St. Lucie and Martin County Property Man — https://www.mgtspec.com/home-1-2/
+[20:54:54]   [11/30] Trusted Cleaning Company in Stuart FL — https://www.customcleaningtc.com/
+[20:55:07]   [12/30] Commercial Cleaning Services in Stuart,  — https://enviro-master.com/commercial-cleaning-loca
+[20:55:29]   [13/30] Stuart, FL Commercial Cleaning and Janit — https://cleanproservicesllc.com/stuart-fl-commerci
+[20:56:03]   [14/30] Cleaning Services Stuart, Jensen Beach F — https://dustintimecleaning.com/
+[20:56:09]   [15/30] Fresh and Clean Cleaning Service, Stuart — https://www.mapquest.com/us/florida/fresh-and-clea
+[20:56:26]   [16/30] Commercial Cleaning Services in Stuart,  — https://www.tarltoncleanteam.com/florida-1/commerc
+[20:56:30]   [17/30] Florida Investment Properties — https://www.treasurecoasthomesales.com/buying-inve
+[20:56:48]   [18/30] Treasure Coast Real Estate — https://www.reeftoranch.com/
+[20:56:54]   [19/30] Treasure Coast Realty Group — https://www.treasurecoastrealtygroup.com/
+[20:56:59]   [20/30] Excellent Investment — https://www.zillow.com/port-saint-lucie-fl/excelle
+[20:57:06]   [21/30] RE/MAX Gold — https://www.remaxgoldflorida.com/
+[20:57:16]   [22/30] Estate Listings on — https://www.slccommercial.com/commercial-real-esta
+[20:57:22]   [23/30] Luxury Homes of the Treasure Coast — https://luxhomestc.com/
+[20:57:27]   [24/30] Treasure Coast Fl. Real Estate Articles — https://realestateexpoinc.com/articles/
+[20:58:01]   [25/30] Treasure Coast Real Estate: Treasure Coa — http://www.treasurecoastmlssearch.com/
+[20:58:07]   [26/30] Top Rated Car Dealerships near Stuart, F — https://www.carfax.com/Dealerships-Stuart-FL_c9849
+[20:58:13]   [27/30] New & Used Cars For Sale — https://www.wallaceautogroup.com/?srsltid=AfmBOoqH
+[20:58:19]   [28/30] Wallace Chevrolet — https://www.wallacechevrolet.com/?srsltid=AfmBOopN
+[20:58:24]   [29/30] All Dealers in Stuart, FL 34997 — https://www.autotrader.com/car-dealers/stuart-fl
+[20:58:41]   [30/30] Starling Buick GMC Dealership in Stuart, — https://www.starlingbuickgmcstuart.com/
+[20:58:55] FATAL: dict contains fields not in fieldnames: None
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/lead_enricher.py", line 445, in <module>
+    main()
+  File "/home/chris/.openclaw/bin/lead_enricher.py", line 436, in main
+    writer.writerows(leads)
+  File "/usr/lib/python3.12/csv.py", line 167, in writerows
+    return self.writer.writerows(map(self._dict_to_list, rowdicts))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/csv.py", line 159, in _dict_to_list
+    raise ValueError("dict contains fields not in fieldnames: "
+ValueError: dict contains fields not in fieldnames: None
+
+[21:00:00] ============================================================
+[21:00:00] LEAD ENRICHER — Batch size: 50
+[21:00:00] ============================================================
+[21:00:00] Z.AI webReader loaded
+[21:00:00] Loaded 622 leads
+[21:00:00] Leads needing enrichment: 622
+[21:00:00] Processing batch of 50
+[21:00:00]   [1/50] Maaco Auto Body & Painting Stuart — https://www.maaco.com/locations/fl/stuart-11152/
+[21:00:08]   [2/50] Floridian Kitchens — https://www.floridiankitchens.com/
+[21:00:12]   [3/50] Signature Property Management — https://www.signaturepropertymgmt.com/
+[21:00:18]   [4/50] Martin, FL Property Management Companies — https://www.campbellpropertymanagement.com/martin-
+[21:00:23]   [5/50] Professional HOA & COA Services in Marti — https://www.tamcare.com/hoa-coa-services-martin-co
+[21:00:45]   [6/50] Coastal Property Management – Stuart & J — https://www.cpmfl.com/
+[21:01:19]   [7/50] Palm Beach and Martin Counties Property  — https://www.homepropertymanagement.com/south-flori
+[21:01:25]   [8/50] Martin Property Management, Martin Prope — https://www.homeriver.com/florida/martin-property-
+[21:01:29]   [9/50] Properties & Communities — https://www.watsonassociationmanagement.com/proper
+[21:01:38]   [10/50] St. Lucie and Martin County Property Man — https://www.mgtspec.com/home-1-2/
+[21:01:43]   [11/50] Trusted Cleaning Company in Stuart FL — https://www.customcleaningtc.com/
+[21:01:49]   [12/50] Commercial Cleaning Services in Stuart,  — https://enviro-master.com/commercial-cleaning-loca
+[21:01:55]   [13/50] Stuart, FL Commercial Cleaning and Janit — https://cleanproservicesllc.com/stuart-fl-commerci
+[21:02:00]   [14/50] Cleaning Services Stuart, Jensen Beach F — https://dustintimecleaning.com/
+[21:02:06]   [15/50] Fresh and Clean Cleaning Service, Stuart — https://www.mapquest.com/us/florida/fresh-and-clea
+[21:02:11]   [16/50] Commercial Cleaning Services in Stuart,  — https://www.tarltoncleanteam.com/florida-1/commerc
+[21:02:15]   [17/50] Florida Investment Properties — https://www.treasurecoasthomesales.com/buying-inve
+[21:02:21]   [18/50] Treasure Coast Real Estate — https://www.reeftoranch.com/
+[21:02:27]   [19/50] Treasure Coast Realty Group — https://www.treasurecoastrealtygroup.com/
+[21:02:31]   [20/50] Excellent Investment — https://www.zillow.com/port-saint-lucie-fl/excelle
+[21:02:38]   [21/50] RE/MAX Gold — https://www.remaxgoldflorida.com/
+[21:02:45]   [22/50] Estate Listings on — https://www.slccommercial.com/commercial-real-esta
+[21:02:58]   [23/50] Luxury Homes of the Treasure Coast — https://luxhomestc.com/
+[21:03:04]   [24/50] Treasure Coast Fl. Real Estate Articles — https://realestateexpoinc.com/articles/
+[21:03:12]   [25/50] Treasure Coast Real Estate: Treasure Coa — http://www.treasurecoastmlssearch.com/
+[21:03:18]   [26/50] Top Rated Car Dealerships near Stuart, F — https://www.carfax.com/Dealerships-Stuart-FL_c9849
+[21:03:24]   [27/50] New & Used Cars For Sale — https://www.wallaceautogroup.com/?srsltid=AfmBOoqH
+[21:03:30]   [28/50] Wallace Chevrolet — https://www.wallacechevrolet.com/?srsltid=AfmBOopN
+[21:03:36]   [29/50] All Dealers in Stuart, FL 34997 — https://www.autotrader.com/car-dealers/stuart-fl
+[21:03:56]   [30/50] Starling Buick GMC Dealership in Stuart, — https://www.starlingbuickgmcstuart.com/
+[21:04:01]   [31/50] Honda Dealership Stuart FL — https://www.johnsonhondaofstuart.com/
+[21:04:31]   [32/50] Treasure Coast Toyota Of Stuart — https://www.treasurecoasttoyotaofstuart.com/
+[21:04:38]   [33/50] Wallace Chrysler, Jeep, Dodge, Ram & Wag — https://www.wallacecjd.com/?srsltid=AfmBOorlSn6JaJ
+[21:04:44]   [34/50] Our Experienced Handyman Palm City, FL — https://www.mrhandyman.com/vero-beach-jupiter/geo/
+[21:04:50]   [35/50] Palm City Handyman Service — https://therepairguyservices.com/handyman-services
+[21:05:13]   [36/50] Handyman & Home Repair Services in Palm  — https://www.acehandymanservices.com/offices/port-s
+[21:05:26]   [37/50] Martin County — https://scpmllc.com/service-areas/martin-county/
+[21:05:32]   [38/50] Lawn Care and Lawn Maintenance — https://alphazetaent.com/lawn-care-and-lawn-mainte
+[21:05:47]   [39/50] Wolf's Landscape & Maintenance — https://www.mapquest.com/us/florida/wolfs-landscap
+[21:06:03]   [40/50] Martin County Condo & Homeowners Associa — https://www.treasurecoastlegal.com/condo-homeowner
+[21:06:09]   [41/50] Martin Downs Property Owners Association — https://mdpoa.org/
+[21:06:14]   [42/50] Beau Rivage Estates HOA — https://beaurivageestateshoa.org/
+[21:06:20]   [43/50] Martin Meadows | Home Owners Association — https://martinmeadows.com/
+[21:06:25]   [44/50] Circle Bay Yacht Club — https://www.circlebay.org/home/
+[21:06:34]   [45/50] The Landings of Martin County | HOA in S — https://tlomc.communitysite.com/
+[21:06:40]   [46/50] Master Association - Welcome to Hammock  — https://www.hammockcreekhoa.com/master-association
+[21:06:45]   [47/50] Community Association - Reblawpa — https://reblawpa.com/areas-of-practice/community-a
+[21:06:50]   [48/50] Treasure Coast, FL - TourSeniorLiving.or — https://tourseniorliving.org/area/treasure-coast-f
+[21:06:54]   [49/50] The Best Assisted Living Facilities in P — https://www.assistedliving.org/florida/port-saint-
+[21:07:00]   [50/50] Treasure Coast Senior Living Communities — https://sonataseniorliving.com/our-communities/tre
+[21:07:06] ENRICHER COMPLETE: 0 enriched, 20 emails drafted
+[21:07:06] ============================================================

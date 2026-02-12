@@ -1,0 +1,31 @@
+{
+   meta: {
+    workflow_name: KMJK Lead Funnel,
+    start_date: 2026-02-12,
+    total_queries: 15,
+    version: 1
+  },
+  progress: {
+    current_query_index: 0,
+    last_run_timestamp: 0,
+    status: ready,
+    cycle_count: 0
+  },
+  stats: {
+    total_leads_found: 0,
+    leads_by_category: {
+      property_manager: 0,
+      auto_shop: 0,
+      restaurant: 0,
+      warehouse: 0,
+      apartment: 0,
+      hoa: 0,
+      real_estate: 0,
+      cleaning: 0,
+      mobile_detailing: 0,
+      other: 0
+    },
+    searches_completed: 0,
+    errors: 0
+  }
+}

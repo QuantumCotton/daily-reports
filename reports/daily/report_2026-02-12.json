@@ -1,12 +1,12 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 17:31 UTC",
+  "generated_at": "2026-02-12 17:49 UTC",
   "leads": {
-    "total": 581,
+    "total": 585,
     "contacted": 0,
-    "uncontacted": 581,
+    "uncontacted": 585,
     "by_priority": {
-      "High": 380,
+      "High": 384,
       "Medium": 72,
       "Low": 129
     },
@@ -29,9 +29,9 @@
       "construction": 18,
       "apartments": 17,
       "apartment_complex": 14,
+      "bathroom": 12,
       "mobile_detailing": 10,
       "roofing": 9,
-      "bathroom": 8,
       "handyman": 7,
       "Property Management": 3,
       "Epoxy Flooring": 3,
@@ -40,7 +40,7 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 305,
+      "Stuart": 309,
       "Jensen Beach": 43,
       "Port St Lucie": 40,
       "Palm City": 34,

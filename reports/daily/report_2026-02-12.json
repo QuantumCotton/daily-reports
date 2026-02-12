@@ -1,12 +1,12 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 16:39 UTC",
+  "generated_at": "2026-02-12 16:57 UTC",
   "leads": {
-    "total": 538,
+    "total": 543,
     "contacted": 0,
-    "uncontacted": 538,
+    "uncontacted": 543,
     "by_priority": {
-      "High": 348,
+      "High": 353,
       "Medium": 64,
       "Low": 126
     },
@@ -15,16 +15,16 @@
       "restaurant": 39,
       "property_mgmt": 39,
       "real_estate": 30,
-      "auto": 26,
-      "detailing": 25,
+      "auto": 29,
+      "detailing": 26,
       "auto_shop": 23,
       "gutter": 23,
       "healthcare": 21,
       "property_manager": 20,
       "cleaning": 20,
       "hoa": 19,
+      "warehouse": 18,
       "construction": 18,
-      "warehouse": 17,
       "epoxy": 17,
       "kitchen": 17,
       "apartments": 17,
@@ -40,7 +40,7 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 279,
+      "Stuart": 284,
       "Jensen Beach": 40,
       "Port St Lucie": 36,
       "Palm City": 30,

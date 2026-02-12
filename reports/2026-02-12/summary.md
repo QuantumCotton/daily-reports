@@ -1,30 +1,30 @@
-# Lead Generation Report — 2026-02-12 16:00 ET
+# Lead Generation Report — 2026-02-12 17:00 ET
 
-**Total Leads:** 507
+**Total Leads:** 543
 
 ## Priority Breakdown
-- **High:** 324
-- **Low:** 120
-- **Medium:** 63
+- **High:** 353
+- **Low:** 126
+- **Medium:** 64
 
 ## By Category
-- **esh_scout:** 104
+- **esh_scout:** 110
 - **restaurant:** 39
-- **property_mgmt:** 37
-- **real_estate:** 29
+- **property_mgmt:** 39
+- **real_estate:** 30
+- **auto:** 29
+- **detailing:** 26
 - **auto_shop:** 23
-- **detailing:** 23
+- **gutter:** 23
 - **healthcare:** 21
-- **gutter:** 21
 - **property_manager:** 20
-- **cleaning:** 19
-- **hoa:** 18
+- **cleaning:** 20
+- **hoa:** 19
+- **warehouse:** 18
 - **construction:** 18
-- **warehouse:** 17
 - **epoxy:** 17
-- **auto:** 17
-- **kitchen:** 14
-- **apartments:** 13
+- **kitchen:** 17
+- **apartments:** 17
 - **apartment_complex:** 12
 - **mobile_detailing:** 9
 - **roofing:** 9
@@ -37,19 +37,19 @@
 - **Auto Body Shop:** 1
 
 ## By City
-- **Stuart:** 256
-- **Jensen Beach:** 39
-- **Port St Lucie:** 35
+- **Stuart:** 284
+- **Jensen Beach:** 40
+- **Port St Lucie:** 36
 - **Palm City:** 30
-- **Boca Raton:** 20
+- **Boca Raton:** 22
+- **West Palm Beach:** 16
 - **Fort Pierce:** 15
 - **Austin:** 14
-- **West Palm Beach:** 14
 - **Naples:** 12
-- **Charlotte:** 11
+- **Charlotte:** 12
+- **Sarasota:** 10
 - **Nashville:** 10
 - **Jupiter:** 9
-- **Sarasota:** 9
 - **Sewall's Point:** 8
 - **Vero Beach:** 7
 - **Delray Beach:** 7

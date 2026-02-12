@@ -1,22 +1,22 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 18:06 UTC",
+  "generated_at": "2026-02-12 18:23 UTC",
   "leads": {
-    "total": 589,
+    "total": 593,
     "contacted": 0,
-    "uncontacted": 589,
+    "uncontacted": 593,
     "by_priority": {
-      "High": 387,
+      "High": 390,
       "Medium": 72,
-      "Low": 130
+      "Low": 131
     },
     "by_category": {
-      "esh_scout": 112,
-      "auto": 43,
+      "esh_scout": 113,
+      "auto": 45,
       "restaurant": 40,
       "property_mgmt": 40,
       "real_estate": 34,
-      "detailing": 28,
+      "detailing": 29,
       "property_manager": 26,
       "auto_shop": 25,
       "gutter": 23,
@@ -40,7 +40,7 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 312,
+      "Stuart": 315,
       "Jensen Beach": 43,
       "Port St Lucie": 40,
       "Palm City": 34,
@@ -48,7 +48,7 @@
       "Fort Pierce": 18,
       "West Palm Beach": 16,
       "Austin": 14,
-      "Naples": 12,
+      "Naples": 13,
       "Charlotte": 12,
       "Jupiter": 10,
       "Sarasota": 10,

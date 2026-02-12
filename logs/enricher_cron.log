@@ -119,3 +119,140 @@ CRM v2 generated: 622 leads, 83 emails, 105 phones, 2026-02-12 21:36 UTC
 [21:36:56] Pushed to GitHub
 [21:36:56] SMART ENRICHER COMPLETE: 26 emails found, 0 drafts
 [21:36:56] ============================================================
+[22:00:01] ============================================================
+[22:00:01] SMART ENRICHER — Search-based contact finder
+[22:00:01] Batch size: 50
+[22:00:01] ============================================================
+[22:00:02] Z.AI webSearchPrime loaded
+[22:00:02] Loaded 622 leads
+[22:00:02] Leads needing email: 91
+[22:00:02] Processing batch of 50
+[22:00:02]   [1/50] Top Rated Car Dealerships near Stuart, F
+[22:00:12]   [2/50] Circle Bay Yacht Club
+[22:00:21]   [3/50] Treasure Coast, FL - TourSeniorLiving.or
+[22:00:31]   [4/50] Gutter Installation in Jensen Beach, FL,
+[22:00:34]     FOUND EMAIL: DLBlanton@bellsouth.net
+[22:00:34]     FOUND PHONE: (772) 692-7745
+[22:00:39]   [5/50] Jensen Seamless Gutters
+[22:00:41]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[22:00:41]     FOUND PHONE: 772-334-3139
+[22:00:46]   [6/50] Seamless Gutters | Jensen Beach, FL
+[22:00:49]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[22:00:49]     FOUND PHONE: 772-334-3139
+[22:00:54]   [7/50] Jensen Beach Seamless Gutters
+[22:00:57]     FOUND EMAIL: gutterguy@gutterguyfl.com
+[22:00:57]     FOUND PHONE: 772-334-3139
+[22:01:02]   [8/50] Martin North Hospital | Cleveland Clinic
+[22:01:05]     FOUND EMAIL: roiwestonfl@ccf.org
+[22:01:05]     FOUND PHONE: (772) 287-5200
+[22:01:10]   [9/50] Martin North Hospital | Cleveland Clinic
+[22:01:13]     FOUND EMAIL: PHPPRcontactus@providence.org
+[22:01:13]     FOUND PHONE: (772) 287-5200
+[22:01:18]   [10/50] HCA Florida Stuart Emergency
+[22:01:21]     FOUND EMAIL: info@stuartmartinchamber.org
+[22:01:21]     FOUND PHONE: (772) 203-8015
+[22:01:26]   [11/50] Cleveland Clinic Martin Health-Stuart in
+[22:01:29]     FOUND EMAIL: singhr@ccf.org
+[22:01:29]     FOUND PHONE: (772) 223-2300
+[22:01:34]   [12/50] Cleveland Clinic Martin North Hospital -
+[22:01:38]     FOUND EMAIL: PHPPRcontactus@providence.org
+[22:01:38]     FOUND PHONE: 772.287.5200
+[22:01:43]   [13/50] Treasure Coast Auto Spa: Treasure Coast 
+[22:01:46]     FOUND PHONE: (772) 204-1286
+[22:01:51]   [14/50] Lio's Quality detailing
+[22:01:56]     FOUND EMAIL: liosqdllc@gmail.com
+[22:01:56]     FOUND PHONE: (772) 348-9559
+[22:02:01]   [15/50] Florida Finest Detailing: Home
+[22:02:04]     FOUND EMAIL: ffdetailing77@gmail.com
+[22:02:04]     FOUND PHONE: 772-377-0077
+[22:02:09]   [16/50] Ceramic Coating Experts | Best Auto Deta
+[22:02:17]   [17/50] Lion Heartz Detailing: Mobile Auto Detai
+[22:02:21]     FOUND PHONE: (772)-480-4133
+[22:02:26]   [18/50] Caterer Service in Treasure Coast, FL | 
+[22:02:29]     FOUND EMAIL: joe.stellato@gmail.com
+[22:02:29]     FOUND PHONE: 772 286-0877
+[22:02:34]   [19/50] Purple Olive: Catering Service | Saint A
+[22:02:37]     FOUND EMAIL: purpleolive2004@gmail.com
+[22:02:37]     FOUND PHONE: (904) 461-1250
+[22:02:42]   [20/50] The Best Restaurants in Jensen Beach, Fl
+[22:02:45]     FOUND EMAIL: takotikijensenbeach@gmail.com
+[22:02:45]     FOUND PHONE: (772) 208-5554
+[22:02:50]   [21/50] MonkMobileDetailing: HOME
+[22:02:53]     FOUND EMAIL: monkmobiledetailing@gmail.com
+[22:02:53]     FOUND PHONE: (772) 202-8871
+[22:02:58]   [22/50] Tony's Showroom Finish Detailing: Top Ca
+[22:03:01]     FOUND EMAIL: Stuart@auto-genie.co.uk
+[22:03:01]     FOUND PHONE: (772) 882-5877
+[22:03:06]   [23/50] Port St. Lucie, Fort Pierce, Florida Rid
+[22:03:09]     FOUND EMAIL: rideslc@stlucieco.gov
+[22:03:09]     FOUND PHONE: 772-462-1778
+[22:03:14]   [24/50] GUTTER/INSTALL/CLEANING/LEAF GUARDS Cate
+[22:03:18]     FOUND EMAIL: support@leaffilter.com
+[22:03:18]     FOUND PHONE: 800-726-7703
+[22:03:23]   [25/50] palm realty and property management serv
+[22:03:27]     FOUND EMAIL: office.prpm@gmail.com
+[22:03:27]     FOUND PHONE: 941-661-2019
+[22:03:32]   [26/50] 10 Best Roofers in Stuart, FL 2026 - Por
+[22:03:36]     FOUND PHONE: (772) 280-1498
+[22:03:41]   [27/50] Metal Roofing Contractor | Stuart, FL - 
+[22:03:44]     FOUND EMAIL: resume@leorc.com
+[22:03:44]     FOUND PHONE: (561) 861-3991
+[22:03:49]   [28/50] Treasure Coast Realtors | Homes & Real E
+[22:03:53]     FOUND EMAIL: themazurssell@aol.com
+[22:03:53]     FOUND PHONE: (772) 286-1900
+[22:03:58]   [29/50] Property Management - Beach Front Mann R
+[22:04:01]     FOUND EMAIL: sean@beachfrontrealty.net
+[22:04:01]     FOUND PHONE: 800-247-4862
+[22:04:06]   [30/50] TC Rentals & Property Management: Home
+[22:04:09]     FOUND EMAIL: rentals@tcpropt.com
+[22:04:09]     FOUND PHONE: (772) 225-6742
+[22:04:14]   [31/50] Epoxy Floor Installation | XPS | Martin 
+[22:04:18]     FOUND EMAIL: Info@SuperiorFloorCoating.com
+[22:04:18]     FOUND PHONE: 772-773-1609
+[22:04:23]   [32/50] Bathroom Remodeling | Stuart, FL
+[22:04:25]     FOUND EMAIL: isaac@tileanddecorusa.com
+[22:04:25]     FOUND PHONE: (772)-946-1986
+[22:04:30]   [33/50] Bathroom Remodeling Services | Stuart & 
+[22:04:34]     FOUND EMAIL: isaac@tileanddecorusa.com
+[22:04:34]     FOUND PHONE: (772) 453-0909
+[22:04:39]   [34/50] Property Management Treasure Coast - Hom
+[22:04:42]     FOUND EMAIL: TreasureCoast@itrip.net
+[22:04:42]     FOUND PHONE: (772) 486-1035
+[22:04:47]   [35/50] Car Dealerships in Stuart, FL 34997 - Ke
+[22:04:50]     FOUND PHONE: 772-283-6000
+[22:04:55]   [36/50] Property Management Companies Near Me in
+[22:04:58]     FOUND EMAIL: office.prpm@gmail.com
+[22:04:58]     FOUND PHONE: 941-661-2019
+[22:05:03]   [37/50] Central-Florida | Specialized Property M
+[22:05:06]     FOUND EMAIL: info@thepropertymanagementspecialist.com
+[22:05:06]     FOUND PHONE: 407-682-3355
+[22:05:11]   [38/50] ROSSMAN: Vacation Rental Management, Cap
+[22:05:14]     FOUND PHONE: (239) 542-2084
+[22:05:19]   [39/50] Waterfront Stuart
+[22:05:22]     FOUND EMAIL: waterfront@sandcrg.com
+[22:05:22]     FOUND PHONE: (772) 288-1881
+[22:05:27]   [40/50] Epoxy Flooring Palm City, FL | Durable C
+[22:05:30]     FOUND EMAIL: abdeali@chemsandcoatings.com
+[22:05:30]     FOUND PHONE: 6479782153
+[22:05:35]   [41/50] The Real Estate Leaders of the Treasure 
+[22:05:39]     FOUND PHONE: 772-288-1111
+[22:05:44]   [42/50] Serving Jensen beach, FL - Prestige Remo
+[22:05:47]     FOUND EMAIL: Info@prc-experts.con
+[22:05:47]     FOUND PHONE: (561) 563-5444
+[22:05:52]   [43/50] Gutter Contractor | The Brothers that ju
+[22:05:56]     FOUND PHONE: 1670199459
+[22:06:01]   [44/50] Commercial Cleaning Jobs, Employment in 
+[22:06:09]   [45/50] The Brennity at Tradition Senior Living 
+[22:06:18]   [46/50] 3 Best Assisted Living Communities in Fo
+[22:06:26]   [47/50] The Brennity at Vero Beach Senior Living
+[22:06:29]     FOUND PHONE: (772) 299-7900
+[22:06:34]   [48/50] Property Management Jobs, Employment in 
+[22:06:43]   [49/50] Kitchen Remodeling Services in Stuart, F
+[22:06:46]     FOUND EMAIL: info@garciaandsonsconstruct.com
+[22:06:46]     FOUND PHONE: 772.283.8912
+[22:06:51]   [50/50] Palm City Handyman, The Repair Guy
+[22:06:54]     FOUND EMAIL: therepairguyjake@gmail.com
+[22:06:54]     FOUND PHONE: (772) 279-4277
+[22:06:59] Wrote 34 enriched contacts back to CSV
+CRM v2 generated: 622 leads, 565 emails, 116 phones, 2026-02-12 22:06 UTC
+[22:06:59] CRM dashboard rebuilt

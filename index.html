@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ESH Command Center — Lead Dashboard</title>
+<meta http-equiv="refresh" content="300">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d1117; color: #c9d1d9; }
+.container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+h1 { color: #B8860B; font-size: 2em; margin-bottom: 5px; }
+h2 { color: #58a6ff; margin: 30px 0 15px; border-bottom: 1px solid #21262d; padding-bottom: 8px; }
+.subtitle { color: #8b949e; margin-bottom: 30px; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0; }
+.stat { background: #161b22; border: 1px solid #21262d; border-radius: 8px; padding: 20px; text-align: center; }
+.stat .number { font-size: 2.5em; font-weight: bold; color: #B8860B; }
+.stat .label { color: #8b949e; font-size: 0.9em; margin-top: 5px; }
+table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+th { background: #161b22; color: #58a6ff; padding: 10px; text-align: left; border-bottom: 2px solid #21262d; }
+td { padding: 8px 10px; border-bottom: 1px solid #21262d; }
+tr:hover { background: #161b22; }
+.bar { background: linear-gradient(90deg, #B8860B, #DAA520); color: #000; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; min-width: 30px; display: inline-block; }
+.bar-blue { background: linear-gradient(90deg, #1f6feb, #58a6ff); color: #fff; }
+.badge { padding: 3px 10px; border-radius: 12px; font-size: 0.8em; font-weight: bold; }
+.badge.high { background: #da3633; color: #fff; }
+.badge.medium { background: #d29922; color: #000; }
+.badge.low { background: #238636; color: #fff; }
+.footer { text-align: center; color: #484f58; margin-top: 40px; padding: 20px; border-top: 1px solid #21262d; }
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+@media (max-width: 768px) { .two-col { grid-template-columns: 1fr; } .stats { grid-template-columns: 1fr 1fr; } }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Elite Service Hub — Command Center</h1>
+<p class="subtitle">Lead Generation Dashboard | Updated: 2026-02-12 13:12 UTC | Auto-refreshes every 5 min</p>
+
+<div class="stats">
+<div class="stat"><div class="number">337</div><div class="label">Total Leads</div></div>
+<div class="stat"><div class="number">213</div><div class="label">High Priority</div></div>
+<div class="stat"><div class="number">58</div><div class="label">Medium Priority</div></div>
+<div class="stat"><div class="number">24</div><div class="label">Categories</div></div>
+<div class="stat"><div class="number">16</div><div class="label">Cities Covered</div></div>
+<div class="stat"><div class="number">$0</div><div class="label">Monthly Cost</div></div>
+</div>
+
+<h2>Agent Status</h2>
+<table>
+<tr><th>Agent</th><th>Last Activity</th></tr>
+<tr><td>Lead Scout</td><td>[13:11:52] LEAD SCOUT: +69 leads (total: 337)</td></tr>
+<tr><td>Seo Analyst</td><td>[13:12:25] SEO ANALYST: kmjk.pro found in 0/5 searches</td></tr>
+<tr><td>Outreach Writer</td><td>Not started</td></tr>
+<tr><td>Strategy Planner</td><td>[13:12:55] GITHUB ERROR: Command '['git', 'push', '-u', 'origin', 'main', '--for</td></tr>
+<tr><td>Html Generator</td><td>[13:12:55] HTML GENERATOR: Creating reports</td></tr>
+
+</table>
+
+<div class="two-col">
+<div>
+<h2>Leads by Category</h2>
+<table>
+<tr><th>Category</th><th>Count</th></tr>
+<tr><td>Esh Scout</td><td><div class="bar" style="width:100.0%">50</div></td></tr>
+<tr><td>Restaurant</td><td><div class="bar" style="width:64.0%">32</div></td></tr>
+<tr><td>Auto Shop</td><td><div class="bar" style="width:46.0%">23</div></td></tr>
+<tr><td>Property Manager</td><td><div class="bar" style="width:40.0%">20</div></td></tr>
+<tr><td>Cleaning</td><td><div class="bar" style="width:38.0%">19</div></td></tr>
+<tr><td>Real Estate</td><td><div class="bar" style="width:36.0%">18</div></td></tr>
+<tr><td>Healthcare</td><td><div class="bar" style="width:36.0%">18</div></td></tr>
+<tr><td>Property Mgmt</td><td><div class="bar" style="width:36.0%">18</div></td></tr>
+<tr><td>Warehouse</td><td><div class="bar" style="width:34.0%">17</div></td></tr>
+<tr><td>Detailing</td><td><div class="bar" style="width:34.0%">17</div></td></tr>
+<tr><td>Hoa</td><td><div class="bar" style="width:30.0%">15</div></td></tr>
+<tr><td>Construction</td><td><div class="bar" style="width:30.0%">15</div></td></tr>
+<tr><td>Gutter</td><td><div class="bar" style="width:28.000000000000004%">14</div></td></tr>
+<tr><td>Apartment Complex</td><td><div class="bar" style="width:24.0%">12</div></td></tr>
+<tr><td>Epoxy</td><td><div class="bar" style="width:24.0%">12</div></td></tr>
+<tr><td>Mobile Detailing</td><td><div class="bar" style="width:18.0%">9</div></td></tr>
+<tr><td>Handyman</td><td><div class="bar" style="width:12.0%">6</div></td></tr>
+<tr><td>Roofing</td><td><div class="bar" style="width:12.0%">6</div></td></tr>
+<tr><td>Kitchen</td><td><div class="bar" style="width:8.0%">4</div></td></tr>
+<tr><td>Property Management</td><td><div class="bar" style="width:6.0%">3</div></td></tr>
+<tr><td>Epoxy Flooring</td><td><div class="bar" style="width:6.0%">3</div></td></tr>
+<tr><td>Kitchen Renovation</td><td><div class="bar" style="width:6.0%">3</div></td></tr>
+<tr><td>Apartments</td><td><div class="bar" style="width:4.0%">2</div></td></tr>
+<tr><td>Auto Body Shop</td><td><div class="bar" style="width:2.0%">1</div></td></tr>
+
+</table>
+</div>
+<div>
+<h2>Leads by City</h2>
+<table>
+<tr><th>City</th><th>Count</th></tr>
+<tr><td>Stuart</td><td><div class="bar bar-blue" style="width:100.0%">162</div></td></tr>
+<tr><td>Jensen Beach</td><td><div class="bar bar-blue" style="width:20.37037037037037%">33</div></td></tr>
+<tr><td>Port St Lucie</td><td><div class="bar bar-blue" style="width:18.51851851851852%">30</div></td></tr>
+<tr><td>Palm City</td><td><div class="bar bar-blue" style="width:11.728395061728394%">19</div></td></tr>
+<tr><td>Fort Pierce</td><td><div class="bar bar-blue" style="width:9.25925925925926%">15</div></td></tr>
+<tr><td>Boca Raton</td><td><div class="bar bar-blue" style="width:8.024691358024691%">13</div></td></tr>
+<tr><td>West Palm Beach</td><td><div class="bar bar-blue" style="width:7.4074074074074066%">12</div></td></tr>
+<tr><td>Jupiter</td><td><div class="bar bar-blue" style="width:5.555555555555555%">9</div></td></tr>
+<tr><td>Sewall's Point</td><td><div class="bar bar-blue" style="width:4.938271604938271%">8</div></td></tr>
+<tr><td>Vero Beach</td><td><div class="bar bar-blue" style="width:4.320987654320987%">7</div></td></tr>
+<tr><td>Delray Beach</td><td><div class="bar bar-blue" style="width:4.320987654320987%">7</div></td></tr>
+<tr><td>Naples</td><td><div class="bar bar-blue" style="width:4.320987654320987%">7</div></td></tr>
+<tr><td>Charlotte</td><td><div class="bar bar-blue" style="width:3.7037037037037033%">6</div></td></tr>
+<tr><td>Austin</td><td><div class="bar bar-blue" style="width:3.0864197530864197%">5</div></td></tr>
+<tr><td>Port St. Lucie</td><td><div class="bar bar-blue" style="width:1.2345679012345678%">2</div></td></tr>
+
+</table>
+</div>
+</div>
+
+<h2>Recent Leads (Last 20)</h2>
+<table>
+<tr><th>Business</th><th>City</th><th>Category</th><th>Priority</th><th>Found</th></tr>
+<tr class="high">
+<td>Epoxy Floor Installation | XPS | Martin </td>
+<td>Stuart</td>
+<td>epoxy</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>TC Rentals & Property Management: Home</td>
+<td>Jensen Beach</td>
+<td>property mgmt</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Property Management - Beach Front Mann R</td>
+<td>Jensen Beach</td>
+<td>property mgmt</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Property Manager | JBCC HOA</td>
+<td>Jensen Beach</td>
+<td>property mgmt</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Jensen Beach Property Management | RPM S</td>
+<td>Jensen Beach</td>
+<td>property mgmt</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Top Jensen Beach, Florida Property Manag</td>
+<td>Jensen Beach</td>
+<td>property mgmt</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Jensen Beach Property Management</td>
+<td>Jensen Beach</td>
+<td>property mgmt</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Investment Properties for Sale in Port S</td>
+<td>Stuart</td>
+<td>real estate</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Treasure Coast Realtors | Homes & Real E</td>
+<td>Stuart</td>
+<td>real estate</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Treasure Coast Life Real Estate Professi</td>
+<td>Stuart</td>
+<td>real estate</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Olaf's Window Cleaning: Stuart, FL Windo</td>
+<td>Stuart</td>
+<td>cleaning</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Home Cleaning Services</td>
+<td>Stuart</td>
+<td>cleaning</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>House Cleaning Services in Stuart , FL 3</td>
+<td>Stuart</td>
+<td>cleaning</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Stuart, FL Industrial Space For Lease - </td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Commercial Industrial Space</td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Stuart, FL Industrial & Warehouse Spaces</td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Martin County, FL Warehouses for Rent & </td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Stuart, FL Industrial & Warehouse Space </td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Stuart, FL Industrial & Warehouse Spaces</td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+<tr class="high">
+<td>Stuart Industrial and Warehouse Space Fo</td>
+<td>Stuart</td>
+<td>warehouse</td>
+<td><span class="badge high">High</span></td>
+<td>2026-02-12</td>
+</tr>
+
+</table>
+
+<div class="footer">
+<p>GlitchGo Autonomous Lead Generation | Elite Service Hub | KMJK Group</p>
+<p>Josue: (772) 323-3776 | Chris: (772) 777-0622 | info@kmjk.pro</p>
+</div>
+</div>
+</body>
+</html>

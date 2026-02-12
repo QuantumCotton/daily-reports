@@ -1,43 +1,48 @@
-# Lead Generation Report — 2026-02-12 12:43 ET
+# Lead Generation Report — 2026-02-12 13:00 ET
 
-**Total Leads:** 185
+**Total Leads:** 268
 
 ## Priority Breakdown
-- **High:** 105
-- **Low:** 31
-- **Medium:** 49
+- **High:** 165
+- **Low:** 45
+- **Medium:** 58
 
 ## By Category
+- **restaurant:** 32
+- **esh_scout:** 29
 - **auto_shop:** 23
 - **property_manager:** 20
 - **healthcare:** 18
-- **restaurant:** 16
-- **esh_scout:** 15
+- **detailing:** 17
+- **cleaning:** 16
+- **hoa:** 15
+- **real_estate:** 15
+- **construction:** 15
 - **apartment_complex:** 12
 - **epoxy:** 11
-- **real_estate:** 9
 - **warehouse:** 9
 - **mobile_detailing:** 9
-- **hoa:** 8
-- **construction:** 8
 - **gutter:** 7
-- **cleaning:** 6
 - **kitchen:** 4
+- **handyman:** 4
 - **Property Management:** 3
 - **Epoxy Flooring:** 3
 - **Kitchen Renovation:** 3
+- **apartments:** 2
 - **Auto Body Shop:** 1
 
 ## By City
-- **Stuart:** 75
-- **Port St Lucie:** 23
-- **Jensen Beach:** 19
-- **Fort Pierce:** 13
+- **Stuart:** 127
+- **Port St Lucie:** 30
+- **Jensen Beach:** 27
+- **Fort Pierce:** 15
+- **Boca Raton:** 13
 - **Palm City:** 12
 - **Jupiter:** 9
-- **Boca Raton:** 8
 - **Sewall's Point:** 8
 - **Vero Beach:** 7
 - **Delray Beach:** 7
+- **Austin:** 5
+- **West Palm Beach:** 4
 - **Port St. Lucie:** 2
 - **Treasure Coast:** 2

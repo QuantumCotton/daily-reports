@@ -1,37 +1,38 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 13:29 UTC",
+  "generated_at": "2026-02-12 13:46 UTC",
   "leads": {
-    "total": 367,
+    "total": 401,
     "contacted": 0,
-    "uncontacted": 367,
+    "uncontacted": 401,
     "by_priority": {
-      "High": 238,
+      "High": 266,
       "Medium": 61,
-      "Low": 68
+      "Low": 74
     },
     "by_category": {
-      "esh_scout": 52,
+      "esh_scout": 58,
       "restaurant": 35,
+      "property_mgmt": 30,
       "auto_shop": 23,
-      "property_mgmt": 23,
+      "healthcare": 21,
       "property_manager": 20,
+      "detailing": 20,
       "cleaning": 19,
       "real_estate": 18,
-      "healthcare": 18,
+      "construction": 18,
       "gutter": 18,
+      "hoa": 17,
       "warehouse": 17,
-      "construction": 17,
-      "detailing": 17,
-      "hoa": 15,
       "epoxy": 14,
       "apartment_complex": 12,
       "mobile_detailing": 9,
+      "kitchen": 9,
       "bathroom": 8,
+      "apartments": 7,
       "handyman": 6,
       "roofing": 6,
-      "apartments": 5,
-      "kitchen": 4,
+      "auto": 5,
       "Property Management": 3,
       "Epoxy Flooring": 3,
       "Kitchen Renovation": 3,
@@ -39,10 +40,10 @@
       "general_contractor": 1
     },
     "by_city": {
-      "Stuart": 186,
+      "Stuart": 207,
       "Jensen Beach": 34,
       "Port St Lucie": 33,
-      "Palm City": 19,
+      "Palm City": 26,
       "Fort Pierce": 15,
       "Boca Raton": 13,
       "West Palm Beach": 12,
@@ -52,11 +53,12 @@
       "Vero Beach": 7,
       "Delray Beach": 7,
       "Charlotte": 6,
+      "Sarasota": 6,
       "Austin": 5,
       "Port St. Lucie": 2,
       "Treasure Coast": 2
     }
   },
-  "outreach_drafts": 0,
+  "outreach_drafts": 10,
   "seo_reports": 1
 }

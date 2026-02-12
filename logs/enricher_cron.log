@@ -377,3 +377,61 @@ CRM v2 generated: 622 leads, 565 emails, 116 phones, 2026-02-12 22:06 UTC
 [22:37:00] Wrote 26 enriched contacts back to CSV
 CRM v2 generated: 622 leads, 591 emails, 147 phones, 2026-02-12 22:37 UTC
 [22:37:00] CRM dashboard rebuilt
+[22:37:02] Pushed to GitHub
+[22:37:02] SMART ENRICHER COMPLETE: 26 emails found, 33 drafts
+[22:37:02] ============================================================
+[23:00:01] ============================================================
+[23:00:01] SMART ENRICHER — Search-based contact finder
+[23:00:01] Batch size: 50
+[23:00:01] ============================================================
+[23:00:01] Z.AI webSearchPrime loaded
+[23:00:01] Loaded 622 leads
+[23:00:01] Leads needing email: 31
+[23:00:01] Processing batch of 31
+[23:00:01]   [1/31] Top Rated Car Dealerships near Stuart, F
+[23:00:10]   [2/31] Circle Bay Yacht Club
+[23:00:19]   [3/31] Treasure Coast, FL - TourSeniorLiving.or
+[23:00:27]   [4/31] Lion Heartz Detailing: Mobile Auto Detai
+[23:00:36]   [5/31] 10 Best Roofers in Stuart, FL 2026 - Por
+[23:00:44]   [6/31] Commercial Cleaning Jobs, Employment in 
+[23:00:48]     FOUND PHONE: 321-306-0622
+[23:00:53]   [7/31] The Brennity at Tradition Senior Living 
+[23:01:01]   [8/31] 3 Best Assisted Living Communities in Fo
+[23:01:09]   [9/31] The Brennity at Vero Beach Senior Living
+[23:01:17]   [10/31] Property Management Jobs, Employment in 
+[23:01:26]   [11/31] Palm Tree Auto Sales: Used Car Dealer in
+[23:01:34]   [12/31] Bathroom Remodeling Contractor | Stuart,
+[23:01:42]   [13/31] Palm Tree Auto Sales: Used Car Dealer in
+[23:01:50]   [14/31] 4 Best Assisted Living Communities in Je
+[23:01:59]   [15/31] Quest Property Management Services for Y
+[23:02:07]   [16/31] Apartments for Rent in Fort Pierce FL wi
+[23:02:10]     FOUND PHONE: 4220639471
+[23:02:15]   [17/31] New Construction Homes for Sale in Port 
+[23:02:23]   [18/31] Port Saint Lucie, FL New Construction Ho
+[23:02:26]     FOUND PHONE: 3290987704
+[23:02:31]   [19/31] New homes for sale & real estate in Port
+[23:02:40]   [20/31] Apartments in Port St. Lucie, FL
+[23:02:48]   [21/31] Rental Listings in Fort Pierce FL
+[23:02:56]   [22/31] Tru Mobile Detailing
+[23:03:11]   [23/31] Garage Floor Coating: Professional Epoxy
+[23:03:19]   [24/31] Kitchen, Flooring & Bathroom Remodeling 
+[23:03:28]   [25/31] Bathroom Remodeling in Boca Raton, Flori
+[23:03:31]     FOUND PHONE: 754-289-0824
+[23:03:36]   [26/31] Top 5 Renovation Contractors in Palm Bea
+[23:03:44]   [27/31] Car Detailing West Palm Beach- Beyond Li
+[23:03:48]     FOUND EMAIL: billy@armorworks.studio
+[23:03:48]     FOUND PHONE: (561) 589-5640
+[23:03:53]   [28/31] Mobile Detailing in West Palm Beach, FL 
+[23:03:56]     FOUND EMAIL: xtramiledetails@gmail.com
+[23:03:56]     FOUND PHONE: (561)-345-8312
+[23:04:01]   [29/31] Mobile Detailing Services in West Palm B
+[23:04:05]     FOUND PHONE: 561-377-6700
+[23:04:10]   [30/31] Esteban Brother's Mobile Car Wash
+[23:04:13]     FOUND EMAIL: estebanbrotherscarwash@gmail.com
+[23:04:13]     FOUND PHONE: (561) 971-5349
+[23:04:18]   [31/31] Commercial Fleet Detailing
+[23:04:22]     FOUND EMAIL: estebanbrotherscarwash@gmail.com
+[23:04:22]     FOUND PHONE: 772-249-9595
+[23:04:27] Wrote 4 enriched contacts back to CSV
+CRM v2 generated: 622 leads, 595 emails, 156 phones, 2026-02-12 23:04 UTC
+[23:04:27] CRM dashboard rebuilt

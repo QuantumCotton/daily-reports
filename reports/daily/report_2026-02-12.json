@@ -1,19 +1,19 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 14:03 UTC",
+  "generated_at": "2026-02-12 14:21 UTC",
   "leads": {
-    "total": 431,
+    "total": 439,
     "contacted": 0,
-    "uncontacted": 431,
+    "uncontacted": 439,
     "by_priority": {
-      "High": 275,
+      "High": 282,
       "Medium": 62,
-      "Low": 94
+      "Low": 95
     },
     "by_category": {
-      "esh_scout": 78,
-      "restaurant": 35,
-      "property_mgmt": 33,
+      "esh_scout": 79,
+      "restaurant": 37,
+      "property_mgmt": 35,
       "auto_shop": 23,
       "healthcare": 21,
       "property_manager": 20,
@@ -29,19 +29,19 @@
       "kitchen": 12,
       "apartments": 11,
       "mobile_detailing": 9,
+      "roofing": 8,
       "bathroom": 8,
       "handyman": 6,
-      "roofing": 6,
       "auto": 5,
       "Property Management": 3,
       "Epoxy Flooring": 3,
       "Kitchen Renovation": 3,
-      "Auto Body Shop": 1,
-      "general_contractor": 1
+      "general_contractor": 2,
+      "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 214,
-      "Jensen Beach": 36,
+      "Stuart": 219,
+      "Jensen Beach": 38,
       "Port St Lucie": 34,
       "Palm City": 26,
       "Fort Pierce": 15,
@@ -53,8 +53,8 @@
       "Sewall's Point": 8,
       "Vero Beach": 7,
       "Delray Beach": 7,
+      "Charlotte": 7,
       "Nashville": 7,
-      "Charlotte": 6,
       "Sarasota": 6,
       "Scottsdale": 5,
       "Port St. Lucie": 2,

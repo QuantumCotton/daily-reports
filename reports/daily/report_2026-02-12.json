@@ -1,17 +1,17 @@
 {
   "date": "2026-02-12",
-  "generated_at": "2026-02-12 14:55 UTC",
+  "generated_at": "2026-02-12 15:13 UTC",
   "leads": {
-    "total": 477,
+    "total": 487,
     "contacted": 0,
-    "uncontacted": 477,
+    "uncontacted": 487,
     "by_priority": {
-      "High": 306,
+      "High": 307,
       "Medium": 62,
-      "Low": 109
+      "Low": 118
     },
     "by_category": {
-      "esh_scout": 93,
+      "esh_scout": 102,
       "restaurant": 39,
       "property_mgmt": 35,
       "real_estate": 27,
@@ -28,7 +28,7 @@
       "auto": 14,
       "apartment_complex": 12,
       "kitchen": 12,
-      "apartments": 11,
+      "apartments": 12,
       "mobile_detailing": 9,
       "roofing": 8,
       "bathroom": 8,
@@ -40,22 +40,22 @@
       "Auto Body Shop": 1
     },
     "by_city": {
-      "Stuart": 243,
+      "Stuart": 244,
       "Jensen Beach": 38,
       "Port St Lucie": 34,
       "Palm City": 26,
       "Boca Raton": 19,
       "Fort Pierce": 15,
+      "Austin": 14,
       "West Palm Beach": 14,
-      "Austin": 13,
+      "Naples": 12,
+      "Charlotte": 11,
+      "Nashville": 10,
       "Jupiter": 9,
-      "Naples": 9,
-      "Charlotte": 9,
       "Sarasota": 9,
       "Sewall's Point": 8,
       "Vero Beach": 7,
       "Delray Beach": 7,
-      "Nashville": 7,
       "Scottsdale": 6,
       "Port St. Lucie": 2,
       "Treasure Coast": 2

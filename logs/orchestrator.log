@@ -1,0 +1,739 @@
+[13:06:00] ============================================================
+[13:06:00] FULL ORCHESTRATOR — ALL AGENTS RUNNING
+[13:06:00] Duration: 8 hours | Agents: 5
+[13:06:00] Start: 2026-02-12 13:06:00 UTC
+[13:06:00] End:   2026-02-12 21:06:00 UTC
+[13:06:00] ============================================================
+[13:06:00] 
+======================================== CYCLE 1 ========================================
+[13:06:00] LEAD SCOUT: Starting cycle
+[13:09:44] ============================================================
+[13:09:44] FULL ORCHESTRATOR — ALL AGENTS RUNNING
+[13:09:44] Duration: 8 hours | Agents: 5
+[13:09:44] Start: 2026-02-12 13:09:44 UTC
+[13:09:44] End:   2026-02-12 21:09:44 UTC
+[13:09:44] ============================================================
+[13:09:44] 
+======================================== CYCLE 1 ========================================
+[13:09:44] LEAD SCOUT: Starting cycle
+[13:09:45]   [1/15] property management companies Stuart FL
+[13:09:54]   [2/15] gutter guards Stuart FL
+[13:10:03]   [3/15] site:craigslist.org kitchen renovation treasure coast FL
+[13:10:11]   [4/15] site:craigslist.org handyman Stuart FL
+[13:10:19]   [5/15] mobile detailing West Palm Beach FL
+[13:10:28]   [6/15] handyman Stuart FL
+[13:10:35]   [7/15] kitchen renovation contractor Naples FL
+[13:10:44]   [8/15] property management Palm City FL
+[13:10:52]   [9/15] general contractor Charlotte NC
+[13:11:00]   [10/15] roofing contractor Stuart FL
+[13:11:09]   [11/15] warehouse Stuart FL
+[13:11:18]   [12/15] commercial cleaning company Stuart FL
+[13:11:26]   [13/15] real estate investor Treasure Coast FL
+[13:11:35]   [14/15] property management Jensen Beach FL
+[13:11:43]   [15/15] epoxy flooring contractor Stuart FL
+[13:11:52] LEAD SCOUT: +69 leads (total: 337)
+[13:11:52] SEO ANALYST: Starting check
+[13:11:52]   SEO: Checking 'kitchen renovation Stuart FL'
+[13:11:59]   SEO: Checking 'kitchen renovation Palm City FL'
+[13:12:05]   SEO: Checking 'bathroom remodel Stuart FL'
+[13:12:12]   SEO: Checking 'kitchen remodel Jensen Beach FL'
+[13:12:19]   SEO: Checking 'epoxy flooring Jensen Beach FL'
+[13:12:25] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[13:12:25] SEO ANALYST: kmjk.pro found in 0/5 searches
+[13:12:25] STRATEGY PLANNER: Starting report generation
+[13:12:25] STRATEGY: Report written (337 leads, 0 drafts)
+[13:12:55] GITHUB ERROR: Command '['git', 'push', '-u', 'origin', 'main', '--force']' timed out after 30 seconds
+[13:12:55] HTML GENERATOR: Creating reports
+[13:12:55] HTML GENERATOR: Dashboard written to /home/chris/.openclaw/workspace/reports/html/index.html
+[13:12:55] CYCLE 1 COMPLETE | 477 min remaining
+[13:12:55] Cooling down 900s...
+[13:26:21] ============================================================
+[13:26:21] FULL ORCHESTRATOR — ALL AGENTS RUNNING
+[13:26:21] Duration: 8 hours | Agents: 5
+[13:26:21] Start: 2026-02-12 13:26:21 UTC
+[13:26:21] End:   2026-02-12 21:26:21 UTC
+[13:26:21] ============================================================
+[13:26:21] 
+======================================== CYCLE 1 ========================================
+[13:26:21] LEAD SCOUT: Starting cycle
+[13:26:21]   [1/15] site:craigslist.org handyman Stuart FL
+[13:26:29]   [2/15] HOA management company Martin County FL
+[13:26:38]   [3/15] bathroom remodel Stuart FL
+[13:26:47]   [4/15] warehouse Stuart FL
+[13:26:55]   [5/15] apartment complex Stuart FL
+[13:27:03]   [6/15] property management Port St Lucie FL
+[13:27:11]   [7/15] site:craigslist.org kitchen renovation treasure coast FL
+[13:27:20]   [8/15] kitchen renovation contractor Naples FL
+[13:27:28]   [9/15] epoxy flooring contractor Stuart FL
+[13:27:37]   [10/15] general contractor Stuart FL
+[13:27:45]   [11/15] gutter guards Stuart FL
+[13:27:53]   [12/15] restaurant Stuart FL
+[13:28:01]   [13/15] property management Jensen Beach FL
+[13:28:10]   [14/15] property management companies Stuart FL
+[13:28:19]   [15/15] construction company Stuart FL
+[13:28:27] LEAD SCOUT: +30 leads (total: 367)
+[13:28:27] SEO ANALYST: Starting check
+[13:28:27]   SEO: Checking 'general contractor Jensen Beach FL'
+[13:28:33]   SEO: Checking 'gutter installation Jensen Beach FL'
+[13:28:40]   SEO: Checking 'epoxy flooring Stuart FL'
+[13:28:47]   SEO: Checking 'epoxy flooring Jensen Beach FL'
+[13:28:53]   SEO: Checking 'handyman Stuart FL'
+[13:29:00] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[13:29:00] SEO ANALYST: kmjk.pro found in 0/5 searches
+[13:29:00] STRATEGY PLANNER: Starting report generation
+[13:29:00] STRATEGY: Report written (367 leads, 0 drafts)
+[13:29:01] GITHUB: Pushed 367 leads successfully
+[13:29:01] HTML GENERATOR: Creating CRM dashboard
+[13:29:01] HTML GENERATOR: CRM dashboard updated
+[13:29:01] CYCLE 1 COMPLETE | 477 min remaining
+[13:29:01] Cooling down 900s...
+[13:44:01] 
+======================================== CYCLE 2 ========================================
+[13:44:01] LEAD SCOUT: Starting cycle
+[13:44:01]   [1/15] car dealership Stuart FL
+[13:44:10]   [2/15] hospital Stuart FL
+[13:44:18]   [3/15] HOA management company Martin County FL
+[13:44:26]   [4/15] site:craigslist.org handyman Stuart FL
+[13:44:36]   [5/15] mobile detailing West Palm Beach FL
+[13:44:44]   [6/15] kitchen renovation contractor Naples FL
+[13:44:54]   [7/15] commercial cleaning company Stuart FL
+[13:45:02]   [8/15] kitchen renovation Stuart FL
+[13:45:11]   [9/15] apartment complex Stuart FL
+[13:45:18]   [10/15] mobile detailing Stuart FL
+[13:45:27]   [11/15] assisted living Treasure Coast FL
+[13:45:35]   [12/15] property management Palm City FL
+[13:45:44]   [13/15] general contractor Sarasota FL
+[13:45:52]   [14/15] construction company Stuart FL
+[13:46:00]   [15/15] site:craigslist.org kitchen renovation treasure coast FL
+[13:46:09] LEAD SCOUT: +34 leads (total: 401)
+[13:46:09] OUTREACH WRITER: Starting drafts
+[13:46:09] OUTREACH WRITER: Wrote 10 new drafts
+[13:46:09] STRATEGY PLANNER: Starting report generation
+[13:46:09] STRATEGY: Report written (401 leads, 10 drafts)
+[13:46:11] GITHUB: Pushed 401 leads successfully
+[13:46:11] HTML GENERATOR: Creating CRM dashboard
+[13:46:11] HTML GENERATOR: CRM dashboard updated
+[13:46:11] CYCLE 2 COMPLETE | 460 min remaining
+[13:46:11] Cooling down 900s...
+[14:01:11] 
+======================================== CYCLE 3 ========================================
+[14:01:11] LEAD SCOUT: Starting cycle
+[14:01:11]   [1/15] mobile detailing West Palm Beach FL
+[14:01:19]   [2/15] epoxy flooring contractor Stuart FL
+[14:01:27]   [3/15] site:craigslist.org handyman Stuart FL
+[14:01:36]   [4/15] epoxy flooring Nashville TN
+[14:01:46]   [5/15] kitchen renovation Austin TX
+[14:01:55]   [6/15] property management companies Stuart FL
+[14:02:03]   [7/15] assisted living Treasure Coast FL
+[14:02:11]   [8/15] kitchen renovation Scottsdale AZ
+[14:02:19]   [9/15] bathroom remodel Stuart FL
+[14:02:28]   [10/15] kitchen remodel Jensen Beach FL
+[14:02:36]   [11/15] property management Port St Lucie FL
+[14:02:44]   [12/15] commercial cleaning company Stuart FL
+[14:02:53]   [13/15] handyman Stuart FL
+[14:03:01]   [14/15] general contractor Stuart FL
+[14:03:10]   [15/15] kitchen renovation Stuart FL
+[14:03:19] LEAD SCOUT: +30 leads (total: 431)
+[14:03:19] STRATEGY PLANNER: Starting report generation
+[14:03:19] STRATEGY: Report written (431 leads, 10 drafts)
+[14:03:20] GITHUB: Pushed 431 leads successfully
+[14:03:20] HTML GENERATOR: Creating CRM dashboard
+[14:03:20] HTML GENERATOR: CRM dashboard updated
+[14:03:20] CYCLE 3 COMPLETE | 443 min remaining
+[14:03:20] Cooling down 900s...
+[14:18:20] 
+======================================== CYCLE 4 ========================================
+[14:18:20] LEAD SCOUT: Starting cycle
+[14:18:20]   [1/15] kitchen remodel Jensen Beach FL
+[14:18:29]   [2/15] HOA management company Martin County FL
+[14:18:37]   [3/15] epoxy flooring contractor Stuart FL
+[14:18:46]   [4/15] general contractor Charlotte NC
+[14:18:54]   [5/15] restaurant Stuart FL
+[14:19:02]   [6/15] kitchen renovation Stuart FL
+[14:19:10]   [7/15] general contractor Stuart FL
+[14:19:19]   [8/15] hospital Stuart FL
+[14:19:27]   [9/15] roofing contractor Stuart FL
+[14:19:36]   [10/15] property management Port St Lucie FL
+[14:19:45]   [11/15] property management Palm City FL
+[14:19:53]   [12/15] epoxy flooring Nashville TN
+[14:20:02]   [13/15] commercial cleaning company Stuart FL
+[14:20:10]   [14/15] site:craigslist.org handyman Stuart FL
+[14:20:19]   [15/15] property management Jensen Beach FL
+[14:20:27] LEAD SCOUT: +8 leads (total: 439)
+[14:20:27] SEO ANALYST: Starting check
+[14:20:27]   SEO: Checking 'epoxy flooring Stuart FL'
+[14:20:36]   SEO: Checking 'epoxy flooring Jensen Beach FL'
+[14:20:42]   SEO: Checking 'gutter installation Jensen Beach FL'
+[14:20:49]   SEO: Checking 'handyman Stuart FL'
+[14:20:55]   SEO: Checking 'kitchen remodel Jensen Beach FL'
+[14:21:02] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[14:21:02] SEO ANALYST: kmjk.pro found in 0/5 searches
+[14:21:02] OUTREACH WRITER: Starting drafts
+[14:21:02] OUTREACH WRITER: Wrote 0 new drafts
+[14:21:02] STRATEGY PLANNER: Starting report generation
+[14:21:02] STRATEGY: Report written (439 leads, 10 drafts)
+[14:21:04] GITHUB: Pushed 439 leads successfully
+[14:21:04] HTML GENERATOR: Creating CRM dashboard
+[14:21:04] HTML GENERATOR: CRM dashboard updated
+[14:21:04] CYCLE 4 COMPLETE | 425 min remaining
+[14:21:04] Cooling down 900s...
+[14:36:04] 
+======================================== CYCLE 5 ========================================
+[14:36:04] LEAD SCOUT: Starting cycle
+[14:36:04]   [1/15] handyman Stuart FL
+[14:36:13]   [2/15] property management Port St Lucie FL
+[14:36:21]   [3/15] general contractor Sarasota FL
+[14:36:30]   [4/15] general contractor Charlotte NC
+[14:36:40]   [5/15] bathroom remodel Stuart FL
+[14:36:48]   [6/15] mobile detailing Stuart FL
+[14:36:57]   [7/15] HOA management company Martin County FL
+[14:37:05]   [8/15] general contractor Stuart FL
+[14:37:22]   [9/15] epoxy flooring contractor Boca Raton FL
+[14:37:31]   [10/15] auto body shop Stuart FL
+[14:37:39]   [11/15] kitchen renovation Austin TX
+[14:37:47]   [12/15] real estate investor Treasure Coast FL
+[14:37:56]   [13/15] warehouse Stuart FL
+[14:38:06]   [14/15] car dealership Stuart FL
+[14:38:16]   [15/15] commercial cleaning company Stuart FL
+[14:38:25] LEAD SCOUT: +25 leads (total: 464)
+[14:38:25] STRATEGY PLANNER: Starting report generation
+[14:38:25] STRATEGY: Report written (464 leads, 10 drafts)
+[14:38:26] GITHUB: Pushed 464 leads successfully
+[14:38:26] HTML GENERATOR: Creating CRM dashboard
+[14:38:26] HTML GENERATOR: CRM dashboard updated
+[14:38:26] CYCLE 5 COMPLETE | 408 min remaining
+[14:38:26] Cooling down 900s...
+[14:53:26] 
+======================================== CYCLE 6 ========================================
+[14:53:26] LEAD SCOUT: Starting cycle
+[14:53:26]   [1/15] construction company Stuart FL
+[14:53:34]   [2/15] kitchen renovation Scottsdale AZ
+[14:53:43]   [3/15] property management Port St Lucie FL
+[14:53:51]   [4/15] property management companies Stuart FL
+[14:54:00]   [5/15] epoxy flooring contractor Boca Raton FL
+[14:54:09]   [6/15] apartment complex Stuart FL
+[14:54:17]   [7/15] real estate investor Treasure Coast FL
+[14:54:26]   [8/15] restaurant Stuart FL
+[14:54:34]   [9/15] kitchen renovation Austin TX
+[14:54:43]   [10/15] commercial cleaning company Stuart FL
+[14:54:51]   [11/15] general contractor Stuart FL
+[14:54:59]   [12/15] gutter guards Stuart FL
+[14:55:07]   [13/15] HOA management company Martin County FL
+[14:55:29]   [14/15] mobile detailing Stuart FL
+[14:55:37]   [15/15] site:craigslist.org kitchen renovation treasure coast FL
+[14:55:45] LEAD SCOUT: +13 leads (total: 477)
+[14:55:45] OUTREACH WRITER: Starting drafts
+[14:55:45] OUTREACH WRITER: Wrote 0 new drafts
+[14:55:45] STRATEGY PLANNER: Starting report generation
+[14:55:45] STRATEGY: Report written (477 leads, 10 drafts)
+[14:55:47] GITHUB: Pushed 477 leads successfully
+[14:55:47] HTML GENERATOR: Creating CRM dashboard
+[14:55:47] HTML GENERATOR: CRM dashboard updated
+[14:55:47] CYCLE 6 COMPLETE | 391 min remaining
+[14:55:47] Cooling down 900s...
+[15:10:47] 
+======================================== CYCLE 7 ========================================
+[15:10:47] LEAD SCOUT: Starting cycle
+[15:10:47]   [1/15] general contractor Charlotte NC
+[15:10:55]   [2/15] kitchen renovation contractor Naples FL
+[15:11:03]   [3/15] kitchen renovation Austin TX
+[15:11:14]   [4/15] apartment complex Stuart FL
+[15:11:22]   [5/15] epoxy flooring contractor Boca Raton FL
+[15:11:30]   [6/15] warehouse Stuart FL
+[15:11:38]   [7/15] general contractor Sarasota FL
+[15:11:46]   [8/15] gutter guards Stuart FL
+[15:11:55]   [9/15] epoxy flooring contractor Stuart FL
+[15:12:04]   [10/15] construction company Stuart FL
+[15:12:12]   [11/15] assisted living Treasure Coast FL
+[15:12:21]   [12/15] epoxy flooring Nashville TN
+[15:12:30]   [13/15] roofing contractor Stuart FL
+[15:12:38]   [14/15] property management companies Stuart FL
+[15:12:47]   [15/15] property management Jensen Beach FL
+[15:12:56] LEAD SCOUT: +10 leads (total: 487)
+[15:12:56] SEO ANALYST: Starting check
+[15:12:56]   SEO: Checking 'kitchen remodel Jensen Beach FL'
+[15:13:02]   SEO: Checking 'roofing contractor Stuart FL'
+[15:13:08]   SEO: Checking 'kitchen renovation Stuart FL'
+[15:13:16]   SEO: Checking 'epoxy flooring Stuart FL'
+[15:13:24]   SEO: Checking 'gutter installation Jensen Beach FL'
+[15:13:30] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[15:13:30] SEO ANALYST: kmjk.pro found in 0/5 searches
+[15:13:30] STRATEGY PLANNER: Starting report generation
+[15:13:30] STRATEGY: Report written (487 leads, 10 drafts)
+[15:13:32] GITHUB: Pushed 487 leads successfully
+[15:13:32] HTML GENERATOR: Creating CRM dashboard
+[15:13:32] HTML GENERATOR: CRM dashboard updated
+[15:13:32] CYCLE 7 COMPLETE | 373 min remaining
+[15:13:32] Cooling down 900s...
+[15:28:32] 
+======================================== CYCLE 8 ========================================
+[15:28:32] LEAD SCOUT: Starting cycle
+[15:28:32]   [1/15] epoxy flooring Nashville TN
+[15:28:40]   [2/15] epoxy flooring Palm City FL
+[15:28:49]   [3/15] gutter guards Stuart FL
+[15:28:59]   [4/15] property management Palm City FL
+[15:29:08]   [5/15] site:craigslist.org handyman Stuart FL
+[15:29:15]   [6/15] general contractor Stuart FL
+[15:29:24]   [7/15] commercial cleaning company Stuart FL
+[15:29:32]   [8/15] apartment complex Stuart FL
+[15:29:41]   [9/15] kitchen renovation Austin TX
+[15:29:49]   [10/15] kitchen remodel Jensen Beach FL
+[15:29:58]   [11/15] kitchen renovation Scottsdale AZ
+[15:30:07]   [12/15] bathroom remodel Stuart FL
+[15:30:15]   [13/15] assisted living Treasure Coast FL
+[15:30:24]   [14/15] kitchen renovation Stuart FL
+[15:30:33]   [15/15] real estate investor Treasure Coast FL
+[15:30:41] LEAD SCOUT: +9 leads (total: 496)
+[15:30:41] OUTREACH WRITER: Starting drafts
+[15:30:41] OUTREACH WRITER: Wrote 0 new drafts
+[15:30:41] STRATEGY PLANNER: Starting report generation
+[15:30:41] STRATEGY: Report written (496 leads, 10 drafts)
+[15:30:43] GITHUB: Pushed 496 leads successfully
+[15:30:43] HTML GENERATOR: Creating CRM dashboard
+[15:30:43] HTML GENERATOR: CRM dashboard updated
+[15:30:43] CYCLE 8 COMPLETE | 356 min remaining
+[15:30:43] Cooling down 900s...
+[15:45:43] 
+======================================== CYCLE 9 ========================================
+[15:45:43] LEAD SCOUT: Starting cycle
+[15:45:43]   [1/15] kitchen remodel Jensen Beach FL
+[15:45:51]   [2/15] kitchen renovation Austin TX
+[15:45:59]   [3/15] property management Port St Lucie FL
+[15:46:08]   [4/15] site:craigslist.org kitchen renovation treasure coast FL
+[15:46:17]   [5/15] property management companies Stuart FL
+[15:46:26]   [6/15] epoxy flooring contractor Boca Raton FL
+[15:46:35]   [7/15] epoxy flooring Nashville TN
+[15:46:43]   [8/15] handyman Stuart FL
+[15:46:51]   [9/15] kitchen renovation contractor Naples FL
+[15:46:59]   [10/15] property management Jensen Beach FL
+[15:47:08]   [11/15] auto body shop Stuart FL
+[15:47:16]   [12/15] gutter guards Stuart FL
+[15:47:25]   [13/15] warehouse Stuart FL
+[15:47:33]   [14/15] roofing contractor Stuart FL
+[15:47:41]   [15/15] site:craigslist.org handyman Stuart FL
+[15:47:50] LEAD SCOUT: +11 leads (total: 507)
+[15:47:50] STRATEGY PLANNER: Starting report generation
+[15:47:50] STRATEGY: Report written (507 leads, 10 drafts)
+[15:47:51] GITHUB: Pushed 507 leads successfully
+[15:47:51] HTML GENERATOR: Creating CRM dashboard
+[15:47:51] HTML GENERATOR: CRM dashboard updated
+[15:47:51] CYCLE 9 COMPLETE | 338 min remaining
+[15:47:51] Cooling down 900s...
+[16:02:51] 
+======================================== CYCLE 10 ========================================
+[16:02:51] LEAD SCOUT: Starting cycle
+[16:02:51]   [1/15] epoxy flooring contractor Boca Raton FL
+[16:03:00]   [2/15] site:craigslist.org kitchen renovation treasure coast FL
+[16:03:07]   [3/15] auto body shop Stuart FL
+[16:03:17]   [4/15] commercial cleaning company Stuart FL
+[16:03:26]   [5/15] car dealership Stuart FL
+[16:03:34]   [6/15] epoxy flooring Palm City FL
+[16:03:43]   [7/15] general contractor Sarasota FL
+[16:03:51]   [8/15] mobile detailing West Palm Beach FL
+[16:03:59]   [9/15] property management Port St Lucie FL
+[16:04:08]   [10/15] general contractor Charlotte NC
+[16:04:16]   [11/15] assisted living Treasure Coast FL
+[16:04:25]   [12/15] general contractor Stuart FL
+[16:04:33]   [13/15] apartment complex Stuart FL
+[16:04:41]   [14/15] property management Jensen Beach FL
+[16:04:53]   [15/15] mobile detailing Stuart FL
+[16:05:01] LEAD SCOUT: +13 leads (total: 520)
+[16:05:01] SEO ANALYST: Starting check
+[16:05:01]   SEO: Checking 'general contractor Jensen Beach FL'
+[16:05:07]   SEO: Checking 'bathroom remodel Stuart FL'
+[16:05:14]   SEO: Checking 'handyman Stuart FL'
+[16:05:20]   SEO: Checking 'kitchen renovation Stuart FL'
+[16:05:26]   SEO: Checking 'epoxy flooring Stuart FL'
+[16:05:32] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[16:05:32] SEO ANALYST: kmjk.pro found in 0/5 searches
+[16:05:32] OUTREACH WRITER: Starting drafts
+[16:05:32] OUTREACH WRITER: Wrote 0 new drafts
+[16:05:32] STRATEGY PLANNER: Starting report generation
+[16:05:32] STRATEGY: Report written (520 leads, 10 drafts)
+[16:05:33] GITHUB: Pushed 520 leads successfully
+[16:05:33] HTML GENERATOR: Creating CRM dashboard
+[16:05:33] HTML GENERATOR: CRM dashboard updated
+[16:05:33] CYCLE 10 COMPLETE | 321 min remaining
+[16:05:33] Cooling down 900s...
+[16:20:33] 
+======================================== CYCLE 11 ========================================
+[16:20:33] LEAD SCOUT: Starting cycle
+[16:20:33]   [1/15] general contractor Charlotte NC
+[16:20:41]   [2/15] epoxy flooring Palm City FL
+[16:20:49]   [3/15] general contractor Sarasota FL
+[16:20:58]   [4/15] apartment complex Stuart FL
+[16:21:07]   [5/15] handyman Stuart FL
+[16:21:16]   [6/15] kitchen remodel Jensen Beach FL
+[16:21:24]   [7/15] real estate investor Treasure Coast FL
+[16:21:34]   [8/15] assisted living Treasure Coast FL
+[16:21:43]   [9/15] restaurant Stuart FL
+[16:21:51]   [10/15] epoxy flooring contractor Stuart FL
+[16:22:00]   [11/15] kitchen renovation contractor Naples FL
+[16:22:08]   [12/15] gutter guards Stuart FL
+[16:22:16]   [13/15] mobile detailing Stuart FL
+[16:22:25]   [14/15] epoxy flooring Nashville TN
+[16:22:34]   [15/15] kitchen renovation Stuart FL
+[16:22:45] LEAD SCOUT: +9 leads (total: 529)
+[16:22:45] STRATEGY PLANNER: Starting report generation
+[16:22:45] STRATEGY: Report written (529 leads, 10 drafts)
+[16:22:46] GITHUB: Pushed 529 leads successfully
+[16:22:46] HTML GENERATOR: Creating CRM dashboard
+[16:22:46] HTML GENERATOR: CRM dashboard updated
+[16:22:46] CYCLE 11 COMPLETE | 304 min remaining
+[16:22:46] Cooling down 900s...
+[16:37:46] 
+======================================== CYCLE 12 ========================================
+[16:37:46] LEAD SCOUT: Starting cycle
+[16:37:46]   [1/15] property management Jensen Beach FL
+[16:37:55]   [2/15] site:craigslist.org handyman Stuart FL
+[16:38:03]   [3/15] gutter guards Stuart FL
+[16:38:11]   [4/15] handyman Stuart FL
+[16:38:19]   [5/15] property management companies Stuart FL
+[16:38:28]   [6/15] HOA management company Martin County FL
+[16:38:35]   [7/15] warehouse Stuart FL
+[16:38:44]   [8/15] epoxy flooring Palm City FL
+[16:38:52]   [9/15] epoxy flooring Nashville TN
+[16:39:01]   [10/15] hospital Stuart FL
+[16:39:08]   [11/15] property management Port St Lucie FL
+[16:39:16]   [12/15] commercial cleaning company Stuart FL
+[16:39:25]   [13/15] kitchen renovation Stuart FL
+[16:39:33]   [14/15] assisted living Treasure Coast FL
+[16:39:41]   [15/15] auto body shop Stuart FL
+[16:39:50] LEAD SCOUT: +9 leads (total: 538)
+[16:39:50] OUTREACH WRITER: Starting drafts
+[16:39:50] OUTREACH WRITER: Wrote 0 new drafts
+[16:39:50] STRATEGY PLANNER: Starting report generation
+[16:39:50] STRATEGY: Report written (538 leads, 10 drafts)
+[16:39:51] GITHUB: Pushed 538 leads successfully
+[16:39:51] HTML GENERATOR: Creating CRM dashboard
+[16:39:51] HTML GENERATOR: CRM dashboard updated
+[16:39:51] CYCLE 12 COMPLETE | 286 min remaining
+[16:39:51] Cooling down 900s...
+[16:54:51] 
+======================================== CYCLE 13 ========================================
+[16:54:51] LEAD SCOUT: Starting cycle
+[16:54:51]   [1/15] warehouse Stuart FL
+[16:55:00]   [2/15] epoxy flooring contractor Boca Raton FL
+[16:55:07]   [3/15] apartment complex Stuart FL
+[16:55:16]   [4/15] epoxy flooring contractor Stuart FL
+[16:55:24]   [5/15] restaurant Stuart FL
+[16:55:32]   [6/15] kitchen renovation Austin TX
+[16:55:40]   [7/15] mobile detailing Stuart FL
+[16:55:49]   [8/15] general contractor Stuart FL
+[16:55:57]   [9/15] site:craigslist.org kitchen renovation treasure coast FL
+[16:56:05]   [10/15] assisted living Treasure Coast FL
+[16:56:14]   [11/15] car dealership Stuart FL
+[16:56:23]   [12/15] general contractor Charlotte NC
+[16:56:31]   [13/15] property management Jensen Beach FL
+[16:56:40]   [14/15] commercial cleaning company Stuart FL
+[16:56:49]   [15/15] epoxy flooring Palm City FL
+[16:56:57] LEAD SCOUT: +5 leads (total: 543)
+[16:56:57] SEO ANALYST: Starting check
+[16:56:57]   SEO: Checking 'epoxy flooring Stuart FL'
+[16:57:04]   SEO: Checking 'kitchen renovation Stuart FL'
+[16:57:09]   SEO: Checking 'general contractor Jensen Beach FL'
+[16:57:16]   SEO: Checking 'roofing contractor Stuart FL'
+[16:57:21]   SEO: Checking 'epoxy flooring Jensen Beach FL'
+[16:57:28] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[16:57:28] SEO ANALYST: kmjk.pro found in 0/5 searches
+[16:57:28] STRATEGY PLANNER: Starting report generation
+[16:57:28] STRATEGY: Report written (543 leads, 10 drafts)
+[16:57:29] GITHUB: Pushed 543 leads successfully
+[16:57:29] HTML GENERATOR: Creating CRM dashboard
+[16:57:29] HTML GENERATOR: CRM dashboard updated
+[16:57:29] CYCLE 13 COMPLETE | 269 min remaining
+[16:57:29] Cooling down 900s...
+[17:12:29] 
+======================================== CYCLE 14 ========================================
+[17:12:29] LEAD SCOUT: Starting cycle
+[17:12:29]   [1/15] epoxy flooring contractor Boca Raton FL
+[17:12:38]   [2/15] car dealership Stuart FL
+[17:12:47]   [3/15] epoxy flooring Palm City FL
+[17:12:55]   [4/15] auto body shop Stuart FL
+[17:13:03]   [5/15] roofing contractor Stuart FL
+[17:13:12]   [6/15] warehouse Stuart FL
+[17:13:20]   [7/15] handyman Stuart FL
+[17:13:30]   [8/15] epoxy flooring Nashville TN
+[17:13:38]   [9/15] general contractor Sarasota FL
+[17:13:47]   [10/15] site:craigslist.org kitchen renovation treasure coast FL
+[17:13:55]   [11/15] kitchen renovation Stuart FL
+[17:14:03]   [12/15] property management Palm City FL
+[17:14:12]   [13/15] real estate investor Treasure Coast FL
+[17:14:20]   [14/15] mobile detailing Stuart FL
+[17:14:28]   [15/15] property management Jensen Beach FL
+[17:14:37] LEAD SCOUT: +12 leads (total: 574)
+[17:14:37] OUTREACH WRITER: Starting drafts
+[17:14:37] OUTREACH WRITER: Wrote 0 new drafts
+[17:14:37] STRATEGY PLANNER: Starting report generation
+[17:14:37] STRATEGY: Report written (574 leads, 10 drafts)
+[17:14:38] GITHUB: Pushed 574 leads successfully
+[17:14:38] HTML GENERATOR: Creating CRM dashboard
+[17:14:38] HTML GENERATOR: CRM dashboard updated
+[17:14:38] CYCLE 14 COMPLETE | 252 min remaining
+[17:14:38] Cooling down 900s...
+[17:29:38] 
+======================================== CYCLE 15 ========================================
+[17:29:38] LEAD SCOUT: Starting cycle
+[17:29:38]   [1/15] epoxy flooring Nashville TN
+[17:29:47]   [2/15] commercial cleaning company Stuart FL
+[17:29:55]   [3/15] general contractor Charlotte NC
+[17:30:03]   [4/15] real estate investor Treasure Coast FL
+[17:30:12]   [5/15] warehouse Stuart FL
+[17:30:20]   [6/15] property management companies Stuart FL
+[17:30:30]   [7/15] kitchen renovation Austin TX
+[17:30:38]   [8/15] bathroom remodel Stuart FL
+[17:30:47]   [9/15] kitchen remodel Jensen Beach FL
+[17:30:55]   [10/15] hospital Stuart FL
+[17:31:03]   [11/15] car dealership Stuart FL
+[17:31:11]   [12/15] general contractor Stuart FL
+[17:31:21]   [13/15] site:craigslist.org handyman Stuart FL
+[17:31:29]   [14/15] auto body shop Stuart FL
+[17:31:38]   [15/15] property management Jensen Beach FL
+[17:31:46] LEAD SCOUT: +7 leads (total: 581)
+[17:31:46] STRATEGY PLANNER: Starting report generation
+[17:31:46] STRATEGY: Report written (581 leads, 10 drafts)
+[17:31:48] GITHUB: Pushed 581 leads successfully
+[17:31:48] HTML GENERATOR: Creating CRM dashboard
+[17:31:48] HTML GENERATOR: CRM dashboard updated
+[17:31:48] CYCLE 15 COMPLETE | 235 min remaining
+[17:31:48] Cooling down 900s...
+[17:46:48] 
+======================================== CYCLE 16 ========================================
+[17:46:48] LEAD SCOUT: Starting cycle
+[17:46:48]   [1/15] assisted living Treasure Coast FL
+[17:46:58]   [2/15] site:craigslist.org handyman Stuart FL
+[17:47:06]   [3/15] bathroom remodel Stuart FL
+[17:47:15]   [4/15] epoxy flooring contractor Boca Raton FL
+[17:47:23]   [5/15] general contractor Charlotte NC
+[17:47:31]   [6/15] kitchen renovation Austin TX
+[17:47:40]   [7/15] handyman Stuart FL
+[17:47:48]   [8/15] epoxy flooring Nashville TN
+[17:47:57]   [9/15] property management Palm City FL
+[17:48:06]   [10/15] site:craigslist.org kitchen renovation treasure coast FL
+[17:48:15]   [11/15] kitchen remodel Jensen Beach FL
+[17:48:24]   [12/15] property management companies Stuart FL
+[17:48:33]   [13/15] restaurant Stuart FL
+[17:48:41]   [14/15] epoxy flooring contractor Stuart FL
+[17:48:49]   [15/15] roofing contractor Stuart FL
+[17:48:57] LEAD SCOUT: +4 leads (total: 585)
+[17:48:57] SEO ANALYST: Starting check
+[17:48:57]   SEO: Checking 'gutter installation Jensen Beach FL'
+[17:49:04]   SEO: Checking 'handyman Stuart FL'
+[17:49:10]   SEO: Checking 'roofing contractor Stuart FL'
+[17:49:15]   SEO: Checking 'kitchen renovation Palm City FL'
+[17:49:22]   SEO: Checking 'bathroom remodel Stuart FL'
+[17:49:29] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[17:49:29] SEO ANALYST: kmjk.pro found in 0/5 searches
+[17:49:29] OUTREACH WRITER: Starting drafts
+[17:49:29] OUTREACH WRITER: Wrote 0 new drafts
+[17:49:29] STRATEGY PLANNER: Starting report generation
+[17:49:29] STRATEGY: Report written (585 leads, 10 drafts)
+[17:49:30] GITHUB: Pushed 585 leads successfully
+[17:49:30] HTML GENERATOR: Creating CRM dashboard
+[17:49:30] HTML GENERATOR: CRM dashboard updated
+[17:49:30] CYCLE 16 COMPLETE | 217 min remaining
+[17:49:30] Cooling down 900s...
+[18:04:30] 
+======================================== CYCLE 17 ========================================
+[18:04:30] LEAD SCOUT: Starting cycle
+[18:04:30]   [1/15] car dealership Stuart FL
+[18:04:39]   [2/15] HOA management company Martin County FL
+[18:04:47]   [3/15] general contractor Sarasota FL
+[18:04:55]   [4/15] real estate investor Treasure Coast FL
+[18:05:04]   [5/15] property management Port St Lucie FL
+[18:05:13]   [6/15] epoxy flooring contractor Boca Raton FL
+[18:05:20]   [7/15] epoxy flooring contractor Stuart FL
+[18:05:29]   [8/15] general contractor Charlotte NC
+[18:05:37]   [9/15] restaurant Stuart FL
+[18:05:45]   [10/15] construction company Stuart FL
+[18:05:55]   [11/15] site:craigslist.org handyman Stuart FL
+[18:06:03]   [12/15] gutter guards Stuart FL
+[18:06:11]   [13/15] kitchen renovation Scottsdale AZ
+[18:06:20]   [14/15] mobile detailing West Palm Beach FL
+[18:06:28]   [15/15] handyman Stuart FL
+[18:06:38] LEAD SCOUT: +4 leads (total: 589)
+[18:06:38] STRATEGY PLANNER: Starting report generation
+[18:06:38] STRATEGY: Report written (589 leads, 10 drafts)
+[18:06:39] GITHUB: Pushed 589 leads successfully
+[18:06:39] HTML GENERATOR: Creating CRM dashboard
+[18:06:39] HTML GENERATOR: CRM dashboard updated
+[18:06:39] CYCLE 17 COMPLETE | 200 min remaining
+[18:06:39] Cooling down 900s...
+[18:21:39] 
+======================================== CYCLE 18 ========================================
+[18:21:39] LEAD SCOUT: Starting cycle
+[18:21:39]   [1/15] kitchen renovation contractor Naples FL
+[18:21:48]   [2/15] auto body shop Stuart FL
+[18:21:57]   [3/15] kitchen renovation Stuart FL
+[18:22:05]   [4/15] apartment complex Stuart FL
+[18:22:14]   [5/15] epoxy flooring contractor Stuart FL
+[18:22:23]   [6/15] property management companies Stuart FL
+[18:22:31]   [7/15] mobile detailing Stuart FL
+[18:22:40]   [8/15] epoxy flooring Palm City FL
+[18:22:48]   [9/15] commercial cleaning company Stuart FL
+[18:22:56]   [10/15] epoxy flooring Nashville TN
+[18:23:05]   [11/15] bathroom remodel Stuart FL
+[18:23:12]   [12/15] kitchen renovation Austin TX
+[18:23:21]   [13/15] assisted living Treasure Coast FL
+[18:23:29]   [14/15] handyman Stuart FL
+[18:23:36]   [15/15] real estate investor Treasure Coast FL
+[18:23:45] LEAD SCOUT: +4 leads (total: 593)
+[18:23:45] OUTREACH WRITER: Starting drafts
+[18:23:45] OUTREACH WRITER: Wrote 0 new drafts
+[18:23:45] STRATEGY PLANNER: Starting report generation
+[18:23:45] STRATEGY: Report written (593 leads, 10 drafts)
+[18:23:46] GITHUB: Pushed 593 leads successfully
+[18:23:46] HTML GENERATOR: Creating CRM dashboard
+[18:23:46] HTML GENERATOR: CRM dashboard updated
+[18:23:46] CYCLE 18 COMPLETE | 183 min remaining
+[18:23:46] Cooling down 900s...
+[18:38:46] 
+======================================== CYCLE 19 ========================================
+[18:38:46] LEAD SCOUT: Starting cycle
+[18:38:46]   [1/15] warehouse Stuart FL
+[18:38:54]   [2/15] construction company Stuart FL
+[18:39:02]   [3/15] property management companies Stuart FL
+[18:39:11]   [4/15] commercial cleaning company Stuart FL
+[18:39:19]   [5/15] mobile detailing West Palm Beach FL
+[18:39:27]   [6/15] property management Port St Lucie FL
+[18:39:35]   [7/15] bathroom remodel Stuart FL
+[18:39:43]   [8/15] assisted living Treasure Coast FL
+[18:39:51]   [9/15] epoxy flooring Palm City FL
+[18:39:59]   [10/15] car dealership Stuart FL
+[18:40:07]   [11/15] real estate investor Treasure Coast FL
+[18:40:15]   [12/15] HOA management company Martin County FL
+[18:40:24]   [13/15] general contractor Charlotte NC
+[18:40:32]   [14/15] property management Palm City FL
+[18:40:41]   [15/15] kitchen renovation Austin TX
+[18:40:48] LEAD SCOUT: +7 leads (total: 600)
+[18:40:48] SEO ANALYST: Starting check
+[18:40:48]   SEO: Checking 'roofing contractor Stuart FL'
+[18:40:54]   SEO: Checking 'kitchen renovation Palm City FL'
+[18:41:00]   SEO: Checking 'kitchen remodel Jensen Beach FL'
+[18:41:06]   SEO: Checking 'gutter installation Jensen Beach FL'
+[18:41:14]   SEO: Checking 'handyman Stuart FL'
+[18:41:20] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[18:41:20] SEO ANALYST: kmjk.pro found in 0/5 searches
+[18:41:20] STRATEGY PLANNER: Starting report generation
+[18:41:20] STRATEGY: Report written (600 leads, 10 drafts)
+[18:41:21] GITHUB: Pushed 600 leads successfully
+[18:41:21] HTML GENERATOR: Creating CRM dashboard
+[18:41:21] HTML GENERATOR: CRM dashboard updated
+[18:41:21] CYCLE 19 COMPLETE | 165 min remaining
+[18:41:21] Cooling down 900s...
+[18:56:21] 
+======================================== CYCLE 20 ========================================
+[18:56:21] LEAD SCOUT: Starting cycle
+[18:56:21]   [1/15] site:craigslist.org kitchen renovation treasure coast FL
+[18:56:29]   [2/15] property management Palm City FL
+[18:56:38]   [3/15] handyman Stuart FL
+[18:56:46]   [4/15] kitchen renovation Scottsdale AZ
+[18:56:56]   [5/15] property management Port St Lucie FL
+[18:57:04]   [6/15] auto body shop Stuart FL
+[18:57:13]   [7/15] epoxy flooring Palm City FL
+[18:57:23]   [8/15] kitchen renovation Austin TX
+[18:57:30]   [9/15] apartment complex Stuart FL
+[18:57:38]   [10/15] hospital Stuart FL
+[18:57:48]   [11/15] general contractor Sarasota FL
+[18:57:56]   [12/15] HOA management company Martin County FL
+[18:58:04]   [13/15] bathroom remodel Stuart FL
+[18:58:12]   [14/15] general contractor Stuart FL
+[18:58:20]   [15/15] mobile detailing Stuart FL
+[18:58:29] LEAD SCOUT: +5 leads (total: 605)
+[18:58:29] OUTREACH WRITER: Starting drafts
+[18:58:29] OUTREACH WRITER: Wrote 0 new drafts
+[18:58:29] STRATEGY PLANNER: Starting report generation
+[18:58:29] STRATEGY: Report written (605 leads, 10 drafts)
+[18:58:30] GITHUB: Pushed 605 leads successfully
+[18:58:30] HTML GENERATOR: Creating CRM dashboard
+[18:58:30] HTML GENERATOR: CRM dashboard updated
+[18:58:30] CYCLE 20 COMPLETE | 148 min remaining
+[18:58:30] Cooling down 900s...
+[19:13:30] 
+======================================== CYCLE 21 ========================================
+[19:13:30] LEAD SCOUT: Starting cycle
+[19:13:30]   [1/15] commercial cleaning company Stuart FL
+[19:13:38]   [2/15] kitchen renovation contractor Naples FL
+[19:13:46]   [3/15] HOA management company Martin County FL
+[19:13:54]   [4/15] apartment complex Stuart FL
+[19:14:03]   [5/15] property management Jensen Beach FL
+[19:14:11]   [6/15] assisted living Treasure Coast FL
+[19:14:20]   [7/15] bathroom remodel Stuart FL
+[19:14:29]   [8/15] hospital Stuart FL
+[19:14:37]   [9/15] epoxy flooring contractor Stuart FL
+[19:14:46]   [10/15] mobile detailing West Palm Beach FL
+[19:14:54]   [11/15] kitchen remodel Jensen Beach FL
+[19:15:03]   [12/15] kitchen renovation Austin TX
+[19:15:12]   [13/15] site:craigslist.org handyman Stuart FL
+[19:15:20]   [14/15] auto body shop Stuart FL
+[19:15:28]   [15/15] epoxy flooring Palm City FL
+[19:15:36] LEAD SCOUT: +5 leads (total: 610)
+[19:15:36] STRATEGY PLANNER: Starting report generation
+[19:15:36] STRATEGY: Report written (610 leads, 10 drafts)
+[19:15:38] GITHUB: Pushed 610 leads successfully
+[19:15:38] HTML GENERATOR: Creating CRM dashboard
+[19:15:38] HTML GENERATOR: CRM dashboard updated
+[19:15:38] CYCLE 21 COMPLETE | 131 min remaining
+[19:15:38] Cooling down 900s...
+[19:30:38] 
+======================================== CYCLE 22 ========================================
+[19:30:38] LEAD SCOUT: Starting cycle
+[19:30:38]   [1/15] mobile detailing Stuart FL
+[19:30:46]   [2/15] assisted living Treasure Coast FL
+[19:30:54]   [3/15] kitchen renovation Austin TX
+[19:31:02]   [4/15] HOA management company Martin County FL
+[19:31:11]   [5/15] property management companies Stuart FL
+[19:31:19]   [6/15] warehouse Stuart FL
+[19:31:27]   [7/15] general contractor Charlotte NC
+[19:31:35]   [8/15] bathroom remodel Stuart FL
+[19:31:43]   [9/15] epoxy flooring contractor Boca Raton FL
+[19:31:51]   [10/15] gutter guards Stuart FL
+[19:31:59]   [11/15] commercial cleaning company Stuart FL
+[19:32:08]   [12/15] kitchen renovation contractor Naples FL
+[19:32:16]   [13/15] site:craigslist.org kitchen renovation treasure coast FL
+[19:32:23]   [14/15] property management Jensen Beach FL
+[19:32:31]   [15/15] car dealership Stuart FL
+[19:32:40] LEAD SCOUT: +7 leads (total: 617)
+[19:32:40] SEO ANALYST: Starting check
+[19:32:40]   SEO: Checking 'gutter installation Jensen Beach FL'
+[19:32:47]   SEO: Checking 'epoxy flooring Stuart FL'
+[19:32:53]   SEO: Checking 'kitchen renovation Stuart FL'
+[19:32:59]   SEO: Checking 'kitchen remodel Jensen Beach FL'
+[19:33:05]   SEO: Checking 'handyman Stuart FL'
+[19:33:11] SEO ANALYST: Wrote report to /home/chris/.openclaw/workspace/reports/seo/seo_2026-02-12.json
+[19:33:11] SEO ANALYST: kmjk.pro found in 0/5 searches
+[19:33:11] OUTREACH WRITER: Starting drafts
+[19:33:11] OUTREACH WRITER: Wrote 0 new drafts
+[19:33:11] STRATEGY PLANNER: Starting report generation
+[19:33:11] STRATEGY: Report written (617 leads, 10 drafts)
+[19:33:12] GITHUB: Pushed 617 leads successfully
+[19:33:12] HTML GENERATOR: Creating CRM dashboard
+[19:33:12] HTML GENERATOR: CRM dashboard updated
+[19:33:12] CYCLE 22 COMPLETE | 113 min remaining
+[19:33:12] Cooling down 900s...
+[19:48:12] 
+======================================== CYCLE 23 ========================================
+[19:48:12] LEAD SCOUT: Starting cycle
+[19:48:12]   [1/15] handyman Stuart FL
+[19:48:21]   [2/15] property management Palm City FL
+[19:48:29]   [3/15] epoxy flooring Nashville TN
+[19:48:37]   [4/15] bathroom remodel Stuart FL
+[19:48:46]   [5/15] assisted living Treasure Coast FL
+[19:48:55]   [6/15] auto body shop Stuart FL
+[19:49:03]   [7/15] general contractor Sarasota FL
+[19:49:12]   [8/15] property management companies Stuart FL
+[19:49:20]   [9/15] mobile detailing Stuart FL
+[19:49:27]   [10/15] epoxy flooring Palm City FL
+[19:49:36]   [11/15] car dealership Stuart FL
+[19:49:44]   [12/15] epoxy flooring contractor Boca Raton FL
+[19:49:54]   [13/15] general contractor Charlotte NC
+[19:50:02]   [14/15] kitchen renovation Stuart FL
+[19:50:10]   [15/15] hospital Stuart FL
+[19:50:18] LEAD SCOUT: +5 leads (total: 622)
+[19:50:18] STRATEGY PLANNER: Starting report generation
+[19:50:18] STRATEGY: Report written (622 leads, 10 drafts)
+[19:50:19] GITHUB: Pushed 622 leads successfully
+[19:50:19] HTML GENERATOR: Creating CRM dashboard
+[19:50:19] HTML GENERATOR: CRM dashboard updated
+[19:50:19] CYCLE 23 COMPLETE | 96 min remaining
+[19:50:19] Cooling down 900s...

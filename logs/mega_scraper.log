@@ -1,0 +1,592 @@
+[02:40:16] ============================================================
+[02:40:16] MEGA SCRAPER — 47 markets, 33 query templates
+[02:40:16] Batch size: 20
+[02:40:16] ============================================================
+[02:40:16] Z.AI search loaded
+[02:40:16] Existing leads: 569
+[02:40:16] Total query pool: 1551 queries
+[02:40:16]   [1/19] mobile detailing business Hobe Sound FL...
+[02:40:17]     0 new leads
+[02:40:37]   [2/19] kitchen renovation company Sewall's Point FL...
+[02:40:38]     0 new leads
+[02:40:58]   [3/19] concrete coating contractor Jensen Beach FL...
+[02:41:00]     0 new leads
+[02:41:20]   [4/19] senior living community Fort Pierce FL...
+[02:41:22]     0 new leads
+[02:41:42]   [5/19] bathroom remodeling contractor Fort Pierce FL...
+[02:41:44]     0 new leads
+[02:42:04]   [6/19] epoxy flooring contractor Stuart FL...
+[02:42:05]     0 new leads
+[02:42:25]   [7/19] construction company fleet Delray Beach FL...
+[02:42:27]     0 new leads
+[02:42:47]   [8/19] real estate investor Longboat Key FL...
+[02:42:48]     0 new leads
+[02:43:08]   [9/19] construction company fleet Sarasota FL...
+[02:43:10]     0 new leads
+[02:43:30]   [10/19] car dealership Jupiter FL...
+[02:43:31]     0 new leads
+[02:43:51]   [11/19] auto detailing service West Palm Beach FL...
+[02:43:53]     0 new leads
+[02:44:13]   [12/19] restaurant West Palm Beach FL...
+[02:44:15]     0 new leads
+[02:44:35]   [13/19] fleet management company Parkland FL...
+[02:44:37]     0 new leads
+[02:44:57]   [14/19] home renovation contractor Delray Beach FL...
+[02:44:58]     0 new leads
+[02:45:18]   [15/19] garage floor coating company Frisco TX...
+[02:45:20]     0 new leads
+[02:45:40]   [16/19] senior living community Nashville TN...
+[02:45:41]     0 new leads
+[02:46:01]   [17/19] HOA management company Scottsdale AZ...
+[02:46:03]     0 new leads
+[02:46:23]   [18/19] fleet management company Palm Beach Gardens FL...
+[02:46:24]     0 new leads
+[02:46:44]   [19/19] fleet management company St Petersburg FL...
+[02:46:46]     0 new leads
+[02:46:46] MEGA SCRAPER COMPLETE: 0 new leads from 19 searches
+[02:46:46] Total leads now: 569
+[02:46:46] ============================================================
+[02:46:46] CRM rebuilt
+[02:49:38] ============================================================
+[02:49:38] MEGA SCRAPER — 47 markets, 33 query templates
+[02:49:38] Batch size: 10
+[02:49:38] ============================================================
+[02:49:38] Brave Search API loaded
+[02:49:38] Existing leads: 569
+[02:49:38] Total query pool: 1551 queries
+[02:49:38]   [1/9] restaurant kitchen renovation Stuart FL...
+[02:49:39]     + [client] Expert Kitchen Remodeling in Stuart (Stuart)
+[02:49:39]     + [client] Home (Stuart)
+[02:49:39]     + [client] Stuart, Florida (Stuart)
+[02:49:39]     + [client] Kitchen Renovation Company (Stuart)
+[02:49:39]     + [client] Transitional Kitchens Gallery (Stuart)
+[02:49:39]     + [client] Flooring store in Stuart, FL (Stuart)
+[02:49:39]     + [client] Kitchen Remodeling in Stuart, FL from Ag (Stuart)
+[02:49:39]     + [client] Stuart Kitchen Contractors (Stuart)
+[02:49:39]     8 new leads
+[02:49:41]   [2/9] condo association Jensen Beach FL...
+[02:49:42]     + [client] Jensen Beach Club Assoc, 4500 NE Ocean B (Jensen Beach)
+[02:49:42]     + [client] Jensen Beach Club Condos For Sale (Jensen Beach)
+[02:49:42]     + [client] Jensen Beach Club, Hutchinson Island, FL (Jensen Beach)
+[02:49:42]     + [client] CONTACT US (Jensen Beach)
+[02:49:42]     + [client] Home (Jensen Beach)
+[02:49:42]     + [client] Islandia II Condominium (Jensen Beach)
+[02:49:42]     + [client] Jensen Beach Club Hutchinson Island 6 Ho (Jensen Beach)
+[02:49:42]     + [client] The Princess Condominium (Jensen Beach)
+[02:49:42]     + [client] Jensen Beach Club (Jensen Beach)
+[02:49:42]     9 new leads
+[02:49:44]   [3/9] senior living community Fort Pierce FL...
+[02:49:44]     + [client] Lake Forest Park (Fort Pierce)
+[02:49:44]     + [client] Best Assisted Living Facilities in Fort  (Fort Pierce)
+[02:49:44]     + [client] 14 Assisted Living Facilities in Fort Pi (Fort Pierce)
+[02:49:44]     + [client] The Manor of Fort Pierce (Fort Pierce)
+[02:49:44]     + [client] The Best Assisted Living Facilities in F (Fort Pierce)
+[02:49:44]     + [client] Senior Living Apartments for Rent in For (Fort Pierce)
+[02:49:44]     + [client] Home (Fort Pierce)
+[02:49:44]     + [client] 25 Senior Living Communities in FORT PIE (Fort Pierce)
+[02:49:44]     + [client] Senior Living Facilities in Fort Pierce, (Fort Pierce)
+[02:49:44]     + [client] 17 Senior Living Communities in Fort Pie (Fort Pierce)
+[02:49:44]     10 new leads
+[02:49:46]   [4/9] condo association Jupiter FL...
+[02:49:47]     + [client] Jupiter Harbour Condominium Association, (Jupiter)
+[02:49:47]     + [client] Jupiter Bay Condominium Association (Jupiter)
+[02:49:47]     + [client] Home (Jupiter)
+[02:49:47]     + [client] DBPR (Jupiter)
+[02:49:47]     + [client] Jupiter Cove (Jupiter)
+[02:49:47]     + [client] 353 S Us Highway 1 D209 Jupiter 33477 (Jupiter)
+[02:49:47]     + [client] Detail by Entity Name (Jupiter)
+[02:49:47]     + [client] Jupiter Bay East Condo Assoc, 353 S US H (Jupiter)
+[02:49:47]     + [client] Jupiter Bay 1 Condo Associates, 275 Palm (Jupiter)
+[02:49:47]     9 new leads
+[02:49:49]   [5/9] industrial building Alpharetta GA...
+[02:49:50]     + [client] Alpharetta, GA Industrial Properties for (Alpharetta)
+[02:49:50]     + [client] Noah Industrial LLC (Alpharetta)
+[02:49:50]     + [client] 1150 Alpha Dr, Alpharetta, GA 30004 (Alpharetta)
+[02:49:50]     + [client] 8280 Industrial Pl, Alpharetta, GA 30004 (Alpharetta)
+[02:49:50]     + [client] 4040 Nine McFarland Dr, Alpharetta, GA 3 (Alpharetta)
+[02:49:50]     + [client] Alpharetta City, GA Industrial & Warehou (Alpharetta)
+[02:49:50]     + [client] Industrial Steel Buildings in Alpharetta (Alpharetta)
+[02:49:50]     + [client] Commercial Construction in Alpharetta, G (Alpharetta)
+[02:49:50]     + [client] Alpharetta, GA Industrial Space for Leas (Alpharetta)
+[02:49:50]     9 new leads
+[02:49:52]   [6/9] kitchen remodeling contractor Bonita Springs FL...
+[02:49:53]     + [contractor] Kitchen & Bath Bonita Springs (Bonita Springs)
+[02:49:53]     + [contractor] Kitchen Remodeling Contractors Bonita Sp (Bonita Springs)
+[02:49:53]     + [contractor] Home (Bonita Springs)
+[02:49:53]     + [contractor] Kitchen & Bathroom Remodeling by Cutting (Bonita Springs)
+[02:49:53]     + [contractor] Plan Your New Kitchen Remodeling in Boni (Bonita Springs)
+[02:49:53]     + [contractor] Large & Small Kitchen Remodeling Contrac (Bonita Springs)
+[02:49:53]     + [contractor] Best Kitchen Remodeling Services in Boni (Bonita Springs)
+[02:49:53]     + [contractor] Remodeling Contractor (Bonita Springs)
+[02:49:53]     + [contractor] Kitchen Remodeling (Bonita Springs)
+[02:49:53]     9 new leads
+[02:49:55]   [7/9] concrete coating contractor Bonita Springs FL...
+[02:49:56]     + [contractor] Best Concrete Coating Services In Bonita (Bonita Springs)
+[02:49:56]     + [contractor] General Concrete Services (Bonita Springs)
+[02:49:56]     + [contractor] Epoxy Flooring Bonita Springs FL (Bonita Springs)
+[02:49:56]     + [contractor] Concrete Solutions and Innovations (Bonita Springs)
+[02:49:56]     + [contractor] Epoxy Garage Floor Coating Services in B (Bonita Springs)
+[02:49:56]     + [contractor] Castle Concrete (Bonita Springs)
+[02:49:56]     + [contractor] Concrete Coating Services in Bonita Spri (Bonita Springs)
+[02:49:56]     7 new leads
+[02:49:58]   [8/9] gutter installation Bradenton FL...
+[02:49:58]     + [contractor] Yoder Aluminum Gutters (Bradenton)
+[02:49:58]     + [contractor] Gutter Contractor (Bradenton)
+[02:49:58]     + [contractor] Bradenton Seamless Gutters & Protection (Bradenton)
+[02:49:58]     + [contractor] Client Challenge (Bradenton)
+[02:49:58]     + [contractor] Gutter Installation Tampa (Bradenton)
+[02:49:58]     + [contractor] Home (Bradenton)
+[02:49:58]     + [contractor] RAIN TO SHINE SEAMLESS GUTTERS & IRRIGAT (Bradenton)
+[02:49:58]     + [contractor] Gutter Solutions (Bradenton)
+[02:49:58]     8 new leads
+[02:50:00]   [9/9] garage floor coating company Frisco TX...
+[02:50:01]     + [contractor] Garage floor coating Frisco TX (Frisco)
+[02:50:01]     + [contractor] Frisco Garage Floor Coatings (Frisco)
+[02:50:01]     + [contractor] Frisco, TX Professional Garage Floor Coa (Frisco)
+[02:50:01]     + [contractor] Your Local Contractor & Expert for Epoxy (Frisco)
+[02:50:01]     + [contractor] Durable Garage Floor Coating (Frisco)
+[02:50:01]     + [contractor] Garage Floor Coating & Storage Solutions (Frisco)
+[02:50:01]     + [contractor] Garage Floor Coatings Frisco (Frisco)
+[02:50:01]     + [contractor] Professional Garage Floor Coatings (Frisco)
+[02:50:01]     + [contractor] Floor Coatings Contractor in Frisco, TX (Frisco)
+[02:50:01]     + [contractor] Garage Floor Coatings in Frisco TX (Frisco)
+[02:50:01]     10 new leads
+[02:50:01] MEGA SCRAPER COMPLETE: 79 new leads from 9 searches
+[02:50:01] Total leads now: 648
+[02:50:01] ============================================================
+[02:50:01] Running Apollo guesser on new leads...
+[02:54:09] CRM rebuilt
+[04:00:02] ============================================================
+[04:00:02] ============================================================
+[04:00:02] MEGA SCRAPER — 47 markets, 33 query templates
+[04:00:02] MEGA SCRAPER — 47 markets, 33 query templates
+[04:00:02] Batch size: 10
+[04:00:02] Batch size: 10
+[04:00:02] ============================================================
+[04:00:02] ============================================================
+[04:00:02] Brave Search API loaded
+[04:00:02] Brave Search API loaded
+[04:00:02] Brave searches this week: 0
+[04:00:02] Brave searches this week: 0
+[04:00:02] Existing leads: 648
+[04:00:02] Existing leads: 648
+[04:00:02] Total query pool: 1551 queries
+[04:00:02] Total query pool: 1551 queries
+[04:00:02]   [1/10] condo association Fort Pierce FL...
+[04:00:02]   [1/10] condo association Fort Pierce FL...
+[04:00:03]     + [client] High Point of Fort Pierce Condominium Se (Fort Pierce)
+[04:00:03]     + [client] High Point of Fort Pierce Condominium Se (Fort Pierce)
+[04:00:03]     + [client] High Point of Fort Pierce Condominium Se (Fort Pierce)
+[04:00:03]     + [client] High Point of Fort Pierce Condominium Se (Fort Pierce)
+[04:00:03]     + [client] High Point Condominium of Fort Pierce Se (Fort Pierce)
+[04:00:03]     + [client] High Point Condominium of Fort Pierce Se (Fort Pierce)
+[04:00:03]     + [client] About Us (Fort Pierce)
+[04:00:03]     + [client] About Us (Fort Pierce)
+[04:00:03]     + [client] Hemingway Condominium Association (Fort Pierce)
+[04:00:03]     + [client] Hemingway Condominium Association (Fort Pierce)
+[04:00:03]     + [client] About Hemingway Condominium Association, (Fort Pierce)
+[04:00:03]     + [client] About Hemingway Condominium Association, (Fort Pierce)
+[04:00:03]     + [client] Atrium on the Ocean Condo Association In (Fort Pierce)
+[04:00:03]     + [client] Atrium on the Ocean Condo Association In (Fort Pierce)
+[04:00:03]     7 new leads
+[04:00:03]     7 new leads
+[04:00:05]   [2/10] senior living community Port St Lucie FL...
+[04:00:05]   [2/10] senior living community Port St Lucie FL...
+[04:00:05]     + [client] The Brennity at Tradition Senior Living (Port St Lucie)
+[04:00:05]     + [client] The Brennity at Tradition Senior Living (Port St Lucie)
+[04:00:05]     + [client] 55+ Community in Port St. Lucie (Port St Lucie)
+[04:00:05]     + [client] 55+ Community in Port St. Lucie (Port St Lucie)
+[04:00:05]     + [client] Home (Port St Lucie)
+[04:00:05]     + [client] Home (Port St Lucie)
+[04:00:05]     + [client] Harbor Place at Port St. Lucie (Port St Lucie)
+[04:00:05]     + [client] Harbor Place at Port St. Lucie (Port St Lucie)
+[04:00:05]     + [client] The Best Assisted Living Facilities in P (Port St Lucie)
+[04:00:05]     + [client] The Best Assisted Living Facilities in P (Port St Lucie)
+[04:00:05]     + [client] Port St. Lucie Luxury Assisted Living (Port St Lucie)
+[04:00:05]     + [client] Port St. Lucie Luxury Assisted Living (Port St Lucie)
+[04:00:05]     + [client] Assisted Living Facility in Port St. Luc (Port St Lucie)
+[04:00:05]     + [client] Assisted Living Facility in Port St. Luc (Port St Lucie)
+[04:00:05]     + [client] The Palms of St. Lucie West (Port St Lucie)
+[04:00:05]     + [client] The Palms of St. Lucie West (Port St Lucie)
+[04:00:05]     + [client] Sinceri Senior Living – The Gardens of P (Port St Lucie)
+[04:00:05]     + [client] Sinceri Senior Living – The Gardens of P (Port St Lucie)
+[04:00:05]     + [client] 55+ Communities in Port St. Lucie and Fo (Port St Lucie)
+[04:00:05]     + [client] 55+ Communities in Port St. Lucie and Fo (Port St Lucie)
+[04:00:05]     10 new leads
+[04:00:05]     10 new leads
+[04:00:07]   [3/10] fleet management company Sewall's Point FL...
+[04:00:07]   [3/10] fleet management company Sewall's Point FL...
+[04:00:08]     + [client] Sewell Fleet Management (Sewall's Point)
+[04:00:08]     + [client] Sewell Fleet Management (Sewall's Point)
+[04:00:08]     + [client] Fleet Management from Sewell Auto Group (Sewall's Point)
+[04:00:08]     + [client] Fleet Management from Sewell Auto Group (Sewall's Point)
+[04:00:08]     + [client] Fleet Washing and Heavy Equipment: A-1 C (Sewall's Point)
+[04:00:08]     + [client] Fleet Washing and Heavy Equipment: A-1 C (Sewall's Point)
+[04:00:08]     + [client] SAFER Web (Sewall's Point)
+[04:00:08]     + [client] SAFER Web (Sewall's Point)
+[04:00:08]     + [client] Florida Fleet Management Services (Sewall's Point)
+[04:00:08]     + [client] Florida Fleet Management Services (Sewall's Point)
+[04:00:08]     + [client] Town of Sewall's Point, Florida (Sewall's Point)
+[04:00:08]     + [client] Town of Sewall's Point, Florida (Sewall's Point)
+[04:00:08]     + [client] Introducing Sewell Government Fleet Solu (Sewall's Point)
+[04:00:08]     + [client] Introducing Sewell Government Fleet Solu (Sewall's Point)
+[04:00:08]     + [client] Fleet Management Services, Tracking, and (Sewall's Point)
+[04:00:08]     + [client] Fleet Management Services, Tracking, and (Sewall's Point)
+[04:00:08]     + [client] Fleet Management – Florida's Turnpike (Sewall's Point)
+[04:00:08]     + [client] Fleet Management – Florida's Turnpike (Sewall's Point)
+[04:00:08]     9 new leads
+[04:00:08]     9 new leads
+[04:00:10]   [4/10] fleet management company Naples FL...
+[04:00:10]   [4/10] fleet management company Naples FL...
+[04:00:11]     + [client] Tampa Fleet Management Services (Naples)
+[04:00:11]     + [client] Tampa Fleet Management Services (Naples)
+[04:00:11]     + [client] Fleet Management & Mobility Solutions (Naples)
+[04:00:11]     + [client] Fleet Management & Mobility Solutions (Naples)
+[04:00:11]     + [client] Fleet Service In Naples, FL (Naples)
+[04:00:11]     + [client] Fleet Service In Naples, FL (Naples)
+[04:00:11]     + [client] Red Zone Fleet Services (Naples)
+[04:00:11]     + [client] Red Zone Fleet Services (Naples)
+[04:00:11]     + [client] Collier Fleet Management (Naples)
+[04:00:11]     + [client] Collier Fleet Management (Naples)
+[04:00:11]     + [client] Element Fleet Management (Naples)
+[04:00:11]     + [client] Element Fleet Management (Naples)
+[04:00:11]     + [client] Fleet Services Naples (Naples)
+[04:00:11]     + [client] Fleet Services Naples (Naples)
+[04:00:11]     + [client] Fleet Management Services & Solutions (Naples)
+[04:00:11]     + [client] Fleet Management Services & Solutions (Naples)
+[04:00:11]     8 new leads
+[04:00:11]     8 new leads
+[04:00:13]   [5/10] concrete coating contractor St Petersburg FL...
+[04:00:13]   [5/10] concrete coating contractor St Petersburg FL...
+[04:00:14]     + [contractor] Expert Concrete Contractors in St. Peter (St Petersburg)
+[04:00:14]     + [contractor] Expert Concrete Contractors in St. Peter (St Petersburg)
+[04:00:14]     + [contractor] Professional Concrete Services (St Petersburg)
+[04:00:14]     + [contractor] Professional Concrete Services (St Petersburg)
+[04:00:14]     + [contractor] Concrete Contractor (St Petersburg)
+[04:00:14]     + [contractor] Concrete Contractor (St Petersburg)
+[04:00:14]     + [contractor] Find Concrete Contractors in St Petersbu (St Petersburg)
+[04:00:14]     + [contractor] Find Concrete Contractors in St Petersbu (St Petersburg)
+[04:00:14]     + [contractor] Concrete Contractor Business St Petersbu (St Petersburg)
+[04:00:14]     + [contractor] Concrete Contractor Business St Petersbu (St Petersburg)
+[04:00:14]     + [contractor] Custom Epoxy Floors And Polished Concret (St Petersburg)
+[04:00:14]     + [contractor] Custom Epoxy Floors And Polished Concret (St Petersburg)
+[04:00:14]     + [contractor] Expert Concrete Contractors in St Peters (St Petersburg)
+[04:00:14]     + [contractor] Expert Concrete Contractors in St Peters (St Petersburg)
+[04:00:14]     + [contractor] St. Petersburg FL Concrete Contractors (St Petersburg)
+[04:00:14]     + [contractor] St. Petersburg FL Concrete Contractors (St Petersburg)
+[04:00:14]     8 new leads
+[04:00:14]     8 new leads
+[04:00:16]   [6/10] restaurant Bonita Springs FL...
+[04:00:16]   [6/10] restaurant Bonita Springs FL...
+[04:00:17]     + [client] 66 Best Casual Restaurants in Bonita Spr (Bonita Springs)
+[04:00:17]     + [client] 66 Best Casual Restaurants in Bonita Spr (Bonita Springs)
+[04:00:17]     + [client] THE 10 BEST Restaurants in Bonita Spring (Bonita Springs)
+[04:00:17]     + [client] THE 10 BEST Restaurants in Bonita Spring (Bonita Springs)
+[04:00:17]     + [client] Roy’s Restaurant Locations – Bonita Spri (Bonita Springs)
+[04:00:17]     + [client] Roy’s Restaurant Locations – Bonita Spri (Bonita Springs)
+[04:00:17]     + [client] Doc's Beach House (Bonita Springs)
+[04:00:17]     + [client] Doc's Beach House (Bonita Springs)
+[04:00:17]     + [client] The 13 Best Restaurants in Bonita Spring (Bonita Springs)
+[04:00:17]     + [client] The 13 Best Restaurants in Bonita Spring (Bonita Springs)
+[04:00:17]     + [client] Bonita Springs Restaurants 2025 (Bonita Springs)
+[04:00:17]     + [client] Bonita Springs Restaurants 2025 (Bonita Springs)
+[04:00:17]     + [client] Molino's Ristorante (Bonita Springs)
+[04:00:17]     + [client] Molino's Ristorante (Bonita Springs)
+[04:00:17]     + [client] Restaurants Near Bonita Springs FL (Bonita Springs)
+[04:00:17]     + [client] Restaurants Near Bonita Springs FL (Bonita Springs)
+[04:00:17]     8 new leads
+[04:00:17]     8 new leads
+[04:00:19]   [7/10] restaurant Jupiter FL...
+[04:00:19]   [7/10] restaurant Jupiter FL...
+[04:00:19]     + [client] Guanabanas- Waterfront Restaurant & Bar  (Jupiter)
+[04:00:19]     + [client] Guanabanas- Waterfront Restaurant & Bar  (Jupiter)
+[04:00:19]     + [client] THE 10 BEST Restaurants in Jupiter (Upda (Jupiter)
+[04:00:19]     + [client] THE 10 BEST Restaurants in Jupiter (Upda (Jupiter)
+[04:00:19]     + [client] r/JupiterFL on Reddit: Best restaurants? (Jupiter)
+[04:00:19]     + [client] r/JupiterFL on Reddit: Best restaurants? (Jupiter)
+[04:00:19]     + [client] Beacon (Jupiter)
+[04:00:19]     + [client] Beacon (Jupiter)
+[04:00:19]     + [client] Premier Fine Dining (Jupiter)
+[04:00:19]     + [client] Premier Fine Dining (Jupiter)
+[04:00:19]     + [client] 7 Amazing Restaurants in Jupiter, Florid (Jupiter)
+[04:00:19]     + [client] 7 Amazing Restaurants in Jupiter, Florid (Jupiter)
+[04:00:19]     + [client] Bistro Jupiter (Jupiter)
+[04:00:19]     + [client] Bistro Jupiter (Jupiter)
+[04:00:19]     + [client] Food & Drinks (Jupiter)
+[04:00:19]     + [client] Food & Drinks (Jupiter)
+[04:00:19]     8 new leads
+[04:00:19]     8 new leads
+[04:00:21]   [8/10] construction company fleet Raleigh NC...
+[04:00:21]   [8/10] construction company fleet Raleigh NC...
+[04:00:22]     + [client] Raleigh, NC Construction Companies (Raleigh)
+[04:00:22]     + [client] Raleigh, NC Construction Companies (Raleigh)
+[04:00:22]     + [client] Construction Contractors in Raleigh, NC (Raleigh)
+[04:00:22]     + [client] Construction Contractors in Raleigh, NC (Raleigh)
+[04:00:22]     + [client] L&L Construction Group (Raleigh)
+[04:00:22]     + [client] L&L Construction Group (Raleigh)
+[04:00:22]     + [client] Learn About 15 Construction Companies in (Raleigh)
+[04:00:22]     + [client] Learn About 15 Construction Companies in (Raleigh)
+[04:00:22]     + [client] Raleigh (Raleigh)
+[04:00:22]     + [client] Raleigh (Raleigh)
+[04:00:22]     + [client] Top Construction Companies in Raleigh (Raleigh)
+[04:00:22]     + [client] Top Construction Companies in Raleigh (Raleigh)
+[04:00:22]     + [client] Commercial Construction Firms in Raleigh (Raleigh)
+[04:00:22]     + [client] Commercial Construction Firms in Raleigh (Raleigh)
+[04:00:22]     + [client] ARCO Raleigh-Durham (Raleigh)
+[04:00:22]     + [client] ARCO Raleigh-Durham (Raleigh)
+[04:00:22]     + [client] Certified Concrete Construction, 8700 Fl (Raleigh)
+[04:00:22]     + [client] Certified Concrete Construction, 8700 Fl (Raleigh)
+[04:00:22]     9 new leads
+[04:00:22]     9 new leads
+[04:00:24]   [9/10] fleet management company Bonita Springs FL...
+[04:00:24]   [9/10] fleet management company Bonita Springs FL...
+[04:00:25]     + [client] Fleet Management & Mobility Solutions (Bonita Springs)
+[04:00:25]     + [client] Fleet Management & Mobility Solutions (Bonita Springs)
+[04:00:25]     + [client] Florida Fleet Management Services (Bonita Springs)
+[04:00:25]     + [client] Florida Fleet Management Services (Bonita Springs)
+[04:00:25]     + [client] Element Fleet Management (Bonita Springs)
+[04:00:25]     + [client] Element Fleet Management (Bonita Springs)
+[04:00:25]     + [client] global-fleet (Bonita Springs)
+[04:00:25]     + [client] global-fleet (Bonita Springs)
+[04:00:25]     + [client] Fleet Management – Florida's Turnpike (Bonita Springs)
+[04:00:25]     + [client] Fleet Management – Florida's Turnpike (Bonita Springs)
+[04:00:25]     + [client] Government Fleet Maintenance (Bonita Springs)
+[04:00:25]     + [client] Government Fleet Maintenance (Bonita Springs)
+[04:00:25]     + [client] 79 fleet manager Jobs in Florida, Februa (Bonita Springs)
+[04:00:25]     + [client] 79 fleet manager Jobs in Florida, Februa (Bonita Springs)
+[04:00:25]     + [client] Fleet Management Services & Solutions (Bonita Springs)
+[04:00:25]     + [client] Fleet Management Services & Solutions (Bonita Springs)
+[04:00:25]     + [client] Fleet Management / Fleet Management and  (Bonita Springs)
+[04:00:25]     + [client] Fleet Management / Fleet Management and  (Bonita Springs)
+[04:00:25]     9 new leads
+[04:00:25]     9 new leads
+[04:00:27]   [10/10] industrial building Bonita Springs FL...
+[04:00:27]   [10/10] industrial building Bonita Springs FL...
+[04:00:28]     + [client] Industrial Architecture (Bonita Springs)
+[04:00:28]     + [client] Industrial Architecture (Bonita Springs)
+[04:00:28]     + [client] Industrial (Bonita Springs)
+[04:00:28]     + [client] Industrial (Bonita Springs)
+[04:00:28]     + [client] The Bonita Foundry (Bonita Springs)
+[04:00:28]     + [client] The Bonita Foundry (Bonita Springs)
+[04:00:28]     + [client] Bonita Springs, FL (Bonita Springs)
+[04:00:28]     + [client] Bonita Springs, FL (Bonita Springs)
+[04:00:28]     + [client] Bonita Springs, FL Industrial Properties (Bonita Springs)
+[04:00:28]     + [client] Bonita Springs, FL Industrial Properties (Bonita Springs)
+[04:00:28]     + [client] 28292 Industrial Rd, Bonita Springs, FL  (Bonita Springs)
+[04:00:28]     + [client] 28292 Industrial Rd, Bonita Springs, FL  (Bonita Springs)
+[04:00:28]     + [client] Bonita Springs, FL Commercial Real Estat (Bonita Springs)
+[04:00:28]     + [client] Bonita Springs, FL Commercial Real Estat (Bonita Springs)
+[04:00:28]     + [client] Master Builders Contracting LLC (Bonita Springs)
+[04:00:28]     + [client] Master Builders Contracting LLC (Bonita Springs)
+[04:00:28]     8 new leads
+[04:00:28]     8 new leads
+[04:00:28] MEGA SCRAPER COMPLETE: 84 new leads from 10 searches
+[04:00:28] MEGA SCRAPER COMPLETE: 84 new leads from 10 searches
+[04:00:28] Total leads now: 732
+[04:00:28] Total leads now: 732
+[04:00:28] ============================================================
+[04:00:28] ============================================================
+[04:00:28] Running Apollo guesser on new leads...
+[04:00:28] Running Apollo guesser on new leads...
+[04:00:28] ============================================================
+[04:00:28] APOLLO-STYLE EMAIL GUESSER — Batch: 94
+[04:00:28] ============================================================
+[04:00:28] Loaded 785 leads
+[04:00:28] Leads with guessable domains: 107
+[04:00:28] Processing batch of 94
+[04:00:28]   [1/94] Quest Property Management Services for Y → questrealestatesolutions.com
+[04:00:28]     → SKIP: no MX for questrealestatesolutions.com
+[04:00:28]   [2/94] Tru Mobile Detailing → trumobiledetailing.com
+[04:00:28]     → SKIP: no MX for trumobiledetailing.com
+[04:00:29]   [3/94] Circle Bay Yacht Club → circlebay.org
+[04:00:29]     → SKIP: no MX for circlebay.org
+[04:00:30]   [4/94] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[04:00:30]     → SKIP: no MX for libertykitchendesign.com
+[04:00:30]   [5/94] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[04:00:30]     → SKIP: no MX for kbcgeneralservices.com
+[04:00:31]   [6/94] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[04:00:31]     → SKIP: no MX for lionheartzdetail.com
+[04:00:31]   [7/94] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[04:00:31]     → SKIP: no MX for westpalmbeachrenovations.com
+[04:00:32]   [8/94] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[04:00:32]     → SKIP: no MX for mobiledetailing.io
+[04:00:32]   [9/94] The Brennity at Tradition Senior Living  → brennitytradition.com
+[04:00:32]     → SKIP: no MX for brennitytradition.com
+[04:00:33]   [10/94] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[04:00:33]     → SKIP: no MX for health.usnews.com
+[04:00:33]   [11/94] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[04:00:33]     → SKIP: no MX for brennityverobeach.com
+[04:00:34]   [12/94] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[04:00:34]     → SKIP: no MX for bobbyandbrothershandyman.com
+[04:00:34]   [13/94] 4 Best Assisted Living Communities in Je → health.usnews.com
+[04:00:35]     → SKIP: no MX for health.usnews.com
+[04:00:35]   [14/94] Transitional Kitchens Gallery → dreammaker-remodel.com
+[04:00:35]     → SKIP: no MX for dreammaker-remodel.com
+[04:00:36]   [15/94] Stuart Kitchen Contractors → dreammaker-remodel.com
+[04:00:36]     → SKIP: no MX for dreammaker-remodel.com
+[04:00:36]   [16/94] Senior Living Facilities in Fort Pierce, → ourparents.com
+[04:00:36]     → SKIP: no MX for ourparents.com
+[04:00:37]   [17/94] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[04:00:37]     → SKIP: no MX for jupiterbaycondoassoc.com
+[04:00:37]   [18/94] Jupiter Cove → jupitercove.net
+[04:00:37]     → SKIP: no MX for jupitercove.net
+[04:00:38]   [19/94] Detail by Entity Name → search.sunbiz.org
+[04:00:38]     → SKIP: no MX for search.sunbiz.org
+[04:00:38]   [20/94] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[04:00:38]     → SKIP: no MX for prestigemarbleanddesigns.com
+[04:00:39]   [21/94] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[04:00:39]     → SKIP: no MX for desanctishomes.com
+[04:00:40]   [22/94] Remodeling Contractor → swfconstruction.com
+[04:00:40]     → SKIP: no MX for swfconstruction.com
+[04:00:40]   [23/94] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[04:00:40]     → SKIP: no MX for concretesciencefl.com
+[04:00:41]   [24/94] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[04:00:41]     → SKIP: no MX for jdlsurfaceinnovations.com
+[04:00:41]   [25/94] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[04:00:41]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[04:00:42]   [26/94] Gutter Installation Tampa → gutterinstallationtampa.com
+[04:00:42]     → SKIP: no MX for gutterinstallationtampa.com
+[04:00:42]   [27/94] Home → sarasotaseamlessgutters.com
+[04:00:42]     → SKIP: no MX for sarasotaseamlessgutters.com
+[04:00:43]   [28/94] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[04:00:43]     → SKIP: no MX for customgarageworkstx.com
+[04:00:43]   [29/94] High Point of Fort Pierce Condominium Se → highpoint2fortpierce.com
+[04:01:09]     → info@highpoint2fortpierce.com (generic guess (highpoint2fortpierce.com))
+[04:01:09]   [30/94] High Point of Fort Pierce Condominium Se → highpoint3fortpierce.com
+[04:01:34]     → info@highpoint3fortpierce.com (generic guess (highpoint3fortpierce.com))
+[04:01:35]   [31/94] High Point Condominium of Fort Pierce Se → highpoint1fortpierce.com
+[04:02:00]     → info@highpoint1fortpierce.com (generic guess (highpoint1fortpierce.com))
+[04:02:01]   [32/94] About Us → islandhousehoa.com
+[04:02:01]     → SKIP: no MX for islandhousehoa.com
+[04:02:01]   [33/94] About Hemingway Condominium Association, → homes.com
+[04:02:02]     → info@homes.com (SMTP verified at homes.com)
+[04:02:02]   [34/94] The Brennity at Tradition Senior Living → brennitytradition.com
+[04:02:02]     → SKIP: no MX for brennitytradition.com
+[04:02:03]   [35/94] 55+ Community in Port St. Lucie → encoreattradition.com
+[04:02:04]     → info@encoreattradition.com (SMTP verified at encoreattradition.com)
+[04:02:04]   [36/94] Home → avivaportstlucie.com
+[04:02:05]     → hello@avivaportstlucie.com (SMTP verified at avivaportstlucie.com)
+[04:02:06]   [37/94] Harbor Place at Port St. Lucie → centurypa.com
+[04:02:08]     → info@centurypa.com (generic guess (centurypa.com))
+[04:02:08]   [38/94] Port St. Lucie Luxury Assisted Living → watercrestseniorliving.com
+[04:02:11]     → admin@watercrestseniorliving.com (SMTP verified at watercrestseniorliving.com)
+[04:02:11]   [39/94] Assisted Living Facility in Port St. Luc → colliersassistedliving.com
+[04:02:13]     → info@colliersassistedliving.com (generic guess (colliersassistedliving.com))
+[04:02:14]   [40/94] The Palms of St. Lucie West → fivestarseniorliving.com
+[04:02:17]     → info@fivestarseniorliving.com (generic guess (fivestarseniorliving.com))
+[04:02:17]   [41/94] Sinceri Senior Living – The Gardens of P → sinceriseniorliving.com
+[04:02:17]     → info@sinceriseniorliving.com (generic guess (sinceriseniorliving.com))
+[04:02:18]   [42/94] 55+ Communities in Port St. Lucie and Fo → spanishlakes.com
+[04:02:18]     → info@spanishlakes.com (SMTP verified at spanishlakes.com)
+[04:02:19]   [43/94] Sewell Fleet Management → sewellfleetmanagement.com
+[04:02:21]     → sales@sewellfleetmanagement.com (SMTP verified at sewellfleetmanagement.com)
+[04:02:22]   [44/94] Fleet Management from Sewell Auto Group → fleet.teamsewell.com
+[04:02:47]     → info@fleet.teamsewell.com (generic guess (fleet.teamsewell.com))
+[04:02:47]   [45/94] Fleet Washing and Heavy Equipment: A-1 C → pressurecleaningfl.com
+[04:03:13]     → info@pressurecleaningfl.com (generic guess (pressurecleaningfl.com))
+[04:03:13]   [46/94] SAFER Web → safer.fmcsa.dot.gov
+[04:03:39]     → info@safer.fmcsa.dot.gov (generic guess (safer.fmcsa.dot.gov))
+[04:03:39]   [47/94] Florida Fleet Management Services → efleets.com
+[04:03:40]     → info@efleets.com (SMTP verified at efleets.com)
+[04:03:40]   [48/94] Town of Sewall's Point, Florida → sewallspoint.org
+[04:03:43]     → info@sewallspoint.org (generic guess (sewallspoint.org))
+[04:03:43]   [49/94] Introducing Sewell Government Fleet Solu → teamsewell.com
+[04:03:46]     → admin@teamsewell.com (SMTP verified at teamsewell.com)
+[04:03:46]   [50/94] Fleet Management Services, Tracking, and → efleets.com
+[04:03:47]     → info@efleets.com (SMTP verified at efleets.com)
+[04:03:47]   [51/94] Fleet Management – Florida's Turnpike → floridasturnpike.com
+[04:04:13]     → info@floridasturnpike.com (generic guess (floridasturnpike.com))
+[04:04:13]   [52/94] Tampa Fleet Management Services → efleets.com
+[04:04:14]     → info@efleets.com (SMTP verified at efleets.com)
+[04:04:14]   [53/94] Fleet Management & Mobility Solutions → wheels.com
+[04:04:15]     → info@wheels.com (generic guess (wheels.com))
+[04:04:16]   [54/94] Fleet Service In Naples, FL → dealerschoiceautorepair.com
+[04:04:17]     → info@dealerschoiceautorepair.com (generic guess (dealerschoiceautorepair.com))
+[04:04:18]   [55/94] Red Zone Fleet Services → web.napleschamber.org
+[04:04:43]     → info@web.napleschamber.org (generic guess (web.napleschamber.org))
+[04:04:43]   [56/94] Collier Fleet Management → government-county.org
+[04:05:04]     → info@government-county.org (generic guess (government-county.org))
+[04:05:04]   [57/94] Element Fleet Management → elementfleet.com
+[04:05:05]     → info@elementfleet.com (SMTP verified at elementfleet.com)
+[04:05:05]   [58/94] Fleet Services Naples → therockfleetmgmt.com
+[04:05:06]     → info@therockfleetmgmt.com (SMTP verified at therockfleetmgmt.com)
+[04:05:06]   [59/94] Fleet Management Services & Solutions → holman.com
+[04:05:08]     → info@holman.com (generic guess (holman.com))
+[04:05:08]   [60/94] Expert Concrete Contractors in St. Peter → coteconcretecontractors.com
+[04:05:09]     → info@coteconcretecontractors.com (generic guess (coteconcretecontractors.com))
+[04:05:09]   [61/94] Professional Concrete Services → professionalconcreteservicesinc.com
+[04:05:10]     → info@professionalconcreteservicesinc.com (generic guess (professionalconcreteservicesinc.com))
+[04:05:11]   [62/94] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[04:05:11]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[04:05:12]   [63/94] Find Concrete Contractors in St Petersbu → procore.com
+[04:05:13]     → info@procore.com (generic guess (procore.com))
+[04:05:13]   [64/94] Concrete Contractor Business St Petersbu → lowcostconcretellc.com
+[04:05:17]     → info@lowcostconcretellc.com (generic guess (lowcostconcretellc.com))
+[04:05:17]   [65/94] Custom Epoxy Floors And Polished Concret → paradigmconcretefl.com
+[04:05:20]     → info@paradigmconcretefl.com (generic guess (paradigmconcretefl.com))
+[04:05:21]   [66/94] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[04:05:21]     → SKIP: no MX for saintpetersburgconcrete.com
+[04:05:21]   [67/94] St. Petersburg FL Concrete Contractors → networx.com
+[04:05:22]     → info@networx.com (SMTP verified at networx.com)
+[04:05:22]   [68/94] 66 Best Casual Restaurants in Bonita Spr → opentable.com
+[04:05:23]     → info@opentable.com (generic guess (opentable.com))
+[04:05:24]   [69/94] THE 10 BEST Restaurants in Bonita Spring → tripadvisor.com
+[04:05:25]     → sales@tripadvisor.com (SMTP verified at tripadvisor.com)
+[04:05:26]   [70/94] Roy’s Restaurant Locations – Bonita Spri → roysrestaurant.com
+[04:05:28]     → info@roysrestaurant.com (generic guess (roysrestaurant.com))
+[04:05:28]   [71/94] Doc's Beach House → docsbeachhouse.com
+[04:05:30]     → info@docsbeachhouse.com (generic guess (docsbeachhouse.com))
+[04:05:30]   [72/94] The 13 Best Restaurants in Bonita Spring → visitnaplesfl.com
+[04:05:31]     → info@visitnaplesfl.com (SMTP verified at visitnaplesfl.com)
+[04:05:31]   [73/94] Bonita Springs Restaurants 2025 → sizzledining.org
+[04:05:32]     → info@sizzledining.org (SMTP verified at sizzledining.org)
+[04:05:32]   [74/94] Molino's Ristorante → molinosrestaurant.com
+[04:05:32]     → SKIP: no MX for molinosrestaurant.com
+[04:05:33]   [75/94] Restaurants Near Bonita Springs FL → trianonbonitabay.com
+[04:05:34]     → info@trianonbonitabay.com (generic guess (trianonbonitabay.com))
+[04:05:34]   [76/94] Guanabanas- Waterfront Restaurant & Bar  → guanabanas.com
+[04:05:35]     → info@guanabanas.com (SMTP verified at guanabanas.com)
+[04:05:35]   [77/94] THE 10 BEST Restaurants in Jupiter (Upda → tripadvisor.com
+[04:05:36]     → sales@tripadvisor.com (SMTP verified at tripadvisor.com)
+[04:05:37]   [78/94] r/JupiterFL on Reddit: Best restaurants? → reddit.com
+[04:05:37]     → info@reddit.com (SMTP verified at reddit.com)
+[04:05:38]   [79/94] Beacon → thebeaconjupiter.com
+[04:05:38]     → info@thebeaconjupiter.com (SMTP verified at thebeaconjupiter.com)
+[04:05:39]   [80/94] Premier Fine Dining → thejupitergrill.com
+[04:05:39]     → info@thejupitergrill.com (SMTP verified at thejupitergrill.com)
+[04:05:40]   [81/94] 7 Amazing Restaurants in Jupiter, Florid → guidedbydestiny.com
+[04:05:45]     → info@guidedbydestiny.com (generic guess (guidedbydestiny.com))
+[04:05:45]   [82/94] Bistro Jupiter → thebistrojupiter.com
+[04:05:48]     → info@thebistrojupiter.com (generic guess (thebistrojupiter.com))
+[04:05:48]   [83/94] Food & Drinks → luckyshuckjupiter.com
+[04:05:49]     → info@luckyshuckjupiter.com (SMTP verified at luckyshuckjupiter.com)
+[04:05:49]   [84/94] Raleigh, NC Construction Companies → web.raleighchamber.org
+[04:06:14]     → info@web.raleighchamber.org (generic guess (web.raleighchamber.org))
+[04:06:15]   [85/94] Construction Contractors in Raleigh, NC → llconstructiongroup-nc.com
+[04:06:18]     → info@llconstructiongroup-nc.com (generic guess (llconstructiongroup-nc.com))
+[04:06:18]   [86/94] L&L Construction Group → llconstructiongroup-nc.com
+[04:06:21]     → info@llconstructiongroup-nc.com (generic guess (llconstructiongroup-nc.com))
+[04:06:21]   [87/94] Raleigh → messer.com
+[04:06:24]     → admin@messer.com (SMTP verified at messer.com)
+[04:06:24]   [88/94] Top Construction Companies in Raleigh → glassdoor.com
+[04:06:26]     → admin@glassdoor.com (SMTP verified at glassdoor.com)
+[04:06:27]   [89/94] Commercial Construction Firms in Raleigh → clearlyrated.com
+[04:06:27]     → info@clearlyrated.com (SMTP verified at clearlyrated.com)
+[04:06:27]   [90/94] ARCO Raleigh-Durham → arcodb.com
+[04:06:28]     → info@arcodb.com (SMTP verified at arcodb.com)
+[04:06:28]   [91/94] Fleet Management & Mobility Solutions → wheels.com
+[04:06:29]     → info@wheels.com (generic guess (wheels.com))
+[04:06:29]   [92/94] Florida Fleet Management Services → efleets.com
+[04:06:30]     → info@efleets.com (SMTP verified at efleets.com)
+[04:06:30]   [93/94] Element Fleet Management → elementfleet.com
+[04:06:31]     → info@elementfleet.com (SMTP verified at elementfleet.com)
+[04:06:31]   [94/94] global-fleet → search.sunbiz.org
+[04:06:31]     → SKIP: no MX for search.sunbiz.org
+[04:06:32] Wrote 60 guessed emails to CSV (28 SMTP verified)
+CRM v2 generated: 785 leads, 714 emails, 158 phones, 2026-02-13 04:06 UTC
+[04:06:32] CRM dashboard rebuilt
+[04:06:32] APOLLO GUESSER COMPLETE: 60 emails guessed, 28 verified
+[04:06:32] ============================================================
+CRM v2 generated: 785 leads, 714 emails, 158 phones, 2026-02-13 04:06 UTC
+[04:06:32] CRM rebuilt
+[04:06:32] CRM rebuilt

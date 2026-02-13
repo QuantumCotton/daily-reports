@@ -11,3 +11,76 @@ Sample: 10, Verified: 4, Failed: 6, Rate: 40%
   [FAILED] Apartments for Rent in Fort Pierce FL with Utilities Included — https://www.apartments.com/fort-pierce-fl/utilities-included/ — website_no_contact
   [FAILED] Martin, FL Property Management Companies — https://www.campbellpropertymanagement.com/martin-property-management-companies — website_no_contact
   [VERIFIED] Martin County Condo & Homeowners Association Attorneys — https://www.treasurecoastlegal.com/condo-homeowner-associations/ — website_confirm
+
+--- Verification Run: 2026-02-13T03:01:30.667341 ---
+Sample: 20, Verified: 0, Failed: 20, Rate: 0%
+  [FAILED] Firmo Construction: Construction Management - Sarasota, FL — https://www.firmoconstruction.com/ — website_no_contact
+  [FAILED] Classic Collision Port Saint Lucie — https://classiccollision.com/locations/classic-collision-port-saint-lucie/ — website_no_contact
+  [FAILED] Florida Commercial Real Estate Company: HOME — https://www.florida-commercial.net/ — website_no_contact
+  [FAILED] Port St Lucie Epoxy Pros — https://www.epoxyportstlucie.com/ — website_no_contact
+  [FAILED] 2700 Industrial Ave 2 , Fort Pierce, FL 34946 — https://warehousespaces.com/warehouse-for-rent/United-States/FL/Fort%2520Pierce/2700-Industrial-Ave-2-Fort-Pierce-FL-34946/ — website_no_contact
+  [FAILED] Commercial Cleaning — https://eastsidechemdry.com/commercial-cleaning — website_no_contact
+  [FAILED] Commercial Fleet Detailing — https://www.estebanbrothersmobilecarwash.com/commercial-fleet-detailing — website_no_contact
+  [FAILED] Port St Lucie property management — https://www.fsresidential.com/florida/offices/port-st-lucie-property-management/ — website_no_contact
+  [FAILED] Epoxy Garage Floor Coating Services in Bonita Springs, FL — https://jdlsurfaceinnovations.com/bonita-springs-fl/ — website_no_contact
+  [FAILED] Stuart Fish Grill - Stuart, FL — https://stuartfishgrill.com/ — website_no_contact
+  [FAILED] Commercial General Contractor | Charlotte, NC — https://www.marandbuilders.com/ — website_no_contact
+  [FAILED] Mobile Car Detailing West Palm Beach FL | WPB Car Wash — https://wpbcarwash.com/ — website_no_contact
+  [FAILED] Home — https://www.jbcchoa.com — website_no_contact
+  [FAILED] Garage floor coating Frisco TX — https://mygaragefloors.com/service-area/garage-floor-coating-frisco/ — website_no_contact
+  [FAILED] Modern Concrete Floor Coatings Vero Beach FL — https://customsurfacellc.com/service-areas/florida/indian-river-county/vero-beach/ — website_no_contact
+  [FAILED] Remodeling Contractor Jensen Beach | Island Kitchen & Bath — https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/ — website_no_contact
+  [FAILED] Kia Collision Body Shop In Stuart, FL - Wallace Kia — https://www.wallacekiaofstuart.com/wallace-collision-center-stuart-fl.html?srsltid=AfmBOorgH4-JuQjYRA2dmGe_bKOPP_lSSbm2ZdS4WPLGPTpx8jCcoOx_ — website_no_contact
+  [FAILED] The Metal Roof Experts | Top Roofing Company in Stuart, FL — https://themetalroofexperts.net/ — website_no_contact
+  [FAILED] Stuart, FL Apartments for Rent - 579 Rentals - HotPads — https://hotpads.com/stuart-fl/apartments-for-rent — website_no_contact
+  [FAILED] Kitchen Bath & Home Design | Remodel: Stuart, Florida — https://www.kitchenbathandhomedesign.com/ — website_no_contact
+Verifying 20 random leads from 701 total...
+
+[1/20] Verifying: Firmo Construction: Construction Management - Sarasota, FL
+  ✗ UNVERIFIED — website_no_contact
+[2/20] Verifying: Classic Collision Port Saint Lucie
+  ✗ UNVERIFIED — website_no_contact
+[3/20] Verifying: Florida Commercial Real Estate Company: HOME
+  ✗ UNVERIFIED — website_no_contact
+[4/20] Verifying: Port St Lucie Epoxy Pros
+  ✗ UNVERIFIED — website_no_contact
+[5/20] Verifying: 2700 Industrial Ave 2 , Fort Pierce, FL 34946
+  ✗ UNVERIFIED — website_no_contact
+[6/20] Verifying: Commercial Cleaning
+  ✗ UNVERIFIED — website_no_contact
+[7/20] Verifying: Commercial Fleet Detailing
+  ✗ UNVERIFIED — website_no_contact
+[8/20] Verifying: Port St Lucie property management
+  ✗ UNVERIFIED — website_no_contact
+[9/20] Verifying: Epoxy Garage Floor Coating Services in Bonita Springs, FL
+  ✗ UNVERIFIED — website_no_contact
+[10/20] Verifying: Stuart Fish Grill - Stuart, FL
+  ✗ UNVERIFIED — website_no_contact
+[11/20] Verifying: Commercial General Contractor | Charlotte, NC
+  ✗ UNVERIFIED — website_no_contact
+[12/20] Verifying: Mobile Car Detailing West Palm Beach FL | WPB Car Wash
+  ✗ UNVERIFIED — website_no_contact
+[13/20] Verifying: Home
+  ✗ UNVERIFIED — website_no_contact
+[14/20] Verifying: Garage floor coating Frisco TX
+  ✗ UNVERIFIED — website_no_contact
+[15/20] Verifying: Modern Concrete Floor Coatings Vero Beach FL
+  ✗ UNVERIFIED — website_no_contact
+[16/20] Verifying: Remodeling Contractor Jensen Beach | Island Kitchen & Bath
+  ✗ UNVERIFIED — website_no_contact
+[17/20] Verifying: Kia Collision Body Shop In Stuart, FL - Wallace Kia
+  ✗ UNVERIFIED — website_no_contact
+[18/20] Verifying: The Metal Roof Experts | Top Roofing Company in Stuart, FL
+  ✗ UNVERIFIED — website_no_contact
+[19/20] Verifying: Stuart, FL Apartments for Rent - 579 Rentals - HotPads
+  ✗ UNVERIFIED — website_no_contact
+[20/20] Verifying: Kitchen Bath & Home Design | Remodel: Stuart, Florida
+  ✗ UNVERIFIED — website_no_contact
+
+==================================================
+VERIFICATION SUMMARY
+==================================================
+Sampled: 20
+Verified: 0 (0%)
+Failed: 20
+==================================================

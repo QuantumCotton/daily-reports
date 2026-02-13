@@ -1,31 +1,32 @@
-# Lead Generation Report — 2026-02-13 03:20 ET
+# Lead Generation Report — 2026-02-13 04:20 ET
 
-**Total Leads:** 701
+**Total Leads:** 785
 
 ## Priority Breakdown
-- **High:** 440
+- **High:** 465
 - **Low:** 136
-- **Medium:** 125
+- **Medium:** 184
 
 ## By Category
 - **esh_scout:** 118
+- **restaurant:** 64
 - **auto:** 55
-- **restaurant:** 48
+- **hoa:** 46
 - **property_mgmt:** 43
-- **hoa:** 39
+- **healthcare:** 41
+- **warehouse:** 37
+- **fleet:** 35
 - **real_estate:** 34
 - **detailing:** 34
-- **healthcare:** 31
-- **warehouse:** 29
 - **property_manager:** 26
 - **auto_shop:** 25
+- **epoxy_contractor:** 25
 - **gutter:** 23
 - **cleaning:** 21
 - **construction:** 20
 - **apartments:** 20
 - **kitchen:** 19
 - **epoxy:** 18
-- **epoxy_contractor:** 17
 - **apartment_complex:** 14
 - **bathroom:** 12
 - **mobile_detailing:** 10
@@ -42,24 +43,26 @@
 ## By City
 - **Stuart:** 345
 - **Jensen Beach:** 53
-- **Port St Lucie:** 40
+- **Port St Lucie:** 50
+- **Bonita Springs:** 41
+- **Fort Pierce:** 35
 - **Palm City:** 35
-- **Fort Pierce:** 28
+- **Jupiter:** 27
 - **Boca Raton:** 23
-- **Jupiter:** 19
+- **Naples:** 21
+- **Sewall's Point:** 17
 - **West Palm Beach:** 17
 - **Austin:** 16
-- **Bonita Springs:** 16
 - **Charlotte:** 14
-- **Naples:** 13
 - **Sarasota:** 10
 - **Nashville:** 10
 - **Frisco:** 10
 - **Alpharetta:** 9
+- **Raleigh:** 9
 - **Vero Beach:** 8
-- **Sewall's Point:** 8
 - **Scottsdale:** 8
 - **Bradenton:** 8
+- **St Petersburg:** 8
 - **Delray Beach:** 7
 - **Port St. Lucie:** 2
 - **Treasure Coast:** 2

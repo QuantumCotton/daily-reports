@@ -964,3 +964,42 @@
 [23:33:39]   [27/27] Mobile Detailing Services in West Palm B
 [23:33:47] Wrote 1 enriched contacts back to CSV
 [23:33:47] CRM dashboard rebuilt
+[23:33:48] Pushed to GitHub
+[23:33:48] SMART ENRICHER COMPLETE: 1 emails found, 0 drafts
+[23:33:48] ============================================================
+[00:00:01] ============================================================
+[00:00:01] SMART ENRICHER — Search-based contact finder
+[00:00:01] Batch size: 50
+[00:00:01] ============================================================
+[00:00:01] Z.AI webSearchPrime loaded
+[00:00:01] Loaded 622 leads
+[00:00:01] Leads needing email: 26
+[00:00:01] Processing batch of 26
+[00:00:01]   [1/26] Top Rated Car Dealerships near Stuart, F
+[00:00:10]   [2/26] Circle Bay Yacht Club
+[00:00:20]   [3/26] Treasure Coast, FL - TourSeniorLiving.or
+[00:00:28]   [4/26] Lion Heartz Detailing: Mobile Auto Detai
+[00:00:37]   [5/26] 10 Best Roofers in Stuart, FL 2026 - Por
+[00:00:45]   [6/26] Commercial Cleaning Jobs, Employment in 
+[00:00:54]   [7/26] The Brennity at Tradition Senior Living 
+[00:01:02]   [8/26] 3 Best Assisted Living Communities in Fo
+[00:01:05]     FOUND PHONE: 2407298778
+[00:01:10]   [9/26] The Brennity at Vero Beach Senior Living
+[00:01:18]   [10/26] Property Management Jobs, Employment in 
+[00:01:27]   [11/26] Palm Tree Auto Sales: Used Car Dealer in
+[00:01:35]   [12/26] Bathroom Remodeling Contractor | Stuart,
+[00:01:43]   [13/26] Palm Tree Auto Sales: Used Car Dealer in
+[00:01:51]   [14/26] 4 Best Assisted Living Communities in Je
+[00:02:00]   [15/26] Quest Property Management Services for Y
+[00:02:08]   [16/26] Apartments for Rent in Fort Pierce FL wi
+[00:02:17]   [17/26] New Construction Homes for Sale in Port 
+[00:02:25]   [18/26] Port Saint Lucie, FL New Construction Ho
+[00:02:34]   [19/26] New homes for sale & real estate in Port
+[00:02:42]   [20/26] Apartments in Port St. Lucie, FL
+[00:02:50]   [21/26] Rental Listings in Fort Pierce FL
+[00:02:59]   [22/26] Tru Mobile Detailing
+[00:03:07]   [23/26] Kitchen, Flooring & Bathroom Remodeling 
+[00:03:15]   [24/26] Bathroom Remodeling in Boca Raton, Flori
+[00:03:24]   [25/26] Top 5 Renovation Contractors in Palm Bea
+[00:03:33]   [26/26] Mobile Detailing Services in West Palm B
+[00:03:41] CRM dashboard rebuilt

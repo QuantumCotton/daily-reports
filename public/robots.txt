@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Allow: /reports/
+Allow: /public/
+
+# Block sensitive directories
+Disallow: /logs/
+Disallow: /leads/
+Disallow: /outreach/
+Disallow: /src/
+Disallow: /*.log
+Disallow: /*.json
+Disallow: /*/state.json
+
+# Crawl delay (be respectful)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://kmjk.pro/sitemap.xml

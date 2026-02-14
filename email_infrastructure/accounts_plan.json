@@ -1,0 +1,37 @@
+{
+  "warmup_domains": [
+    {
+      "domain": "elite-service-hub.com",
+      "warmup_days": 30,
+      "daily_limit": 100
+    },
+    {
+      "domain": "elite-automated.com",
+      "warmup_days": 30,
+      "daily_limit": 100
+    },
+    {
+      "domain": "elite-contractor.com",
+      "warmup_days": 30,
+      "daily_limit": 100
+    }
+  ],
+  "provider_rotation": [
+    {
+      "provider": "SendGrid",
+      "daily_limit": 100000,
+      "cost": "$0.10/1000"
+    },
+    {
+      "provider": "Amazon SES",
+      "daily_limit": 500000,
+      "cost": "$0.10/1000"
+    },
+    {
+      "provider": "Mailgun",
+      "daily_limit": 200000,
+      "cost": "$0.80/1000"
+    }
+  ],
+  "monitoring": "Real-time deliverability tracking + automatic failover"
+}

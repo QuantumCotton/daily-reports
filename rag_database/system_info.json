@@ -1,0 +1,23 @@
+{
+  "created": "2026-02-14T22:50:36.084309",
+  "repositories": [
+    "KMJK",
+    "Daily Reports",
+    "KMJK Non-AI"
+  ],
+  "total_files": 288,
+  "search_capabilities": [
+    "Instant repository search",
+    "Project-specific context",
+    "Feature analysis",
+    "Code understanding",
+    "Documentation retrieval"
+  ],
+  "usage_examples": [
+    "Search 'AAC app' to get context about your apps",
+    "Search 'baby synth' to find piano app files",
+    "Search 'epoxy' to find flooring contractor information",
+    "Search 'dashboard' to get UI implementation context",
+    "Search 'email template' to get marketing copy"
+  ]
+}

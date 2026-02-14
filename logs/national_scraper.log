@@ -2663,3 +2663,341 @@
 [2026-02-13 20:00:28] Batch complete: 0 new leads from 15 queries (0 results)
 [2026-02-13 20:00:28] Database: 16406 total leads | Queue: 2070 done, 6570 pending
 [2026-02-13 20:00:28] Database: 16406 total leads | Queue: 2070 done, 6570 pending
+[2026-02-14 00:00:01] ============================================================
+[2026-02-14 00:00:01] ============================================================
+[2026-02-14 00:00:01] NATIONAL SCRAPER — batch run starting
+[2026-02-14 00:00:01] NATIONAL SCRAPER — batch run starting
+[2026-02-14 00:00:01] ============================================================
+[2026-02-14 00:00:01] ============================================================
+[2026-02-14 00:00:01] Brave usage this week: 2085
+[2026-02-14 00:00:01] Brave usage this week: 2085
+[2026-02-14 00:00:01] Processing batch of 15 queries...
+[2026-02-14 00:00:01] Processing batch of 15 queries...
+[2026-02-14 00:00:01]   Searching: Columbia, SC — kitchen renovation contractor
+[2026-02-14 00:00:01]   Searching: Columbia, SC — kitchen renovation contractor
+[2026-02-14 00:00:01] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:01] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:03]   Searching: Little Rock, AR — bathroom renovation contractor
+[2026-02-14 00:00:03]   Searching: Little Rock, AR — bathroom renovation contractor
+[2026-02-14 00:00:03] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:03] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:04]   Searching: Wilmington, NC — dental office
+[2026-02-14 00:00:04]   Searching: Wilmington, NC — dental office
+[2026-02-14 00:00:04] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:04] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:06]   Searching: Biloxi, MS — general contractor
+[2026-02-14 00:00:06]   Searching: Biloxi, MS — general contractor
+[2026-02-14 00:00:06] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:06] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:07]   Searching: Little Rock, AR — loading dock facility
+[2026-02-14 00:00:07]   Searching: Little Rock, AR — loading dock facility
+[2026-02-14 00:00:08] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:08] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:09]   Searching: Chattanooga, TN — aircraft hangar
+[2026-02-14 00:00:09]   Searching: Chattanooga, TN — aircraft hangar
+[2026-02-14 00:00:09] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:09] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:11]   Searching: Shreveport, LA — roofing contractor
+[2026-02-14 00:00:11]   Searching: Shreveport, LA — roofing contractor
+[2026-02-14 00:00:11] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:11] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:12]   Searching: Little Rock, AR — daycare center
+[2026-02-14 00:00:12]   Searching: Little Rock, AR — daycare center
+[2026-02-14 00:00:13] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:13] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:14]   Searching: Durham, NC — kitchen renovation contractor
+[2026-02-14 00:00:14]   Searching: Durham, NC — kitchen renovation contractor
+[2026-02-14 00:00:14] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:14] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:16]   Searching: Greensboro, NC — tile installation
+[2026-02-14 00:00:16]   Searching: Greensboro, NC — tile installation
+[2026-02-14 00:00:16] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:16] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:18]   Searching: Baton Rouge, LA — cabinet maker
+[2026-02-14 00:00:18]   Searching: Baton Rouge, LA — cabinet maker
+[2026-02-14 00:00:18] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:18] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:19]   Searching: Montgomery, AL — kitchen renovation contractor
+[2026-02-14 00:00:19]   Searching: Montgomery, AL — kitchen renovation contractor
+[2026-02-14 00:00:19] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:19] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:21]   Searching: Durham, NC — apartment complex manager
+[2026-02-14 00:00:21]   Searching: Durham, NC — apartment complex manager
+[2026-02-14 00:00:21] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:21] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:23]   Searching: Greenville, SC — loading dock facility
+[2026-02-14 00:00:23]   Searching: Greenville, SC — loading dock facility
+[2026-02-14 00:00:23] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:23] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:24]   Searching: Louisville, KY — car wash owner
+[2026-02-14 00:00:24]   Searching: Louisville, KY — car wash owner
+[2026-02-14 00:00:24] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:24] Brave error: HTTP Error 429: Too Many Requests
+[2026-02-14 00:00:28] Batch complete: 0 new leads from 15 queries (0 results)
+[2026-02-14 00:00:28] Batch complete: 0 new leads from 15 queries (0 results)
+[2026-02-14 00:00:28] Database: 16406 total leads | Queue: 2085 done, 6555 pending
+[2026-02-14 00:00:28] Database: 16406 total leads | Queue: 2085 done, 6555 pending
+[2026-02-14 04:00:01] ============================================================
+[2026-02-14 04:00:01] ============================================================
+[2026-02-14 04:00:01] NATIONAL SCRAPER — batch run starting
+[2026-02-14 04:00:01] NATIONAL SCRAPER — batch run starting
+[2026-02-14 04:00:01] ============================================================
+[2026-02-14 04:00:01] ============================================================
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/national_scraper.py", line 236, in <module>
+    run_batch()
+  File "/home/chris/.openclaw/bin/national_scraper.py", line 119, in run_batch
+    from rate_limiter import check_limit, record_usage, get_usage
+  File "/home/chris/.openclaw/bin/rate_limiter.py", line 17, in <module>
+    BRAVE_WEEKLY_PACE = int(MONTHLY_BRAVE_BUDGET_REQUESTS / 27 * 7)  # ≈ 1,296/week
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'MONTHLY_BRAVE_BUDGET_REQUESTS' is not defined
+[2026-02-14 04:59:29] ============================================================
+[2026-02-14 04:59:29] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 04:59:29] ============================================================
+[2026-02-14 04:59:29] Processing batch of 3 queries...
+[2026-02-14 04:59:29]   Searching: Asheville, NC — HOA property management
+[2026-02-14 04:59:32]   Searching: Charlotte, NC — retail store owner
+[2026-02-14 04:59:34]   Searching: New Orleans, LA — retail store owner
+[2026-02-14 04:59:40] Batch complete: 21 new leads from 3 queries (30 results)
+[2026-02-14 04:59:40]   Personal emails: 0, Names found: 0
+[2026-02-14 04:59:40] Database: 16521 total leads | Queue: 2088 done, 6552 pending
+[2026-02-14 08:00:01] ============================================================
+[2026-02-14 08:00:01] ============================================================
+[2026-02-14 08:00:01] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 08:00:01] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 08:00:01] ============================================================
+[2026-02-14 08:00:01] ============================================================
+[2026-02-14 08:00:01] Processing batch of 15 queries...
+[2026-02-14 08:00:01] Processing batch of 15 queries...
+[2026-02-14 08:00:01]   Searching: Birmingham, AL — aircraft hangar
+[2026-02-14 08:00:01]   Searching: Birmingham, AL — aircraft hangar
+[2026-02-14 08:00:04]   Searching: Augusta, GA — hospital medical facility
+[2026-02-14 08:00:04]   Searching: Augusta, GA — hospital medical facility
+[2026-02-14 08:00:06]   Searching: Montgomery, AL — school district facility
+[2026-02-14 08:00:06]   Searching: Montgomery, AL — school district facility
+[2026-02-14 08:00:09]   Searching: New Orleans, LA — laundromat
+[2026-02-14 08:00:09]   Searching: New Orleans, LA — laundromat
+[2026-02-14 08:00:12]   Searching: Fayetteville, AR — industrial plant manager
+[2026-02-14 08:00:12]   Searching: Fayetteville, AR — industrial plant manager
+[2026-02-14 08:00:15]   Searching: Greensboro, NC — industrial plant manager
+[2026-02-14 08:00:15]   Searching: Greensboro, NC — industrial plant manager
+[2026-02-14 08:00:18]   Searching: Myrtle Beach, SC — electrician
+[2026-02-14 08:00:18]   Searching: Myrtle Beach, SC — electrician
+[2026-02-14 08:00:21]   Searching: Durham, NC — gutter installation
+[2026-02-14 08:00:21]   Searching: Durham, NC — gutter installation
+[2026-02-14 08:00:24]   Searching: Louisville, KY — daycare center
+[2026-02-14 08:00:24]   Searching: Louisville, KY — daycare center
+[2026-02-14 08:00:27]   Searching: Mobile, AL — daycare center
+[2026-02-14 08:00:27]   Searching: Mobile, AL — daycare center
+[2026-02-14 08:00:30]   Searching: Birmingham, AL — industrial plant manager
+[2026-02-14 08:00:30]   Searching: Birmingham, AL — industrial plant manager
+[2026-02-14 08:00:33]   Searching: Jackson, MS — dental office
+[2026-02-14 08:00:33]   Searching: Jackson, MS — dental office
+[2026-02-14 08:00:36]   Searching: Savannah, GA — kitchen renovation contractor
+[2026-02-14 08:00:36]   Searching: Savannah, GA — kitchen renovation contractor
+[2026-02-14 08:00:39]   Searching: New Orleans, LA — apartment complex manager
+[2026-02-14 08:00:39]   Searching: New Orleans, LA — apartment complex manager
+[2026-02-14 08:00:43]   Searching: Wilmington, NC — cabinet maker
+[2026-02-14 08:00:43]   Searching: Wilmington, NC — cabinet maker
+[2026-02-14 08:00:48] Batch complete: 126 new leads from 15 queries (150 results)
+[2026-02-14 08:00:48] Batch complete: 126 new leads from 15 queries (150 results)
+[2026-02-14 08:00:48]   Personal emails: 14, Names found: 10
+[2026-02-14 08:00:48]   Personal emails: 14, Names found: 10
+[2026-02-14 08:00:48] Database: 16662 total leads | Queue: 2103 done, 6537 pending
+[2026-02-14 08:00:48] Database: 16662 total leads | Queue: 2103 done, 6537 pending
+[2026-02-14 12:00:02] ============================================================
+[2026-02-14 12:00:02] ============================================================
+[2026-02-14 12:00:02] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 12:00:02] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 12:00:02] ============================================================
+[2026-02-14 12:00:02] ============================================================
+[2026-02-14 12:00:02] Processing batch of 15 queries...
+[2026-02-14 12:00:02] Processing batch of 15 queries...
+[2026-02-14 12:00:02]   Searching: Charleston, SC — hotel resort manager
+[2026-02-14 12:00:02]   Searching: Charleston, SC — hotel resort manager
+[2026-02-14 12:00:05]   Searching: Wilmington, NC — plumber
+[2026-02-14 12:00:05]   Searching: Wilmington, NC — plumber
+[2026-02-14 12:00:08]   Searching: Baton Rouge, LA — restaurant owner
+[2026-02-14 12:00:08]   Searching: Baton Rouge, LA — restaurant owner
+[2026-02-14 12:00:11]   Searching: Savannah, GA — hardwood flooring installer
+[2026-02-14 12:00:11]   Searching: Savannah, GA — hardwood flooring installer
+[2026-02-14 12:00:14]   Searching: Memphis, TN — electrician
+[2026-02-14 12:00:14]   Searching: Memphis, TN — electrician
+[2026-02-14 12:00:17]   Searching: Birmingham, AL — hotel resort manager
+[2026-02-14 12:00:17]   Searching: Birmingham, AL — hotel resort manager
+[2026-02-14 12:00:20]   Searching: Wilmington, NC — restaurant owner
+[2026-02-14 12:00:20]   Searching: Wilmington, NC — restaurant owner
+[2026-02-14 12:00:24]   Searching: Athens, GA — car wash owner
+[2026-02-14 12:00:24]   Searching: Athens, GA — car wash owner
+[2026-02-14 12:00:26]   Searching: Chattanooga, TN — cold storage facility
+[2026-02-14 12:00:26]   Searching: Chattanooga, TN — cold storage facility
+[2026-02-14 12:00:32]   Searching: Birmingham, AL — auto dealership
+[2026-02-14 12:00:32]   Searching: Birmingham, AL — auto dealership
+[2026-02-14 12:00:34]   Searching: Birmingham, AL — daycare center
+[2026-02-14 12:00:34]   Searching: Birmingham, AL — daycare center
+[2026-02-14 12:00:36]   Searching: Savannah, GA — industrial plant manager
+[2026-02-14 12:00:36]   Searching: Savannah, GA — industrial plant manager
+[2026-02-14 12:00:39]   Searching: Mobile, AL — HVAC contractor
+[2026-02-14 12:00:39]   Searching: Mobile, AL — HVAC contractor
+[2026-02-14 12:00:45]   Searching: Durham, NC — HOA property management
+[2026-02-14 12:00:45]   Searching: Durham, NC — HOA property management
+[2026-02-14 12:00:47]   Searching: Asheville, NC — commercial real estate
+[2026-02-14 12:00:47]   Searching: Asheville, NC — commercial real estate
+[2026-02-14 12:00:52] Batch complete: 115 new leads from 15 queries (150 results)
+[2026-02-14 12:00:52] Batch complete: 115 new leads from 15 queries (150 results)
+[2026-02-14 12:00:52]   Personal emails: 12, Names found: 11
+[2026-02-14 12:00:52]   Personal emails: 12, Names found: 11
+[2026-02-14 12:00:52] Database: 17186 total leads | Queue: 2118 done, 6522 pending
+[2026-02-14 12:00:52] Database: 17186 total leads | Queue: 2118 done, 6522 pending
+[2026-02-14 16:00:01] ============================================================
+[2026-02-14 16:00:01] ============================================================
+[2026-02-14 16:00:01] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 16:00:01] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 16:00:01] ============================================================
+[2026-02-14 16:00:01] ============================================================
+[2026-02-14 16:00:01] Processing batch of 15 queries...
+[2026-02-14 16:00:01] Processing batch of 15 queries...
+[2026-02-14 16:00:01]   Searching: Lexington, KY — aircraft hangar
+[2026-02-14 16:00:01]   Searching: Lexington, KY — aircraft hangar
+[2026-02-14 16:00:04]   Searching: Biloxi, MS — industrial plant manager
+[2026-02-14 16:00:04]   Searching: Biloxi, MS — industrial plant manager
+[2026-02-14 16:00:06]   Searching: Charleston, SC — dental office
+[2026-02-14 16:00:06]   Searching: Charleston, SC — dental office
+[2026-02-14 16:00:08]   Searching: Macon, GA — painting contractor
+[2026-02-14 16:00:08]   Searching: Macon, GA — painting contractor
+[2026-02-14 16:00:16]   Searching: Baton Rouge, LA — fire station
+[2026-02-14 16:00:16]   Searching: Baton Rouge, LA — fire station
+[2026-02-14 16:00:18]   Searching: Greenville, SC — hospital medical facility
+[2026-02-14 16:00:18]   Searching: Greenville, SC — hospital medical facility
+[2026-02-14 16:00:20]   Searching: Columbus, GA — retail store owner
+[2026-02-14 16:00:20]   Searching: Columbus, GA — retail store owner
+[2026-02-14 16:00:23]   Searching: Charleston, SC — auto dealership
+[2026-02-14 16:00:23]   Searching: Charleston, SC — auto dealership
+[2026-02-14 16:00:25]   Searching: Chattanooga, TN — electrician
+[2026-02-14 16:00:25]   Searching: Chattanooga, TN — electrician
+[2026-02-14 16:00:27]   Searching: Memphis, TN — HVAC contractor
+[2026-02-14 16:00:27]   Searching: Memphis, TN — HVAC contractor
+[2026-02-14 16:00:29]   Searching: Montgomery, AL — commercial property manager
+[2026-02-14 16:00:29]   Searching: Montgomery, AL — commercial property manager
+[2026-02-14 16:00:32]   Searching: Raleigh, NC — epoxy flooring contractor
+[2026-02-14 16:00:32]   Searching: Raleigh, NC — epoxy flooring contractor
+[2026-02-14 16:00:34]   Searching: Charlotte, NC — electrician
+[2026-02-14 16:00:34]   Searching: Charlotte, NC — electrician
+[2026-02-14 16:00:36]   Searching: Asheville, NC — restaurant franchise
+[2026-02-14 16:00:36]   Searching: Asheville, NC — restaurant franchise
+[2026-02-14 16:00:39]   Searching: Knoxville, TN — gutter installation
+[2026-02-14 16:00:39]   Searching: Knoxville, TN — gutter installation
+[2026-02-14 16:00:45] Batch complete: 112 new leads from 15 queries (150 results)
+[2026-02-14 16:00:45] Batch complete: 112 new leads from 15 queries (150 results)
+[2026-02-14 16:00:45]   Personal emails: 13, Names found: 5
+[2026-02-14 16:00:45]   Personal emails: 13, Names found: 5
+[2026-02-14 16:00:45] Database: 17620 total leads | Queue: 2133 done, 6507 pending
+[2026-02-14 16:00:45] Database: 17620 total leads | Queue: 2133 done, 6507 pending
+[2026-02-14 20:00:01] ============================================================
+[2026-02-14 20:00:01] ============================================================
+[2026-02-14 20:00:01] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 20:00:01] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 20:00:01] ============================================================
+[2026-02-14 20:00:01] ============================================================
+[2026-02-14 20:00:01] Processing batch of 15 queries...
+[2026-02-14 20:00:01] Processing batch of 15 queries...
+[2026-02-14 20:00:01]   Searching: Savannah, GA — aircraft hangar
+[2026-02-14 20:00:01]   Searching: Savannah, GA — aircraft hangar
+[2026-02-14 20:00:04]   Searching: Savannah, GA — car wash owner
+[2026-02-14 20:00:04]   Searching: Savannah, GA — car wash owner
+[2026-02-14 20:00:07]   Searching: Gulfport, MS — painting contractor
+[2026-02-14 20:00:07]   Searching: Gulfport, MS — painting contractor
+[2026-02-14 20:00:09]   Searching: Atlanta, GA — laundromat
+[2026-02-14 20:00:09]   Searching: Atlanta, GA — laundromat
+[2026-02-14 20:00:13]   Searching: Augusta, GA — handyman service
+[2026-02-14 20:00:13]   Searching: Augusta, GA — handyman service
+[2026-02-14 20:00:15]   Searching: Asheville, NC — grocery store manager
+[2026-02-14 20:00:15]   Searching: Asheville, NC — grocery store manager
+[2026-02-14 20:00:17]   Searching: Wilmington, NC — HVAC contractor
+[2026-02-14 20:00:17]   Searching: Wilmington, NC — HVAC contractor
+[2026-02-14 20:00:20]   Searching: Nashville, TN — aircraft hangar
+[2026-02-14 20:00:20]   Searching: Nashville, TN — aircraft hangar
+[2026-02-14 20:00:23]   Searching: Baton Rouge, LA — roofing contractor
+[2026-02-14 20:00:23]   Searching: Baton Rouge, LA — roofing contractor
+[2026-02-14 20:00:25]   Searching: Columbus, GA — epoxy flooring contractor
+[2026-02-14 20:00:25]   Searching: Columbus, GA — epoxy flooring contractor
+[2026-02-14 20:00:27]   Searching: Savannah, GA — commercial real estate
+[2026-02-14 20:00:27]   Searching: Savannah, GA — commercial real estate
+[2026-02-14 20:00:30]   Searching: Memphis, TN — dental office
+[2026-02-14 20:00:30]   Searching: Memphis, TN — dental office
+[2026-02-14 20:00:32]   Searching: Little Rock, AR — industrial plant manager
+[2026-02-14 20:00:32]   Searching: Little Rock, AR — industrial plant manager
+[2026-02-14 20:00:34]   Searching: Atlanta, GA — fast food franchise
+[2026-02-14 20:00:34]   Searching: Atlanta, GA — fast food franchise
+[2026-02-14 20:00:36]   Searching: Greensboro, NC — dental office
+[2026-02-14 20:00:36]   Searching: Greensboro, NC — dental office
+[2026-02-14 20:00:41] Batch complete: 113 new leads from 15 queries (150 results)
+[2026-02-14 20:00:41] Batch complete: 113 new leads from 15 queries (150 results)
+[2026-02-14 20:00:41]   Personal emails: 13, Names found: 2
+[2026-02-14 20:00:41]   Personal emails: 13, Names found: 2
+[2026-02-14 20:00:41] Database: 18012 total leads | Queue: 2148 done, 6492 pending
+[2026-02-14 20:00:41] Database: 18012 total leads | Queue: 2148 done, 6492 pending
+[2026-02-14 22:39:57] ============================================================
+[2026-02-14 22:39:57] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 22:39:57] ============================================================
+[2026-02-14 22:39:57] Processing batch of 15 queries...
+[2026-02-14 22:39:57]   Searching: Myrtle Beach, SC — hotel resort manager
+[2026-02-14 22:40:00]   Searching: Wilmington, NC — commercial property manager
+[2026-02-14 22:40:02]   Searching: Fayetteville, AR — HVAC contractor
+[2026-02-14 22:40:05]   Searching: Huntsville, AL — plumber
+[2026-02-14 22:40:07]   Searching: Charleston, SC — HVAC contractor
+[2026-02-14 22:40:09]   Searching: Huntsville, AL — fast food franchise
+[2026-02-14 22:40:11]   Searching: Savannah, GA — daycare center
+[2026-02-14 22:40:13]   Searching: Savannah, GA — concrete contractor
+[2026-02-14 22:40:16]   Searching: Macon, GA — epoxy flooring contractor
+[2026-02-14 22:40:18]   Searching: Knoxville, TN — concrete contractor
+[2026-02-14 22:40:21]   Searching: Wilmington, NC — auto dealership
+[2026-02-14 22:40:23]   Searching: Raleigh, NC — general contractor
+[2026-02-14 22:40:25]   Searching: Jackson, MS — grocery store manager
+[2026-02-14 22:40:28]   Searching: Lexington, KY — painting contractor
+[2026-02-14 22:46:19] ============================================================
+[2026-02-14 22:46:19] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 22:46:19] ============================================================
+[2026-02-14 22:46:19] Processing batch of 15 queries...
+[2026-02-14 22:46:19]   Searching: Asheville, NC — loading dock facility
+[2026-02-14 22:46:21]   Searching: Lexington, KY — fast food franchise
+[2026-02-14 22:46:24]   Searching: Raleigh, NC — HVAC contractor
+[2026-02-14 22:46:27]   Searching: Wilmington, NC — general contractor
+[2026-02-14 22:46:29]   Searching: Columbus, GA — electrician
+[2026-02-14 22:46:32]   Searching: Macon, GA — roofing contractor
+[2026-02-14 22:46:34]   Searching: Greensboro, NC — laundromat
+[2026-02-14 22:46:36]   Searching: Greensboro, NC — aircraft hangar
+[2026-02-14 22:46:38]   Searching: Birmingham, AL — concrete contractor
+[2026-02-14 22:46:41]   Searching: Greensboro, NC — loading dock facility
+[2026-02-14 22:46:43]   Searching: Mobile, AL — restaurant owner
+[2026-02-14 22:46:46]   Searching: Macon, GA — loading dock facility
+[2026-02-14 22:46:48]   Searching: Greensboro, NC — HVAC contractor
+[2026-02-14 22:46:50]   Searching: Chattanooga, TN — dental office
+[2026-02-14 22:46:53]   Searching: Charleston, SC — brewery taproom
+[2026-02-14 22:46:57] Batch complete: 120 new leads from 15 queries (150 results)
+[2026-02-14 22:46:57]   Personal emails: 19, Names found: 5
+[2026-02-14 22:46:57] Database: 18411 total leads | Queue: 2176 done, 6464 pending
+[2026-02-14 22:52:44] ============================================================
+[2026-02-14 22:52:44] NATIONAL SCRAPER v2.1 — FREE search (DuckDuckGo) + name extraction + generic email filtering
+[2026-02-14 22:52:44] ============================================================
+[2026-02-14 22:52:44] Search usage this week: 0 (mostly free DDG)
+[2026-02-14 22:52:44] Processing batch of 15 queries...
+[2026-02-14 22:52:44]   Searching: Memphis, TN — handyman service
+[2026-02-14 22:52:47]   Searching: Shreveport, LA — grocery store manager
+[2026-02-14 22:52:49]   Searching: Columbia, SC — warehouse owner
+[2026-02-14 22:52:51]   Searching: Chattanooga, TN — grocery store manager
+[2026-02-14 22:52:53]   Searching: Charleston, SC — salon spa
+[2026-02-14 22:52:56]   Searching: Nashville, TN — roofing contractor
+[2026-02-14 22:52:58]   Searching: Baton Rouge, LA — manufacturing plant
+[2026-02-14 22:53:01]   Searching: Columbia, SC — coffee shop cafe
+[2026-02-14 22:53:03]   Searching: Raleigh, NC — painting contractor
+[2026-02-14 22:53:06]   Searching: Athens, GA — church religious facility
+[2026-02-14 22:53:08]   Searching: Athens, GA — handyman service
+[2026-02-14 22:53:10]   Searching: Augusta, GA — general contractor
+[2026-02-14 22:53:13]   Searching: Montgomery, AL — veterinary clinic
+[2026-02-14 22:53:15]   Searching: Baton Rouge, LA — warehouse owner
+[2026-02-14 22:53:17]   Searching: Fayetteville, AR — gutter installation
+[2026-02-14 22:53:22] Batch complete: 119 new leads from 15 queries (150 results)
+[2026-02-14 22:53:22]   Personal emails: 15, Names found: 3
+[2026-02-14 22:53:22] Database: 18530 total leads | Queue: 2191 done, 6449 pending

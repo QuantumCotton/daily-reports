@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESH Command Center — Unified Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --card: #12121a;
+            --border: #1e1e2e;
+            --accent: #B8860B;
+            --accent2: #4CAF50;
+            --accent3: #2196F3;
+            --text: #e0e0e0;
+            --muted: #888;
+        }
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        }
+        .glass {
+            background: rgba(18, 18, 26, 0.8);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border);
+        }
+        .glow {
+            box-shadow: 0 0 20px rgba(184, 134, 11, 0.3);
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Header -->
+    <header class="glass p-6 flex justify-between items-center border-b border-[#1e1e2e]">
+        <div>
+            <h1 class="text-3xl font-bold text-[#B8860B]">ESH Command Center</h1>
+            <p class="text-[#888] text-sm mt-1">Unified Operations Dashboard</p>
+        </div>
+        <div class="flex gap-4">
+            <span class="text-xs text-[#888]">Last updated: <span id="last-updated">Loading...</span></span>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="grid grid-cols-6 gap-4 p-6">
+        <div class="glass rounded-lg p-4 text-center">
+            <div class="text-2xl font-bold text-[#B8860B]" id="total-leads">16,406</div>
+            <div class="text-xs text-[#888] mt-1">Total Leads</div>
+        </div>
+        <div class="glass rounded-lg p-4 text-center">
+            <div class="text-2xl font-bold text-[#4CAF50]" id="verified-emails">281</div>
+            <div class="text-xs text-[#888] mt-1">Verified Emails</div>
+        </div>
+        <div class="glass rounded-lg p-4 text-center">
+            <div class="text-2xl font-bold text-[#2196F3]" id="outreach-sent">0</div>
+            <div class="text-xs text-[#888] mt-1">Outreach Sent</div>
+        </div>
+        <div class="glass rounded-lg p-4 text-center">
+            <div class="text-2xl font-bold text-[#4CAF50]" id="replies">0</div>
+            <div class="text-xs text-[#888] mt-1">Replies</div>
+        </div>
+        <div class="glass rounded-lg p-4 text-center">
+            <div class="text-2xl font-bold text-[#B8860B]" id="agents-active">3</div>
+            <div class="text-xs text-[#888] mt-1">Active Agents</div>
+        </div>
+        <div class="glass rounded-lg p-4 text-center">
+            <div class="text-2xl font-bold text-[#2196F3]" id="gateway-uptime">99.9%</div>
+            <div class="text-xs text-[#888] mt-1">Gateway Uptime</div>
+        </div>
+    </div>
+
+    <!-- Main Content Grid -->
+    <div class="grid grid-cols-2 gap-6 px-6 pb-6">
+        <!-- Left Column -->
+        <div class="space-y-6">
+            <!-- Lead Generation Dashboard -->
+            <div class="glass rounded-lg p-6">
+                <h2 class="text-xl font-bold text-[#B8860B] mb-4">📊 Lead Generation</h2>
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Today's New Leads</span>
+                        <span class="font-bold" id="today-leads">47</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Verification Rate</span>
+                        <span class="font-bold text-[#4CAF50]">1.7%</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Top Category</span>
+                        <span class="font-bold">Auto Dealership (467)</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Top City</span>
+                        <span class="font-bold">Stuart (641)</span>
+                    </div>
+                    <div class="mt-4 pt-4 border-t border-[#1e1e2e]">
+                        <div class="text-xs text-[#888] mb-2">Scrapers Status</div>
+                        <div class="grid grid-cols-2 gap-2 text-xs">
+                            <div><span class="text-[#4CAF50]">●</span> Job Board Hunter</div>
+                            <div><span class="text-[#4CAF50]">●</span> Craigslist Hunter</div>
+                            <div><span class="text-[#4CAF50]">●</span> Directory Hunter</div>
+                            <div><span class="text-[#4CAF50]">●</span> National Scraper</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ESH Mail Dashboard -->
+            <div class="glass rounded-lg p-6">
+                <h2 class="text-xl font-bold text-[#B8860B] mb-4">📧 ESH Mail Platform</h2>
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Research Status</span>
+                        <span class="text-[#4CAF50] font-bold">✅ Complete</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Architecture Design</span>
+                        <span class="text-yellow-500 font-bold">⏳ Pending</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">MVP Build</span>
+                        <span class="text-red-500 font-bold">❌ Blocked</span>
+                    </div>
+                    <div class="mt-4 pt-4 border-t border-[#1e1e2e]">
+                        <div class="text-xs text-[#888] mb-2">Research Areas</div>
+                        <div class="space-y-1 text-xs">
+                            <div><span class="text-[#4CAF50]">✓</span> Reputation APIs</div>
+                            <div><span class="text-[#4CAF50]">✓</span> Domain Warmup</div>
+                            <div><span class="text-[#4CAF50]">✓</span> SMTP Providers</div>
+                            <div><span class="text-[#4CAF50]">✓</span> Competitor Analysis</div>
+                            <div><span class="text-[#4CAF50]">✓</span> Cost Model</div>
+                        </div>
+                    </div>
+                    <div class="mt-4 p-3 bg-yellow-500/10 rounded-lg border border-yellow-500/30">
+                        <div class="text-xs text-yellow-500 font-bold">⚠️ BLOCKER: Docker Permissions</div>
+                        <div class="text-xs text-[#888] mt-1">Fix: sudo usermod -aG docker chris</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- System Health -->
+            <div class="glass rounded-lg p-6">
+                <h2 class="text-xl font-bold text-[#B8860B] mb-4">⚙️ System Health</h2>
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Gateway Status</span>
+                        <span class="text-[#4CAF50] font-bold">● Online</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">VPS CPU</span>
+                        <span class="font-bold" id="cpu-usage">12%</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">VPS Memory</span>
+                        <span class="font-bold" id="memory-usage">2.1GB / 8GB</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Docker Containers</span>
+                        <span class="font-bold">2 Running / 0 Stopped</span>
+                    </div>
+                    <div class="mt-4 pt-4 border-t border-[#1e1e2e]">
+                        <div class="text-xs text-[#888] mb-2">API Quotas</div>
+                        <div class="space-y-1 text-xs">
+                            <div class="flex justify-between">
+                                <span>Brave Search</span>
+                                <span class="text-yellow-500">Rate Limited</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>Z.AI</span>
+                                <span class="text-red-500">Exhausted</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>OpenRouter</span>
+                                <span class="text-[#4CAF50]">Free</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Column -->
+        <div class="space-y-6">
+            <!-- Outreach Dashboard -->
+            <div class="glass rounded-lg p-6">
+                <h2 class="text-xl font-bold text-[#B8860B] mb-4">📤 Outreach Tracking</h2>
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Emails Sent Today</span>
+                        <span class="font-bold" id="emails-sent">0</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Open Rate</span>
+                        <span class="font-bold" id="open-rate">0%</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Reply Rate</span>
+                        <span class="font-bold text-[#4CAF50]" id="reply-rate">0%</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Conversion Rate</span>
+                        <span class="font-bold text-[#2196F3]" id="conversion-rate">0%</span>
+                    </div>
+                    <div class="mt-4 pt-4 border-t border-[#1e1e2e]">
+                        <div class="text-xs text-[#888] mb-2">Campaign Status</div>
+                        <div class="space-y-1 text-xs">
+                            <div><span class="text-yellow-500">⏳</span> Week 1: Treasure Coast (0/100)</div>
+                            <div><span class="text-[#888]">○</span> Week 2: Tampa Bay (0/150)</div>
+                            <div><span class="text-[#888]">○</span> Week 3: Miami (0/90)</div>
+                            <div><span class="text-[#888]">○</span> Week 4: Statewide (0/150)</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Agent Swarm -->
+            <div class="glass rounded-lg p-6">
+                <h2 class="text-xl font-bold text-[#B8860B] mb-4">🤖 Agent Swarm</h2>
+                <div class="space-y-2 text-xs">
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>deep-researcher (GLM-5)</span>
+                        <span class="text-[#4CAF50]">● Active</span>
+                    </div>
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>platform-builder (GLM-4.7)</span>
+                        <span class="text-red-500">● Blocked (Docker)</span>
+                    </div>
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>lead-scout (GLM-4.7)</span>
+                        <span class="text-[#888]">○ Idle</span>
+                    </div>
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>lead-generator (GLM-4.7)</span>
+                        <span class="text-[#888]">○ Idle</span>
+                    </div>
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>outreach-writer (GLM-4.7)</span>
+                        <span class="text-[#888]">○ Idle</span>
+                    </div>
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>coding-specialist (GLM-4.7)</span>
+                        <span class="text-[#888]">○ Idle</span>
+                    </div>
+                    <div class="flex justify-between items-center p-2 bg-[#1e1e2e] rounded">
+                        <span>strategy-planner (GLM-4.7)</span>
+                        <span class="text-[#888]">○ Idle</span>
+                    </div>
+                </div>
+                <div class="mt-4 text-xs text-[#888]">
+                    Queue Depth: 0 | Success Rate: 100%
+                </div>
+            </div>
+
+            <!-- Financial Dashboard -->
+            <div class="glass rounded-lg p-6">
+                <h2 class="text-xl font-bold text-[#B8860B] mb-4">💰 Financial Dashboard</h2>
+                <div class="space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Daily Revenue</span>
+                        <span class="font-bold text-[#4CAF50]">$0.00</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Daily Costs</span>
+                        <span class="font-bold text-red-500">$0.00</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                        <span class="text-[#888]">Profit/Loss</span>
+                        <span class="font-bold" id="profit-loss">$0.00</span>
+                    </div>
+                    <div class="mt-4 pt-4 border-t border-[#1e1e2e]">
+                        <div class="text-xs text-[#888] mb-2">Cost Breakdown</div>
+                        <div class="space-y-1 text-xs">
+                            <div class="flex justify-between">
+                                <span>Brave API</span>
+                                <span>$0.00 (Rate Limited)</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>VPS Hosting</span>
+                                <span>$0.00/day</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>SMTP Providers</span>
+                                <span>$0.00 (ESH Mail)</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="glass border-t border-[#1e1e2e] p-4 text-center text-xs text-[#888]">
+        ESH Command Center v1.0 — Elite Service Hub | Last build: 2026-02-14 12:45 UTC
+    </footer>
+
+    <script>
+        // Update timestamp
+        document.getElementById('last-updated').textContent = new Date().toISOString();
+
+        // Auto-refresh every 30 seconds
+        setInterval(() => {
+            document.getElementById('last-updated').textContent = new Date().toISOString();
+            // In production, this would fetch real data from CRM API
+        }, 30000);
+    </script>
+</body>
+</html>

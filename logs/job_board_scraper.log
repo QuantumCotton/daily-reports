@@ -1,0 +1,1813 @@
+2026-02-14 01:31:30,093 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 89s
+2026-02-14 01:32:59,141 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 85s
+2026-02-14 01:34:24,174 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 81s
+2026-02-14 01:35:45,177 INFO Indeed Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 01:35:56,698 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 60s
+2026-02-14 01:36:56,893 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 01:37:52,954 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 42s
+2026-02-14 01:38:34,957 INFO Monster Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 01:38:48,001 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 46s
+2026-02-14 01:39:34,044 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 69s
+2026-02-14 01:40:02,170 INFO === Cycle 1: Stuart, FL (index 0/50) ===
+2026-02-14 01:40:02,262 WARNING 403 on https://www.indeed.com/jobs?q=property+maintenance&l=Stuart%2C+FL&radius=25, sleeping 56s
+2026-02-14 01:40:43,105 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 84s
+2026-02-14 01:40:58,310 WARNING 403 on https://www.indeed.com/jobs?q=property+maintenance&l=Stuart%2C+FL&radius=25, sleeping 80s
+2026-02-14 01:42:07,110 INFO Indeed Stuart, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 01:42:18,355 WARNING 403 on https://www.indeed.com/jobs?q=property+maintenance&l=Stuart%2C+FL&radius=25, sleeping 79s
+2026-02-14 01:42:21,193 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 01:43:24,253 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 01:43:37,358 INFO Indeed Stuart, FL 'property maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 01:43:47,084 WARNING 403 on https://www.monster.com/jobs/search?q=property+maintenance&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 01:44:10,316 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 01:44:33,140 WARNING 403 on https://www.monster.com/jobs/search?q=property+maintenance&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 50s
+2026-02-14 01:45:05,320 INFO Monster Stuart, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 01:45:23,188 WARNING 403 on https://www.monster.com/jobs/search?q=property+maintenance&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 01:46:04,192 INFO Monster Stuart, FL 'property maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 01:46:13,671 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 60s
+2026-02-14 01:47:13,725 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 47s
+2026-02-14 01:48:00,778 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 75s
+2026-02-14 01:49:15,784 INFO Indeed Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 01:49:30,535 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 01:50:36,597 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 01:51:32,656 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 53s
+2026-02-14 01:52:25,659 INFO Monster Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 01:52:38,312 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 55s
+2026-02-14 01:53:33,352 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 42s
+2026-02-14 01:54:15,400 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 68s
+2026-02-14 01:55:23,405 INFO Indeed Stuart, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 01:55:37,639 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 59s
+2026-02-14 01:56:36,698 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 89s
+2026-02-14 01:58:05,764 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 01:59:06,767 INFO Monster Stuart, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 01:59:17,499 INFO Cycle done: Stuart, FL → 0 leads, 0 companies
+[1/50] Scraping job boards: Stuart, FL
+  → 0 new leads, 0 companies
+2026-02-14 02:00:01,842 INFO === Cycle 2: Jensen Beach, FL (index 1/50) ===
+2026-02-14 02:00:01,976 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Jensen+Beach%2C+FL&radius=25, sleeping 84s
+2026-02-14 02:01:26,012 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Jensen+Beach%2C+FL&radius=25, sleeping 57s
+2026-02-14 02:02:23,064 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Jensen+Beach%2C+FL&radius=25, sleeping 89s
+2026-02-14 02:03:52,069 INFO Indeed Jensen Beach, FL 'facilities coordinator': 0 jobs, 0 new, 0 companies
+2026-02-14 02:04:05,014 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 60s
+2026-02-14 02:05:05,083 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 02:06:32,139 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 02:07:40,142 INFO Monster Jensen Beach, FL 'facilities coordinator': 0 jobs, 0 new, 0 companies
+2026-02-14 02:07:52,263 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Jensen+Beach%2C+FL&radius=25, sleeping 73s
+2026-02-14 02:09:05,312 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Jensen+Beach%2C+FL&radius=25, sleeping 54s
+2026-02-14 02:09:59,362 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Jensen+Beach%2C+FL&radius=25, sleeping 51s
+2026-02-14 02:10:50,366 INFO Indeed Jensen Beach, FL 'building superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 02:11:03,122 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 02:12:09,244 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 02:13:37,391 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 53s
+2026-02-14 02:14:30,397 INFO Monster Jensen Beach, FL 'building superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 02:14:39,192 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 55s
+2026-02-14 02:15:34,235 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 57s
+2026-02-14 02:16:31,287 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 65s
+2026-02-14 02:17:36,291 INFO Indeed Jensen Beach, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:17:50,845 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 45s
+2026-02-14 02:18:35,899 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 02:19:57,955 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 02:20:01,311 INFO === Cycle 1: Stuart, FL (index 0/14) ===
+2026-02-14 02:20:01,412 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Stuart%2C+FL&radius=25, sleeping 56s
+2026-02-14 02:20:57,455 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Stuart%2C+FL&radius=25, sleeping 47s
+2026-02-14 02:20:59,958 INFO Monster Jensen Beach, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:21:11,751 INFO Cycle done: Jensen Beach, FL → 0 leads, 0 companies
+[2/50] Scraping job boards: Jensen Beach, FL
+  → 0 new leads, 0 companies
+2026-02-14 02:21:44,495 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Stuart%2C+FL&radius=25, sleeping 60s
+2026-02-14 02:22:44,500 INFO Indeed Stuart, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:22:54,809 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 02:24:19,012 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 02:25:25,068 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 83s
+2026-02-14 02:26:48,077 INFO Monster Stuart, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:27:01,075 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 84s
+2026-02-14 02:28:25,120 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 87s
+2026-02-14 02:29:52,168 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 52s
+2026-02-14 02:30:44,172 INFO Indeed Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:30:56,102 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 02:32:18,180 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 02:33:27,238 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 02:34:49,241 INFO Monster Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:35:02,406 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Stuart%2C+FL&radius=25, sleeping 55s
+2026-02-14 02:35:57,441 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Stuart%2C+FL&radius=25, sleeping 45s
+2026-02-14 02:36:42,533 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Stuart%2C+FL&radius=25, sleeping 42s
+2026-02-14 02:37:24,536 INFO Indeed Stuart, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 02:37:39,234 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 02:38:20,287 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 02:39:15,336 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 02:40:01,190 INFO === Cycle 3: Palm City, FL (index 2/14) ===
+2026-02-14 02:40:01,274 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 48s
+2026-02-14 02:40:19,340 INFO Monster Stuart, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 02:40:29,319 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 85s
+2026-02-14 02:40:49,312 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 69s
+2026-02-14 02:41:54,364 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 68s
+2026-02-14 02:41:58,424 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 69s
+2026-02-14 02:43:02,420 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Stuart%2C+FL&radius=25, sleeping 82s
+2026-02-14 02:43:07,428 INFO Indeed Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:43:17,974 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 02:44:24,423 INFO Indeed Stuart, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 02:44:39,179 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 02:44:39,426 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 02:45:33,246 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 02:45:43,491 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 60s
+2026-02-14 02:46:42,249 INFO Monster Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:46:43,545 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 49s
+2026-02-14 02:46:51,815 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 50s
+2026-02-14 02:47:32,548 INFO Monster Stuart, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 02:47:41,882 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 55s
+2026-02-14 02:47:45,187 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Stuart%2C+FL&radius=25, sleeping 61s
+2026-02-14 02:48:36,939 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 79s
+2026-02-14 02:48:46,231 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Stuart%2C+FL&radius=25, sleeping 88s
+2026-02-14 02:49:55,944 INFO Indeed Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:50:06,693 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 49s
+2026-02-14 02:50:14,270 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Stuart%2C+FL&radius=25, sleeping 87s
+2026-02-14 02:50:55,750 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 02:51:41,274 INFO Indeed Stuart, FL 'building superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 02:51:52,713 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 75s
+2026-02-14 02:52:03,804 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 02:52:43,807 INFO Monster Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:52:57,464 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Palm+City%2C+FL&radius=25, sleeping 80s
+2026-02-14 02:53:07,770 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 02:53:59,824 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 02:54:17,518 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Palm+City%2C+FL&radius=25, sleeping 89s
+2026-02-14 02:55:08,827 INFO Monster Stuart, FL 'building superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 02:55:20,880 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Stuart%2C+FL&radius=25, sleeping 66s
+2026-02-14 02:55:46,563 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Palm+City%2C+FL&radius=25, sleeping 80s
+2026-02-14 02:56:26,928 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Stuart%2C+FL&radius=25, sleeping 81s
+2026-02-14 02:57:06,569 INFO Indeed Palm City, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 02:57:15,999 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 02:57:47,976 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Stuart%2C+FL&radius=25, sleeping 68s
+2026-02-14 02:58:43,054 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 02:58:55,979 INFO Indeed Stuart, FL 'facilities coordinator': 0 jobs, 0 new, 0 companies
+2026-02-14 02:59:07,055 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 02:59:44,110 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 02:59:59,116 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 03:00:01,369 INFO === Cycle 3: Palm City, FL (index 2/14) ===
+2026-02-14 03:00:01,507 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Palm+City%2C+FL&radius=25, sleeping 45s
+2026-02-14 03:00:46,549 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Palm+City%2C+FL&radius=25, sleeping 67s
+2026-02-14 03:00:49,114 INFO Monster Palm City, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:00:58,463 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Palm+City%2C+FL&radius=25, sleeping 50s
+2026-02-14 03:01:25,171 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 03:01:48,511 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Palm+City%2C+FL&radius=25, sleeping 57s
+2026-02-14 03:01:53,592 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Palm+City%2C+FL&radius=25, sleeping 64s
+2026-02-14 03:02:05,174 INFO Monster Stuart, FL 'facilities coordinator': 0 jobs, 0 new, 0 companies
+2026-02-14 03:02:16,787 INFO Cycle done: Stuart, FL → 0 leads, 0 companies
+[1/14] Scraping job boards: Stuart, FL
+  → 0 new leads, 0 companies
+2026-02-14 03:02:45,554 WARNING 403 on https://www.indeed.com/jobs?q=facilities+coordinator&l=Palm+City%2C+FL&radius=25, sleeping 63s
+2026-02-14 03:02:57,595 INFO Indeed Palm City, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:03:11,622 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 03:03:48,556 INFO Indeed Palm City, FL 'facilities coordinator': 0 jobs, 0 new, 0 companies
+2026-02-14 03:03:58,987 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 03:04:39,750 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 58s
+2026-02-14 03:04:50,165 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 03:05:37,812 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 03:05:42,287 WARNING 403 on https://www.monster.com/jobs/search?q=facilities+coordinator&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 03:06:50,292 INFO Monster Palm City, FL 'facilities coordinator': 0 jobs, 0 new, 0 companies
+2026-02-14 03:06:59,815 INFO Monster Palm City, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:07:04,542 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 58s
+2026-02-14 03:07:11,931 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 46s
+2026-02-14 03:07:57,979 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 66s
+2026-02-14 03:08:02,594 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 47s
+2026-02-14 03:08:49,631 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 83s
+2026-02-14 03:09:04,028 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 66s
+2026-02-14 03:10:10,031 INFO Indeed Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:10:12,634 INFO Indeed Palm City, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 03:10:21,463 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 03:10:22,154 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 03:11:12,522 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 03:11:18,211 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 03:11:58,580 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 03:12:34,268 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 03:13:26,582 INFO Monster Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:13:38,721 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 56s
+2026-02-14 03:13:50,271 INFO Monster Palm City, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 03:14:03,367 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Palm+City%2C+FL&radius=25, sleeping 71s
+2026-02-14 03:14:34,758 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 67s
+2026-02-14 03:15:14,436 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Palm+City%2C+FL&radius=25, sleeping 84s
+2026-02-14 03:15:41,798 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 66s
+2026-02-14 03:16:38,476 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Palm+City%2C+FL&radius=25, sleeping 83s
+2026-02-14 03:16:47,802 INFO Indeed Palm City, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 03:16:56,886 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 03:17:51,952 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 03:18:01,480 INFO Indeed Palm City, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:18:16,261 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 03:18:36,006 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 03:19:44,010 INFO Monster Palm City, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 03:19:46,315 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 80s
+2026-02-14 03:19:56,914 WARNING 403 on https://www.indeed.com/jobs?q=apartment+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 68s
+2026-02-14 03:20:02,111 INFO === Cycle 2: Jensen Beach, FL (index 1/14) ===
+2026-02-14 03:20:02,211 WARNING 403 on https://www.indeed.com/jobs?q=apartment+maintenance&l=Jensen+Beach%2C+FL&radius=25, sleeping 51s
+2026-02-14 03:20:53,296 WARNING 403 on https://www.indeed.com/jobs?q=apartment+maintenance&l=Jensen+Beach%2C+FL&radius=25, sleeping 40s
+2026-02-14 03:21:04,973 WARNING 403 on https://www.indeed.com/jobs?q=apartment+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 79s
+2026-02-14 03:21:06,438 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 42s
+2026-02-14 03:21:33,338 WARNING 403 on https://www.indeed.com/jobs?q=apartment+maintenance&l=Jensen+Beach%2C+FL&radius=25, sleeping 43s
+2026-02-14 03:21:48,442 INFO Monster Palm City, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:22:00,831 INFO Cycle done: Palm City, FL → 0 leads, 0 companies
+[3/14] Scraping job boards: Palm City, FL
+  → 0 new leads, 0 companies
+2026-02-14 03:22:16,344 INFO Indeed Jensen Beach, FL 'apartment maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 03:22:24,009 WARNING 403 on https://www.indeed.com/jobs?q=apartment+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 52s
+2026-02-14 03:22:29,778 WARNING 403 on https://www.monster.com/jobs/search?q=apartment+maintenance&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 03:23:16,012 INFO Indeed Palm City, FL 'apartment maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 03:23:28,133 WARNING 403 on https://www.monster.com/jobs/search?q=apartment+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 42s
+2026-02-14 03:23:40,842 WARNING 403 on https://www.monster.com/jobs/search?q=apartment+maintenance&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 42s
+2026-02-14 03:24:10,196 WARNING 403 on https://www.monster.com/jobs/search?q=apartment+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 03:24:22,890 WARNING 403 on https://www.monster.com/jobs/search?q=apartment+maintenance&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 03:25:36,252 WARNING 403 on https://www.monster.com/jobs/search?q=apartment+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 03:25:44,893 INFO Monster Jensen Beach, FL 'apartment maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 03:25:59,362 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Jensen+Beach%2C+FL&radius=25, sleeping 84s
+2026-02-14 03:27:04,255 INFO Monster Palm City, FL 'apartment maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 03:27:13,648 WARNING 403 on https://www.indeed.com/jobs?q=property+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 41s
+2026-02-14 03:27:23,448 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Jensen+Beach%2C+FL&radius=25, sleeping 83s
+2026-02-14 03:27:54,691 WARNING 403 on https://www.indeed.com/jobs?q=property+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 86s
+2026-02-14 03:28:46,500 WARNING 403 on https://www.indeed.com/jobs?q=building+superintendent&l=Jensen+Beach%2C+FL&radius=25, sleeping 85s
+2026-02-14 03:29:20,741 WARNING 403 on https://www.indeed.com/jobs?q=property+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 82s
+2026-02-14 03:30:11,504 INFO Indeed Jensen Beach, FL 'building superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 03:30:26,548 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 03:30:42,744 INFO Indeed Palm City, FL 'property maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 03:30:51,182 WARNING 403 on https://www.monster.com/jobs/search?q=property+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 03:31:21,682 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 72s
+2026-02-14 03:32:13,242 WARNING 403 on https://www.monster.com/jobs/search?q=property+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 03:32:33,733 WARNING 403 on https://www.monster.com/jobs/search?q=building+superintendent&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 83s
+2026-02-14 03:33:19,373 WARNING 403 on https://www.monster.com/jobs/search?q=property+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 03:33:56,736 INFO Monster Jensen Beach, FL 'building superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 03:34:06,088 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 40s
+2026-02-14 03:34:21,376 INFO Monster Palm City, FL 'property maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 03:34:32,300 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 87s
+2026-02-14 03:34:46,141 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 72s
+2026-02-14 03:35:58,187 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 50s
+2026-02-14 03:35:59,339 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 62s
+2026-02-14 03:36:48,190 INFO Indeed Jensen Beach, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:36:58,377 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 03:37:01,384 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 84s
+2026-02-14 03:37:54,436 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 58s
+2026-02-14 03:38:25,387 INFO Indeed Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:38:35,480 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 03:38:52,489 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 03:39:40,537 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 03:39:53,494 INFO Monster Jensen Beach, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:40:02,049 INFO === Cycle 1: Stuart, FL (index 0/15) ===
+2026-02-14 03:40:02,203 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Stuart%2C+FL&radius=25, sleeping 52s
+2026-02-14 03:40:07,149 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 50s
+2026-02-14 03:40:46,605 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 03:40:54,239 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Stuart%2C+FL&radius=25, sleeping 73s
+2026-02-14 03:40:57,184 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 87s
+2026-02-14 03:41:29,609 INFO Monster Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:41:41,666 INFO Cycle done: Palm City, FL → 0 leads, 0 companies
+[3/14] Scraping job boards: Palm City, FL
+  → 0 new leads, 0 companies
+2026-02-14 03:42:07,285 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Stuart%2C+FL&radius=25, sleeping 49s
+2026-02-14 03:42:24,228 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 58s
+2026-02-14 03:42:56,288 INFO Indeed Stuart, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:43:09,885 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 59s
+2026-02-14 03:43:22,231 INFO Indeed Jensen Beach, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:43:30,449 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 03:44:08,948 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 03:44:34,509 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 03:45:28,008 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 80s
+2026-02-14 03:45:29,579 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 03:46:47,585 INFO Monster Jensen Beach, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:46:48,012 INFO Monster Stuart, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:46:56,624 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Stuart%2C+FL&radius=25, sleeping 72s
+2026-02-14 03:46:57,239 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Jensen+Beach%2C+FL&radius=25, sleeping 73s
+2026-02-14 03:48:08,733 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Stuart%2C+FL&radius=25, sleeping 79s
+2026-02-14 03:48:10,295 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Jensen+Beach%2C+FL&radius=25, sleeping 42s
+2026-02-14 03:48:52,348 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+director&l=Jensen+Beach%2C+FL&radius=25, sleeping 68s
+2026-02-14 03:49:27,778 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Stuart%2C+FL&radius=25, sleeping 50s
+2026-02-14 03:50:00,355 INFO Indeed Jensen Beach, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 03:50:15,233 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 03:50:17,782 INFO Indeed Stuart, FL 'restaurant manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:50:28,090 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 03:51:30,226 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 03:51:31,299 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 03:52:32,283 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 85s
+2026-02-14 03:52:36,355 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+director&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 03:53:28,359 INFO Monster Jensen Beach, FL 'maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 03:53:37,871 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 44s
+2026-02-14 03:53:57,290 INFO Monster Stuart, FL 'restaurant manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:54:10,403 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Stuart%2C+FL&radius=25, sleeping 88s
+2026-02-14 03:54:21,919 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 83s
+2026-02-14 03:55:38,469 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Stuart%2C+FL&radius=25, sleeping 81s
+2026-02-14 03:55:44,955 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 77s
+2026-02-14 03:56:59,550 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Stuart%2C+FL&radius=25, sleeping 86s
+2026-02-14 03:57:01,960 INFO Indeed Jensen Beach, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:57:13,355 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 03:58:14,414 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 03:58:25,553 INFO Indeed Stuart, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:58:34,420 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 03:58:57,486 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 03:59:40,490 INFO Monster Jensen Beach, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 03:59:49,187 INFO Cycle done: Jensen Beach, FL → 0 leads, 0 companies
+[2/14] Scraping job boards: Jensen Beach, FL
+  → 0 new leads, 0 companies
+2026-02-14 04:00:01,491 INFO === Cycle 3: Palm City, FL (index 2/15) ===
+2026-02-14 04:00:01,606 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Palm+City%2C+FL&radius=25, sleeping 75s
+2026-02-14 04:00:04,479 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 04:00:44,540 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 04:01:16,661 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Palm+City%2C+FL&radius=25, sleeping 41s
+2026-02-14 04:01:32,543 INFO Monster Stuart, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:01:45,461 WARNING 403 on https://www.indeed.com/jobs?q=golf+course+superintendent&l=Stuart%2C+FL&radius=25, sleeping 66s
+2026-02-14 04:01:57,710 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Palm+City%2C+FL&radius=25, sleeping 61s
+2026-02-14 04:02:51,510 WARNING 403 on https://www.indeed.com/jobs?q=golf+course+superintendent&l=Stuart%2C+FL&radius=25, sleeping 90s
+2026-02-14 04:02:58,713 INFO Indeed Palm City, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:03:07,208 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 04:04:21,569 WARNING 403 on https://www.indeed.com/jobs?q=golf+course+superintendent&l=Stuart%2C+FL&radius=25, sleeping 63s
+2026-02-14 04:04:37,272 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 04:05:24,573 INFO Indeed Stuart, FL 'golf course superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 04:05:33,110 WARNING 403 on https://www.monster.com/jobs/search?q=golf+course+superintendent&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 59s
+2026-02-14 04:05:53,337 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 47s
+2026-02-14 04:06:32,168 WARNING 403 on https://www.monster.com/jobs/search?q=golf+course+superintendent&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 04:06:40,342 INFO Monster Palm City, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:06:53,131 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Palm+City%2C+FL&radius=25, sleeping 49s
+2026-02-14 04:07:34,222 WARNING 403 on https://www.monster.com/jobs/search?q=golf+course+superintendent&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 80s
+2026-02-14 04:07:42,168 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Palm+City%2C+FL&radius=25, sleeping 44s
+2026-02-14 04:08:26,209 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Palm+City%2C+FL&radius=25, sleeping 85s
+2026-02-14 04:08:54,226 INFO Monster Stuart, FL 'golf course superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 04:09:07,325 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Stuart%2C+FL&radius=25, sleeping 81s
+2026-02-14 04:09:51,214 INFO Indeed Palm City, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 04:10:04,655 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 04:10:28,372 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Stuart%2C+FL&radius=25, sleeping 53s
+2026-02-14 04:11:20,717 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 04:11:21,424 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Stuart%2C+FL&radius=25, sleeping 80s
+2026-02-14 04:12:28,772 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 04:12:41,428 INFO Indeed Stuart, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:12:55,474 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 67s
+2026-02-14 04:13:36,776 INFO Monster Palm City, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 04:13:47,001 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Palm+City%2C+FL&radius=25, sleeping 58s
+2026-02-14 04:14:02,530 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 04:14:45,038 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Palm+City%2C+FL&radius=25, sleeping 47s
+2026-02-14 04:15:10,590 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 80s
+2026-02-14 04:15:32,082 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Palm+City%2C+FL&radius=25, sleeping 80s
+2026-02-14 04:16:30,594 INFO Monster Stuart, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:16:40,376 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 65s
+2026-02-14 04:16:52,087 INFO Indeed Palm City, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 04:17:04,026 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 53s
+2026-02-14 04:17:45,421 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 68s
+2026-02-14 04:17:57,095 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 83s
+2026-02-14 04:18:53,457 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Stuart%2C+FL&radius=25, sleeping 46s
+2026-02-14 04:19:20,153 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 04:19:39,462 INFO Indeed Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:19:51,218 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 04:20:01,895 INFO === Cycle 3: Palm City, FL (index 2/15) ===
+2026-02-14 04:20:02,026 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Palm+City%2C+FL&radius=25, sleeping 88s
+2026-02-14 04:20:03,157 INFO Monster Palm City, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 04:20:15,378 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 42s
+2026-02-14 04:20:57,419 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 70s
+2026-02-14 04:21:09,284 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 58s
+2026-02-14 04:21:30,070 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Palm+City%2C+FL&radius=25, sleeping 42s
+2026-02-14 04:22:07,340 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 57s
+2026-02-14 04:22:07,460 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 81s
+2026-02-14 04:22:12,119 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Palm+City%2C+FL&radius=25, sleeping 45s
+2026-02-14 04:22:57,122 INFO Indeed Palm City, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 04:23:04,344 INFO Monster Stuart, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:23:10,797 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 04:23:17,427 INFO Cycle done: Stuart, FL → 0 leads, 0 companies
+[1/15] Scraping job boards: Stuart, FL
+  → 0 new leads, 0 companies
+2026-02-14 04:23:28,463 INFO Indeed Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:23:41,768 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 59s
+2026-02-14 04:24:38,867 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 04:24:40,827 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 47s
+2026-02-14 04:25:26,921 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 59s
+2026-02-14 04:25:27,881 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 04:26:13,884 INFO Monster Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:26:22,165 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 69s
+2026-02-14 04:26:25,924 INFO Monster Palm City, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 04:26:39,173 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 46s
+2026-02-14 04:27:25,215 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 49s
+2026-02-14 04:27:31,199 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 87s
+2026-02-14 04:28:14,272 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Palm+City%2C+FL&radius=25, sleeping 70s
+2026-02-14 04:28:58,249 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 43s
+2026-02-14 04:29:24,276 INFO Indeed Palm City, FL 'building maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 04:29:38,618 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 72s
+2026-02-14 04:29:41,253 INFO Indeed Palm City, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 04:29:50,869 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 04:30:38,929 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 04:30:50,681 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 04:31:49,992 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 04:31:59,741 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 72s
+2026-02-14 04:32:54,995 INFO Monster Palm City, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 04:33:04,682 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 86s
+2026-02-14 04:33:11,745 INFO Monster Palm City, FL 'building maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 04:33:26,329 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Palm+City%2C+FL&radius=25, sleeping 55s
+2026-02-14 04:34:21,379 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Palm+City%2C+FL&radius=25, sleeping 63s
+2026-02-14 04:34:30,749 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 61s
+2026-02-14 04:35:24,417 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Palm+City%2C+FL&radius=25, sleeping 62s
+2026-02-14 04:35:31,855 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 89s
+2026-02-14 04:36:26,422 INFO Indeed Palm City, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 04:36:39,334 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 04:37:00,858 INFO Indeed Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:37:13,856 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 04:37:43,400 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 04:38:31,920 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 04:39:10,453 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 04:39:25,988 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 04:40:01,891 INFO === Cycle 2: Jensen Beach, FL (index 1/15) ===
+2026-02-14 04:40:02,030 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Jensen+Beach%2C+FL&radius=25, sleeping 50s
+2026-02-14 04:40:21,992 INFO Monster Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:40:32,583 INFO Cycle done: Palm City, FL → 0 leads, 0 companies
+[3/15] Scraping job boards: Palm City, FL
+  → 0 new leads, 0 companies
+2026-02-14 04:40:38,456 INFO Monster Palm City, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 04:40:52,090 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Jensen+Beach%2C+FL&radius=25, sleeping 52s
+2026-02-14 04:40:53,223 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Palm+City%2C+FL&radius=25, sleeping 74s
+2026-02-14 04:41:44,142 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Jensen+Beach%2C+FL&radius=25, sleeping 79s
+2026-02-14 04:42:07,305 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Palm+City%2C+FL&radius=25, sleeping 57s
+2026-02-14 04:43:03,146 INFO Indeed Jensen Beach, FL 'veterinary clinic': 0 jobs, 0 new, 0 companies
+2026-02-14 04:43:04,348 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Palm+City%2C+FL&radius=25, sleeping 45s
+2026-02-14 04:43:16,369 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 04:43:49,352 INFO Indeed Palm City, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 04:43:58,583 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 04:44:07,431 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 04:44:41,630 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 77s
+2026-02-14 04:45:37,488 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 42s
+2026-02-14 04:45:58,707 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 57s
+2026-02-14 04:46:19,491 INFO Monster Jensen Beach, FL 'veterinary clinic': 0 jobs, 0 new, 0 companies
+2026-02-14 04:46:34,324 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Jensen+Beach%2C+FL&radius=25, sleeping 72s
+2026-02-14 04:46:55,713 INFO Monster Palm City, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 04:47:04,957 WARNING 403 on https://www.indeed.com/jobs?q=auto+dealership&l=Palm+City%2C+FL&radius=25, sleeping 54s
+2026-02-14 04:47:46,364 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Jensen+Beach%2C+FL&radius=25, sleeping 55s
+2026-02-14 04:47:58,995 WARNING 403 on https://www.indeed.com/jobs?q=auto+dealership&l=Palm+City%2C+FL&radius=25, sleeping 42s
+2026-02-14 04:48:41,045 WARNING 403 on https://www.indeed.com/jobs?q=auto+dealership&l=Palm+City%2C+FL&radius=25, sleeping 54s
+2026-02-14 04:48:41,406 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Jensen+Beach%2C+FL&radius=25, sleeping 57s
+2026-02-14 04:49:35,048 INFO Indeed Palm City, FL 'auto dealership': 0 jobs, 0 new, 0 companies
+2026-02-14 04:49:38,409 INFO Indeed Jensen Beach, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 04:49:45,408 WARNING 403 on https://www.monster.com/jobs/search?q=auto+dealership&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 04:49:48,056 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 04:50:46,470 WARNING 403 on https://www.monster.com/jobs/search?q=auto+dealership&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 04:51:09,109 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 04:52:05,609 WARNING 403 on https://www.monster.com/jobs/search?q=auto+dealership&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 04:52:36,179 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 50s
+2026-02-14 04:52:53,613 INFO Monster Palm City, FL 'auto dealership': 0 jobs, 0 new, 0 companies
+2026-02-14 04:53:07,497 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 90s
+2026-02-14 04:53:26,183 INFO Monster Jensen Beach, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 04:53:38,162 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 86s
+2026-02-14 04:54:37,545 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 52s
+2026-02-14 04:55:04,239 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 80s
+2026-02-14 04:55:29,583 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 46s
+2026-02-14 04:56:15,590 INFO Indeed Palm City, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 04:56:24,287 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 54s
+2026-02-14 04:56:28,503 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 04:57:18,290 INFO Indeed Jensen Beach, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 04:57:29,701 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 04:57:30,916 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 72s
+2026-02-14 04:58:42,978 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 04:58:56,767 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 04:59:37,038 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 04:59:44,770 INFO Monster Palm City, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 04:59:58,382 INFO Cycle done: Palm City, FL → 0 leads, 0 companies
+[3/15] Scraping job boards: Palm City, FL
+  → 0 new leads, 0 companies
+2026-02-14 05:00:01,630 INFO === Cycle 4: Port St Lucie, FL (index 3/15) ===
+2026-02-14 05:00:01,745 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 75s
+2026-02-14 05:00:32,043 INFO Monster Jensen Beach, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:00:44,501 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 53s
+2026-02-14 05:01:16,805 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 58s
+2026-02-14 05:01:37,549 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 47s
+2026-02-14 05:02:14,843 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 87s
+2026-02-14 05:02:24,585 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Jensen+Beach%2C+FL&radius=25, sleeping 82s
+2026-02-14 05:03:41,847 INFO Indeed Port St Lucie, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:03:46,588 INFO Indeed Jensen Beach, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:03:52,059 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 05:04:00,934 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 70s
+2026-02-14 05:05:11,001 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 05:05:13,126 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 57s
+2026-02-14 05:06:10,186 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 05:06:35,049 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 70s
+2026-02-14 05:07:19,191 INFO Monster Port St Lucie, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:07:33,850 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 45s
+2026-02-14 05:07:45,052 INFO Monster Jensen Beach, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:07:55,519 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Jensen+Beach%2C+FL&radius=25, sleeping 72s
+2026-02-14 05:08:18,887 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 84s
+2026-02-14 05:09:07,568 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Jensen+Beach%2C+FL&radius=25, sleeping 45s
+2026-02-14 05:09:42,930 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 44s
+2026-02-14 05:09:52,609 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Jensen+Beach%2C+FL&radius=25, sleeping 44s
+2026-02-14 05:10:26,934 INFO Indeed Port St Lucie, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:10:35,827 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 05:10:36,614 INFO Indeed Jensen Beach, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 05:10:47,375 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 53s
+2026-02-14 05:11:40,430 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 05:12:05,883 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 05:12:21,492 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 70s
+2026-02-14 05:13:23,940 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 05:13:31,496 INFO Monster Jensen Beach, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 05:13:45,016 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Jensen+Beach%2C+FL&radius=25, sleeping 58s
+2026-02-14 05:14:42,943 INFO Monster Port St Lucie, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:14:43,085 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Jensen+Beach%2C+FL&radius=25, sleeping 69s
+2026-02-14 05:14:56,820 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Port+St+Lucie%2C+FL&radius=25, sleeping 74s
+2026-02-14 05:15:52,128 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Jensen+Beach%2C+FL&radius=25, sleeping 66s
+2026-02-14 05:16:10,869 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Port+St+Lucie%2C+FL&radius=25, sleeping 61s
+2026-02-14 05:16:58,133 INFO Indeed Jensen Beach, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 05:17:10,560 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 77s
+2026-02-14 05:17:11,928 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Port+St+Lucie%2C+FL&radius=25, sleeping 81s
+2026-02-14 05:18:27,621 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 50s
+2026-02-14 05:18:32,933 INFO Indeed Port St Lucie, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 05:18:44,014 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 85s
+2026-02-14 05:19:17,686 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Jensen+Beach%2C+FL&page=1&so=m.h.sh, sleeping 73s
+2026-02-14 05:20:01,534 INFO === Cycle 4: Port St Lucie, FL (index 3/15) ===
+2026-02-14 05:20:01,649 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Port+St+Lucie%2C+FL&radius=25, sleeping 78s
+2026-02-14 05:20:09,085 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 05:20:30,690 INFO Monster Jensen Beach, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 05:20:39,987 INFO Cycle done: Jensen Beach, FL → 0 leads, 0 companies
+[2/15] Scraping job boards: Jensen Beach, FL
+  → 0 new leads, 0 companies
+2026-02-14 05:21:12,148 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 05:21:19,705 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Port+St+Lucie%2C+FL&radius=25, sleeping 47s
+2026-02-14 05:21:52,151 INFO Monster Port St Lucie, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 05:22:01,220 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Port+St+Lucie%2C+FL&radius=25, sleeping 53s
+2026-02-14 05:22:06,755 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Port+St+Lucie%2C+FL&radius=25, sleeping 86s
+2026-02-14 05:22:54,261 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Port+St+Lucie%2C+FL&radius=25, sleeping 57s
+2026-02-14 05:23:32,759 INFO Indeed Port St Lucie, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 05:23:44,052 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 05:23:51,299 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Port+St+Lucie%2C+FL&radius=25, sleeping 47s
+2026-02-14 05:24:38,302 INFO Indeed Port St Lucie, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 05:24:39,109 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 74s
+2026-02-14 05:24:47,268 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 05:25:53,164 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 05:25:58,322 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 05:26:49,168 INFO Monster Port St Lucie, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 05:27:01,564 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 41s
+2026-02-14 05:27:22,380 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 05:27:42,614 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 53s
+2026-02-14 05:28:35,651 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 65s
+2026-02-14 05:28:40,384 INFO Monster Port St Lucie, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 05:28:55,117 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Port+St+Lucie%2C+FL&radius=25, sleeping 72s
+2026-02-14 05:29:40,655 INFO Indeed Port St Lucie, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:29:51,839 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 05:30:07,158 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Port+St+Lucie%2C+FL&radius=25, sleeping 72s
+2026-02-14 05:31:07,908 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 05:31:19,201 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Port+St+Lucie%2C+FL&radius=25, sleeping 73s
+2026-02-14 05:32:01,968 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 45s
+2026-02-14 05:32:32,205 INFO Indeed Port St Lucie, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 05:32:41,263 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 05:32:46,971 INFO Monster Port St Lucie, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:32:59,256 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Port+St+Lucie%2C+FL&radius=25, sleeping 70s
+2026-02-14 05:33:52,320 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 05:34:09,297 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Port+St+Lucie%2C+FL&radius=25, sleeping 82s
+2026-02-14 05:34:36,376 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 05:35:27,380 INFO Monster Port St Lucie, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 05:35:31,343 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Port+St+Lucie%2C+FL&radius=25, sleeping 83s
+2026-02-14 05:35:38,211 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 63s
+2026-02-14 05:36:41,253 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 67s
+2026-02-14 05:36:54,348 INFO Indeed Port St Lucie, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 05:37:08,491 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 05:37:48,294 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 87s
+2026-02-14 05:38:12,551 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 05:38:52,613 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 05:39:15,299 INFO Indeed Port St Lucie, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:39:24,180 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 57s
+2026-02-14 05:39:40,616 INFO Monster Port St Lucie, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 05:39:53,214 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Port+St+Lucie%2C+FL&radius=25, sleeping 58s
+2026-02-14 05:40:02,072 INFO === Cycle 3: Palm City, FL (index 2/15) ===
+2026-02-14 05:40:02,160 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Palm+City%2C+FL&radius=25, sleeping 57s
+2026-02-14 05:40:21,239 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 05:40:51,276 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Port+St+Lucie%2C+FL&radius=25, sleeping 79s
+2026-02-14 05:40:59,202 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Palm+City%2C+FL&radius=25, sleeping 67s
+2026-02-14 05:41:48,296 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 05:42:06,260 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Palm+City%2C+FL&radius=25, sleeping 71s
+2026-02-14 05:42:10,314 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Port+St+Lucie%2C+FL&radius=25, sleeping 42s
+2026-02-14 05:42:32,300 INFO Monster Port St Lucie, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:42:41,528 INFO Cycle done: Port St Lucie, FL → 0 leads, 0 companies
+[4/15] Scraping job boards: Port St Lucie, FL
+  → 0 new leads, 0 companies
+2026-02-14 05:42:52,318 INFO Indeed Port St Lucie, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 05:43:06,295 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 77s
+2026-02-14 05:43:17,263 INFO Indeed Palm City, FL 'kennel manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:43:29,721 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 85s
+2026-02-14 05:44:23,355 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 05:44:54,856 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 05:45:07,413 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 05:45:50,919 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 05:46:10,418 INFO Monster Port St Lucie, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 05:46:23,848 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Port+St+Lucie%2C+FL&radius=25, sleeping 47s
+2026-02-14 05:46:41,924 INFO Monster Palm City, FL 'kennel manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:46:54,990 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 86s
+2026-02-14 05:47:10,886 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Port+St+Lucie%2C+FL&radius=25, sleeping 82s
+2026-02-14 05:48:21,048 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 78s
+2026-02-14 05:48:32,931 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Port+St+Lucie%2C+FL&radius=25, sleeping 70s
+2026-02-14 05:49:39,090 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Palm+City%2C+FL&radius=25, sleeping 54s
+2026-02-14 05:49:42,937 INFO Indeed Port St Lucie, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 05:49:52,358 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 05:50:33,094 INFO Indeed Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:50:43,715 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 05:50:55,421 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 83s
+2026-02-14 05:51:27,780 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 05:52:08,850 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 05:52:18,478 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 05:52:59,853 INFO Monster Palm City, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:53:13,546 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 48s
+2026-02-14 05:53:19,481 INFO Monster Port St Lucie, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 05:53:29,961 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 74s
+2026-02-14 05:54:01,594 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 78s
+2026-02-14 05:54:43,997 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 46s
+2026-02-14 05:55:19,643 WARNING 403 on https://www.indeed.com/jobs?q=property+manager&l=Palm+City%2C+FL&radius=25, sleeping 56s
+2026-02-14 05:55:30,039 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 42s
+2026-02-14 05:56:12,042 INFO Indeed Port St Lucie, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:56:15,647 INFO Indeed Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:56:20,620 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 45s
+2026-02-14 05:56:28,228 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 05:57:05,682 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 05:57:33,295 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 05:58:09,731 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 05:58:29,352 WARNING 403 on https://www.monster.com/jobs/search?q=property+manager&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 75s
+2026-02-14 05:59:11,735 INFO Monster Port St Lucie, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:59:22,269 INFO Cycle done: Port St Lucie, FL → 0 leads, 0 companies
+[4/15] Scraping job boards: Port St Lucie, FL
+  → 0 new leads, 0 companies
+2026-02-14 05:59:44,355 INFO Monster Palm City, FL 'property manager': 0 jobs, 0 new, 0 companies
+2026-02-14 05:59:56,578 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 72s
+2026-02-14 06:00:01,526 INFO === Cycle 5: Fort Pierce, FL (index 4/15) ===
+2026-02-14 06:00:01,625 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Fort+Pierce%2C+FL&radius=25, sleeping 84s
+2026-02-14 06:01:08,625 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 90s
+2026-02-14 06:01:25,663 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Fort+Pierce%2C+FL&radius=25, sleeping 61s
+2026-02-14 06:02:26,702 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Fort+Pierce%2C+FL&radius=25, sleeping 64s
+2026-02-14 06:02:38,679 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Palm+City%2C+FL&radius=25, sleeping 54s
+2026-02-14 06:03:30,707 INFO Indeed Fort Pierce, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 06:03:32,684 INFO Indeed Palm City, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 06:03:42,149 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 06:03:43,455 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 06:04:26,519 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 06:04:58,210 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 06:05:50,586 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 06:06:09,271 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 06:07:09,589 INFO Monster Palm City, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 06:07:20,928 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Palm+City%2C+FL&radius=25, sleeping 59s
+2026-02-14 06:07:39,274 INFO Monster Fort Pierce, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 06:07:50,124 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 55s
+2026-02-14 06:08:20,032 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Palm+City%2C+FL&radius=25, sleeping 86s
+2026-02-14 06:08:45,168 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 80s
+2026-02-14 06:09:46,075 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Palm+City%2C+FL&radius=25, sleeping 72s
+2026-02-14 06:10:05,214 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 90s
+2026-02-14 06:10:58,080 INFO Indeed Palm City, FL 'church facilities': 0 jobs, 0 new, 0 companies
+2026-02-14 06:11:06,506 WARNING 403 on https://www.monster.com/jobs/search?q=church+facilities&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 06:11:35,218 INFO Indeed Fort Pierce, FL 'kennel manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:11:49,109 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 50s
+2026-02-14 06:12:24,696 WARNING 403 on https://www.monster.com/jobs/search?q=church+facilities&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 06:12:39,160 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 06:13:50,751 WARNING 403 on https://www.monster.com/jobs/search?q=church+facilities&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 06:14:05,216 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 85s
+2026-02-14 06:14:34,755 INFO Monster Palm City, FL 'church facilities': 0 jobs, 0 new, 0 companies
+2026-02-14 06:14:47,714 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Palm+City%2C+FL&radius=25, sleeping 50s
+2026-02-14 06:15:30,220 INFO Monster Fort Pierce, FL 'kennel manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:15:37,763 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Palm+City%2C+FL&radius=25, sleeping 41s
+2026-02-14 06:15:43,206 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Fort+Pierce%2C+FL&radius=25, sleeping 57s
+2026-02-14 06:16:18,802 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Palm+City%2C+FL&radius=25, sleeping 83s
+2026-02-14 06:16:40,289 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Fort+Pierce%2C+FL&radius=25, sleeping 65s
+2026-02-14 06:17:41,807 INFO Indeed Palm City, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 06:17:45,347 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Fort+Pierce%2C+FL&radius=25, sleeping 41s
+2026-02-14 06:17:55,283 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 06:18:26,351 INFO Indeed Fort Pierce, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 06:18:35,592 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 06:19:04,352 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 06:19:16,644 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 67s
+2026-02-14 06:20:01,631 INFO === Cycle 5: Fort Pierce, FL (index 4/15) ===
+2026-02-14 06:20:01,735 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Fort+Pierce%2C+FL&radius=25, sleeping 88s
+2026-02-14 06:20:08,415 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Palm+City%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 06:20:23,709 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 06:21:02,418 INFO Monster Palm City, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 06:21:12,358 INFO Cycle done: Palm City, FL → 0 leads, 0 companies
+[3/15] Scraping job boards: Palm City, FL
+  → 0 new leads, 0 companies
+2026-02-14 06:21:29,779 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Fort+Pierce%2C+FL&radius=25, sleeping 53s
+2026-02-14 06:21:50,712 INFO Monster Fort Pierce, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 06:22:02,730 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 59s
+2026-02-14 06:22:22,824 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Fort+Pierce%2C+FL&radius=25, sleeping 44s
+2026-02-14 06:23:01,784 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 79s
+2026-02-14 06:23:06,828 INFO Indeed Fort Pierce, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 06:23:17,776 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 06:24:20,830 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 48s
+2026-02-14 06:24:28,843 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 06:25:08,840 INFO Indeed Fort Pierce, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:25:14,904 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 06:25:21,967 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 42s
+2026-02-14 06:25:55,908 INFO Monster Fort Pierce, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 06:26:04,014 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 06:26:05,598 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Fort+Pierce%2C+FL&radius=25, sleeping 49s
+2026-02-14 06:26:54,648 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Fort+Pierce%2C+FL&radius=25, sleeping 58s
+2026-02-14 06:27:30,087 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 06:27:52,701 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Fort+Pierce%2C+FL&radius=25, sleeping 60s
+2026-02-14 06:28:13,091 INFO Monster Fort Pierce, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:28:23,765 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 53s
+2026-02-14 06:28:52,706 INFO Indeed Fort Pierce, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 06:29:02,955 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 49s
+2026-02-14 06:29:16,801 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 70s
+2026-02-14 06:29:52,011 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 06:30:26,856 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 69s
+2026-02-14 06:31:08,082 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 06:31:35,863 INFO Indeed Fort Pierce, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 06:31:46,586 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 06:32:34,653 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 06:32:35,089 INFO Monster Fort Pierce, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 06:32:49,112 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 41s
+2026-02-14 06:33:25,852 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 80s
+2026-02-14 06:33:30,150 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 45s
+2026-02-14 06:34:15,199 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 78s
+2026-02-14 06:34:45,856 INFO Monster Fort Pierce, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 06:34:59,131 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 43s
+2026-02-14 06:35:33,202 INFO Indeed Fort Pierce, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 06:35:42,172 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 84s
+2026-02-14 06:35:44,583 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 53s
+2026-02-14 06:36:37,648 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 74s
+2026-02-14 06:37:06,224 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 85s
+2026-02-14 06:37:51,714 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 06:38:31,228 INFO Indeed Fort Pierce, FL 'restaurant manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:38:40,785 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 06:38:47,719 INFO Monster Fort Pierce, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 06:39:01,675 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Fort+Pierce%2C+FL&radius=25, sleeping 62s
+2026-02-14 06:40:02,029 INFO === Cycle 4: Port St Lucie, FL (index 3/15) ===
+2026-02-14 06:40:02,149 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Port+St+Lucie%2C+FL&radius=25, sleeping 56s
+2026-02-14 06:40:03,719 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Fort+Pierce%2C+FL&radius=25, sleeping 88s
+2026-02-14 06:40:06,843 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 06:40:47,905 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 06:40:58,189 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Port+St+Lucie%2C+FL&radius=25, sleeping 64s
+2026-02-14 06:41:31,755 WARNING 403 on https://www.indeed.com/jobs?q=country+club+maintenance&l=Fort+Pierce%2C+FL&radius=25, sleeping 48s
+2026-02-14 06:42:02,240 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Port+St+Lucie%2C+FL&radius=25, sleeping 67s
+2026-02-14 06:42:11,910 INFO Monster Fort Pierce, FL 'restaurant manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:42:19,758 INFO Indeed Fort Pierce, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 06:42:20,085 INFO Cycle done: Fort Pierce, FL → 0 leads, 0 companies
+[5/15] Scraping job boards: Fort Pierce, FL
+  → 0 new leads, 0 companies
+2026-02-14 06:42:29,343 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 44s
+2026-02-14 06:43:09,244 INFO Indeed Port St Lucie, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 06:43:13,407 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 06:43:21,148 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 57s
+2026-02-14 06:44:04,468 WARNING 403 on https://www.monster.com/jobs/search?q=country+club+maintenance&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 06:44:18,207 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 06:45:32,472 INFO Monster Fort Pierce, FL 'country club maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 06:45:42,349 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 84s
+2026-02-14 06:45:42,876 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 61s
+2026-02-14 06:46:43,928 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 86s
+2026-02-14 06:47:06,356 INFO Monster Port St Lucie, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 06:47:18,296 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Port+St+Lucie%2C+FL&radius=25, sleeping 59s
+2026-02-14 06:48:09,977 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 82s
+2026-02-14 06:48:17,332 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Port+St+Lucie%2C+FL&radius=25, sleeping 41s
+2026-02-14 06:48:58,366 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Port+St+Lucie%2C+FL&radius=25, sleeping 46s
+2026-02-14 06:49:31,983 INFO Indeed Fort Pierce, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:49:40,839 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 74s
+2026-02-14 06:49:44,369 INFO Indeed Port St Lucie, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 06:49:55,606 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 06:50:54,892 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 06:50:57,675 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 06:51:45,938 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 72s
+2026-02-14 06:52:03,730 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 06:52:57,943 INFO Monster Fort Pierce, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:53:09,704 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 73s
+2026-02-14 06:53:19,733 INFO Monster Port St Lucie, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 06:53:32,563 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Port+St+Lucie%2C+FL&radius=25, sleeping 86s
+2026-02-14 06:54:22,753 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 68s
+2026-02-14 06:54:58,605 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Port+St+Lucie%2C+FL&radius=25, sleeping 40s
+2026-02-14 06:55:30,803 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Fort+Pierce%2C+FL&radius=25, sleeping 55s
+2026-02-14 06:55:38,645 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Port+St+Lucie%2C+FL&radius=25, sleeping 85s
+2026-02-14 06:56:25,807 INFO Indeed Fort Pierce, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 06:56:34,489 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 89s
+2026-02-14 06:57:03,648 INFO Indeed Port St Lucie, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 06:57:14,549 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 06:57:55,604 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 73s
+2026-02-14 06:58:03,548 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 06:59:08,663 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 06:59:25,620 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 06:59:49,668 INFO Monster Port St Lucie, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 06:59:58,097 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 71s
+2026-02-14 07:00:01,202 INFO === Cycle 6: Vero Beach, FL (index 5/15) ===
+2026-02-14 07:00:01,299 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Vero+Beach%2C+FL&radius=25, sleeping 48s
+2026-02-14 07:00:41,625 INFO Monster Fort Pierce, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:00:49,345 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Vero+Beach%2C+FL&radius=25, sleeping 45s
+2026-02-14 07:00:51,017 INFO Cycle done: Fort Pierce, FL → 0 leads, 0 companies
+[5/15] Scraping job boards: Fort Pierce, FL
+  → 0 new leads, 0 companies
+2026-02-14 07:01:09,136 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 62s
+2026-02-14 07:01:34,387 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Vero+Beach%2C+FL&radius=25, sleeping 47s
+2026-02-14 07:02:11,183 WARNING 403 on https://www.indeed.com/jobs?q=warehouse+manager&l=Port+St+Lucie%2C+FL&radius=25, sleeping 76s
+2026-02-14 07:02:21,391 INFO Indeed Vero Beach, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 07:02:33,414 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 58s
+2026-02-14 07:03:27,187 INFO Indeed Port St Lucie, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:03:31,469 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 53s
+2026-02-14 07:03:41,597 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 07:04:24,524 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 07:04:50,677 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 07:05:52,529 INFO Monster Vero Beach, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 07:06:03,718 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 49s
+2026-02-14 07:06:06,734 WARNING 403 on https://www.monster.com/jobs/search?q=warehouse+manager&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 07:06:52,765 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 49s
+2026-02-14 07:07:02,738 INFO Monster Port St Lucie, FL 'warehouse manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:07:17,742 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Port+St+Lucie%2C+FL&radius=25, sleeping 45s
+2026-02-14 07:07:41,803 WARNING 403 on https://www.indeed.com/jobs?q=restaurant+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 51s
+2026-02-14 07:08:02,788 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Port+St+Lucie%2C+FL&radius=25, sleeping 59s
+2026-02-14 07:08:32,808 INFO Indeed Vero Beach, FL 'restaurant manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:08:44,949 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 07:09:01,831 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Port+St+Lucie%2C+FL&radius=25, sleeping 50s
+2026-02-14 07:09:33,010 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 07:09:51,834 INFO Indeed Port St Lucie, FL 'veterinary clinic': 0 jobs, 0 new, 0 companies
+2026-02-14 07:10:01,917 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 07:11:00,058 WARNING 403 on https://www.monster.com/jobs/search?q=restaurant+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 07:11:06,980 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 07:11:52,061 INFO Monster Vero Beach, FL 'restaurant manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:12:04,992 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 43s
+2026-02-14 07:12:29,050 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 07:12:48,058 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 40s
+2026-02-14 07:13:28,117 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 85s
+2026-02-14 07:13:48,057 INFO Monster Port St Lucie, FL 'veterinary clinic': 0 jobs, 0 new, 0 companies
+2026-02-14 07:13:58,614 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Port+St+Lucie%2C+FL&radius=25, sleeping 62s
+2026-02-14 07:14:53,121 INFO Indeed Vero Beach, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:15:00,670 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Port+St+Lucie%2C+FL&radius=25, sleeping 61s
+2026-02-14 07:15:01,635 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 07:15:41,686 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 73s
+2026-02-14 07:16:01,712 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Port+St+Lucie%2C+FL&radius=25, sleeping 45s
+2026-02-14 07:16:46,717 INFO Indeed Port St Lucie, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 07:16:54,738 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 07:16:55,798 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 07:18:10,742 INFO Monster Vero Beach, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:18:23,866 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 07:18:24,716 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Vero+Beach%2C+FL&radius=25, sleeping 69s
+2026-02-14 07:19:33,763 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Vero+Beach%2C+FL&radius=25, sleeping 88s
+2026-02-14 07:19:41,927 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Port+St+Lucie%2C+FL&page=1&so=m.h.sh, sleeping 66s
+2026-02-14 07:20:01,217 INFO === Cycle 6: Vero Beach, FL (index 5/15) ===
+2026-02-14 07:20:01,331 WARNING 403 on https://www.indeed.com/jobs?q=auto+dealership&l=Vero+Beach%2C+FL&radius=25, sleeping 62s
+2026-02-14 07:20:47,932 INFO Monster Port St Lucie, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 07:21:01,810 WARNING 403 on https://www.indeed.com/jobs?q=auto+body+shop&l=Vero+Beach%2C+FL&radius=25, sleeping 89s
+2026-02-14 07:21:01,966 INFO Cycle done: Port St Lucie, FL → 0 leads, 0 companies
+[4/15] Scraping job boards: Port St Lucie, FL
+  → 0 new leads, 0 companies
+2026-02-14 07:21:03,382 WARNING 403 on https://www.indeed.com/jobs?q=auto+dealership&l=Vero+Beach%2C+FL&radius=25, sleeping 80s
+2026-02-14 07:22:23,424 WARNING 403 on https://www.indeed.com/jobs?q=auto+dealership&l=Vero+Beach%2C+FL&radius=25, sleeping 62s
+2026-02-14 07:22:30,814 INFO Indeed Vero Beach, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 07:22:41,510 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 85s
+2026-02-14 07:23:25,428 INFO Indeed Vero Beach, FL 'auto dealership': 0 jobs, 0 new, 0 companies
+2026-02-14 07:23:37,535 WARNING 403 on https://www.monster.com/jobs/search?q=auto+dealership&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 77s
+2026-02-14 07:24:06,559 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 74s
+2026-02-14 07:24:54,593 WARNING 403 on https://www.monster.com/jobs/search?q=auto+dealership&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 49s
+2026-02-14 07:25:20,632 WARNING 403 on https://www.monster.com/jobs/search?q=auto+body+shop&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 07:25:43,655 WARNING 403 on https://www.monster.com/jobs/search?q=auto+dealership&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 07:26:41,637 INFO Monster Vero Beach, FL 'auto body shop': 0 jobs, 0 new, 0 companies
+2026-02-14 07:26:53,673 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 87s
+2026-02-14 07:26:59,659 INFO Monster Vero Beach, FL 'auto dealership': 0 jobs, 0 new, 0 companies
+2026-02-14 07:27:13,942 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Vero+Beach%2C+FL&radius=25, sleeping 89s
+2026-02-14 07:28:20,741 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 60s
+2026-02-14 07:28:43,005 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Vero+Beach%2C+FL&radius=25, sleeping 42s
+2026-02-14 07:29:20,787 WARNING 403 on https://www.indeed.com/jobs?q=community+association+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 73s
+2026-02-14 07:29:25,045 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Vero+Beach%2C+FL&radius=25, sleeping 45s
+2026-02-14 07:30:10,050 INFO Indeed Vero Beach, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 07:30:24,410 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 07:30:33,791 INFO Indeed Vero Beach, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:30:45,012 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 07:31:36,076 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 07:31:51,465 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 07:32:31,526 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 07:32:58,188 WARNING 403 on https://www.monster.com/jobs/search?q=community+association+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 07:33:39,192 INFO Monster Vero Beach, FL 'community association manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:33:39,529 INFO Monster Vero Beach, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 07:33:50,410 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 56s
+2026-02-14 07:33:51,205 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 47s
+2026-02-14 07:34:38,263 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 47s
+2026-02-14 07:34:46,455 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 46s
+2026-02-14 07:35:25,303 WARNING 403 on https://www.indeed.com/jobs?q=HOA+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 64s
+2026-02-14 07:35:32,512 WARNING 403 on https://www.indeed.com/jobs?q=facility+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 55s
+2026-02-14 07:36:27,515 INFO Indeed Vero Beach, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:36:29,306 INFO Indeed Vero Beach, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:36:40,094 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 07:36:40,529 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 07:37:35,592 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 07:37:48,144 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 07:38:39,720 WARNING 403 on https://www.monster.com/jobs/search?q=HOA+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 07:39:15,211 WARNING 403 on https://www.monster.com/jobs/search?q=facility+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 07:39:42,725 INFO Monster Vero Beach, FL 'HOA manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:39:52,023 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Vero+Beach%2C+FL&radius=25, sleeping 49s
+2026-02-14 07:40:01,546 INFO === Cycle 5: Fort Pierce, FL (index 4/15) ===
+2026-02-14 07:40:01,678 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 85s
+2026-02-14 07:40:20,215 INFO Monster Vero Beach, FL 'facility manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:40:30,879 INFO Cycle done: Vero Beach, FL → 0 leads, 0 companies
+[6/15] Scraping job boards: Vero Beach, FL
+  → 0 new leads, 0 companies
+2026-02-14 07:40:41,065 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Vero+Beach%2C+FL&radius=25, sleeping 58s
+2026-02-14 07:41:26,726 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 46s
+2026-02-14 07:41:39,107 WARNING 403 on https://www.indeed.com/jobs?q=car+wash&l=Vero+Beach%2C+FL&radius=25, sleeping 73s
+2026-02-14 07:42:12,770 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Fort+Pierce%2C+FL&radius=25, sleeping 89s
+2026-02-14 07:42:52,110 INFO Indeed Vero Beach, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 07:43:00,281 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 88s
+2026-02-14 07:43:41,781 INFO Indeed Fort Pierce, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 07:43:50,750 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 07:44:28,334 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 07:44:31,803 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 07:45:14,849 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 61s
+2026-02-14 07:45:22,394 WARNING 403 on https://www.monster.com/jobs/search?q=car+wash&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 83s
+2026-02-14 07:46:15,853 INFO Monster Fort Pierce, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 07:46:29,024 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Fort+Pierce%2C+FL&radius=25, sleeping 52s
+2026-02-14 07:46:45,398 INFO Monster Vero Beach, FL 'car wash': 0 jobs, 0 new, 0 companies
+2026-02-14 07:46:58,747 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 88s
+2026-02-14 07:47:21,061 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Fort+Pierce%2C+FL&radius=25, sleeping 80s
+2026-02-14 07:48:26,808 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 64s
+2026-02-14 07:48:41,110 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Fort+Pierce%2C+FL&radius=25, sleeping 48s
+2026-02-14 07:49:29,113 INFO Indeed Fort Pierce, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 07:49:30,848 WARNING 403 on https://www.indeed.com/jobs?q=kennel+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 66s
+2026-02-14 07:49:43,624 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 07:50:36,851 INFO Indeed Vero Beach, FL 'kennel manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:50:46,696 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 07:50:46,942 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 07:51:38,754 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 67s
+2026-02-14 07:51:50,991 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 87s
+2026-02-14 07:52:45,757 INFO Monster Fort Pierce, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 07:52:56,988 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Fort+Pierce%2C+FL&radius=25, sleeping 55s
+2026-02-14 07:53:18,050 WARNING 403 on https://www.monster.com/jobs/search?q=kennel+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 52s
+2026-02-14 07:53:52,027 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Fort+Pierce%2C+FL&radius=25, sleeping 78s
+2026-02-14 07:54:10,055 INFO Monster Vero Beach, FL 'kennel manager': 0 jobs, 0 new, 0 companies
+2026-02-14 07:54:24,218 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Vero+Beach%2C+FL&radius=25, sleeping 59s
+2026-02-14 07:55:10,075 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Fort+Pierce%2C+FL&radius=25, sleeping 48s
+2026-02-14 07:55:23,258 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Vero+Beach%2C+FL&radius=25, sleeping 70s
+2026-02-14 07:55:58,079 INFO Indeed Fort Pierce, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 07:56:11,122 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 07:56:33,299 WARNING 403 on https://www.indeed.com/jobs?q=commercial+kitchen&l=Vero+Beach%2C+FL&radius=25, sleeping 69s
+2026-02-14 07:57:30,182 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 07:57:42,302 INFO Indeed Vero Beach, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 07:57:52,353 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 07:58:24,249 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 07:59:14,420 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 72s
+2026-02-14 07:59:27,254 INFO Monster Fort Pierce, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 07:59:41,629 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Fort+Pierce%2C+FL&radius=25, sleeping 73s
+2026-02-14 08:00:01,601 INFO === Cycle 7: Hobe Sound, FL (index 6/15) ===
+2026-02-14 08:00:01,739 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Hobe+Sound%2C+FL&radius=25, sleeping 70s
+2026-02-14 08:00:26,478 WARNING 403 on https://www.monster.com/jobs/search?q=commercial+kitchen&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 76s
+2026-02-14 08:00:54,670 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Fort+Pierce%2C+FL&radius=25, sleeping 58s
+2026-02-14 08:01:11,773 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Hobe+Sound%2C+FL&radius=25, sleeping 54s
+2026-02-14 08:01:42,481 INFO Monster Vero Beach, FL 'commercial kitchen': 0 jobs, 0 new, 0 companies
+2026-02-14 08:01:52,721 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Fort+Pierce%2C+FL&radius=25, sleeping 68s
+2026-02-14 08:01:57,358 INFO Cycle done: Vero Beach, FL → 0 leads, 0 companies
+[6/15] Scraping job boards: Vero Beach, FL
+  → 0 new leads, 0 companies
+2026-02-14 08:02:05,827 WARNING 403 on https://www.indeed.com/jobs?q=aircraft+hangar&l=Hobe+Sound%2C+FL&radius=25, sleeping 69s
+2026-02-14 08:03:00,727 INFO Indeed Fort Pierce, FL 'church facilities': 0 jobs, 0 new, 0 companies
+2026-02-14 08:03:14,832 INFO Indeed Hobe Sound, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 08:03:15,161 WARNING 403 on https://www.monster.com/jobs/search?q=church+facilities&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 08:03:24,052 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 08:04:10,223 WARNING 403 on https://www.monster.com/jobs/search?q=church+facilities&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 08:04:42,108 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 08:05:01,288 WARNING 403 on https://www.monster.com/jobs/search?q=church+facilities&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 45s
+2026-02-14 08:05:46,168 WARNING 403 on https://www.monster.com/jobs/search?q=aircraft+hangar&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 08:05:46,292 INFO Monster Fort Pierce, FL 'church facilities': 0 jobs, 0 new, 0 companies
+2026-02-14 08:05:55,576 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Fort+Pierce%2C+FL&radius=25, sleeping 43s
+2026-02-14 08:06:38,613 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Fort+Pierce%2C+FL&radius=25, sleeping 78s
+2026-02-14 08:07:07,174 INFO Monster Hobe Sound, FL 'aircraft hangar': 0 jobs, 0 new, 0 companies
+2026-02-14 08:07:16,408 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Hobe+Sound%2C+FL&radius=25, sleeping 63s
+2026-02-14 08:07:56,656 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Fort+Pierce%2C+FL&radius=25, sleeping 70s
+2026-02-14 08:08:19,448 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Hobe+Sound%2C+FL&radius=25, sleeping 88s
+2026-02-14 08:09:06,660 INFO Indeed Fort Pierce, FL 'building maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 08:09:15,162 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 08:09:47,525 WARNING 403 on https://www.indeed.com/jobs?q=mechanic+shop&l=Hobe+Sound%2C+FL&radius=25, sleeping 62s
+2026-02-14 08:10:33,227 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 08:10:43,982 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Stuart%2C+FL&radius=25, sleeping 52s
+2026-02-14 08:10:49,530 INFO Indeed Hobe Sound, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 08:11:01,982 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 08:11:36,028 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Stuart%2C+FL&radius=25, sleeping 78s
+2026-02-14 08:11:55,288 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 08:12:11,037 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 08:12:54,068 WARNING 403 on https://www.indeed.com/jobs?q=building+maintenance+director&l=Stuart%2C+FL&radius=25, sleeping 69s
+2026-02-14 08:13:20,113 WARNING 403 on https://www.monster.com/jobs/search?q=mechanic+shop&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 51s
+2026-02-14 08:13:21,292 INFO Monster Fort Pierce, FL 'building maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 08:13:30,296 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Fort+Pierce%2C+FL&radius=25, sleeping 84s
+2026-02-14 08:14:03,072 INFO Indeed Stuart, FL 'building maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 08:14:11,117 INFO Monster Hobe Sound, FL 'mechanic shop': 0 jobs, 0 new, 0 companies
+2026-02-14 08:14:17,078 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 08:14:25,972 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Hobe+Sound%2C+FL&radius=25, sleeping 65s
+2026-02-14 08:14:54,354 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Fort+Pierce%2C+FL&radius=25, sleeping 58s
+2026-02-14 08:15:03,135 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 64s
+2026-02-14 08:15:31,010 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Hobe+Sound%2C+FL&radius=25, sleeping 50s
+2026-02-14 08:15:52,403 WARNING 403 on https://www.indeed.com/jobs?q=brewery&l=Fort+Pierce%2C+FL&radius=25, sleeping 64s
+2026-02-14 08:16:07,206 WARNING 403 on https://www.monster.com/jobs/search?q=building+maintenance+director&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 67s
+2026-02-14 08:16:21,056 WARNING 403 on https://www.indeed.com/jobs?q=maintenance+supervisor&l=Hobe+Sound%2C+FL&radius=25, sleeping 82s
+2026-02-14 08:16:56,409 INFO Indeed Fort Pierce, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 08:17:09,908 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 08:17:14,209 INFO Monster Stuart, FL 'building maintenance director': 0 jobs, 0 new, 0 companies
+2026-02-14 08:17:25,885 WARNING 403 on https://www.indeed.com/jobs?q=resort+maintenance&l=Stuart%2C+FL&radius=25, sleeping 86s
+2026-02-14 08:17:43,062 INFO Indeed Hobe Sound, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 08:17:56,146 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 58s
+2026-02-14 08:18:14,964 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 74s
+2026-02-14 08:18:51,917 WARNING 403 on https://www.indeed.com/jobs?q=resort+maintenance&l=Stuart%2C+FL&radius=25, sleeping 73s
+2026-02-14 08:18:54,205 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 89s
+2026-02-14 08:19:29,028 WARNING 403 on https://www.monster.com/jobs/search?q=brewery&where=Fort+Pierce%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 08:20:02,017 INFO === Cycle 7: Hobe Sound, FL (index 6/15) ===
+2026-02-14 08:20:02,168 WARNING 403 on https://www.indeed.com/jobs?q=nursing+home+maintenance&l=Hobe+Sound%2C+FL&radius=25, sleeping 41s
+2026-02-14 08:20:04,975 WARNING 403 on https://www.indeed.com/jobs?q=resort+maintenance&l=Stuart%2C+FL&radius=25, sleeping 45s
+2026-02-14 08:20:23,262 WARNING 403 on https://www.monster.com/jobs/search?q=maintenance+supervisor&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 89s
+2026-02-14 08:20:43,206 WARNING 403 on https://www.indeed.com/jobs?q=nursing+home+maintenance&l=Hobe+Sound%2C+FL&radius=25, sleeping 57s
+2026-02-14 08:20:49,980 INFO Indeed Stuart, FL 'resort maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:20:55,034 INFO Monster Fort Pierce, FL 'brewery': 0 jobs, 0 new, 0 companies
+2026-02-14 08:20:58,554 WARNING 403 on https://www.monster.com/jobs/search?q=resort+maintenance&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 55s
+2026-02-14 08:21:09,415 INFO Cycle done: Fort Pierce, FL → 0 leads, 0 companies
+[5/15] Scraping job boards: Fort Pierce, FL
+  → 0 new leads, 0 companies
+2026-02-14 08:21:40,242 WARNING 403 on https://www.indeed.com/jobs?q=nursing+home+maintenance&l=Hobe+Sound%2C+FL&radius=25, sleeping 89s
+2026-02-14 08:21:52,268 INFO Monster Hobe Sound, FL 'maintenance supervisor': 0 jobs, 0 new, 0 companies
+2026-02-14 08:21:53,620 WARNING 403 on https://www.monster.com/jobs/search?q=resort+maintenance&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 62s
+2026-02-14 08:22:03,730 WARNING 403 on https://www.indeed.com/jobs?q=golf+course+superintendent&l=Hobe+Sound%2C+FL&radius=25, sleeping 64s
+2026-02-14 08:22:55,684 WARNING 403 on https://www.monster.com/jobs/search?q=resort+maintenance&where=Stuart%2C+FL&page=1&so=m.h.sh, sleeping 49s
+2026-02-14 08:23:07,775 WARNING 403 on https://www.indeed.com/jobs?q=golf+course+superintendent&l=Hobe+Sound%2C+FL&radius=25, sleeping 80s
+2026-02-14 08:23:09,248 INFO Indeed Hobe Sound, FL 'nursing home maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:23:23,064 WARNING 403 on https://www.monster.com/jobs/search?q=nursing+home+maintenance&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 40s
+2026-02-14 08:23:44,687 INFO Monster Stuart, FL 'resort maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:24:03,133 WARNING 403 on https://www.monster.com/jobs/search?q=nursing+home+maintenance&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 50s
+2026-02-14 08:24:27,810 WARNING 403 on https://www.indeed.com/jobs?q=golf+course+superintendent&l=Hobe+Sound%2C+FL&radius=25, sleeping 57s
+2026-02-14 08:24:53,190 WARNING 403 on https://www.monster.com/jobs/search?q=nursing+home+maintenance&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 41s
+2026-02-14 08:25:24,813 INFO Indeed Hobe Sound, FL 'golf course superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 08:25:34,195 INFO Monster Hobe Sound, FL 'nursing home maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:25:38,359 WARNING 403 on https://www.monster.com/jobs/search?q=golf+course+superintendent&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 77s
+2026-02-14 08:25:43,577 WARNING 403 on https://www.indeed.com/jobs?q=bathroom+renovation&l=Hobe+Sound%2C+FL&radius=25, sleeping 79s
+2026-02-14 08:26:55,420 WARNING 403 on https://www.monster.com/jobs/search?q=golf+course+superintendent&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 74s
+2026-02-14 08:27:02,651 WARNING 403 on https://www.indeed.com/jobs?q=bathroom+renovation&l=Hobe+Sound%2C+FL&radius=25, sleeping 76s
+2026-02-14 08:28:09,471 WARNING 403 on https://www.monster.com/jobs/search?q=golf+course+superintendent&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 08:28:18,693 WARNING 403 on https://www.indeed.com/jobs?q=bathroom+renovation&l=Hobe+Sound%2C+FL&radius=25, sleeping 90s
+2026-02-14 08:29:30,477 INFO Monster Hobe Sound, FL 'golf course superintendent': 0 jobs, 0 new, 0 companies
+2026-02-14 08:29:42,554 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Hobe+Sound%2C+FL&radius=25, sleeping 50s
+2026-02-14 08:29:48,698 INFO Indeed Hobe Sound, FL 'bathroom renovation': 0 jobs, 0 new, 0 companies
+2026-02-14 08:29:56,808 WARNING 403 on https://www.monster.com/jobs/search?q=bathroom+renovation&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 82s
+2026-02-14 08:30:32,603 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Hobe+Sound%2C+FL&radius=25, sleeping 80s
+2026-02-14 08:31:18,870 WARNING 403 on https://www.monster.com/jobs/search?q=bathroom+renovation&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 47s
+2026-02-14 08:31:52,687 WARNING 403 on https://www.indeed.com/jobs?q=veterinary+clinic&l=Hobe+Sound%2C+FL&radius=25, sleeping 63s
+2026-02-14 08:32:05,939 WARNING 403 on https://www.monster.com/jobs/search?q=bathroom+renovation&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 08:32:53,944 INFO Monster Hobe Sound, FL 'bathroom renovation': 0 jobs, 0 new, 0 companies
+2026-02-14 08:32:55,693 INFO Indeed Hobe Sound, FL 'veterinary clinic': 0 jobs, 0 new, 0 companies
+2026-02-14 08:33:06,211 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 43s
+2026-02-14 08:33:06,947 WARNING 403 on https://www.indeed.com/jobs?q=independent+contractor+handyman&l=Hobe+Sound%2C+FL&radius=25, sleeping 88s
+2026-02-14 08:33:49,287 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 70s
+2026-02-14 08:34:34,995 WARNING 403 on https://www.indeed.com/jobs?q=independent+contractor+handyman&l=Hobe+Sound%2C+FL&radius=25, sleeping 44s
+2026-02-14 08:34:59,351 WARNING 403 on https://www.monster.com/jobs/search?q=veterinary+clinic&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 78s
+2026-02-14 08:35:19,033 WARNING 403 on https://www.indeed.com/jobs?q=independent+contractor+handyman&l=Hobe+Sound%2C+FL&radius=25, sleeping 77s
+2026-02-14 08:36:17,356 INFO Monster Hobe Sound, FL 'veterinary clinic': 0 jobs, 0 new, 0 companies
+2026-02-14 08:36:28,567 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Hobe+Sound%2C+FL&radius=25, sleeping 89s
+2026-02-14 08:36:36,037 INFO Indeed Hobe Sound, FL 'independent contractor handyman': 0 jobs, 0 new, 0 companies
+2026-02-14 08:36:49,520 WARNING 403 on https://www.monster.com/jobs/search?q=independent+contractor+handyman&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 48s
+2026-02-14 08:37:37,154 WARNING 403 on https://www.indeed.com/jobs?q=real+estate+investor+assistant&l=Stuart%2C+FL&radius=25, sleeping 63s
+2026-02-14 08:37:37,575 WARNING 403 on https://www.monster.com/jobs/search?q=independent+contractor+handyman&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 57s
+2026-02-14 08:37:57,841 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Hobe+Sound%2C+FL&radius=25, sleeping 74s
+2026-02-14 08:38:34,635 WARNING 403 on https://www.monster.com/jobs/search?q=independent+contractor+handyman&where=Hobe+Sound%2C+FL&page=1&so=m.h.sh, sleeping 71s
+2026-02-14 08:38:40,201 WARNING 403 on https://www.indeed.com/jobs?q=real+estate+investor+assistant&l=Stuart%2C+FL&radius=25, sleeping 68s
+2026-02-14 08:39:11,890 WARNING 403 on https://www.indeed.com/jobs?q=church+facilities&l=Hobe+Sound%2C+FL&radius=25, sleeping 57s
+2026-02-14 08:40:01,415 INFO === Cycle 6: Vero Beach, FL (index 5/15) ===
+2026-02-14 08:40:01,533 WARNING 403 on https://www.indeed.com/jobs?q=resort+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 57s
+2026-02-14 08:40:58,575 WARNING 403 on https://www.indeed.com/jobs?q=resort+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 44s
+2026-02-14 08:41:07,739 INFO DDG Stuart, FL 'delivery fleet coordinator': 0 results, 0 new, 0 companies
+2026-02-14 08:41:16,147 INFO DDG Stuart, FL 'building exterior cleaning': 0 results, 0 new, 0 companies
+2026-02-14 08:41:42,610 WARNING 403 on https://www.indeed.com/jobs?q=resort+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 53s
+2026-02-14 08:42:35,616 INFO Indeed Vero Beach, FL 'resort maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:42:47,982 WARNING 403 on https://www.monster.com/jobs/search?q=resort+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 08:43:59,813 INFO DDG Stuart, FL 'school facilities manager': 6 results, 6 new, 6 companies
+2026-02-14 08:44:08,023 INFO DDG Stuart, FL 'hospital maintenance': 4 results, 4 new, 4 companies
+2026-02-14 08:44:09,040 WARNING 403 on https://www.monster.com/jobs/search?q=resort+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 08:45:39,104 WARNING 403 on https://www.monster.com/jobs/search?q=resort+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 79s
+2026-02-14 08:46:58,111 INFO Monster Vero Beach, FL 'resort maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:47:12,155 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 55s
+2026-02-14 08:48:07,203 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 85s
+2026-02-14 08:49:32,258 WARNING 403 on https://www.indeed.com/jobs?q=school+facilities+manager&l=Vero+Beach%2C+FL&radius=25, sleeping 82s
+2026-02-14 08:50:54,262 INFO Indeed Vero Beach, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 08:51:02,628 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 46s
+2026-02-14 08:51:48,692 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 08:52:56,752 WARNING 403 on https://www.monster.com/jobs/search?q=school+facilities+manager&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 77s
+2026-02-14 08:54:13,756 INFO Monster Vero Beach, FL 'school facilities manager': 0 jobs, 0 new, 0 companies
+2026-02-14 08:54:25,859 WARNING 403 on https://www.indeed.com/jobs?q=hospital+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 72s
+2026-02-14 08:55:37,915 WARNING 403 on https://www.indeed.com/jobs?q=hospital+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 78s
+2026-02-14 08:56:55,946 WARNING 403 on https://www.indeed.com/jobs?q=hospital+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 76s
+2026-02-14 08:58:11,951 INFO Indeed Vero Beach, FL 'hospital maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 08:58:22,725 WARNING 403 on https://www.monster.com/jobs/search?q=hospital+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 45s
+2026-02-14 08:59:07,781 WARNING 403 on https://www.monster.com/jobs/search?q=hospital+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 09:00:01,838 INFO === Cycle 6: Vero Beach, FL (index 5/15) ===
+2026-02-14 09:00:05,600 INFO DDG Vero Beach, FL 'marina maintenance': 6 results, 6 new, 6 companies
+2026-02-14 09:00:13,390 INFO DDG Vero Beach, FL 'landscaping crew': 7 results, 7 new, 7 companies
+2026-02-14 09:00:24,108 INFO DDG Vero Beach, FL 'condo association manager': 7 results, 7 new, 7 companies
+2026-02-14 09:00:32,474 INFO DDG Vero Beach, FL 'home renovation contractor': 4 results, 4 new, 4 companies
+2026-02-14 09:00:37,844 WARNING 403 on https://www.monster.com/jobs/search?q=hospital+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 81s
+2026-02-14 09:00:41,981 INFO DDG Vero Beach, FL 'independent contractor handyman': 5 results, 5 new, 5 companies
+2026-02-14 09:00:49,485 INFO DDG Vero Beach, FL 'restaurant manager': 6 results, 6 new, 6 companies
+2026-02-14 09:00:54,266 INFO Cycle done: Vero Beach, FL -> 35 leads, 35 companies
+[6/15] Job board search: Vero Beach, FL (via DDG — free)
+  marina maintenance: 6 results, 6 new
+  landscaping crew: 7 results, 7 new
+  condo association manager: 7 results, 7 new
+  home renovation contractor: 4 results, 4 new
+  independent contractor handyman: 5 results, 5 new
+  restaurant manager: 6 results, 6 new
+  -> 35 new leads, 35 companies
+2026-02-14 09:01:58,849 INFO Monster Vero Beach, FL 'hospital maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 09:02:11,976 WARNING 403 on https://www.indeed.com/jobs?q=landscaping+crew&l=Vero+Beach%2C+FL&radius=25, sleeping 75s
+2026-02-14 09:03:27,022 WARNING 403 on https://www.indeed.com/jobs?q=landscaping+crew&l=Vero+Beach%2C+FL&radius=25, sleeping 80s
+2026-02-14 09:04:47,062 WARNING 403 on https://www.indeed.com/jobs?q=landscaping+crew&l=Vero+Beach%2C+FL&radius=25, sleeping 52s
+2026-02-14 09:05:39,066 INFO Indeed Vero Beach, FL 'landscaping crew': 0 jobs, 0 new, 0 companies
+2026-02-14 09:05:52,784 WARNING 403 on https://www.monster.com/jobs/search?q=landscaping+crew&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 65s
+2026-02-14 09:06:57,843 WARNING 403 on https://www.monster.com/jobs/search?q=landscaping+crew&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 90s
+2026-02-14 09:08:27,897 WARNING 403 on https://www.monster.com/jobs/search?q=landscaping+crew&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 56s
+2026-02-14 09:09:23,900 INFO Monster Vero Beach, FL 'landscaping crew': 0 jobs, 0 new, 0 companies
+2026-02-14 09:09:33,006 WARNING 403 on https://www.indeed.com/jobs?q=nursing+home+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 84s
+2026-02-14 09:10:57,044 WARNING 403 on https://www.indeed.com/jobs?q=nursing+home+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 83s
+2026-02-14 09:12:20,090 WARNING 403 on https://www.indeed.com/jobs?q=nursing+home+maintenance&l=Vero+Beach%2C+FL&radius=25, sleeping 75s
+2026-02-14 09:13:35,092 INFO Indeed Vero Beach, FL 'nursing home maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 09:13:49,839 WARNING 403 on https://www.monster.com/jobs/search?q=nursing+home+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 68s
+2026-02-14 09:14:57,909 WARNING 403 on https://www.monster.com/jobs/search?q=nursing+home+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 54s
+2026-02-14 09:15:51,990 WARNING 403 on https://www.monster.com/jobs/search?q=nursing+home+maintenance&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 59s
+2026-02-14 09:16:50,995 INFO Monster Vero Beach, FL 'nursing home maintenance': 0 jobs, 0 new, 0 companies
+2026-02-14 09:17:02,548 WARNING 403 on https://www.indeed.com/jobs?q=independent+contractor+handyman&l=Vero+Beach%2C+FL&radius=25, sleeping 63s
+2026-02-14 09:18:05,589 WARNING 403 on https://www.indeed.com/jobs?q=independent+contractor+handyman&l=Vero+Beach%2C+FL&radius=25, sleeping 75s
+2026-02-14 09:19:20,644 WARNING 403 on https://www.indeed.com/jobs?q=independent+contractor+handyman&l=Vero+Beach%2C+FL&radius=25, sleeping 80s
+2026-02-14 09:20:02,222 INFO === Cycle 7: Hobe Sound, FL (index 6/15) ===
+2026-02-14 09:20:05,770 INFO DDG Hobe Sound, FL 'grounds maintenance': 8 results, 8 new, 8 companies
+2026-02-14 09:20:15,007 INFO DDG Hobe Sound, FL 'marina maintenance': 4 results, 4 new, 4 companies
+2026-02-14 09:20:24,485 INFO DDG Hobe Sound, FL 'rental property maintenance': 7 results, 7 new, 7 companies
+2026-02-14 09:20:32,500 INFO DDG Hobe Sound, FL 'brewery': 7 results, 7 new, 7 companies
+2026-02-14 09:20:39,421 INFO DDG Hobe Sound, FL 'restaurant manager': 9 results, 9 new, 9 companies
+2026-02-14 09:20:40,648 INFO Indeed Vero Beach, FL 'independent contractor handyman': 0 jobs, 0 new, 0 companies
+2026-02-14 09:20:47,313 INFO DDG Hobe Sound, FL 'HOA manager': 5 results, 5 new, 5 companies
+2026-02-14 09:20:50,925 INFO Cycle done: Hobe Sound, FL -> 40 leads, 40 companies
+[7/15] Job board search: Hobe Sound, FL (via DDG — free)
+  grounds maintenance: 8 results, 8 new
+  marina maintenance: 4 results, 4 new
+  rental property maintenance: 7 results, 7 new
+  brewery: 7 results, 7 new
+  restaurant manager: 9 results, 9 new
+  HOA manager: 5 results, 5 new
+  -> 40 new leads, 40 companies
+2026-02-14 09:20:51,240 WARNING 403 on https://www.monster.com/jobs/search?q=independent+contractor+handyman&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 86s
+2026-02-14 09:22:17,303 WARNING 403 on https://www.monster.com/jobs/search?q=independent+contractor+handyman&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 69s
+2026-02-14 09:23:26,368 WARNING 403 on https://www.monster.com/jobs/search?q=independent+contractor+handyman&where=Vero+Beach%2C+FL&page=1&so=m.h.sh, sleeping 63s
+2026-02-14 09:24:29,374 INFO Monster Vero Beach, FL 'independent contractor handyman': 0 jobs, 0 new, 0 companies
+2026-02-14 09:24:37,888 INFO Cycle done: Vero Beach, FL → 0 leads, 0 companies
+[6/15] Scraping job boards: Vero Beach, FL
+  → 0 new leads, 0 companies
+2026-02-14 09:29:54,035 INFO DDG Stuart, FL 'church facilities': 7 results, 7 new, 7 companies
+2026-02-14 09:30:00,740 INFO DDG Stuart, FL 'renovation estimator': 8 results, 8 new, 8 companies
+2026-02-14 09:40:01,479 INFO === Cycle 7: Hobe Sound, FL (index 6/15) ===
+2026-02-14 09:40:06,000 INFO DDG Hobe Sound, FL 'fitness center manager': 7 results, 7 new, 7 companies
+2026-02-14 09:40:13,945 INFO DDG Hobe Sound, FL 'school facilities manager': 8 results, 8 new, 8 companies
+2026-02-14 09:40:22,958 INFO DDG Hobe Sound, FL 'condo association manager': 8 results, 8 new, 8 companies
+2026-02-14 09:40:30,197 INFO DDG Hobe Sound, FL 'hospital maintenance': 9 results, 9 new, 9 companies
+2026-02-14 09:40:38,846 INFO DDG Hobe Sound, FL 'fleet maintenance': 12 results, 12 new, 12 companies
+2026-02-14 09:40:47,447 INFO DDG Hobe Sound, FL 'freelance contractor': 10 results, 10 new, 10 companies
+2026-02-14 09:40:50,119 INFO Cycle done: Hobe Sound, FL -> 54 leads, 54 companies
+[7/15] Job board search: Hobe Sound, FL (via DDG — free)
+  fitness center manager: 7 results, 7 new
+  school facilities manager: 8 results, 8 new
+  condo association manager: 8 results, 8 new
+  hospital maintenance: 9 results, 9 new
+  fleet maintenance: 12 results, 12 new
+  freelance contractor: 10 results, 10 new
+  -> 54 new leads, 54 companies
+2026-02-14 10:00:01,908 INFO === Cycle 8: Hutchinson Island, FL (index 7/15) ===
+2026-02-14 10:00:06,305 INFO DDG Hutchinson Island, FL 'construction equipment operator': 10 results, 10 new, 10 companies
+2026-02-14 10:00:12,948 INFO DDG Hutchinson Island, FL 'grounds maintenance': 9 results, 9 new, 9 companies
+2026-02-14 10:00:20,031 INFO DDG Hutchinson Island, FL 'maintenance supervisor': 11 results, 11 new, 11 companies
+2026-02-14 10:00:26,873 INFO DDG Hutchinson Island, FL 'property flipper': 11 results, 11 new, 11 companies
+2026-02-14 10:00:34,639 INFO DDG Hutchinson Island, FL 'veterinary clinic': 12 results, 12 new, 12 companies
+2026-02-14 10:00:41,337 INFO DDG Hutchinson Island, FL 'lawn maintenance supervisor': 9 results, 9 new, 9 companies
+2026-02-14 10:00:45,466 INFO Cycle done: Hutchinson Island, FL -> 62 leads, 62 companies
+[8/15] Job board search: Hutchinson Island, FL (via DDG — free)
+  construction equipment operator: 10 results, 10 new
+  grounds maintenance: 9 results, 9 new
+  maintenance supervisor: 11 results, 11 new
+  property flipper: 11 results, 11 new
+  veterinary clinic: 12 results, 12 new
+  lawn maintenance supervisor: 9 results, 9 new
+  -> 62 new leads, 62 companies
+2026-02-14 10:20:01,409 INFO === Cycle 9: Sewalls Point, FL (index 8/15) ===
+2026-02-14 10:20:06,099 INFO DDG Sewalls Point, FL 'aircraft hangar': 10 results, 10 new, 10 companies
+2026-02-14 10:20:13,959 INFO DDG Sewalls Point, FL 'auto dealership': 12 results, 12 new, 12 companies
+2026-02-14 10:20:21,788 INFO DDG Sewalls Point, FL 'real estate investor assistant': 12 results, 12 new, 12 companies
+2026-02-14 10:20:28,183 INFO DDG Sewalls Point, FL 'freelance contractor': 10 results, 10 new, 10 companies
+2026-02-14 10:20:35,936 INFO DDG Sewalls Point, FL 'bathroom renovation': 9 results, 9 new, 9 companies
+2026-02-14 10:20:42,913 INFO DDG Sewalls Point, FL 'subcontractor needed': 8 results, 8 new, 8 companies
+2026-02-14 10:20:47,775 INFO Cycle done: Sewalls Point, FL -> 61 leads, 61 companies
+[9/15] Job board search: Sewalls Point, FL (via DDG — free)
+  aircraft hangar: 10 results, 10 new
+  auto dealership: 12 results, 12 new
+  real estate investor assistant: 12 results, 12 new
+  freelance contractor: 10 results, 10 new
+  bathroom renovation: 9 results, 9 new
+  subcontractor needed: 8 results, 8 new
+  -> 61 new leads, 61 companies
+2026-02-14 10:40:02,191 INFO === Cycle 10: Sailfish Point, FL (index 9/15) ===
+2026-02-14 10:40:06,682 INFO DDG Sailfish Point, FL 'warehouse manager': 9 results, 9 new, 9 companies
+2026-02-14 10:40:13,853 INFO DDG Sailfish Point, FL 'home renovation contractor': 8 results, 8 new, 8 companies
+2026-02-14 10:40:21,853 INFO DDG Sailfish Point, FL 'general contractor helper': 7 results, 7 new, 7 companies
+2026-02-14 10:40:28,596 INFO DDG Sailfish Point, FL 'resort maintenance': 9 results, 9 new, 9 companies
+2026-02-14 10:40:34,835 INFO DDG Sailfish Point, FL 'kitchen remodel': 10 results, 10 new, 10 companies
+2026-02-14 10:40:40,985 INFO DDG Sailfish Point, FL 'lawn maintenance supervisor': 11 results, 11 new, 11 companies
+2026-02-14 10:40:45,978 INFO Cycle done: Sailfish Point, FL -> 54 leads, 54 companies
+[10/15] Job board search: Sailfish Point, FL (via DDG — free)
+  warehouse manager: 9 results, 9 new
+  home renovation contractor: 8 results, 8 new
+  general contractor helper: 7 results, 7 new
+  resort maintenance: 9 results, 9 new
+  kitchen remodel: 10 results, 10 new
+  lawn maintenance supervisor: 11 results, 11 new
+  -> 54 new leads, 54 companies
+2026-02-14 11:00:01,750 INFO === Cycle 11: Tradition, FL (index 10/15) ===
+2026-02-14 11:00:06,224 INFO DDG Tradition, FL 'bathroom renovation': 8 results, 8 new, 8 companies
+2026-02-14 11:00:13,797 INFO DDG Tradition, FL 'flooring installer': 6 results, 6 new, 6 companies
+2026-02-14 11:00:20,832 INFO DDG Tradition, FL 'property flipper': 10 results, 10 new, 10 companies
+2026-02-14 11:00:29,605 INFO DDG Tradition, FL 'pressure washing technician': 9 results, 9 new, 9 companies
+2026-02-14 11:00:36,516 INFO DDG Tradition, FL 'warehouse manager': 12 results, 12 new, 12 companies
+2026-02-14 11:00:45,347 INFO DDG Tradition, FL 'veterinary clinic': 8 results, 8 new, 8 companies
+2026-02-14 11:00:49,665 INFO Cycle done: Tradition, FL -> 53 leads, 53 companies
+[11/15] Job board search: Tradition, FL (via DDG — free)
+  bathroom renovation: 8 results, 8 new
+  flooring installer: 6 results, 6 new
+  property flipper: 10 results, 10 new
+  pressure washing technician: 9 results, 9 new
+  warehouse manager: 12 results, 12 new
+  veterinary clinic: 8 results, 8 new
+  -> 53 new leads, 53 companies
+2026-02-14 11:20:01,328 INFO === Cycle 12: Jupiter, FL (index 11/15) ===
+2026-02-14 11:20:05,873 INFO DDG Jupiter, FL 'exterior maintenance': 8 results, 8 new, 8 companies
+2026-02-14 11:20:14,386 INFO DDG Jupiter, FL 'brewery': 9 results, 9 new, 9 companies
+2026-02-14 11:20:21,322 INFO DDG Jupiter, FL 'lawn maintenance supervisor': 6 results, 6 new, 6 companies
+2026-02-14 11:20:29,220 INFO DDG Jupiter, FL 'aircraft hangar': 5 results, 5 new, 5 companies
+2026-02-14 11:20:37,755 INFO DDG Jupiter, FL 'nursing home maintenance': 6 results, 6 new, 6 companies
+2026-02-14 11:20:45,614 INFO DDG Jupiter, FL 'pool maintenance': 10 results, 10 new, 10 companies
+2026-02-14 11:20:48,699 INFO Cycle done: Jupiter, FL -> 44 leads, 44 companies
+[12/15] Job board search: Jupiter, FL (via DDG — free)
+  exterior maintenance: 8 results, 8 new
+  brewery: 9 results, 9 new
+  lawn maintenance supervisor: 6 results, 6 new
+  aircraft hangar: 5 results, 5 new
+  nursing home maintenance: 6 results, 6 new
+  pool maintenance: 10 results, 10 new
+  -> 44 new leads, 44 companies
+2026-02-14 11:40:01,853 INFO === Cycle 13: Jupiter Island, FL (index 12/15) ===
+2026-02-14 11:40:06,398 INFO DDG Jupiter Island, FL 'countertop installer': 10 results, 10 new, 10 companies
+2026-02-14 11:40:12,544 INFO DDG Jupiter Island, FL 'exterior maintenance': 4 results, 4 new, 4 companies
+2026-02-14 11:40:21,589 INFO DDG Jupiter Island, FL 'resort maintenance': 10 results, 10 new, 10 companies
+2026-02-14 11:40:29,382 INFO DDG Jupiter Island, FL 'aircraft hangar': 6 results, 6 new, 6 companies
+2026-02-14 11:40:38,141 INFO DDG Jupiter Island, FL 'yacht club': 9 results, 9 new, 9 companies
+2026-02-14 11:40:45,713 INFO DDG Jupiter Island, FL 'condo association manager': 9 results, 9 new, 9 companies
+2026-02-14 11:40:48,069 INFO Cycle done: Jupiter Island, FL -> 48 leads, 48 companies
+[13/15] Job board search: Jupiter Island, FL (via DDG — free)
+  countertop installer: 10 results, 10 new
+  exterior maintenance: 4 results, 4 new
+  resort maintenance: 10 results, 10 new
+  aircraft hangar: 6 results, 6 new
+  yacht club: 9 results, 9 new
+  condo association manager: 9 results, 9 new
+  -> 48 new leads, 48 companies
+2026-02-14 12:00:02,218 INFO === Cycle 14: Tequesta, FL (index 13/15) ===
+2026-02-14 12:00:08,699 INFO DDG Tequesta, FL 'facility manager': 10 results, 10 new, 10 companies
+2026-02-14 12:00:15,193 INFO DDG Tequesta, FL 'hospital maintenance': 10 results, 10 new, 10 companies
+2026-02-14 12:00:24,287 INFO DDG Tequesta, FL 'nursing home maintenance': 9 results, 9 new, 9 companies
+2026-02-14 12:00:34,758 INFO DDG Tequesta, FL 'golf course superintendent': 10 results, 10 new, 10 companies
+2026-02-14 12:00:46,428 INFO DDG Tequesta, FL 'rental property maintenance': 8 results, 8 new, 8 companies
+2026-02-14 12:00:58,989 INFO DDG Tequesta, FL 'renovation estimator': 9 results, 9 new, 9 companies
+2026-02-14 12:01:03,107 INFO Cycle done: Tequesta, FL -> 56 leads, 56 companies
+[14/15] Job board search: Tequesta, FL (via DDG — free)
+  facility manager: 10 results, 10 new
+  hospital maintenance: 10 results, 10 new
+  nursing home maintenance: 9 results, 9 new
+  golf course superintendent: 10 results, 10 new
+  rental property maintenance: 8 results, 8 new
+  renovation estimator: 9 results, 9 new
+  -> 56 new leads, 56 companies
+2026-02-14 12:20:02,001 INFO === Cycle 15: Palm Beach Gardens, FL (index 14/15) ===
+2026-02-14 12:20:06,098 INFO DDG Palm Beach Gardens, FL 'aircraft hangar': 9 results, 9 new, 9 companies
+2026-02-14 12:20:11,294 INFO DDG Palm Beach Gardens, FL 'property manager': 10 results, 10 new, 10 companies
+2026-02-14 12:20:18,521 INFO DDG Palm Beach Gardens, FL 'apartment complex manager': 8 results, 8 new, 8 companies
+2026-02-14 12:20:26,724 INFO DDG Palm Beach Gardens, FL 'property flipper': 9 results, 9 new, 9 companies
+2026-02-14 12:20:34,487 INFO DDG Palm Beach Gardens, FL 'real estate investor assistant': 7 results, 7 new, 7 companies
+2026-02-14 12:20:41,927 INFO DDG Palm Beach Gardens, FL 'brewery': 8 results, 8 new, 8 companies
+2026-02-14 12:20:45,482 INFO Cycle done: Palm Beach Gardens, FL -> 51 leads, 51 companies
+2026-02-14 12:20:45,483 INFO Full rotation complete! 483 total leads.
+[15/15] Job board search: Palm Beach Gardens, FL (via DDG — free)
+  aircraft hangar: 9 results, 9 new
+  property manager: 10 results, 10 new
+  apartment complex manager: 8 results, 8 new
+  property flipper: 9 results, 9 new
+  real estate investor assistant: 7 results, 7 new
+  brewery: 8 results, 8 new
+  -> 51 new leads, 51 companies
+
+  Full rotation complete! Starting over.
+2026-02-14 12:40:02,158 INFO === Cycle 16: Stuart, FL (index 0/15) ===
+2026-02-14 12:40:05,977 INFO DDG Stuart, FL 'HOA manager': 7 results, 7 new, 7 companies
+2026-02-14 12:40:11,745 INFO DDG Stuart, FL 'warehouse manager': 6 results, 6 new, 6 companies
+2026-02-14 12:40:18,767 INFO DDG Stuart, FL 'kitchen remodel': 10 results, 10 new, 10 companies
+2026-02-14 12:40:25,270 INFO DDG Stuart, FL 'freelance contractor': 7 results, 7 new, 7 companies
+2026-02-14 12:40:31,108 INFO DDG Stuart, FL 'building exterior cleaning': 8 results, 8 new, 8 companies
+2026-02-14 12:40:38,646 INFO DDG Stuart, FL 'rental property maintenance': 10 results, 10 new, 10 companies
+2026-02-14 12:40:40,912 INFO Cycle done: Stuart, FL -> 48 leads, 48 companies
+[1/15] Job board search: Stuart, FL (via DDG — free)
+  HOA manager: 7 results, 7 new
+  warehouse manager: 6 results, 6 new
+  kitchen remodel: 10 results, 10 new
+  freelance contractor: 7 results, 7 new
+  building exterior cleaning: 8 results, 8 new
+  rental property maintenance: 10 results, 10 new
+  -> 48 new leads, 48 companies
+2026-02-14 13:00:02,227 INFO === Cycle 17: Jensen Beach, FL (index 1/15) ===
+2026-02-14 13:00:06,020 INFO DDG Jensen Beach, FL 'renovation estimator': 9 results, 9 new, 9 companies
+2026-02-14 13:00:11,920 INFO DDG Jensen Beach, FL 'apartment complex manager': 8 results, 8 new, 8 companies
+2026-02-14 13:00:17,436 INFO DDG Jensen Beach, FL 'fitness center manager': 10 results, 10 new, 10 companies
+2026-02-14 13:00:25,771 INFO DDG Jensen Beach, FL 'yacht club': 9 results, 9 new, 9 companies
+2026-02-14 13:00:34,075 INFO DDG Jensen Beach, FL 'property maintenance technician': 8 results, 8 new, 8 companies
+2026-02-14 13:00:41,895 INFO DDG Jensen Beach, FL 'auto dealership': 10 results, 10 new, 10 companies
+2026-02-14 13:00:46,701 INFO Cycle done: Jensen Beach, FL -> 54 leads, 54 companies
+[2/15] Job board search: Jensen Beach, FL (via DDG — free)
+  renovation estimator: 9 results, 9 new
+  apartment complex manager: 8 results, 8 new
+  fitness center manager: 10 results, 10 new
+  yacht club: 9 results, 9 new
+  property maintenance technician: 8 results, 8 new
+  auto dealership: 10 results, 10 new
+  -> 54 new leads, 54 companies
+2026-02-14 13:20:01,383 INFO === Cycle 18: Palm City, FL (index 2/15) ===
+2026-02-14 13:20:06,117 INFO DDG Palm City, FL 'building maintenance director': 7 results, 7 new, 7 companies
+2026-02-14 13:20:14,812 INFO DDG Palm City, FL 'fleet maintenance': 7 results, 7 new, 7 companies
+2026-02-14 13:20:21,763 INFO DDG Palm City, FL 'freelance contractor': 9 results, 9 new, 9 companies
+2026-02-14 13:20:30,114 INFO DDG Palm City, FL 'tile installer': 6 results, 6 new, 6 companies
+2026-02-14 13:20:36,905 INFO DDG Palm City, FL 'church facilities': 10 results, 10 new, 10 companies
+2026-02-14 13:20:44,082 INFO DDG Palm City, FL 'exterior maintenance': 7 results, 7 new, 7 companies
+2026-02-14 13:20:48,347 INFO Cycle done: Palm City, FL -> 46 leads, 46 companies
+[3/15] Job board search: Palm City, FL (via DDG — free)
+  building maintenance director: 7 results, 7 new
+  fleet maintenance: 7 results, 7 new
+  freelance contractor: 9 results, 9 new
+  tile installer: 6 results, 6 new
+  church facilities: 10 results, 10 new
+  exterior maintenance: 7 results, 7 new
+  -> 46 new leads, 46 companies
+2026-02-14 13:40:01,382 INFO === Cycle 19: Port St Lucie, FL (index 3/15) ===
+2026-02-14 13:40:05,705 INFO DDG Port St Lucie, FL 'home renovation contractor': 4 results, 4 new, 4 companies
+2026-02-14 13:40:12,084 INFO DDG Port St Lucie, FL 'groundskeeper': 7 results, 7 new, 7 companies
+2026-02-14 13:40:18,312 INFO DDG Port St Lucie, FL 'lawn maintenance supervisor': 6 results, 6 new, 6 companies
+2026-02-14 13:40:25,766 INFO DDG Port St Lucie, FL 'fitness center manager': 9 results, 9 new, 9 companies
+2026-02-14 13:40:33,609 INFO DDG Port St Lucie, FL 'exterior maintenance': 3 results, 3 new, 3 companies
+2026-02-14 13:40:40,103 INFO DDG Port St Lucie, FL 'facility manager': 7 results, 7 new, 7 companies
+2026-02-14 13:40:45,036 INFO Cycle done: Port St Lucie, FL -> 36 leads, 36 companies
+[4/15] Job board search: Port St Lucie, FL (via DDG — free)
+  home renovation contractor: 4 results, 4 new
+  groundskeeper: 7 results, 7 new
+  lawn maintenance supervisor: 6 results, 6 new
+  fitness center manager: 9 results, 9 new
+  exterior maintenance: 3 results, 3 new
+  facility manager: 7 results, 7 new
+  -> 36 new leads, 36 companies
+2026-02-14 14:00:01,897 INFO === Cycle 20: Fort Pierce, FL (index 4/15) ===
+2026-02-14 14:00:06,231 INFO DDG Fort Pierce, FL 'property flipper': 7 results, 7 new, 7 companies
+2026-02-14 14:00:12,591 INFO DDG Fort Pierce, FL 'hospital maintenance': 9 results, 9 new, 9 companies
+2026-02-14 14:00:20,194 INFO DDG Fort Pierce, FL 'kennel manager': 8 results, 8 new, 8 companies
+2026-02-14 14:00:26,589 INFO DDG Fort Pierce, FL 'pressure washing technician': 7 results, 7 new, 7 companies
+2026-02-14 14:00:33,855 INFO DDG Fort Pierce, FL 'veterinary clinic': 7 results, 7 new, 7 companies
+2026-02-14 14:00:42,108 INFO DDG Fort Pierce, FL 'fleet maintenance': 9 results, 9 new, 9 companies
+2026-02-14 14:00:45,632 INFO Cycle done: Fort Pierce, FL -> 47 leads, 47 companies
+[5/15] Job board search: Fort Pierce, FL (via DDG — free)
+  property flipper: 7 results, 7 new
+  hospital maintenance: 9 results, 9 new
+  kennel manager: 8 results, 8 new
+  pressure washing technician: 7 results, 7 new
+  veterinary clinic: 7 results, 7 new
+  fleet maintenance: 9 results, 9 new
+  -> 47 new leads, 47 companies
+2026-02-14 14:20:01,809 INFO === Cycle 21: Vero Beach, FL (index 5/15) ===
+2026-02-14 14:20:05,290 INFO DDG Vero Beach, FL 'fitness center manager': 10 results, 10 new, 10 companies
+2026-02-14 14:20:11,614 INFO DDG Vero Beach, FL 'flooring installer': 10 results, 10 new, 10 companies
+2026-02-14 14:20:18,683 INFO DDG Vero Beach, FL 'renovation estimator': 8 results, 8 new, 8 companies
+2026-02-14 14:20:26,053 INFO DDG Vero Beach, FL 'restaurant manager': 10 results, 10 new, 10 companies
+2026-02-14 14:20:33,238 INFO DDG Vero Beach, FL 'cabinet installer': 8 results, 8 new, 8 companies
+2026-02-14 14:20:41,511 INFO DDG Vero Beach, FL 'commercial kitchen': 7 results, 7 new, 7 companies
+2026-02-14 14:20:44,842 INFO Cycle done: Vero Beach, FL -> 53 leads, 53 companies
+[6/15] Job board search: Vero Beach, FL (via DDG — free)
+  fitness center manager: 10 results, 10 new
+  flooring installer: 10 results, 10 new
+  renovation estimator: 8 results, 8 new
+  restaurant manager: 10 results, 10 new
+  cabinet installer: 8 results, 8 new
+  commercial kitchen: 7 results, 7 new
+  -> 53 new leads, 53 companies
+2026-02-14 14:40:01,416 INFO === Cycle 22: Hobe Sound, FL (index 6/15) ===
+2026-02-14 14:40:04,834 INFO DDG Hobe Sound, FL 'aircraft hangar': 8 results, 8 new, 8 companies
+2026-02-14 14:40:11,777 INFO DDG Hobe Sound, FL 'auto body shop': 9 results, 9 new, 9 companies
+2026-02-14 14:40:18,464 INFO DDG Hobe Sound, FL 'vacation rental manager': 10 results, 10 new, 10 companies
+2026-02-14 14:40:24,087 INFO DDG Hobe Sound, FL 'resort maintenance': 8 results, 8 new, 8 companies
+2026-02-14 14:40:30,069 INFO DDG Hobe Sound, FL 'delivery fleet coordinator': 8 results, 8 new, 8 companies
+2026-02-14 14:40:36,174 INFO DDG Hobe Sound, FL 'subcontractor needed': 8 results, 8 new, 8 companies
+2026-02-14 14:40:40,812 INFO Cycle done: Hobe Sound, FL -> 51 leads, 51 companies
+[7/15] Job board search: Hobe Sound, FL (via DDG — free)
+  aircraft hangar: 8 results, 8 new
+  auto body shop: 9 results, 9 new
+  vacation rental manager: 10 results, 10 new
+  resort maintenance: 8 results, 8 new
+  delivery fleet coordinator: 8 results, 8 new
+  subcontractor needed: 8 results, 8 new
+  -> 51 new leads, 51 companies
+2026-02-14 15:00:01,952 INFO === Cycle 23: Hutchinson Island, FL (index 7/15) ===
+2026-02-14 15:00:05,740 INFO DDG Hutchinson Island, FL 'freelance contractor': 7 results, 7 new, 7 companies
+2026-02-14 15:00:11,430 INFO DDG Hutchinson Island, FL 'community association manager': 6 results, 6 new, 6 companies
+2026-02-14 15:00:16,990 INFO DDG Hutchinson Island, FL 'home renovation contractor': 3 results, 3 new, 3 companies
+2026-02-14 15:00:24,051 INFO DDG Hutchinson Island, FL 'country club maintenance': 10 results, 10 new, 10 companies
+2026-02-14 15:00:29,393 INFO DDG Hutchinson Island, FL 'groundskeeper': 7 results, 7 new, 7 companies
+2026-02-14 15:00:35,166 INFO DDG Hutchinson Island, FL 'remodeling project manager': 8 results, 8 new, 8 companies
+2026-02-14 15:00:38,361 INFO Cycle done: Hutchinson Island, FL -> 41 leads, 41 companies
+[8/15] Job board search: Hutchinson Island, FL (via DDG — free)
+  freelance contractor: 7 results, 7 new
+  community association manager: 6 results, 6 new
+  home renovation contractor: 3 results, 3 new
+  country club maintenance: 10 results, 10 new
+  groundskeeper: 7 results, 7 new
+  remodeling project manager: 8 results, 8 new
+  -> 41 new leads, 41 companies
+2026-02-14 15:20:02,027 INFO === Cycle 24: Sewalls Point, FL (index 8/15) ===
+2026-02-14 15:20:05,563 INFO DDG Sewalls Point, FL 'renovation estimator': 11 results, 11 new, 11 companies
+2026-02-14 15:20:11,656 INFO DDG Sewalls Point, FL 'construction equipment operator': 12 results, 12 new, 12 companies
+2026-02-14 15:20:17,531 INFO DDG Sewalls Point, FL 'kennel manager': 9 results, 9 new, 9 companies
+2026-02-14 15:20:23,004 INFO DDG Sewalls Point, FL 'resort maintenance': 14 results, 14 new, 14 companies
+2026-02-14 15:20:31,063 INFO DDG Sewalls Point, FL '1099 contractor': 11 results, 11 new, 11 companies
+2026-02-14 15:20:36,444 INFO DDG Sewalls Point, FL 'pool maintenance': 9 results, 9 new, 9 companies
+2026-02-14 15:20:38,487 INFO Cycle done: Sewalls Point, FL -> 66 leads, 66 companies
+[9/15] Job board search: Sewalls Point, FL (via DDG — free)
+  renovation estimator: 11 results, 11 new
+  construction equipment operator: 12 results, 12 new
+  kennel manager: 9 results, 9 new
+  resort maintenance: 14 results, 14 new
+  1099 contractor: 11 results, 11 new
+  pool maintenance: 9 results, 9 new
+  -> 66 new leads, 66 companies
+2026-02-14 15:40:01,724 INFO === Cycle 25: Sailfish Point, FL (index 9/15) ===
+2026-02-14 15:40:05,479 INFO DDG Sailfish Point, FL 'home renovation contractor': 5 results, 5 new, 5 companies
+2026-02-14 15:40:13,153 INFO DDG Sailfish Point, FL 'community association manager': 10 results, 10 new, 10 companies
+2026-02-14 15:40:21,374 INFO DDG Sailfish Point, FL 'cabinet installer': 7 results, 7 new, 7 companies
+2026-02-14 15:40:27,522 INFO DDG Sailfish Point, FL 'delivery fleet coordinator': 8 results, 8 new, 8 companies
+2026-02-14 15:40:34,912 INFO DDG Sailfish Point, FL 'pressure washing technician': 9 results, 9 new, 9 companies
+2026-02-14 15:40:43,185 INFO DDG Sailfish Point, FL 'property manager': 12 results, 12 new, 12 companies
+2026-02-14 15:40:47,576 INFO Cycle done: Sailfish Point, FL -> 51 leads, 51 companies
+[10/15] Job board search: Sailfish Point, FL (via DDG — free)
+  home renovation contractor: 5 results, 5 new
+  community association manager: 10 results, 10 new
+  cabinet installer: 7 results, 7 new
+  delivery fleet coordinator: 8 results, 8 new
+  pressure washing technician: 9 results, 9 new
+  property manager: 12 results, 12 new
+  -> 51 new leads, 51 companies
+2026-02-14 16:00:01,213 INFO === Cycle 26: Tradition, FL (index 10/15) ===
+2026-02-14 16:00:04,955 INFO DDG Tradition, FL 'kitchen remodel': 7 results, 7 new, 7 companies
+2026-02-14 16:00:16,874 INFO DDG Tradition, FL 'condo association manager': 7 results, 7 new, 7 companies
+2026-02-14 16:00:25,556 INFO DDG Tradition, FL '1099 maintenance technician': 8 results, 8 new, 8 companies
+2026-02-14 16:00:34,510 INFO DDG Tradition, FL 'countertop installer': 9 results, 9 new, 9 companies
+2026-02-14 16:00:40,386 INFO DDG Tradition, FL 'aircraft hangar': 8 results, 8 new, 8 companies
+2026-02-14 16:00:48,521 INFO DDG Tradition, FL 'property manager': 7 results, 7 new, 7 companies
+2026-02-14 16:00:53,157 INFO Cycle done: Tradition, FL -> 46 leads, 46 companies
+[11/15] Job board search: Tradition, FL (via DDG — free)
+  kitchen remodel: 7 results, 7 new
+  condo association manager: 7 results, 7 new
+  1099 maintenance technician: 8 results, 8 new
+  countertop installer: 9 results, 9 new
+  aircraft hangar: 8 results, 8 new
+  property manager: 7 results, 7 new
+  -> 46 new leads, 46 companies
+2026-02-14 16:20:01,819 INFO === Cycle 27: Jupiter, FL (index 11/15) ===
+2026-02-14 16:20:05,700 INFO DDG Jupiter, FL 'delivery fleet coordinator': 11 results, 11 new, 11 companies
+2026-02-14 16:20:10,947 INFO DDG Jupiter, FL 'cabinet installer': 9 results, 9 new, 9 companies
+2026-02-14 16:20:17,753 INFO DDG Jupiter, FL 'mechanic shop': 9 results, 9 new, 9 companies
+2026-02-14 16:20:25,607 INFO DDG Jupiter, FL 'pressure washing technician': 6 results, 6 new, 6 companies
+2026-02-14 16:20:32,962 INFO DDG Jupiter, FL 'nursing home maintenance': 6 results, 6 new, 6 companies
+2026-02-14 16:20:38,393 INFO DDG Jupiter, FL 'fleet manager': 11 results, 11 new, 11 companies
+2026-02-14 16:20:41,801 INFO Cycle done: Jupiter, FL -> 52 leads, 52 companies
+[12/15] Job board search: Jupiter, FL (via DDG — free)
+  delivery fleet coordinator: 11 results, 11 new
+  cabinet installer: 9 results, 9 new
+  mechanic shop: 9 results, 9 new
+  pressure washing technician: 6 results, 6 new
+  nursing home maintenance: 6 results, 6 new
+  fleet manager: 11 results, 11 new
+  -> 52 new leads, 52 companies
+2026-02-14 16:40:01,574 INFO === Cycle 28: Jupiter Island, FL (index 12/15) ===
+2026-02-14 16:40:04,938 INFO DDG Jupiter Island, FL 'commercial kitchen': 9 results, 9 new, 9 companies
+2026-02-14 16:40:10,582 INFO DDG Jupiter Island, FL 'church facilities': 11 results, 11 new, 11 companies
+2026-02-14 16:40:18,371 INFO DDG Jupiter Island, FL 'landscaping crew': 7 results, 7 new, 7 companies
+2026-02-14 16:40:26,132 INFO DDG Jupiter Island, FL 'golf course superintendent': 11 results, 11 new, 11 companies
+2026-02-14 16:40:33,056 INFO DDG Jupiter Island, FL 'HOA manager': 7 results, 7 new, 7 companies
+2026-02-14 16:40:39,642 INFO DDG Jupiter Island, FL 'grounds maintenance': 7 results, 7 new, 7 companies
+2026-02-14 16:40:43,804 INFO Cycle done: Jupiter Island, FL -> 52 leads, 52 companies
+[13/15] Job board search: Jupiter Island, FL (via DDG — free)
+  commercial kitchen: 9 results, 9 new
+  church facilities: 11 results, 11 new
+  landscaping crew: 7 results, 7 new
+  golf course superintendent: 11 results, 11 new
+  HOA manager: 7 results, 7 new
+  grounds maintenance: 7 results, 7 new
+  -> 52 new leads, 52 companies
+2026-02-14 17:00:01,288 INFO === Cycle 29: Tequesta, FL (index 13/15) ===
+2026-02-14 17:00:04,678 INFO DDG Tequesta, FL 'restaurant manager': 9 results, 9 new, 9 companies
+2026-02-14 17:00:11,488 INFO DDG Tequesta, FL 'community association manager': 11 results, 11 new, 11 companies
+2026-02-14 17:00:18,027 INFO DDG Tequesta, FL 'independent contractor handyman': 7 results, 7 new, 7 companies
+2026-02-14 17:00:25,232 INFO DDG Tequesta, FL 'kennel manager': 9 results, 9 new, 9 companies
+2026-02-14 17:00:32,846 INFO DDG Tequesta, FL 'remodeling project manager': 8 results, 8 new, 8 companies
+2026-02-14 17:00:39,688 INFO DDG Tequesta, FL 'car dealership lot attendant': 10 results, 10 new, 10 companies
+2026-02-14 17:00:43,134 INFO Cycle done: Tequesta, FL -> 54 leads, 54 companies
+[14/15] Job board search: Tequesta, FL (via DDG — free)
+  restaurant manager: 9 results, 9 new
+  community association manager: 11 results, 11 new
+  independent contractor handyman: 7 results, 7 new
+  kennel manager: 9 results, 9 new
+  remodeling project manager: 8 results, 8 new
+  car dealership lot attendant: 10 results, 10 new
+  -> 54 new leads, 54 companies
+2026-02-14 17:20:01,680 INFO === Cycle 30: Palm Beach Gardens, FL (index 14/15) ===
+2026-02-14 17:20:05,261 INFO DDG Palm Beach Gardens, FL 'fitness center manager': 9 results, 9 new, 9 companies
+2026-02-14 17:20:13,124 INFO DDG Palm Beach Gardens, FL 'condo association manager': 6 results, 6 new, 6 companies
+2026-02-14 17:20:18,699 INFO DDG Palm Beach Gardens, FL 'auto body shop': 7 results, 7 new, 7 companies
+2026-02-14 17:20:25,419 INFO DDG Palm Beach Gardens, FL 'aircraft hangar': 8 results, 8 new, 8 companies
+2026-02-14 17:20:31,158 INFO DDG Palm Beach Gardens, FL 'flooring installer': 6 results, 6 new, 6 companies
+2026-02-14 17:20:36,410 INFO DDG Palm Beach Gardens, FL 'brewery': 7 results, 7 new, 7 companies
+2026-02-14 17:20:38,468 INFO Cycle done: Palm Beach Gardens, FL -> 43 leads, 43 companies
+2026-02-14 17:20:38,470 INFO Full rotation complete! 1223 total leads.
+[15/15] Job board search: Palm Beach Gardens, FL (via DDG — free)
+  fitness center manager: 9 results, 9 new
+  condo association manager: 6 results, 6 new
+  auto body shop: 7 results, 7 new
+  aircraft hangar: 8 results, 8 new
+  flooring installer: 6 results, 6 new
+  brewery: 7 results, 7 new
+  -> 43 new leads, 43 companies
+
+  Full rotation complete! Starting over.
+2026-02-14 17:40:02,033 INFO === Cycle 31: Stuart, FL (index 0/15) ===
+2026-02-14 17:40:06,185 INFO DDG Stuart, FL 'school facilities manager': 10 results, 10 new, 10 companies
+2026-02-14 17:40:12,912 INFO DDG Stuart, FL 'building exterior cleaning': 7 results, 7 new, 7 companies
+2026-02-14 17:40:21,086 INFO DDG Stuart, FL '1099 contractor': 11 results, 11 new, 11 companies
+2026-02-14 17:40:27,940 INFO DDG Stuart, FL 'flooring installer': 11 results, 11 new, 11 companies
+2026-02-14 17:40:35,106 INFO DDG Stuart, FL 'grounds maintenance': 11 results, 11 new, 11 companies
+2026-02-14 17:40:42,410 INFO DDG Stuart, FL 'pressure washing technician': 8 results, 8 new, 8 companies
+2026-02-14 17:40:47,335 INFO Cycle done: Stuart, FL -> 58 leads, 58 companies
+[1/15] Job board search: Stuart, FL (via DDG — free)
+  school facilities manager: 10 results, 10 new
+  building exterior cleaning: 7 results, 7 new
+  1099 contractor: 11 results, 11 new
+  flooring installer: 11 results, 11 new
+  grounds maintenance: 11 results, 11 new
+  pressure washing technician: 8 results, 8 new
+  -> 58 new leads, 58 companies
+2026-02-14 18:00:01,316 INFO === Cycle 32: Jensen Beach, FL (index 1/15) ===
+2026-02-14 18:00:04,723 INFO DDG Jensen Beach, FL 'veterinary clinic': 11 results, 11 new, 11 companies
+2026-02-14 18:00:12,843 INFO DDG Jensen Beach, FL 'mechanic shop': 10 results, 10 new, 10 companies
+2026-02-14 18:00:19,880 INFO DDG Jensen Beach, FL 'condo association manager': 5 results, 5 new, 5 companies
+2026-02-14 18:00:26,146 INFO DDG Jensen Beach, FL 'real estate rehab': 10 results, 10 new, 10 companies
+2026-02-14 18:00:31,823 INFO DDG Jensen Beach, FL 'building maintenance director': 8 results, 8 new, 8 companies
+2026-02-14 18:00:37,525 INFO DDG Jensen Beach, FL 'fleet manager': 8 results, 8 new, 8 companies
+2026-02-14 18:00:40,823 INFO Cycle done: Jensen Beach, FL -> 52 leads, 52 companies
+[2/15] Job board search: Jensen Beach, FL (via DDG — free)
+  veterinary clinic: 11 results, 11 new
+  mechanic shop: 10 results, 10 new
+  condo association manager: 5 results, 5 new
+  real estate rehab: 10 results, 10 new
+  building maintenance director: 8 results, 8 new
+  fleet manager: 8 results, 8 new
+  -> 52 new leads, 52 companies
+2026-02-14 18:20:01,421 INFO === Cycle 33: Palm City, FL (index 2/15) ===
+2026-02-14 18:20:04,907 INFO DDG Palm City, FL 'delivery fleet coordinator': 6 results, 6 new, 6 companies
+2026-02-14 18:20:11,063 INFO DDG Palm City, FL 'auto body shop': 9 results, 9 new, 9 companies
+2026-02-14 18:20:19,327 INFO DDG Palm City, FL 'marina maintenance': 8 results, 8 new, 8 companies
+2026-02-14 18:20:26,645 INFO DDG Palm City, FL 'facility manager': 10 results, 10 new, 10 companies
+2026-02-14 18:20:33,232 INFO DDG Palm City, FL 'construction equipment operator': 10 results, 10 new, 10 companies
+2026-02-14 18:20:41,377 INFO DDG Palm City, FL 'fleet maintenance': 5 results, 5 new, 5 companies
+2026-02-14 18:20:45,907 INFO Cycle done: Palm City, FL -> 48 leads, 48 companies
+[3/15] Job board search: Palm City, FL (via DDG — free)
+  delivery fleet coordinator: 6 results, 6 new
+  auto body shop: 9 results, 9 new
+  marina maintenance: 8 results, 8 new
+  facility manager: 10 results, 10 new
+  construction equipment operator: 10 results, 10 new
+  fleet maintenance: 5 results, 5 new
+  -> 48 new leads, 48 companies
+2026-02-14 18:40:02,161 INFO === Cycle 34: Port St Lucie, FL (index 3/15) ===
+2026-02-14 18:40:05,834 INFO DDG Port St Lucie, FL 'Airbnb property manager': 7 results, 7 new, 7 companies
+2026-02-14 18:40:13,971 INFO DDG Port St Lucie, FL 'warehouse manager': 6 results, 6 new, 6 companies
+2026-02-14 18:40:20,953 INFO DDG Port St Lucie, FL 'fitness center manager': 9 results, 9 new, 9 companies
+2026-02-14 18:40:26,735 INFO DDG Port St Lucie, FL 'construction equipment operator': 10 results, 10 new, 10 companies
+2026-02-14 18:40:33,157 INFO DDG Port St Lucie, FL 'brewery': 8 results, 8 new, 8 companies
+2026-02-14 18:40:39,159 INFO DDG Port St Lucie, FL 'commercial kitchen': 10 results, 10 new, 10 companies
+2026-02-14 18:40:42,632 INFO Cycle done: Port St Lucie, FL -> 50 leads, 50 companies
+[4/15] Job board search: Port St Lucie, FL (via DDG — free)
+  Airbnb property manager: 7 results, 7 new
+  warehouse manager: 6 results, 6 new
+  fitness center manager: 9 results, 9 new
+  construction equipment operator: 10 results, 10 new
+  brewery: 8 results, 8 new
+  commercial kitchen: 10 results, 10 new
+  -> 50 new leads, 50 companies
+2026-02-14 19:00:02,166 INFO === Cycle 35: Fort Pierce, FL (index 4/15) ===
+2026-02-14 19:00:05,744 INFO DDG Fort Pierce, FL 'tile installer': 8 results, 8 new, 8 companies
+2026-02-14 19:00:12,387 INFO DDG Fort Pierce, FL 'grounds maintenance': 9 results, 9 new, 9 companies
+2026-02-14 19:00:19,997 INFO DDG Fort Pierce, FL 'veterinary clinic': 8 results, 8 new, 8 companies
+2026-02-14 19:00:26,347 INFO DDG Fort Pierce, FL 'countertop installer': 7 results, 7 new, 7 companies
+2026-02-14 19:00:34,222 INFO DDG Fort Pierce, FL 'fitness center manager': 8 results, 8 new, 8 companies
+2026-02-14 19:00:42,163 INFO DDG Fort Pierce, FL 'delivery fleet coordinator': 10 results, 10 new, 10 companies
+2026-02-14 19:00:45,214 INFO Cycle done: Fort Pierce, FL -> 50 leads, 50 companies
+[5/15] Job board search: Fort Pierce, FL (via DDG — free)
+  tile installer: 8 results, 8 new
+  grounds maintenance: 9 results, 9 new
+  veterinary clinic: 8 results, 8 new
+  countertop installer: 7 results, 7 new
+  fitness center manager: 8 results, 8 new
+  delivery fleet coordinator: 10 results, 10 new
+  -> 50 new leads, 50 companies
+2026-02-14 19:20:01,637 INFO === Cycle 36: Vero Beach, FL (index 5/15) ===
+2026-02-14 19:20:05,197 INFO DDG Vero Beach, FL 'fleet maintenance': 9 results, 9 new, 9 companies
+2026-02-14 19:20:13,267 INFO DDG Vero Beach, FL 'landscaping crew': 8 results, 8 new, 8 companies
+2026-02-14 19:20:18,569 INFO DDG Vero Beach, FL 'fleet manager': 9 results, 9 new, 9 companies
+2026-02-14 19:20:26,740 INFO DDG Vero Beach, FL 'vacation rental manager': 9 results, 9 new, 9 companies
+2026-02-14 19:20:32,204 INFO DDG Vero Beach, FL 'car wash': 12 results, 12 new, 12 companies
+2026-02-14 19:20:37,755 INFO DDG Vero Beach, FL 'renovation estimator': 8 results, 8 new, 8 companies
+2026-02-14 19:20:41,611 INFO Cycle done: Vero Beach, FL -> 55 leads, 55 companies
+[6/15] Job board search: Vero Beach, FL (via DDG — free)
+  fleet maintenance: 9 results, 9 new
+  landscaping crew: 8 results, 8 new
+  fleet manager: 9 results, 9 new
+  vacation rental manager: 9 results, 9 new
+  car wash: 12 results, 12 new
+  renovation estimator: 8 results, 8 new
+  -> 55 new leads, 55 companies
+2026-02-14 19:40:02,073 INFO === Cycle 37: Hobe Sound, FL (index 6/15) ===
+2026-02-14 19:40:05,845 INFO DDG Hobe Sound, FL '1099 contractor': 8 results, 8 new, 8 companies
+2026-02-14 19:40:11,231 INFO DDG Hobe Sound, FL 'construction equipment operator': 10 results, 10 new, 10 companies
+2026-02-14 19:40:16,986 INFO DDG Hobe Sound, FL 'car dealership lot attendant': 8 results, 8 new, 8 companies
+2026-02-14 19:40:22,483 INFO DDG Hobe Sound, FL 'veterinary clinic': 9 results, 9 new, 9 companies
+2026-02-14 19:40:29,181 INFO DDG Hobe Sound, FL 'renovation estimator': 6 results, 6 new, 6 companies
+2026-02-14 19:40:35,032 INFO DDG Hobe Sound, FL 'mechanic shop': 11 results, 11 new, 11 companies
+2026-02-14 19:40:39,330 INFO Cycle done: Hobe Sound, FL -> 52 leads, 52 companies
+[7/15] Job board search: Hobe Sound, FL (via DDG — free)
+  1099 contractor: 8 results, 8 new
+  construction equipment operator: 10 results, 10 new
+  car dealership lot attendant: 8 results, 8 new
+  veterinary clinic: 9 results, 9 new
+  renovation estimator: 6 results, 6 new
+  mechanic shop: 11 results, 11 new
+  -> 52 new leads, 52 companies
+2026-02-14 20:00:01,526 INFO === Cycle 38: Hutchinson Island, FL (index 7/15) ===
+2026-02-14 20:00:05,384 INFO DDG Hutchinson Island, FL 'commercial kitchen': 8 results, 8 new, 8 companies
+2026-02-14 20:00:13,667 INFO DDG Hutchinson Island, FL 'exterior maintenance': 9 results, 9 new, 9 companies
+2026-02-14 20:00:20,491 INFO DDG Hutchinson Island, FL 'cabinet installer': 10 results, 10 new, 10 companies
+2026-02-14 20:00:27,965 INFO DDG Hutchinson Island, FL 'vacation rental manager': 13 results, 13 new, 13 companies
+2026-02-14 20:00:36,545 INFO DDG Hutchinson Island, FL 'restaurant manager': 8 results, 8 new, 8 companies
+2026-02-14 20:00:43,824 INFO DDG Hutchinson Island, FL 'resort maintenance': 10 results, 10 new, 10 companies
+2026-02-14 20:00:45,949 INFO Cycle done: Hutchinson Island, FL -> 58 leads, 58 companies
+[8/15] Job board search: Hutchinson Island, FL (via DDG — free)
+  commercial kitchen: 8 results, 8 new
+  exterior maintenance: 9 results, 9 new
+  cabinet installer: 10 results, 10 new
+  vacation rental manager: 13 results, 13 new
+  restaurant manager: 8 results, 8 new
+  resort maintenance: 10 results, 10 new
+  -> 58 new leads, 58 companies
+2026-02-14 20:20:01,654 INFO === Cycle 39: Sewalls Point, FL (index 8/15) ===
+2026-02-14 20:20:05,095 INFO DDG Sewalls Point, FL 'property maintenance technician': 12 results, 12 new, 12 companies
+2026-02-14 20:20:12,836 INFO DDG Sewalls Point, FL 'rental property maintenance': 11 results, 11 new, 11 companies
+2026-02-14 20:20:19,287 INFO DDG Sewalls Point, FL 'auto body shop': 10 results, 10 new, 10 companies
+2026-02-14 20:20:25,677 INFO DDG Sewalls Point, FL 'pressure washing technician': 13 results, 13 new, 13 companies
+2026-02-14 20:20:33,125 INFO DDG Sewalls Point, FL 'vacation rental manager': 14 results, 14 new, 14 companies
+2026-02-14 20:20:39,862 INFO DDG Sewalls Point, FL 'maintenance supervisor': 13 results, 13 new, 13 companies
+2026-02-14 20:20:43,103 INFO Cycle done: Sewalls Point, FL -> 73 leads, 73 companies
+[9/15] Job board search: Sewalls Point, FL (via DDG — free)
+  property maintenance technician: 12 results, 12 new
+  rental property maintenance: 11 results, 11 new
+  auto body shop: 10 results, 10 new
+  pressure washing technician: 13 results, 13 new
+  vacation rental manager: 14 results, 14 new
+  maintenance supervisor: 13 results, 13 new
+  -> 73 new leads, 73 companies
+2026-02-14 20:40:01,799 INFO === Cycle 40: Sailfish Point, FL (index 9/15) ===
+2026-02-14 20:40:05,157 INFO DDG Sailfish Point, FL 'kitchen remodel': 12 results, 12 new, 12 companies
+2026-02-14 20:40:10,898 INFO DDG Sailfish Point, FL 'grounds maintenance': 9 results, 9 new, 9 companies
+2026-02-14 20:40:18,253 INFO DDG Sailfish Point, FL 'delivery fleet coordinator': 8 results, 8 new, 8 companies
+2026-02-14 20:40:24,040 INFO DDG Sailfish Point, FL 'property flipper': 12 results, 12 new, 12 companies
+2026-02-14 20:40:30,536 INFO DDG Sailfish Point, FL 'groundskeeper': 8 results, 8 new, 8 companies
+2026-02-14 20:40:38,393 INFO DDG Sailfish Point, FL 'church facilities': 10 results, 10 new, 10 companies
+2026-02-14 20:40:41,279 INFO Cycle done: Sailfish Point, FL -> 59 leads, 59 companies
+[10/15] Job board search: Sailfish Point, FL (via DDG — free)
+  kitchen remodel: 12 results, 12 new
+  grounds maintenance: 9 results, 9 new
+  delivery fleet coordinator: 8 results, 8 new
+  property flipper: 12 results, 12 new
+  groundskeeper: 8 results, 8 new
+  church facilities: 10 results, 10 new
+  -> 59 new leads, 59 companies
+2026-02-14 21:00:01,779 INFO === Cycle 41: Tradition, FL (index 10/15) ===
+2026-02-14 21:00:05,394 INFO DDG Tradition, FL 'marina maintenance': 9 results, 9 new, 9 companies
+2026-02-14 21:00:11,008 INFO DDG Tradition, FL 'car dealership lot attendant': 11 results, 11 new, 11 companies
+2026-02-14 21:00:19,140 INFO DDG Tradition, FL 'car wash': 9 results, 9 new, 9 companies
+2026-02-14 21:00:25,699 INFO DDG Tradition, FL 'warehouse manager': 7 results, 7 new, 7 companies
+2026-02-14 21:00:32,476 INFO DDG Tradition, FL 'veterinary clinic': 5 results, 5 new, 5 companies
+2026-02-14 21:00:39,191 INFO DDG Tradition, FL 'church facilities': 9 results, 9 new, 9 companies
+2026-02-14 21:00:42,350 INFO Cycle done: Tradition, FL -> 50 leads, 50 companies
+[11/15] Job board search: Tradition, FL (via DDG — free)
+  marina maintenance: 9 results, 9 new
+  car dealership lot attendant: 11 results, 11 new
+  car wash: 9 results, 9 new
+  warehouse manager: 7 results, 7 new
+  veterinary clinic: 5 results, 5 new
+  church facilities: 9 results, 9 new
+  -> 50 new leads, 50 companies
+2026-02-14 21:20:01,606 INFO === Cycle 42: Jupiter, FL (index 11/15) ===
+2026-02-14 21:20:05,313 INFO DDG Jupiter, FL 'general contractor helper': 8 results, 8 new, 8 companies
+2026-02-14 21:20:12,017 INFO DDG Jupiter, FL 'resort maintenance': 9 results, 9 new, 9 companies
+2026-02-14 21:20:19,816 INFO DDG Jupiter, FL 'lawn maintenance supervisor': 5 results, 5 new, 5 companies
+2026-02-14 21:20:27,958 INFO DDG Jupiter, FL 'property maintenance technician': 9 results, 9 new, 9 companies
+2026-02-14 21:20:34,145 INFO DDG Jupiter, FL 'community association manager': 8 results, 8 new, 8 companies
+2026-02-14 21:20:40,926 INFO DDG Jupiter, FL 'apartment complex manager': 9 results, 9 new, 9 companies
+2026-02-14 21:20:45,899 INFO Cycle done: Jupiter, FL -> 48 leads, 48 companies
+[12/15] Job board search: Jupiter, FL (via DDG — free)
+  general contractor helper: 8 results, 8 new
+  resort maintenance: 9 results, 9 new
+  lawn maintenance supervisor: 5 results, 5 new
+  property maintenance technician: 9 results, 9 new
+  community association manager: 8 results, 8 new
+  apartment complex manager: 9 results, 9 new
+  -> 48 new leads, 48 companies
+2026-02-14 21:40:01,330 INFO === Cycle 43: Jupiter Island, FL (index 12/15) ===
+2026-02-14 21:40:05,025 INFO DDG Jupiter Island, FL 'fleet manager': 6 results, 6 new, 6 companies
+2026-02-14 21:40:12,213 INFO DDG Jupiter Island, FL 'restaurant manager': 9 results, 9 new, 9 companies
+2026-02-14 21:40:18,285 INFO DDG Jupiter Island, FL 'car dealership lot attendant': 11 results, 11 new, 11 companies
+2026-02-14 21:40:23,852 INFO DDG Jupiter Island, FL 'auto body shop': 9 results, 9 new, 9 companies
+2026-02-14 21:40:31,983 INFO DDG Jupiter Island, FL 'HOA manager': 6 results, 6 new, 6 companies
+2026-02-14 21:40:38,097 INFO DDG Jupiter Island, FL 'school facilities manager': 10 results, 10 new, 10 companies
+2026-02-14 21:40:40,493 INFO Cycle done: Jupiter Island, FL -> 51 leads, 51 companies
+[13/15] Job board search: Jupiter Island, FL (via DDG — free)
+  fleet manager: 6 results, 6 new
+  restaurant manager: 9 results, 9 new
+  car dealership lot attendant: 11 results, 11 new
+  auto body shop: 9 results, 9 new
+  HOA manager: 6 results, 6 new
+  school facilities manager: 10 results, 10 new
+  -> 51 new leads, 51 companies
+2026-02-14 22:00:01,757 INFO === Cycle 44: Tequesta, FL (index 13/15) ===
+2026-02-14 22:00:05,671 INFO DDG Tequesta, FL 'remodeling project manager': 9 results, 9 new, 9 companies
+2026-02-14 22:00:13,324 INFO DDG Tequesta, FL '1099 contractor': 10 results, 10 new, 10 companies
+2026-02-14 22:00:19,214 INFO DDG Tequesta, FL 'kennel manager': 9 results, 9 new, 9 companies
+2026-02-14 22:00:26,527 INFO DDG Tequesta, FL 'condo association manager': 9 results, 9 new, 9 companies
+2026-02-14 22:00:34,046 INFO DDG Tequesta, FL 'freelance contractor': 9 results, 9 new, 9 companies
+2026-02-14 22:00:40,639 INFO DDG Tequesta, FL 'fitness center manager': 10 results, 10 new, 10 companies
+2026-02-14 22:00:44,888 INFO Cycle done: Tequesta, FL -> 56 leads, 56 companies
+[14/15] Job board search: Tequesta, FL (via DDG — free)
+  remodeling project manager: 9 results, 9 new
+  1099 contractor: 10 results, 10 new
+  kennel manager: 9 results, 9 new
+  condo association manager: 9 results, 9 new
+  freelance contractor: 9 results, 9 new
+  fitness center manager: 10 results, 10 new
+  -> 56 new leads, 56 companies
+2026-02-14 22:20:01,828 INFO === Cycle 45: Palm Beach Gardens, FL (index 14/15) ===
+2026-02-14 22:20:05,704 INFO DDG Palm Beach Gardens, FL 'cabinet installer': 9 results, 9 new, 9 companies
+2026-02-14 22:20:14,130 INFO DDG Palm Beach Gardens, FL 'commercial kitchen': 6 results, 6 new, 6 companies
+2026-02-14 22:20:21,681 INFO DDG Palm Beach Gardens, FL 'resort maintenance': 8 results, 8 new, 8 companies
+2026-02-14 22:20:29,467 INFO DDG Palm Beach Gardens, FL 'warehouse manager': 6 results, 6 new, 6 companies
+2026-02-14 22:20:37,095 INFO DDG Palm Beach Gardens, FL 'groundskeeper': 8 results, 8 new, 8 companies
+2026-02-14 22:20:44,181 INFO DDG Palm Beach Gardens, FL 'remodeling project manager': 9 results, 9 new, 9 companies
+2026-02-14 22:20:46,723 INFO Cycle done: Palm Beach Gardens, FL -> 46 leads, 46 companies
+2026-02-14 22:20:46,724 INFO Full rotation complete! 2029 total leads.
+[15/15] Job board search: Palm Beach Gardens, FL (via DDG — free)
+  cabinet installer: 9 results, 9 new
+  commercial kitchen: 6 results, 6 new
+  resort maintenance: 8 results, 8 new
+  warehouse manager: 6 results, 6 new
+  groundskeeper: 8 results, 8 new
+  remodeling project manager: 9 results, 9 new
+  -> 46 new leads, 46 companies
+
+  Full rotation complete! Starting over.
+2026-02-14 22:40:01,977 INFO === Cycle 46: Stuart, FL (index 0/15) ===
+2026-02-14 22:40:05,922 INFO DDG Stuart, FL 'maintenance supervisor': 8 results, 8 new, 8 companies
+2026-02-14 22:40:13,956 INFO DDG Stuart, FL 'auto dealership': 13 results, 13 new, 13 companies
+2026-02-14 22:40:23,785 INFO DDG Stuart, FL 'cabinet installer': 7 results, 7 new, 7 companies
+2026-02-14 22:40:31,152 INFO DDG Stuart, FL 'kitchen remodel': 13 results, 13 new, 13 companies
+2026-02-14 22:40:38,577 INFO DDG Stuart, FL 'commercial kitchen': 9 results, 9 new, 9 companies
+2026-02-14 22:40:45,502 INFO DDG Stuart, FL 'facility manager': 7 results, 7 new, 7 companies
+2026-02-14 22:40:49,392 INFO Cycle done: Stuart, FL -> 57 leads, 57 companies
+[1/15] Job board search: Stuart, FL (via DDG — free)
+  maintenance supervisor: 8 results, 8 new
+  auto dealership: 13 results, 13 new
+  cabinet installer: 7 results, 7 new
+  kitchen remodel: 13 results, 13 new
+  commercial kitchen: 9 results, 9 new
+  facility manager: 7 results, 7 new
+  -> 57 new leads, 57 companies
+2026-02-14 23:00:02,125 INFO === Cycle 47: Jensen Beach, FL (index 1/15) ===
+2026-02-14 23:00:05,604 INFO DDG Jensen Beach, FL 'remodeling project manager': 7 results, 7 new, 7 companies
+2026-02-14 23:00:12,385 INFO DDG Jensen Beach, FL 'church facilities': 7 results, 7 new, 7 companies
+2026-02-14 23:00:19,187 INFO DDG Jensen Beach, FL 'tile installer': 6 results, 6 new, 6 companies
+2026-02-14 23:00:26,498 INFO DDG Jensen Beach, FL 'grounds maintenance': 9 results, 9 new, 9 companies
+2026-02-14 23:00:34,465 INFO DDG Jensen Beach, FL 'rental property maintenance': 10 results, 10 new, 10 companies
+2026-02-14 23:00:42,594 INFO DDG Jensen Beach, FL 'subcontractor needed': 6 results, 6 new, 6 companies
+2026-02-14 23:00:46,241 INFO Cycle done: Jensen Beach, FL -> 45 leads, 45 companies
+[2/15] Job board search: Jensen Beach, FL (via DDG — free)
+  remodeling project manager: 7 results, 7 new
+  church facilities: 7 results, 7 new
+  tile installer: 6 results, 6 new
+  grounds maintenance: 9 results, 9 new
+  rental property maintenance: 10 results, 10 new
+  subcontractor needed: 6 results, 6 new
+  -> 45 new leads, 45 companies
+2026-02-14 23:20:01,812 INFO === Cycle 48: Palm City, FL (index 2/15) ===
+2026-02-14 23:20:05,233 INFO DDG Palm City, FL 'yacht club': 10 results, 10 new, 10 companies
+2026-02-14 23:20:13,211 INFO DDG Palm City, FL 'tile installer': 6 results, 6 new, 6 companies
+2026-02-14 23:20:20,737 INFO DDG Palm City, FL 'fleet maintenance': 5 results, 5 new, 5 companies
+2026-02-14 23:20:28,136 INFO DDG Palm City, FL 'brewery': 10 results, 10 new, 10 companies
+2026-02-14 23:20:34,776 INFO DDG Palm City, FL 'exterior maintenance': 3 results, 3 new, 3 companies
+2026-02-14 23:20:42,440 INFO DDG Palm City, FL 'warehouse manager': 9 results, 9 new, 9 companies
+2026-02-14 23:20:45,434 INFO Cycle done: Palm City, FL -> 43 leads, 43 companies
+[3/15] Job board search: Palm City, FL (via DDG — free)
+  yacht club: 10 results, 10 new
+  tile installer: 6 results, 6 new
+  fleet maintenance: 5 results, 5 new
+  brewery: 10 results, 10 new
+  exterior maintenance: 3 results, 3 new
+  warehouse manager: 9 results, 9 new
+  -> 43 new leads, 43 companies

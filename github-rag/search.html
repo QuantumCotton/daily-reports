@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub RAG Search</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #1a1a1a; color: #fff; }
+        .search-box { width: 100%; padding: 10px; font-size: 16px; background: #2d2d2d; border: 1px solid #444; color: #fff; border-radius: 5px; }
+        .result { margin: 10px 0; padding: 10px; background: #2d2d2d; border-radius: 5px; }
+        .repo { color: #4fc3f7; font-weight: bold; }
+        .path { color: #81c784; }
+        .preview { color: #ddd; margin: 5px 0; }
+        .meta { color: #999; font-size: 12px; }
+        .no-results { color: #ff6b6b; }
+    </style>
+</head>
+<body>
+    <h1>🔍 GitHub RAG Search</h1>
+    <p>Search across all QuantumCotton repositories</p>
+    
+    <input type="text" id="searchInput" class="search-box" placeholder="Search for 'AAC', 'baby synth', 'keyboard', etc...">
+    
+    <div id="results"></div>
+    
+    <script>
+        let searchData;
+        
+        // Load search index
+        fetch('index.json')
+            .then(response => response.json())
+            .then(data => {
+                searchData = data;
+                console.log('Loaded', Object.keys(data.search_index).length, 'keywords');
+            });
+        
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase().trim();
+            const resultsDiv = document.getElementById('results');
+            
+            if (!searchData) {
+                resultsDiv.innerHTML = '<p>Loading search index...</p>';
+                return;
+            }
+            
+            if (query.length < 2) {
+                resultsDiv.innerHTML = '<p>Enter at least 2 characters to search</p>';
+                return;
+            }
+            
+            const results = [];
+            
+            // Search in keyword index
+            for (const [keyword, entries] of Object.entries(searchData.search_index)) {
+                if (keyword.includes(query)) {
+                    results.push(...entries.map(e => ({...e, match_type: 'keyword', match_text: keyword})));
+                }
+            }
+            
+            // Remove duplicates
+            const uniqueResults = [];
+            const seen = new Set();
+            
+            for (const result of results) {
+                const key = `${result.repo}:${result.path}`;
+                if (!seen.has(key)) {
+                    seen.add(key);
+                    uniqueResults.push(result);
+                }
+            }
+            
+            // Display results
+            if (uniqueResults.length === 0) {
+                resultsDiv.innerHTML = '<div class="no-results">No results found</div>';
+            } else {
+                const html = uniqueResults.slice(0, 50).map(result => `
+                    <div class="result">
+                        <div class="repo">${result.repo}</div>
+                        <div class="path">${result.path}</div>
+                        <div class="preview">${result.content_preview}</div>
+                        <div class="meta">${result.last_modified} | Match: ${result.match_type} (${result.match_text})</div>
+                    </div>
+                `).join('');
+                
+                resultsDiv.innerHTML = html;
+            }
+        });
+    </script>
+</body>
+</html>

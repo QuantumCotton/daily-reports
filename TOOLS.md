@@ -70,9 +70,138 @@ Two Z.AI accounts (zai + openai route) for 20+ concurrent agents.
 Changes pushed to `agent-improve-YYYYMMDD` branches.
 Morning report at ~/daily-reports/morning-report.html
 
+
+## SearXNG — Self-Hosted Search Engine (Docker)
+
+### What It Is
+A self-hosted meta search engine running in Docker. Aggregates results from 8 search
+engines (Google, Bing, DDG, Yahoo, Brave, Mojeek, Qwant, Startpage). Completely free.
+
+### Usage
+```bash
+# JSON API (from any script or curl):
+curl "http://127.0.0.1:8888/search?q=plumber+Stuart+FL&format=json"
+
+# From Python:
+from free_search import search_searxng
+results = search_searxng("plumber Stuart FL")
+
+# Or use the unified search (auto-picks best tier):
+from free_search import search
+results = search("plumber Stuart FL")
+```
+
+### Management
+```bash
+# Check status
+echo a | sudo -S docker ps --filter name=searxng
+
+# Restart
+echo a | sudo -S docker restart searxng
+
+# View logs
+echo a | sudo -S docker logs searxng --tail 20
+
+# Full restart (pull latest + recreate)
+cd ~/searxng && echo a | sudo -S docker-compose down && echo a | sudo -S docker-compose up -d
+
+# Config location
+~/searxng/settings.yml      # Search engine config
+~/searxng/docker-compose.yml  # Container config
+```
+
+### Config Details
+- Port: localhost:8888 (mapped to container port 8080)
+- Memory limit: 512 MB
+- CPU limit: 1 core
+- Limiter: OFF (no rate limiting for local use)
+- Image proxy: OFF
+- Safe search: OFF
+
+## Free Search — 3-Tier Search Library
+
+### What It Is
+Drop-in search function that tries SearXNG first (free), then DDG via home PC proxy
+(free, residential IP), then Brave API (paid fallback).
+
+### Usage
+```python
+from free_search import search, search_searxng, search_ddg_proxy, search_brave
+
+# Unified (auto-picks best available):
+results = search("your query here")
+
+# Specific tier:
+results = search_searxng("query")     # Tier 1: SearXNG
+results = search_ddg_proxy("query")   # Tier 2: DDG via home proxy
+results = search_brave("query")       # Tier 3: Brave API
+
+# Each returns: [{"title": "...", "url": "...", "snippet": "..."}, ...]
+```
+
+### CLI
+```bash
+cd ~/.openclaw/bin && python3 free_search.py "kitchen remodeling Jensen Beach FL"
+```
+Shows results from all 3 tiers with counts.
+
+## Home PC Proxy — Residential IP Tunnel
+
+### What It Is
+Chris's home PC (Windows 11, 1Gbps internet) runs an SSH reverse tunnel that lets
+the VPS route web requests through a residential IP. This bypasses DDG datacenter
+IP blocking.
+
+### Availability
+- **Active:** ~1:30 AM - 9:00 AM PST (Chris starts it before bed)
+- **Check:** Port 1080 open = proxy is live
+```python
+import socket
+s = socket.socket(); s.settimeout(2)
+try:
+    s.connect(("127.0.0.1", 1080)); s.close()
+    print("PROXY LIVE")
+except:
+    print("PROXY OFFLINE")
+```
+
+### How It Works
+```
+VPS port 1080 → SSH tunnel → Home PC port 8118 → Home internet → DDG/websites
+```
+The `free_search.py` library automatically detects if the proxy is available and
+uses it. No manual configuration needed.
+
+## Lead Enricher v4 — Zero-Cost Email Enrichment
+
+### What It Is
+Scrapes business websites directly (/about, /team, /contact pages) to find personal
+emails and owner names. No API calls needed.
+
+### How It Works
+1. Fetches the company website homepage + /about, /team, /contact pages
+2. Finds personal emails via regex (john.smith@company.com)
+3. Extracts names from email prefixes (john.smith → John Smith)
+4. Falls back to owner name text patterns on page
+5. Generates email patterns (first.last@domain) and SMTP verifies
+
+### Usage
+```bash
+# Enrich 30 leads (default batch)
+python3 ~/.openclaw/bin/lead_enricher_v4.py 30
+
+# Enrich specific count
+python3 ~/.openclaw/bin/lead_enricher_v4.py 100
+```
+
+### Stats
+- ~15% enrichment rate (finds email on 15% of websites scraped)
+- $0 cost (direct HTTP requests only)
+- Runs every 2 hours via cron, 30 leads per batch
+
 ## Web Search
 
-### Brave Search (PRIMARY)
+### Brave Search (FALLBACK ONLY — Tier 3)
 ```bash
 python3 ~/.openclaw/bin/brave_search.py "your search query"
 ```
@@ -117,10 +246,18 @@ Weekly caps per service, auto-pauses, resets Mondays.
 cd ~/daily-reports && git add -A && git commit -m 'update' && git push origin main
 ```
 
-## Cron Jobs (crontab -l)
-- National scraper: every 4 hours
-- Apollo guesser: every 2 hours on :30
+## Cron Jobs (crontab -l) — Updated Feb 14, 2026
+- Job board scraper: every 20 min (SearXNG, 64 queries, $0)
+- Craigslist scraper: 3x/hour ($0)
+- National scraper: every 4 hours (SearXNG → Brave fallback)
+- Lead enricher v4: every 2 hours, 30 leads (direct website scraping, $0)
+- Apollo guesser: every 2 hours on :15 (SMTP verify, $0)
+- Directory scraper: 3x/day ($0)
 - Bulk verifier: nightly 3 AM UTC
+- Lead verifier: nightly 3:30 AM UTC
 - Dashboard rebuild: every 30 min
 - GitHub push: every 2 hours on :45
 - Repo agent: daily 5 AM UTC (midnight EST)
+- Gateway health check: every 5 min
+- Gateway restart: daily 7 AM UTC (prevents memory leaks)
+- SearXNG health check: every 30 min (docker start searxng)

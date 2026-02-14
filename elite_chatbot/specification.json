@@ -1,0 +1,41 @@
+{
+  "platform": "Elite Automated Services Chatbot",
+  "services": [
+    {
+      "name": "Plumbing Bot",
+      "trigger": "Website form + SMS",
+      "intents": [
+        "emergency",
+        "routine_service",
+        "quote_request",
+        "appointment"
+      ],
+      "responses": {
+        "emergency": "\u26a0\ufe0f EMERGENCY: Plumbers dispatched in 30 mins or less",
+        "routine": "\ud83d\udd27 Schedule: Select date/time, we'll confirm availability",
+        "quote": "\ud83d\udcb0 Get Quote: Describe issue, we'll provide estimate range",
+        "appointment": "\ud83d\udcc5 Book: Choose time slot, plumber assigned automatically"
+      },
+      "escalation": "Human plumber gets notified for complex issues",
+      "features": [
+        "ETA tracking",
+        "Photo upload",
+        "Cost estimate",
+        "Payment processing"
+      ]
+    }
+  ],
+  "tech_spec": {
+    "framework": "Python + Rasa (NLU)",
+    "messaging": "Twilio SMS + Web chat",
+    "backend": "FastAPI + PostgreSQL",
+    "frontend": "React chat widget",
+    "ai": "Intent classification + entity extraction"
+  },
+  "business_models": [
+    "$100/mo subscription (per contractor)",
+    "$5 per automated dispatch",
+    "$25 premium setup fee"
+  ],
+  "revenue_stream": "Recurring + per-use = steady predictable income"
+}

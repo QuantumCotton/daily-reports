@@ -1,0 +1,12 @@
+/home/chris/.openclaw/bin/system_health.py:89: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  week = datetime.utcnow().strftime("%G-W%V")
+🔧 *GLITCH DAILY HEALTH REPORT*
+📅 Feb 14, 2026 11:00 AM ET
+
+❌ Gateway: unknown
+✅ PM2: glitch-v2, crm
+📊 Leads: 16,938 total | 2,693 email | 281 verified
+📈 New 24h: +16,938 | Metros: 94 | Queue: 6,537 pending
+✅ Brave: 0/4,500 this week (0%)
+💾 Disk: 17% | RAM: 1368MB/3915MB
+✅ No recent errors in logs

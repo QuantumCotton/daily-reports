@@ -1,0 +1,164 @@
+2026-02-14 01:29:43,118 INFO yellowpages Stuart FL 'painting contractor': 0 found, 0 new
+2026-02-14 01:33:11,440 INFO yellowpages Stuart FL 'flooring installation': 0 found, 0 new
+2026-02-14 09:02:45,911 INFO yelp Hutchinson Island FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 09:06:41,444 INFO yelp Hutchinson Island FL 'general contractor': 0 found, 0 new
+2026-02-14 09:10:13,756 INFO yelp Hutchinson Island FL 'property management': 0 found, 0 new
+2026-02-14 09:13:32,384 INFO yelp Hutchinson Island FL 'roofing contractor': 0 found, 0 new
+2026-02-14 09:17:47,640 INFO yellowpages Hutchinson Island FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 09:21:03,102 INFO yellowpages Hutchinson Island FL 'general contractor': 0 found, 0 new
+2026-02-14 09:24:22,945 INFO yellowpages Hutchinson Island FL 'property management': 0 found, 0 new
+2026-02-14 09:28:15,166 INFO yellowpages Hutchinson Island FL 'roofing contractor': 0 found, 0 new
+2026-02-14 09:28:39,190 INFO bbb Hutchinson Island FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 09:28:50,733 INFO bbb Hutchinson Island FL 'general contractor': 0 found, 0 new
+2026-02-14 09:29:00,703 INFO bbb Hutchinson Island FL 'property management': 0 found, 0 new
+2026-02-14 09:29:07,096 INFO bbb Hutchinson Island FL 'roofing contractor': 0 found, 0 new
+2026-02-14 09:32:44,935 INFO yelp Palm Beach Gardens FL 'painting contractor': 0 found, 0 new
+2026-02-14 09:35:38,471 INFO yelp Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-14 09:38:37,328 INFO yelp Palm Beach Gardens FL 'roofing contractor': 0 found, 0 new
+2026-02-14 09:41:37,186 INFO yelp Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 09:45:29,939 INFO yellowpages Palm Beach Gardens FL 'painting contractor': 0 found, 0 new
+2026-02-14 09:48:45,214 INFO yellowpages Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-14 09:52:08,948 INFO yellowpages Palm Beach Gardens FL 'roofing contractor': 0 found, 0 new
+2026-02-14 09:55:00,111 INFO yellowpages Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 09:55:19,617 INFO bbb Palm Beach Gardens FL 'painting contractor': 0 found, 0 new
+2026-02-14 09:55:28,727 INFO bbb Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-14 09:55:34,349 INFO bbb Palm Beach Gardens FL 'roofing contractor': 0 found, 0 new
+2026-02-14 09:55:41,083 INFO bbb Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 09:59:46,048 INFO yelp Jupiter FL 'painting contractor': 0 found, 0 new
+2026-02-14 10:03:26,262 INFO yelp Jupiter FL 'gutter cleaning': 0 found, 0 new
+2026-02-14 10:06:02,768 INFO yelp Jupiter FL 'handyman': 0 found, 0 new
+2026-02-14 10:09:34,104 INFO yelp Jupiter FL 'property management': 0 found, 0 new
+2026-02-14 10:13:05,105 INFO yellowpages Jupiter FL 'painting contractor': 0 found, 0 new
+2026-02-14 10:15:37,886 INFO yellowpages Jupiter FL 'gutter cleaning': 0 found, 0 new
+2026-02-14 10:18:40,968 INFO yellowpages Jupiter FL 'handyman': 0 found, 0 new
+2026-02-14 10:22:02,475 INFO yellowpages Jupiter FL 'property management': 0 found, 0 new
+2026-02-14 10:22:26,244 INFO bbb Jupiter FL 'painting contractor': 0 found, 0 new
+2026-02-14 10:22:32,904 INFO bbb Jupiter FL 'gutter cleaning': 0 found, 0 new
+2026-02-14 10:22:44,552 INFO bbb Jupiter FL 'handyman': 0 found, 0 new
+2026-02-14 10:22:50,456 INFO bbb Jupiter FL 'property management': 0 found, 0 new
+Directory Scraper — 2026-02-14 09:00 — $0 cost
+
+  [Hutchinson Island FL]
+    yelp/bathroom remodeling: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+
+  [Palm Beach Gardens FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+
+  [Jupiter FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-14 17:03:06,546 INFO yelp Vero Beach FL 'gutter cleaning': 0 found, 0 new
+2026-02-14 17:06:32,944 INFO yelp Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-14 17:09:48,812 INFO yelp Vero Beach FL 'flooring installation': 0 found, 0 new
+2026-02-14 17:13:32,957 INFO yelp Vero Beach FL 'pressure washing': 0 found, 0 new
+2026-02-14 17:16:46,676 INFO yellowpages Vero Beach FL 'gutter cleaning': 0 found, 0 new
+2026-02-14 17:19:15,184 INFO yellowpages Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-14 17:22:11,394 INFO yellowpages Vero Beach FL 'flooring installation': 0 found, 0 new
+2026-02-14 17:26:01,217 INFO yellowpages Vero Beach FL 'pressure washing': 0 found, 0 new
+2026-02-14 17:26:28,712 INFO bbb Vero Beach FL 'gutter cleaning': 0 found, 0 new
+2026-02-14 17:26:39,567 INFO bbb Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-14 17:26:46,311 INFO bbb Vero Beach FL 'flooring installation': 0 found, 0 new
+2026-02-14 17:26:58,697 INFO bbb Vero Beach FL 'pressure washing': 0 found, 0 new
+2026-02-14 17:30:11,681 INFO yelp Sailfish Point FL 'painting contractor': 0 found, 0 new
+2026-02-14 17:33:26,075 INFO yelp Sailfish Point FL 'roofing contractor': 0 found, 0 new
+2026-02-14 17:37:43,600 INFO yelp Sailfish Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 17:40:45,622 INFO yelp Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-14 17:44:41,361 INFO yellowpages Sailfish Point FL 'painting contractor': 0 found, 0 new
+2026-02-14 17:47:52,689 INFO yellowpages Sailfish Point FL 'roofing contractor': 0 found, 0 new
+2026-02-14 17:51:48,224 INFO yellowpages Sailfish Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 17:55:38,810 INFO yellowpages Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-14 17:56:03,806 INFO bbb Sailfish Point FL 'painting contractor': 0 found, 0 new
+2026-02-14 17:56:09,281 INFO bbb Sailfish Point FL 'roofing contractor': 0 found, 0 new
+2026-02-14 17:56:17,887 INFO bbb Sailfish Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-14 17:56:25,296 INFO bbb Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-14 18:00:53,912 INFO yelp Tequesta FL 'painting contractor': 0 found, 0 new
+2026-02-14 18:03:40,945 INFO yelp Tequesta FL 'mobile detailing': 0 found, 0 new
+2026-02-14 18:07:11,011 INFO yelp Tequesta FL 'handyman': 0 found, 0 new
+2026-02-14 18:10:44,637 INFO yelp Tequesta FL 'property management': 0 found, 0 new
+2026-02-14 18:13:29,198 INFO yellowpages Tequesta FL 'painting contractor': 0 found, 0 new
+2026-02-14 18:16:44,839 INFO yellowpages Tequesta FL 'mobile detailing': 0 found, 0 new
+2026-02-14 18:19:52,544 INFO yellowpages Tequesta FL 'handyman': 0 found, 0 new
+2026-02-14 18:23:29,497 INFO yellowpages Tequesta FL 'property management': 0 found, 0 new
+2026-02-14 18:23:53,926 INFO bbb Tequesta FL 'painting contractor': 0 found, 0 new
+2026-02-14 18:24:04,559 INFO bbb Tequesta FL 'mobile detailing': 0 found, 0 new
+2026-02-14 18:24:16,569 INFO bbb Tequesta FL 'handyman': 0 found, 0 new
+2026-02-14 18:24:22,291 INFO bbb Tequesta FL 'property management': 0 found, 0 new
+Directory Scraper — 2026-02-14 17:00 — $0 cost
+
+  [Vero Beach FL]
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/flooring installation: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+
+  [Sailfish Point FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+
+  [Tequesta FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+
+ Total: 0 new leads (FREE)

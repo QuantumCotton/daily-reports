@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG Database Search</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #1e1e3f 0%, #2d2d5f 100%);
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .search-box {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .search-input {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.9);
+            color: #333;
+        }
+        .results {
+            display: grid;
+            gap: 20px;
+        }
+        .result-card {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .repo-name {
+            color: #4fc3f7;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .file-name {
+            color: #81c784;
+            margin-bottom: 10px;
+        }
+        .content-preview {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .relevance-score {
+            background: #ff9800;
+            color: black;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 12px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧠 RAG Database Search</h1>
+        
+        <div class="search-box">
+            <input type="text" class="search-input" placeholder="Search repository files (e.g., AAC app, baby synth, epoxy, dashboard)..." id="searchInput">
+        </div>
+        
+        <div class="results" id="searchResults">
+            <p style="opacity: 0.7;">Type a search term to find relevant files and context...</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const query = e.target.value;
+            if (query.length > 2) {
+                searchRAG(query);
+            } else {
+                document.getElementById('searchResults').innerHTML = '<p style="opacity: 0.7;">Type at least 3 characters to search...</p>';
+            }
+        });
+
+        function searchRAG(query) {
+            // Simulated search (in real implementation, would call Python API)
+            fetch('/api/search?q=' + encodeURIComponent(query))
+                .then(response => response.json())
+                .then(results => displayResults(results, query))
+                .catch(() => {
+                    // Simulated results for demo
+                    const mockResults = [
+                        {
+                            repo: "KMJK",
+                            file: "app_clock.js",
+                            relevance: 0.95,
+                            preview: "Clock app implementation with time utilities, alarms, and world clock functionality..."
+                        },
+                        {
+                            repo: "App Development", 
+                            file: "baby_synth_features.md",
+                            relevance: 0.89,
+                            preview: "Baby synth app features: 2D piano keyboard interface, 3D animated backgrounds..."
+                        }
+                    ];
+                    displayResults(mockResults, query);
+                });
+        }
+
+        function displayResults(results, query) {
+            const container = document.getElementById('searchResults');
+            
+            if (results.length === 0) {
+                container.innerHTML = '<p>No results found for "' + query + '"</p>';
+                return;
+            }
+            
+            const html = results.map(result => `
+                <div class="result-card">
+                    <div class="repo-name">${result.repo}</div>
+                    <div class="file-name">${result.file}</div>
+                    <div class="content-preview">${result.preview}</div>
+                    <div class="relevance-score">Relevance: ${(result.relevance * 100).toFixed(0)}%</div>
+                </div>
+            `).join('');
+            
+            container.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

@@ -164,10 +164,22 @@ creative-writer (implements feedback)
 
 **Current Status:**
 - ✅ Gateway fixed by Chris
-- ✅ CRM server running (PID 807303, port 8181)
+- ✅ Model routing fixed (now on zai/glm-5 correctly)
+- ✅ CRM server running (PID 813471, port 8181)
 - ✅ Dashboard regenerated successfully (785 leads, 727 emails, 25 markets)
+- ✅ JavaScript syntax error FIXED (confirm() dialog string now properly escaped)
+- ✅ showMarket() function working - clicking market cards now works
 - ⏸ Agent sessions from Phase 1 expired without explicit output
 - 📝 Manual regeneration performed - file is valid HTML
+
+## Latest Fix (2026-02-13 23:40 UTC)
+**Issue:** JavaScript SyntaxError at line 17421 - confirm() dialog string broken across lines
+**Root Cause:** Python script writing `\n\n` as actual newlines instead of escaped `\\n\\n`
+**Fix:** Changed line 742 in market_dashboard.py from:
+  `if (!confirm('...Instantly?\n\nThis will...'))`
+  to:
+  `if (!confirm('...Instantly?\\n\\nThis will...'))`
+**Result:** Dashboard regenerated, CRM server restarted, market cards now working
 
 ---
 

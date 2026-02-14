@@ -3811,3 +3811,313 @@ CRM v2 generated: 785 leads, 727 emails, 158 phones, 2026-02-13 22:30 UTC
 [22:30:20] APOLLO GUESSER COMPLETE: 0 emails guessed, 0 verified
 [22:30:20] ============================================================
 [22:30:20] ============================================================
+[00:30:01] ============================================================
+[00:30:01] ============================================================
+[00:30:01] APOLLO-STYLE EMAIL GUESSER — Batch: 50
+[00:30:01] APOLLO-STYLE EMAIL GUESSER — Batch: 50
+[00:30:01] ============================================================
+[00:30:01] ============================================================
+[00:30:01] Loaded 785 leads
+[00:30:01] Loaded 785 leads
+[00:30:01] Leads with guessable domains: 34
+[00:30:01] Leads with guessable domains: 34
+[00:30:01] Processing batch of 34
+[00:30:01] Processing batch of 34
+[00:30:01]   [1/34] Quest Property Management Services for Y → questrealestatesolutions.com
+[00:30:01]   [1/34] Quest Property Management Services for Y → questrealestatesolutions.com
+[00:30:02]     → SKIP: no MX for questrealestatesolutions.com
+[00:30:02]     → SKIP: no MX for questrealestatesolutions.com
+[00:30:02]   [2/34] Tru Mobile Detailing → trumobiledetailing.com
+[00:30:02]   [2/34] Tru Mobile Detailing → trumobiledetailing.com
+[00:30:02]     → SKIP: no MX for trumobiledetailing.com
+[00:30:02]     → SKIP: no MX for trumobiledetailing.com
+[00:30:03]   [3/34] Circle Bay Yacht Club → circlebay.org
+[00:30:03]   [3/34] Circle Bay Yacht Club → circlebay.org
+[00:30:03]     → SKIP: no MX for circlebay.org
+[00:30:03]     → SKIP: no MX for circlebay.org
+[00:30:03]   [4/34] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[00:30:03]   [4/34] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[00:30:03]     → SKIP: no MX for libertykitchendesign.com
+[00:30:03]     → SKIP: no MX for libertykitchendesign.com
+[00:30:04]   [5/34] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[00:30:04]   [5/34] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[00:30:04]     → SKIP: no MX for kbcgeneralservices.com
+[00:30:04]     → SKIP: no MX for kbcgeneralservices.com
+[00:30:04]   [6/34] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[00:30:04]   [6/34] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[00:30:04]     → SKIP: no MX for lionheartzdetail.com
+[00:30:04]     → SKIP: no MX for lionheartzdetail.com
+[00:30:05]   [7/34] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[00:30:05]   [7/34] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[00:30:05]     → SKIP: no MX for westpalmbeachrenovations.com
+[00:30:05]     → SKIP: no MX for westpalmbeachrenovations.com
+[00:30:05]   [8/34] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[00:30:05]   [8/34] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[00:30:05]     → SKIP: no MX for mobiledetailing.io
+[00:30:05]     → SKIP: no MX for mobiledetailing.io
+[00:30:06]   [9/34] The Brennity at Tradition Senior Living  → brennitytradition.com
+[00:30:06]   [9/34] The Brennity at Tradition Senior Living  → brennitytradition.com
+[00:30:06]     → SKIP: no MX for brennitytradition.com
+[00:30:06]     → SKIP: no MX for brennitytradition.com
+[00:30:06]   [10/34] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[00:30:06]   [10/34] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[00:30:07]     → SKIP: no MX for health.usnews.com
+[00:30:07]     → SKIP: no MX for health.usnews.com
+[00:30:07]   [11/34] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[00:30:07]   [11/34] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[00:30:07]     → SKIP: no MX for brennityverobeach.com
+[00:30:07]     → SKIP: no MX for brennityverobeach.com
+[00:30:08]   [12/34] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[00:30:08]   [12/34] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[00:30:08]     → SKIP: no MX for bobbyandbrothershandyman.com
+[00:30:08]     → SKIP: no MX for bobbyandbrothershandyman.com
+[00:30:08]   [13/34] 4 Best Assisted Living Communities in Je → health.usnews.com
+[00:30:08]   [13/34] 4 Best Assisted Living Communities in Je → health.usnews.com
+[00:30:08]     → SKIP: no MX for health.usnews.com
+[00:30:08]     → SKIP: no MX for health.usnews.com
+[00:30:09]   [14/34] Transitional Kitchens Gallery → dreammaker-remodel.com
+[00:30:09]   [14/34] Transitional Kitchens Gallery → dreammaker-remodel.com
+[00:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[00:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[00:30:09]   [15/34] Stuart Kitchen Contractors → dreammaker-remodel.com
+[00:30:09]   [15/34] Stuart Kitchen Contractors → dreammaker-remodel.com
+[00:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[00:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[00:30:10]   [16/34] Senior Living Facilities in Fort Pierce, → ourparents.com
+[00:30:10]   [16/34] Senior Living Facilities in Fort Pierce, → ourparents.com
+[00:30:10]     → SKIP: no MX for ourparents.com
+[00:30:10]     → SKIP: no MX for ourparents.com
+[00:30:10]   [17/34] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[00:30:10]   [17/34] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[00:30:10]     → SKIP: no MX for jupiterbaycondoassoc.com
+[00:30:10]     → SKIP: no MX for jupiterbaycondoassoc.com
+[00:30:11]   [18/34] Jupiter Cove → jupitercove.net
+[00:30:11]   [18/34] Jupiter Cove → jupitercove.net
+[00:30:11]     → SKIP: no MX for jupitercove.net
+[00:30:11]     → SKIP: no MX for jupitercove.net
+[00:30:11]   [19/34] Detail by Entity Name → search.sunbiz.org
+[00:30:11]   [19/34] Detail by Entity Name → search.sunbiz.org
+[00:30:11]     → SKIP: no MX for search.sunbiz.org
+[00:30:11]     → SKIP: no MX for search.sunbiz.org
+[00:30:12]   [20/34] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[00:30:12]   [20/34] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[00:30:12]     → SKIP: no MX for prestigemarbleanddesigns.com
+[00:30:12]     → SKIP: no MX for prestigemarbleanddesigns.com
+[00:30:13]   [21/34] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[00:30:13]   [21/34] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[00:30:13]     → SKIP: no MX for desanctishomes.com
+[00:30:13]     → SKIP: no MX for desanctishomes.com
+[00:30:13]   [22/34] Remodeling Contractor → swfconstruction.com
+[00:30:13]   [22/34] Remodeling Contractor → swfconstruction.com
+[00:30:13]     → SKIP: no MX for swfconstruction.com
+[00:30:13]     → SKIP: no MX for swfconstruction.com
+[00:30:14]   [23/34] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[00:30:14]   [23/34] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[00:30:14]     → SKIP: no MX for concretesciencefl.com
+[00:30:14]     → SKIP: no MX for concretesciencefl.com
+[00:30:14]   [24/34] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[00:30:14]   [24/34] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[00:30:14]     → SKIP: no MX for jdlsurfaceinnovations.com
+[00:30:14]     → SKIP: no MX for jdlsurfaceinnovations.com
+[00:30:15]   [25/34] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[00:30:15]   [25/34] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[00:30:15]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[00:30:15]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[00:30:15]   [26/34] Gutter Installation Tampa → gutterinstallationtampa.com
+[00:30:15]   [26/34] Gutter Installation Tampa → gutterinstallationtampa.com
+[00:30:16]     → SKIP: no MX for gutterinstallationtampa.com
+[00:30:16]     → SKIP: no MX for gutterinstallationtampa.com
+[00:30:16]   [27/34] Home → sarasotaseamlessgutters.com
+[00:30:16]   [27/34] Home → sarasotaseamlessgutters.com
+[00:30:16]     → SKIP: no MX for sarasotaseamlessgutters.com
+[00:30:16]     → SKIP: no MX for sarasotaseamlessgutters.com
+[00:30:17]   [28/34] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[00:30:17]   [28/34] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[00:30:17]     → SKIP: no MX for customgarageworkstx.com
+[00:30:17]     → SKIP: no MX for customgarageworkstx.com
+[00:30:17]   [29/34] About Us → islandhousehoa.com
+[00:30:17]   [29/34] About Us → islandhousehoa.com
+[00:30:17]     → SKIP: no MX for islandhousehoa.com
+[00:30:17]     → SKIP: no MX for islandhousehoa.com
+[00:30:18]   [30/34] The Brennity at Tradition Senior Living → brennitytradition.com
+[00:30:18]   [30/34] The Brennity at Tradition Senior Living → brennitytradition.com
+[00:30:18]     → SKIP: no MX for brennitytradition.com
+[00:30:18]     → SKIP: no MX for brennitytradition.com
+[00:30:18]   [31/34] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[00:30:18]   [31/34] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[00:30:18]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[00:30:18]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[00:30:19]   [32/34] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[00:30:19]   [32/34] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[00:30:19]     → SKIP: no MX for saintpetersburgconcrete.com
+[00:30:19]     → SKIP: no MX for saintpetersburgconcrete.com
+[00:30:19]   [33/34] Molino's Ristorante → molinosrestaurant.com
+[00:30:19]   [33/34] Molino's Ristorante → molinosrestaurant.com
+[00:30:19]     → SKIP: no MX for molinosrestaurant.com
+[00:30:19]     → SKIP: no MX for molinosrestaurant.com
+[00:30:20]   [34/34] global-fleet → search.sunbiz.org
+[00:30:20]   [34/34] global-fleet → search.sunbiz.org
+[00:30:20]     → SKIP: no MX for search.sunbiz.org
+[00:30:20]     → SKIP: no MX for search.sunbiz.org
+CRM v2 generated: 785 leads, 727 emails, 158 phones, 2026-02-14 00:30 UTC
+[00:30:20] CRM dashboard rebuilt
+[00:30:20] CRM dashboard rebuilt
+[00:30:20] APOLLO GUESSER COMPLETE: 0 emails guessed, 0 verified
+[00:30:20] APOLLO GUESSER COMPLETE: 0 emails guessed, 0 verified
+[00:30:20] ============================================================
+[00:30:20] ============================================================
+[02:30:02] ============================================================
+[02:30:02] ============================================================
+[02:30:02] APOLLO-STYLE EMAIL GUESSER — Batch: 50
+[02:30:02] APOLLO-STYLE EMAIL GUESSER — Batch: 50
+[02:30:02] ============================================================
+[02:30:02] ============================================================
+[02:30:02] Loaded 785 leads
+[02:30:02] Loaded 785 leads
+[02:30:02] Leads with guessable domains: 34
+[02:30:02] Leads with guessable domains: 34
+[02:30:02] Processing batch of 34
+[02:30:02] Processing batch of 34
+[02:30:02]   [1/34] Quest Property Management Services for Y → questrealestatesolutions.com
+[02:30:02]   [1/34] Quest Property Management Services for Y → questrealestatesolutions.com
+[02:30:02]     → SKIP: no MX for questrealestatesolutions.com
+[02:30:02]     → SKIP: no MX for questrealestatesolutions.com
+[02:30:02]   [2/34] Tru Mobile Detailing → trumobiledetailing.com
+[02:30:02]   [2/34] Tru Mobile Detailing → trumobiledetailing.com
+[02:30:02]     → SKIP: no MX for trumobiledetailing.com
+[02:30:02]     → SKIP: no MX for trumobiledetailing.com
+[02:30:03]   [3/34] Circle Bay Yacht Club → circlebay.org
+[02:30:03]   [3/34] Circle Bay Yacht Club → circlebay.org
+[02:30:03]     → SKIP: no MX for circlebay.org
+[02:30:03]     → SKIP: no MX for circlebay.org
+[02:30:03]   [4/34] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[02:30:03]   [4/34] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[02:30:03]     → SKIP: no MX for libertykitchendesign.com
+[02:30:03]     → SKIP: no MX for libertykitchendesign.com
+[02:30:04]   [5/34] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[02:30:04]   [5/34] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[02:30:04]     → SKIP: no MX for kbcgeneralservices.com
+[02:30:04]     → SKIP: no MX for kbcgeneralservices.com
+[02:30:04]   [6/34] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[02:30:04]   [6/34] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[02:30:04]     → SKIP: no MX for lionheartzdetail.com
+[02:30:04]     → SKIP: no MX for lionheartzdetail.com
+[02:30:05]   [7/34] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[02:30:05]   [7/34] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[02:30:05]     → SKIP: no MX for westpalmbeachrenovations.com
+[02:30:05]     → SKIP: no MX for westpalmbeachrenovations.com
+[02:30:05]   [8/34] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[02:30:05]   [8/34] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[02:30:06]     → SKIP: no MX for mobiledetailing.io
+[02:30:06]     → SKIP: no MX for mobiledetailing.io
+[02:30:06]   [9/34] The Brennity at Tradition Senior Living  → brennitytradition.com
+[02:30:06]   [9/34] The Brennity at Tradition Senior Living  → brennitytradition.com
+[02:30:06]     → SKIP: no MX for brennitytradition.com
+[02:30:06]     → SKIP: no MX for brennitytradition.com
+[02:30:07]   [10/34] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[02:30:07]   [10/34] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[02:30:07]     → SKIP: no MX for health.usnews.com
+[02:30:07]     → SKIP: no MX for health.usnews.com
+[02:30:07]   [11/34] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[02:30:07]   [11/34] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[02:30:07]     → SKIP: no MX for brennityverobeach.com
+[02:30:07]     → SKIP: no MX for brennityverobeach.com
+[02:30:08]   [12/34] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[02:30:08]   [12/34] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[02:30:08]     → SKIP: no MX for bobbyandbrothershandyman.com
+[02:30:08]     → SKIP: no MX for bobbyandbrothershandyman.com
+[02:30:08]   [13/34] 4 Best Assisted Living Communities in Je → health.usnews.com
+[02:30:08]   [13/34] 4 Best Assisted Living Communities in Je → health.usnews.com
+[02:30:08]     → SKIP: no MX for health.usnews.com
+[02:30:08]     → SKIP: no MX for health.usnews.com
+[02:30:09]   [14/34] Transitional Kitchens Gallery → dreammaker-remodel.com
+[02:30:09]   [14/34] Transitional Kitchens Gallery → dreammaker-remodel.com
+[02:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[02:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[02:30:09]   [15/34] Stuart Kitchen Contractors → dreammaker-remodel.com
+[02:30:09]   [15/34] Stuart Kitchen Contractors → dreammaker-remodel.com
+[02:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[02:30:09]     → SKIP: no MX for dreammaker-remodel.com
+[02:30:10]   [16/34] Senior Living Facilities in Fort Pierce, → ourparents.com
+[02:30:10]   [16/34] Senior Living Facilities in Fort Pierce, → ourparents.com
+[02:30:10]     → SKIP: no MX for ourparents.com
+[02:30:10]     → SKIP: no MX for ourparents.com
+[02:30:10]   [17/34] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[02:30:10]   [17/34] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[02:30:11]     → SKIP: no MX for jupiterbaycondoassoc.com
+[02:30:11]     → SKIP: no MX for jupiterbaycondoassoc.com
+[02:30:11]   [18/34] Jupiter Cove → jupitercove.net
+[02:30:11]   [18/34] Jupiter Cove → jupitercove.net
+[02:30:11]     → SKIP: no MX for jupitercove.net
+[02:30:11]     → SKIP: no MX for jupitercove.net
+[02:30:12]   [19/34] Detail by Entity Name → search.sunbiz.org
+[02:30:12]   [19/34] Detail by Entity Name → search.sunbiz.org
+[02:30:12]     → SKIP: no MX for search.sunbiz.org
+[02:30:12]     → SKIP: no MX for search.sunbiz.org
+[02:30:12]   [20/34] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[02:30:12]   [20/34] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[02:30:12]     → SKIP: no MX for prestigemarbleanddesigns.com
+[02:30:12]     → SKIP: no MX for prestigemarbleanddesigns.com
+[02:30:13]   [21/34] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[02:30:13]   [21/34] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[02:30:13]     → SKIP: no MX for desanctishomes.com
+[02:30:13]     → SKIP: no MX for desanctishomes.com
+[02:30:13]   [22/34] Remodeling Contractor → swfconstruction.com
+[02:30:13]   [22/34] Remodeling Contractor → swfconstruction.com
+[02:30:13]     → SKIP: no MX for swfconstruction.com
+[02:30:13]     → SKIP: no MX for swfconstruction.com
+[02:30:14]   [23/34] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[02:30:14]   [23/34] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[02:30:14]     → SKIP: no MX for concretesciencefl.com
+[02:30:14]     → SKIP: no MX for concretesciencefl.com
+[02:30:14]   [24/34] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[02:30:14]   [24/34] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[02:30:14]     → SKIP: no MX for jdlsurfaceinnovations.com
+[02:30:14]     → SKIP: no MX for jdlsurfaceinnovations.com
+[02:30:15]   [25/34] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[02:30:15]   [25/34] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[02:30:15]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[02:30:15]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[02:30:15]   [26/34] Gutter Installation Tampa → gutterinstallationtampa.com
+[02:30:15]   [26/34] Gutter Installation Tampa → gutterinstallationtampa.com
+[02:30:16]     → SKIP: no MX for gutterinstallationtampa.com
+[02:30:16]     → SKIP: no MX for gutterinstallationtampa.com
+[02:30:16]   [27/34] Home → sarasotaseamlessgutters.com
+[02:30:16]   [27/34] Home → sarasotaseamlessgutters.com
+[02:30:16]     → SKIP: no MX for sarasotaseamlessgutters.com
+[02:30:16]     → SKIP: no MX for sarasotaseamlessgutters.com
+[02:30:17]   [28/34] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[02:30:17]   [28/34] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[02:30:17]     → SKIP: no MX for customgarageworkstx.com
+[02:30:17]     → SKIP: no MX for customgarageworkstx.com
+[02:30:17]   [29/34] About Us → islandhousehoa.com
+[02:30:17]   [29/34] About Us → islandhousehoa.com
+[02:30:17]     → SKIP: no MX for islandhousehoa.com
+[02:30:17]     → SKIP: no MX for islandhousehoa.com
+[02:30:18]   [30/34] The Brennity at Tradition Senior Living → brennitytradition.com
+[02:30:18]   [30/34] The Brennity at Tradition Senior Living → brennitytradition.com
+[02:30:18]     → SKIP: no MX for brennitytradition.com
+[02:30:18]     → SKIP: no MX for brennitytradition.com
+[02:30:18]   [31/34] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[02:30:18]   [31/34] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[02:30:18]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[02:30:18]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[02:30:19]   [32/34] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[02:30:19]   [32/34] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[02:30:19]     → SKIP: no MX for saintpetersburgconcrete.com
+[02:30:19]     → SKIP: no MX for saintpetersburgconcrete.com
+[02:30:19]   [33/34] Molino's Ristorante → molinosrestaurant.com
+[02:30:19]   [33/34] Molino's Ristorante → molinosrestaurant.com
+[02:30:19]     → SKIP: no MX for molinosrestaurant.com
+[02:30:19]     → SKIP: no MX for molinosrestaurant.com
+[02:30:20]   [34/34] global-fleet → search.sunbiz.org
+[02:30:20]   [34/34] global-fleet → search.sunbiz.org
+[02:30:20]     → SKIP: no MX for search.sunbiz.org
+[02:30:20]     → SKIP: no MX for search.sunbiz.org
+CRM v2 generated: 785 leads, 727 emails, 158 phones, 2026-02-14 02:30 UTC
+[02:30:21] CRM dashboard rebuilt
+[02:30:21] CRM dashboard rebuilt
+[02:30:21] APOLLO GUESSER COMPLETE: 0 emails guessed, 0 verified
+[02:30:21] APOLLO GUESSER COMPLETE: 0 emails guessed, 0 verified
+[02:30:21] ============================================================
+[02:30:21] ============================================================

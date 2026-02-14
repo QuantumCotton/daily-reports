@@ -1,0 +1,153 @@
+{
+  "target_metros": [
+    {
+      "metro": "Naples, FL",
+      "median_income": "$125K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Boca Raton, FL",
+      "median_income": "$110K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Sarasota, FL",
+      "median_income": "$105K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "West Palm Beach, FL",
+      "median_income": "$95K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Scottsdale, AZ",
+      "median_income": "$120K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Austin, TX",
+      "median_income": "$115K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Nashville, TN",
+      "median_income": "$100K",
+      "contractors_needed": 3,
+      "priority": "MEDIUM"
+    },
+    {
+      "metro": "Charlotte, NC",
+      "median_income": "$95K",
+      "contractors_needed": 3,
+      "priority": "MEDIUM"
+    },
+    {
+      "metro": "Atlanta, GA",
+      "median_income": "$110K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Tampa, FL",
+      "median_income": "$100K",
+      "contractors_needed": 3,
+      "priority": "MEDIUM"
+    },
+    {
+      "metro": "Jacksonville, FL",
+      "median_income": "$85K",
+      "contractors_needed": 2,
+      "priority": "MEDIUM"
+    },
+    {
+      "metro": "Orlando, FL",
+      "median_income": "$90K",
+      "contractors_needed": 3,
+      "priority": "MEDIUM"
+    },
+    {
+      "metro": "Miami, FL",
+      "median_income": "$105K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Fort Lauderdale, FL",
+      "median_income": "$95K",
+      "contractors_needed": 3,
+      "priority": "MEDIUM"
+    },
+    {
+      "metro": "Denver, CO",
+      "median_income": "$115K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    }
+  ],
+  "total_contractors_needed": 48,
+  "high_priority_metros": [
+    {
+      "metro": "Naples, FL",
+      "median_income": "$125K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Boca Raton, FL",
+      "median_income": "$110K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Sarasota, FL",
+      "median_income": "$105K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "West Palm Beach, FL",
+      "median_income": "$95K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Scottsdale, AZ",
+      "median_income": "$120K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Austin, TX",
+      "median_income": "$115K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Atlanta, GA",
+      "median_income": "$110K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Miami, FL",
+      "median_income": "$105K",
+      "contractors_needed": 4,
+      "priority": "HIGH"
+    },
+    {
+      "metro": "Denver, CO",
+      "median_income": "$115K",
+      "contractors_needed": 3,
+      "priority": "HIGH"
+    }
+  ],
+  "current_lead_pool": 6,
+  "targeting_strategy": "5-10 emails per metro, industry-specific messaging"
+}

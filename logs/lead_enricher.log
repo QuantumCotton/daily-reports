@@ -1,0 +1,1940 @@
+[04:26:22] ============================================================
+[04:26:22] LEAD ENRICHER v2 — batch: 5
+[04:26:22] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:26:22] ============================================================
+[04:26:22] Found 5 leads needing enrichment
+[04:26:22]   [1/5] Leadership
+[04:26:23]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:24]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:25]     → SKIP: no_name_found
+[04:26:25]   [2/5] Accu-Temp: AC & Furnace Repair in Dayton
+[04:26:26]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:27]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:28]     → SKIP: no_name_found
+[04:26:28]   [3/5] Expert Hialeah Electrical Repairs
+[04:26:29]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:30]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:31]     → SKIP: no_name_found
+[04:26:31]   [4/5] Association First Last Position Address 
+[04:26:31]     → SKIP: no_domain
+[04:26:32]   [5/5] Tippin Toes 24 Hour Family Child Care Ho
+[04:26:32]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:33]   Brave error: HTTP Error 429: Too Many Requests
+[04:26:35]     → SKIP: no_name_found
+[04:26:35] 
+============================================================
+[04:26:35] ENRICHMENT COMPLETE
+[04:26:35]   Batch: 0 enriched, 0 names found, 0 SMTP verified
+[04:26:35]   Database: 16492 total, 2651 with email, 1386 with contact name
+[04:26:35]   Email quality: 1304 personal (49%), 1347 generic (50%)
+[04:26:35]   Brave queries used: ~0
+[04:26:35] ============================================================
+[04:27:09] ============================================================
+[04:27:09] LEAD ENRICHER v2 — batch: 3
+[04:27:09] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:27:09] ============================================================
+[04:27:09] Found 3 leads needing enrichment
+[04:27:09]   [1/3] FLUMC
+[04:27:09]   Brave error: HTTP Error 429: Too Many Requests
+[04:27:12]   Brave error: HTTP Error 429: Too Many Requests
+[04:27:14]     → SKIP: no_name_found
+[04:27:14]   [2/3] Loading Dock Maintenance
+[04:27:15]   Brave error: HTTP Error 429: Too Many Requests
+[04:27:17]   Brave error: HTTP Error 429: Too Many Requests
+[04:27:20]     → SKIP: no_name_found
+[04:27:20]   [3/3] All County Tampa Bay
+[04:27:20]   Brave error: HTTP Error 429: Too Many Requests
+[04:27:23]   Brave error: HTTP Error 429: Too Many Requests
+[04:27:25]     → SKIP: no_name_found
+[04:27:26] 
+============================================================
+[04:27:26] ENRICHMENT COMPLETE
+[04:27:26]   Batch: 0 enriched, 0 names found, 0 SMTP verified
+[04:27:26]   Database: 16492 total, 2651 with email, 1386 with contact name
+[04:27:26]   Email quality: 1304 personal (49%), 1347 generic (50%)
+[04:27:26]   Brave queries used: ~0
+[04:27:26] ============================================================
+[04:28:06] ============================================================
+[04:28:06] LEAD ENRICHER v2 — batch: 5
+[04:28:06] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:28:06] ============================================================
+[04:28:06] Found 5 leads needing enrichment
+[04:28:06]   [1/5] List of Schools in Sarasota District (58
+[04:28:06]     → SKIP: no_mx:web03.fldoe.org
+[04:28:07]   [2/5] Gutter
+[04:28:11]     Name: The Brothers
+[04:28:11]     [~ guess] the@awguttersllc.com (pattern_guess|brave:"Gutter" owner OR founder OR C)
+[04:28:12]   [3/5] Shopping mall in Jacksonville, Florida
+[04:28:12]     → SKIP: no_mx:gatewaytownctr.website
+[04:28:12]   [4/5] Roofing Services
+[04:28:17]     Name: Of Perry
+[04:28:17]     [~ guess] of@roofsmartflorida.com (pattern_guess|brave:"Roofing Services" owner OR fo)
+[04:28:17]   [5/5] New and Used Acura, Chevrolet, Honda, GM
+[04:28:22]     Name: Axel David
+[04:28:22]     [~ guess] axel@regallakeland.com (pattern_guess|brave:"New and Used Acura, Chevrolet)
+[04:28:23] 
+============================================================
+[04:28:23] ENRICHMENT COMPLETE
+[04:28:23]   Batch: 3 enriched, 3 names found, 0 SMTP verified
+[04:28:23]   Database: 16492 total, 2654 with email, 1389 with contact name
+[04:28:23]   Email quality: 1307 personal (49%), 1347 generic (50%)
+[04:28:23]   Brave queries used: ~6
+[04:28:23] ============================================================
+[04:29:33] ============================================================
+[04:29:33] LEAD ENRICHER v2 — batch: 10
+[04:29:33] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:29:33] ============================================================
+[04:29:33] Found 10 leads needing enrichment
+[04:29:33]   [1/10] Cabinets
+[04:29:39]     Name: Key Executive
+[04:29:39]     [~ guess] key@fspcjax.com (pattern_guess|brave:"Cabinets" owner OR founder OR)
+[04:29:39]   [2/10] Find Manufacturing companies in Palm Coa
+[04:29:43]     Name: Timothy Hulett
+[04:29:43]     [✓ SMTP] timothy@dnb.com (smtp_verified|brave:"Find Manufacturing companies )
+[04:29:43]   [3/10] Kiddie Campus Childcare Center. – Level 
+[04:29:49]     → SKIP: no_name_found
+[04:29:49]   [4/10] Anytime Fitness
+[04:29:53]     Name: Chuck Runyon
+[04:29:53]     [✓ SMTP] chuck@anytimefitness.com (smtp_verified|brave:"Anytime Fitness" owner OR fou)
+[04:29:53]   [5/10] New Orleans & -Default Page
+[04:30:01] ============================================================
+[04:30:01] ============================================================
+[04:30:01] LEAD ENRICHER v2 — batch: 30
+[04:30:01] LEAD ENRICHER v2 — batch: 30
+[04:30:01] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:30:01] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:30:01] ============================================================
+[04:30:01] ============================================================
+[04:30:01] Found 30 leads needing enrichment
+[04:30:01] Found 30 leads needing enrichment
+[04:30:01]   [1/30] Kindred Hospital South Florida Hollywood
+[04:30:01]   [1/30] Kindred Hospital South Florida Hollywood
+[04:30:01]     → SKIP: no_mx:kindredhospitals.com
+[04:30:01]     → SKIP: no_mx:kindredhospitals.com
+[04:30:02]   [2/30] Southern Swells Brewing
+[04:30:02]   [2/30] Southern Swells Brewing
+[04:30:07]     Name: Micah Niebauer
+[04:30:07]     Name: Micah Niebauer
+[04:30:07]     [~ guess] micah@southernswells.com (pattern_guess|brave:"Southern Swells Brewing" owne)
+[04:30:07]     [~ guess] micah@southernswells.com (pattern_guess|brave:"Southern Swells Brewing" owne)
+[04:30:07]   [3/30] Roofing in Boca Raton FL
+[04:30:07]   [3/30] Roofing in Boca Raton FL
+[04:30:13]     → SKIP: no_name_found
+[04:30:13]     → SKIP: no_name_found
+[04:30:14]   [4/30] Commercial Real Estate
+[04:30:14]   [4/30] Commercial Real Estate
+[04:30:14]     → SKIP: no_mx:harrisandcompany.org
+[04:30:14]     → SKIP: no_mx:harrisandcompany.org
+[04:30:14]   [5/30] Oasis Elementary North
+[04:30:14]   [5/30] Oasis Elementary North
+[04:30:20]     → SKIP: no_name_found
+[04:30:20]     → SKIP: no_name_found
+[04:30:20]   [6/30] Welcome to Your North Tampa Dental Offic
+[04:30:20]   [6/30] Welcome to Your North Tampa Dental Offic
+[04:30:22]     Name: Corporate Banking
+[04:30:22]     [~ guess] corporate@members.lra.org (pattern_guess|brave:"New Orleans & -Default Page" )
+[04:30:22]   [6/10] A Trustworthy Gutter in Fort Pierce , FL
+[04:30:22]     → SKIP: no_mx:fl-guttercontractor.com
+[04:30:22]   [7/10] Custom Cabinets Orlando
+[04:30:26]     → SKIP: no_name_found
+[04:30:26]     → SKIP: no_name_found
+[04:30:26]   [7/30] Persimmon Hollow
+[04:30:26]   [7/30] Persimmon Hollow
+[04:30:31]     Name: Key Executive
+[04:30:31]     Name: Key Executive
+[04:30:31]     [~ guess] key@persimmonhollowbrewing.com (pattern_guess|brave:"Persimmon Hollow" owner OR fo)
+[04:30:31]     [~ guess] key@persimmonhollowbrewing.com (pattern_guess|brave:"Persimmon Hollow" owner OR fo)
+[04:30:31]   [8/30] Michael John's Restaurant
+[04:30:31]   [8/30] Michael John's Restaurant
+[04:30:35]     Name: John Johnson
+[04:30:35]     Name: John Johnson
+[04:30:35]     [~ guess] john@michaeljohnsrestaurant.com (pattern_guess|brave:"Michael John's Restaurant" ow)
+[04:30:35]     [~ guess] john@michaeljohnsrestaurant.com (pattern_guess|brave:"Michael John's Restaurant" ow)
+[04:30:36]   [9/30] Deltona, FL Commercial Real Estate for L
+[04:30:36]   [9/30] Deltona, FL Commercial Real Estate for L
+[04:30:39]     Name: Real Estate
+[04:30:39]     Name: Real Estate
+[04:30:39]     [~ guess] real@propertyshark.com (pattern_guess|brave:"Deltona, FL Commercial Real E)
+[04:30:39]     [~ guess] real@propertyshark.com (pattern_guess|brave:"Deltona, FL Commercial Real E)
+[04:30:39]   [10/30] THE 5 BEST Cafés in Deltona (Updated 202
+[04:30:39]   [10/30] THE 5 BEST Cafés in Deltona (Updated 202
+[04:30:44]     Name: Todd Johnson
+[04:30:44]     Name: Todd Johnson
+[04:30:44]     [~ guess] todd@tripadvisor.com (pattern_guess|brave:"THE 5 BEST Cafés in Deltona ()
+[04:30:44]     [~ guess] todd@tripadvisor.com (pattern_guess|brave:"THE 5 BEST Cafés in Deltona ()
+[04:30:44]   [11/30] Rain Gutters in Boca Raton, Florida
+[04:30:44]   [11/30] Rain Gutters in Boca Raton, Florida
+[04:30:50]     → SKIP: no_name_found
+[04:30:50]     → SKIP: no_name_found
+[04:30:50]   [12/30] Florida Property Management Agency
+[04:30:50]   [12/30] Florida Property Management Agency
+[04:30:51]     Name: Key Executive
+[04:30:51]     [~ guess] key@caseworkspecialties.com (pattern_guess|brave:"Custom Cabinets Orlando" owne)
+[04:30:51]   [8/10] Springer Voss Construction
+[04:30:56]     Name: Alexa Gallagher
+[04:30:56]     Name: Alexa Gallagher
+[04:30:56]     [~ guess] alexa@mgtspec.com (pattern_guess|brave:"Florida Property Management A)
+[04:30:56]     [~ guess] alexa@mgtspec.com (pattern_guess|brave:"Florida Property Management A)
+[04:30:56]   [13/30] Leadership
+[04:30:56]   [13/30] Leadership
+[04:30:58]     → SKIP: no_name_found
+[04:30:58]   [9/10] Grand Beach Hotel
+[04:31:03]     Name: Sandals Resorts
+[04:31:03]     [~ guess] sandals@grandbeachhotel.com (pattern_guess|brave:"Grand Beach Hotel" owner OR f)
+[04:31:03]   [10/10] Flooring Store servicing Fort Myers, FL
+[04:31:04]     Name: Pano Karatassos
+[04:31:04]     Name: Pano Karatassos
+[04:31:04]     [~ guess] pano@garestaurants.org (pattern_guess|brave:site:garestaurants.org about O)
+[04:31:04]     [~ guess] pano@garestaurants.org (pattern_guess|brave:site:garestaurants.org about O)
+[04:31:05]   [14/30] Flooring Installation In Port St Lucie F
+[04:31:05]   [14/30] Flooring Installation In Port St Lucie F
+[04:31:05]     → SKIP: no_mx:jeffreyscotthomerenovations.com
+[04:31:05]     → SKIP: no_mx:jeffreyscotthomerenovations.com
+[04:31:05]   [15/30] Clearwater Hospitals
+[04:31:05]   [15/30] Clearwater Hospitals
+[04:31:07]     Name: Greg Graham
+[04:31:07]     [~ guess] greg@supremefloorsfl.com (pattern_guess|brave:"Flooring Store servicing Fort)
+[04:31:08] 
+============================================================
+[04:31:08] ENRICHMENT COMPLETE
+[04:31:08]   Batch: 7 enriched, 7 names found, 2 SMTP verified
+[04:31:08]   Database: 16494 total, 2666 with email, 1401 with contact name
+[04:31:08]   Email quality: 1319 personal (49%), 1347 generic (50%)
+[04:31:08]   Brave queries used: ~14
+[04:31:08] ============================================================
+[04:31:34]     Name: Lenne Bonner
+[04:31:34]     Name: Lenne Bonner
+[04:31:34]     [~ guess] lenne@hospitals.fsnhospitals.com (pattern_guess|brave:"Clearwater Hospitals" owner O)
+[04:31:34]     [~ guess] lenne@hospitals.fsnhospitals.com (pattern_guess|brave:"Clearwater Hospitals" owner O)
+[04:31:34]   [16/30] Contact Over 450,000 Franchisees Across 
+[04:31:34]   [16/30] Contact Over 450,000 Franchisees Across 
+[04:31:41]     → SKIP: no_name_found
+[04:31:41]     → SKIP: no_name_found
+[04:31:41]   [17/30] Custom Kitchen Remodel
+[04:31:41]   [17/30] Custom Kitchen Remodel
+[04:31:47]     Name: Kitchen Designer
+[04:31:47]     Name: Kitchen Designer
+[04:31:47]     [~ guess] kitchen@busbycabinets.com (pattern_guess|brave:"Custom Kitchen Remodel" owner)
+[04:31:47]     [~ guess] kitchen@busbycabinets.com (pattern_guess|brave:"Custom Kitchen Remodel" owner)
+[04:31:47]   [18/30] All Dealers in Cape Coral, FL 33990
+[04:31:47]   [18/30] All Dealers in Cape Coral, FL 33990
+[04:31:55]     Name: Chip Perry
+[04:31:55]     Name: Chip Perry
+[04:31:55]     [~ guess] chip@autotrader.com (pattern_guess|brave:site:autotrader.com about OR t)
+[04:31:55]     [~ guess] chip@autotrader.com (pattern_guess|brave:site:autotrader.com about OR t)
+[04:31:55]   [19/30] Top 10 Car Wash in Fort Lauderdale, FL
+[04:31:55]   [19/30] Top 10 Car Wash in Fort Lauderdale, FL
+[04:32:02]     → SKIP: no_name_found
+[04:32:02]     → SKIP: no_name_found
+[04:32:02]   [20/30] Concrete Contractors in Orlando, FL
+[04:32:02]   [20/30] Concrete Contractors in Orlando, FL
+[04:32:08]     → SKIP: no_name_found
+[04:32:08]     → SKIP: no_name_found
+[04:32:09]   [21/30] Executive Chef and Owner
+[04:32:09]   [21/30] Executive Chef and Owner
+[04:32:13]     Name: Chef Consulting
+[04:32:13]     Name: Chef Consulting
+[04:32:13]     [~ guess] chef@cachelittlerock.com (pattern_guess|brave:"Executive Chef and Owner" own)
+[04:32:13]     [~ guess] chef@cachelittlerock.com (pattern_guess|brave:"Executive Chef and Owner" own)
+[04:32:13]   [22/30] Veterinarian in Gainesville, FL
+[04:32:13]   [22/30] Veterinarian in Gainesville, FL
+[04:32:19]     → SKIP: no_name_found
+[04:32:19]     → SKIP: no_name_found
+[04:32:20]   [23/30] Cold Storage & Warehouse Locations in Fl
+[04:32:20]   [23/30] Cold Storage & Warehouse Locations in Fl
+[04:32:21] ============================================================
+[04:32:21] LEAD ENRICHER v2 — batch: 10
+[04:32:21] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:32:21] ============================================================
+[04:32:21] Found 10 leads needing enrichment
+[04:32:21]   [1/10] Two Rivers Family Dental
+[04:32:25]     Name: Reem Shafi
+[04:32:25]     [~ guess] reem@2riversfamilydental.com (pattern_guess|brave:"Two Rivers Family Dental" own)
+[04:32:25]   [2/10] Top Rated Car Wash in Daytona Beach, FL
+[04:32:26]     Name: Key Executive
+[04:32:26]     Name: Key Executive
+[04:32:26]     [~ guess] key@flfreezer.com (pattern_guess|brave:"Cold Storage & Warehouse Loca)
+[04:32:26]     [~ guess] key@flfreezer.com (pattern_guess|brave:"Cold Storage & Warehouse Loca)
+[04:32:26]   [24/30] Neptune Cold Storage
+[04:32:26]   [24/30] Neptune Cold Storage
+[04:32:31]     Name: Key Executive
+[04:32:31]     Name: Key Executive
+[04:32:31]     [~ guess] key@neptunecoldstorage.com (pattern_guess|brave:"Neptune Cold Storage" owner O)
+[04:32:31]     [~ guess] key@neptunecoldstorage.com (pattern_guess|brave:"Neptune Cold Storage" owner O)
+[04:32:31]   [25/30] Cape Coral, FL Industrial & Warehouse Sp
+[04:32:31]   [25/30] Cape Coral, FL Industrial & Warehouse Sp
+[04:32:31]     → SKIP: no_name_found
+[04:32:32]   [3/10] HOME
+[04:32:32]     → SKIP: no_mx:mail.rentinstpete.com
+[04:32:32]   [4/10] Alabama
+[04:32:35]     Name: Movements Media
+[04:32:35]     Name: Movements Media
+[04:32:35]     [~ guess] movements@propertyshark.com (pattern_guess|brave:"Cape Coral, FL Industrial & W)
+[04:32:35]     [~ guess] movements@propertyshark.com (pattern_guess|brave:"Cape Coral, FL Industrial & W)
+[04:32:35]   [26/30] Lonesome Dove Western Bistro
+[04:32:35]   [26/30] Lonesome Dove Western Bistro
+[04:32:35]     → SKIP: no_mx:lonesomedoveknoxville.com
+[04:32:35]     → SKIP: no_mx:lonesomedoveknoxville.com
+[04:32:36]   [27/30] National Car Wash Installations & Sales 
+[04:32:36]   [27/30] National Car Wash Installations & Sales 
+[04:32:41]     Name: Former Eagle
+[04:32:41]     [~ guess] former@fleetowner.com (pattern_guess|brave:site:fleetowner.com about OR t)
+[04:32:41]   [5/10] General Contractor Sarasota FL
+[04:32:42]     Name: Key Executive
+[04:32:42]     Name: Key Executive
+[04:32:42]     [~ guess] key@thecarwashpeople.com (pattern_guess|brave:"National Car Wash Installatio)
+[04:32:42]     [~ guess] key@thecarwashpeople.com (pattern_guess|brave:"National Car Wash Installatio)
+[04:32:42]   [28/30] Local Electrician Services in Huntsville
+[04:32:42]   [28/30] Local Electrician Services in Huntsville
+[04:32:48]     → SKIP: no_name_found
+[04:32:48]     → SKIP: no_name_found
+[04:32:48]   [29/30] Staff Directory • Miami Gardens, FL • Ci
+[04:32:48]   [29/30] Staff Directory • Miami Gardens, FL • Ci
+[04:32:48]     → SKIP: no_domain
+[04:32:48]     → SKIP: no_domain
+[04:32:49]   [30/30] Seamless Rain Gutters
+[04:32:49]   [30/30] Seamless Rain Gutters
+[04:32:53]     Name: Jim Prentice
+[04:32:53]     Name: Jim Prentice
+[04:32:54]     [~ guess] jim@guttersystemsflorida.com (pattern_guess|brave:"Seamless Rain Gutters" owner )
+[04:32:54]     [~ guess] jim@guttersystemsflorida.com (pattern_guess|brave:"Seamless Rain Gutters" owner )
+[04:32:54] 
+============================================================
+[04:32:54] 
+============================================================
+[04:32:54] ENRICHMENT COMPLETE
+[04:32:54] ENRICHMENT COMPLETE
+[04:32:54]   Batch: 16 enriched, 16 names found, 0 SMTP verified
+[04:32:54]   Batch: 16 enriched, 16 names found, 0 SMTP verified
+[04:32:54]   Database: 16494 total, 2672 with email, 1407 with contact name
+[04:32:54]   Database: 16494 total, 2672 with email, 1407 with contact name
+[04:32:54]   Email quality: 1325 personal (49%), 1347 generic (50%)
+[04:32:54]   Email quality: 1325 personal (49%), 1347 generic (50%)
+[04:32:54]   Brave queries used: ~32
+[04:32:54]   Brave queries used: ~32
+[04:32:54] ============================================================
+[04:32:54] ============================================================
+[04:33:10]     Name: Craig Gaskins
+[04:33:10]     [~ guess] craig@sdw-companies.com (pattern_guess|brave:"General Contractor Sarasota F)
+[04:33:10]   [6/10] Hollywood Dentist
+[04:33:16]     Name: Beverly Hills
+[04:33:16]     [~ guess] beverly@towncaredental.com (pattern_guess|brave:"Hollywood Dentist" owner OR f)
+[04:33:17]   [7/10] Ritter & Ramsey General and Cosmetic Den
+[04:33:21]     Name: Ritter Dental
+[04:33:21]     [✓ SMTP] ritter@ritterandramsey.com (smtp_verified|brave:"Ritter & Ramsey General and C)
+[04:33:21]   [8/10] HVAC Contractor in Homestead, FL
+[04:33:21]     → SKIP: no_mx:hvaccontractorhomesteadfl.com
+[04:33:21]   [9/10] Miami Management,.
+[04:33:27]     Name: Related Companies
+[04:33:27]     [~ guess] related@miamimanagement.com (pattern_guess|brave:"Miami Management,." owner OR )
+[04:33:27]   [10/10] Staff Directory • Fire Rescue
+[04:33:34]     → SKIP: no_name_found
+[04:33:34] 
+============================================================
+[04:33:34] ENRICHMENT COMPLETE
+[04:33:34]   Batch: 6 enriched, 6 names found, 1 SMTP verified
+[04:33:34]   Database: 16494 total, 2676 with email, 1411 with contact name
+[04:33:34]   Email quality: 1329 personal (49%), 1347 generic (50%)
+[04:33:34]   Brave queries used: ~12
+[04:33:34] ============================================================
+[04:35:03] ============================================================
+[04:35:03] LEAD ENRICHER v2 — batch: 10
+[04:35:03] Strategy: Find owner names → generate personal emails → SMTP verify
+[04:35:03] ============================================================
+[04:35:03] Found 10 leads needing enrichment
+[04:35:03]   [1/10] Houston’s
+[04:35:03]     → SKIP: no_mx:houstons.com
+[04:35:03]   [2/10] Warehouses for Sale in Daytona Beach, FL
+[04:35:10]     → SKIP: no_name_found
+[04:35:10]   [3/10] Fort Lauderdale Fire Rescue Department
+[04:35:16]     → SKIP: no_name_found
+[04:35:16]   [4/10] Morlans Flooring Repair is a Flooring in
+[04:35:16]     → SKIP: no_mx:flooringgulfport.com
+[04:35:17]   [5/10] Browse School Districts in the Triangle 
+[04:35:22]     Name: Gary Greene
+[04:35:22]     [~ guess] gary@lindacraft.com (pattern_guess|brave:"Browse School Districts in th)
+[04:35:23]   [6/10] Search for Public School Districts
+[04:35:23]     → SKIP: no_domain
+[04:35:23]   [7/10] Cornerstone Management Services
+[04:35:28]     Name: Mark Dickson
+[04:35:28]     [~ guess] mark@cornerstonemanagementservices.com (pattern_guess|brave:"Cornerstone Management Servic)
+[04:35:29]   [8/10] ORLANDO HEALTH MELBOURNE HOSPITAL Facili
+[04:35:29]     → SKIP: no_domain
+[04:35:29]   [9/10] Contact Us — Frigate's Melbourne
+[04:35:35]     → SKIP: no_name_found
+[04:35:35]   [10/10] Custom Tile Projects
+[04:35:38]     Name: Chris Clamp
+[04:35:39]     [✓ SMTP] chris@kingdomconstructionfl.com (smtp_verified|brave:"Custom Tile Projects" owner O)
+[04:35:39] 
+============================================================
+[04:35:39] ENRICHMENT COMPLETE
+[04:35:39]   Batch: 3 enriched, 3 names found, 1 SMTP verified
+[04:35:39]   Database: 16494 total, 2664 with email, 1399 with contact name
+[04:35:39]   Email quality: 1317 personal (49%), 1347 generic (50%)
+[04:35:39]   Brave queries used: ~6
+[04:35:39] ============================================================
+[04:40:35] ============================================================
+[04:40:35] LEAD ENRICHER v3 — batch: 10
+[04:40:35] Strategy: Scrape websites directly (FREE) → personal emails → SMTP verify
+[04:40:35] Brave API fallback: DISABLED (saving $$$)
+[04:40:35] ============================================================
+[04:40:35] Found 10 leads needing enrichment
+[04:40:35]   [1/10] Coffee Shop, Hialeah Gardens, Craigs Cafe and
+[04:40:42]     → SKIP: no_name_found
+[04:40:42]   [2/10] Ranger Roofing
+[04:40:43]     → SKIP: no_mx:ranger-roofing.com
+[04:40:43]   [3/10] RESTAURANTS Category | Stuart Martin County C
+[04:40:49]     → SKIP: no_name_found
+[04:40:49]   [4/10] Home
+[04:40:55]     → SKIP: no_name_found
+[04:40:56]   [5/10] City of Pensacola, ST Engineering Break Groun
+[04:43:20]     → SKIP: no_name_found
+[04:43:20]   [6/10] Swamp Dawg,
+[04:43:25]     → SKIP: no_name_found
+[04:43:26]   [7/10] AutoNation USA Charlotte
+[04:43:26]     → SKIP: no_mx:autonationusa.com
+[04:43:26]   [8/10] Miami-Fort Lauderdale Franchise Consultants
+[04:43:47]     → SKIP: no_name_found
+[04:43:47]   [9/10] Lakeland FL Dentist
+[04:43:47]     → SKIP: no_mx:qualitydentalcarefl.com
+[04:43:47]   [10/10] CrossFit ENG
+[04:43:51]     → SKIP: no_name_found
+[04:43:52] 
+============================================================
+[04:43:52] ENRICHMENT COMPLETE
+[04:43:52]   Batch: 0 enriched, 0 names found, 0 SMTP verified
+[04:43:52]   Sources: 0 from website scraping, 0 from Brave API
+[04:43:52]   Database: 16494 total, 2664 with email, 13 with contact name
+[04:43:52]   Email quality: 1477 personal (55%), 1187 generic
+[04:43:52]   Cost: $0 (Brave API calls: 0)
+[04:43:52] ============================================================
+[04:45:29] ============================================================
+[04:45:29] LEAD ENRICHER v3 — batch: 15
+[04:45:29] Strategy: Scrape websites directly (FREE) → personal emails → SMTP verify
+[04:45:29] Brave API fallback: DISABLED (saving $$$)
+[04:45:29] ============================================================
+[04:45:29] Found 15 leads needing enrichment
+[04:45:29]   [1/15] Laundry Owners Warehouse Information
+[04:45:30]     → SKIP: no_name_found
+[04:45:30]   [2/15] Florida General Contractors – Florida General
+[04:45:39]     → SKIP: no_name_found
+[04:45:39]   [3/15] Miami's Premier Executive Jet Services at HEJ
+[04:45:43]     Name: Ann Ie
+[04:45:43]     [✓ SMTP] annie@hejc.miami (smtp_verified|scraped:/:email:annie@hejc.miami)
+[04:45:43]   [4/15] Shephard’s Beach Resort
+[04:45:56]     → SKIP: no_name_found
+[04:45:57]   [5/15] Contact
+[04:46:02]     → SKIP: no_name_found
+[04:46:03]   [6/15] Management Jobs in Tallahassee, FL (NOW HIRIN
+[04:46:04]     Name: Ian Siegel
+[04:46:04]     [✓ SMTP] ian@ziprecruiter.com (smtp_verified|scraped:/:jsonld)
+[04:46:04]   [7/15] Durham Dentist
+[04:46:08]     → SKIP: no_name_found
+[04:46:08]   [8/15] Restaurant Franchise Opportunities
+[04:46:16]     → SKIP: no_name_found
+[04:46:16]   [9/15] Concrete Contractor in Tallahassee FL
+[04:46:16]     → SKIP: no_mx:tallahasseeconcretesolutions.com
+[04:46:16]   [10/15] Jose Torres: Franchise Consultant in FL and P
+[04:46:19]     Name: John Blair
+[04:46:19]     [~ guess] john@frannet.com (pattern_guess|scraped:/about-us:text)
+[04:46:19]   [11/15] Contact Super Autos Hialeah
+[04:46:19]     → SKIP: no_mx:superautosenhialeah.com
+[04:46:20]   [12/15] Kitchen Remodeling in Bradenton, FL
+[04:46:20]     Name: George Treacy
+[04:46:20]     [✓ SMTP] george@kitchenrestyled.com (smtp_verified|scraped:/about-us:text)
+[04:46:21]   [13/15] Tiger All Contractors. Seamless Gutters
+[04:46:22]     Name: Roger Reis
+[04:46:22]     [~ guess] roger@tigerallcontractors.com (pattern_guess|scraped:/about-us:text)
+[04:46:23]   [14/15] Contact Day Spa In Tallahassee FL
+[04:46:23]     → SKIP: no_mx:earthremediesspa.com
+[04:46:23]   [15/15] Handyman Service in Daytona Beach, Ormond Bea
+[04:46:26]     → SKIP: no_name_found
+[04:46:26] 
+============================================================
+[04:46:26] ENRICHMENT COMPLETE
+[04:46:26]   Batch: 5 enriched, 5 names found, 3 SMTP verified
+[04:46:26]   Sources: 5 from website scraping, 0 from Brave API
+[04:46:26]   Database: 16494 total, 2669 with email, 18 with contact name
+[04:46:26]   Email quality: 2507 personal (93%), 162 generic
+[04:46:26]   Cost: $0 (Brave API calls: 0)
+[04:46:26] ============================================================
+[04:47:36] ============================================================
+[04:47:36] LEAD ENRICHER v3 — batch: 20
+[04:47:36] Strategy: Scrape websites directly (FREE) → personal emails → SMTP verify
+[04:47:36] Brave API fallback: DISABLED (saving $$$)
+[04:47:36] ============================================================
+[04:47:36] Found 20 leads needing enrichment
+[04:47:36]   [1/20] Lee Auto Group
+[04:47:40]     → SKIP: no_name_found
+[04:47:40]   [2/20] Fast Food Franchise Mailing Lists
+[04:47:52]     → SKIP: no_name_found
+[04:47:52]   [3/20] School District Virtual Contact Information
+[04:48:04]     → SKIP: no_name_found
+[04:48:04]   [4/20] Mobile, AL – New Roof Construction, Roof Repa
+[04:48:13]     → SKIP: no_name_found
+[04:48:13]   [5/20] Commercial Real Estate in Baton Rouge
+[04:48:16]     Name: Matt Valiollahi
+[04:48:16]     [~ guess] matt@hammettgrouprealestate.com (pattern_guess|scraped:/about:text)
+[04:48:16]   [6/20] About Normandy Laundry based in Miami Beach, 
+[04:48:27]     → SKIP: no_name_found
+[04:48:27]   [7/20] Tile Installation in Cape Coral, FL
+[04:48:31]     → SKIP: no_name_found
+[04:48:32]   [8/20] Hollywood Location
+[04:48:35]     → SKIP: no_name_found
+[04:48:35]   [9/20] Station 11
+[04:48:35]     → SKIP: no_mx:slcfd.com
+[04:48:35]   [10/20] Concrete, Concrete Contractors in Tallahassee
+[04:48:48]     → SKIP: no_name_found
+[04:48:48]   [11/20] Restaurants Franchise Opportunities in Florid
+[04:48:57]     → SKIP: no_name_found
+[04:48:57]   [12/20] Cabinets Palm Coast & Luxury Kitchens
+[04:49:04]     → SKIP: no_name_found
+[04:49:04]   [13/20] City Manager's Office
+[04:49:06]     → SKIP: no_name_found
+[04:49:06]   [14/20] Florida Fleet Management Services
+[04:49:10]     → SKIP: no_name_found
+[04:49:10]   [15/20] Directory
+[04:49:13]     → SKIP: no_name_found
+[04:49:13]   [16/20] Transitional Kitchens Gallery
+[04:49:13]     → SKIP: no_mx:dreammaker-remodel.com
+[04:49:13]   [17/20] DEBRA JEAN'S
+[04:49:13]     → SKIP: no_mx:debrajeansfl.com
+[04:49:14]   [18/20] Contact Us & Jobs – Clearwater Beach, FL
+[04:49:16]     → SKIP: no_name_found
+[04:49:16]   [19/20] Dentist in Pensacola, FL
+[04:49:27]     → SKIP: no_name_found
+[04:49:27]   [20/20] Savage Tile
+[04:49:27]     → SKIP: no_mx:savagetileco.com
+[04:49:28] 
+============================================================
+[04:49:28] ENRICHMENT COMPLETE
+[04:49:28]   Batch: 1 enriched, 1 names found, 0 SMTP verified
+[04:49:28]   Sources: 1 from website scraping, 0 from Brave API
+[04:49:28]   Database: 16494 total, 2667 with email, 17 with contact name
+[04:49:28]   Email quality: 1478 personal (55%), 1189 generic
+[04:49:28]   Cost: $0 (Brave API calls: 0)
+[04:49:28] ============================================================
+[04:53:48] ============================================================
+[04:53:48] LEAD ENRICHER v4 — batch: 20
+[04:53:48] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:53:48] Brave API: OFF (saving money)
+[04:53:48] ============================================================
+[04:53:48] Found 20 leads to process
+[04:53:48]   [1/20] Self Storage Locations in Fort Pierce, FL
+[04:53:55]     → skip: no_data
+[04:53:55]   [2/20] Self Storage Facilities in Montgomery, AL
+[04:54:00]     → skip: no_data
+[04:54:00]   [3/20] Prosperity Brewers
+[04:54:03]     → skip: no_data
+[04:54:03]   [4/20] Mobile Coffee Truck
+[04:54:06]     → skip: no_data
+[04:54:06]   [5/20] House Painters in Jacksonville, FL
+[04:54:09]     → skip: no_data
+[04:54:09]   [6/20] Plastic Fabrication
+[04:54:12]     → skip: no_data
+[04:54:12]   [7/20] Family Dental Clinic Deltona, FL
+[04:54:23]     → skip: no_data
+[04:54:23]   [8/20] J's Corner Restaurant & Bar
+[04:54:26]     [★ FOUND] events@jscornersc.com
+[04:54:26]   [9/20] Oasis Elementary North
+[04:54:28]     → skip: no_data
+[04:54:28]   [10/20] Contact Steve Frey, Email: ****@orlando.gov &
+[04:54:28]     → skip: no_domain
+[04:54:29]   [11/20] Local Coffee Shop in Naples, FL ⋆ Divine Napl
+[04:54:29]     → skip: no_mx:coffeeshop.divinenaples.com
+[04:54:29]   [12/20] Seamless Gutter Installation in Kissimmee, FL
+[04:54:36]     → skip: no_data
+[04:54:37]   [13/20] The Sanctuary Hair Salon and Spa, Downtown We
+[04:55:05]     [~ guess] mike@asanctuary.com (Mike Technologies)
+[04:55:05]   [14/20] Lowdermilk Electric,
+[04:55:16]     → skip: no_data
+[04:55:16]   [15/20] Contact Us – Kyser Property
+[04:55:24]     → skip: no_data
+[04:55:24]   [16/20] Orlando HVAC Services & AC Repair
+[04:55:29]     → skip: no_data
+[04:55:29]   [17/20] Contact us
+[04:55:56]     → skip: no_data
+[04:55:56]   [18/20] Ark Seamless Gutters. of Central Florida
+[04:56:06]     [~ guess] max@arkguttersofcentralfl.com (Max Peters)
+[04:56:06]   [19/20] Installation in Vero Beach, FL from Carpet & 
+[04:56:07]     → skip: no_data
+[04:56:07]   [20/20] Preschool & Daycare Center in Fayetteville, A
+[04:56:12]     → skip: no_data
+[04:56:12] 
+============================================================
+[04:56:12] ENRICHMENT COMPLETE
+[04:56:12]   Batch: 3 enriched / 20 processed
+[04:56:12]   Found on site: 1 | Pattern guess: 2
+[04:56:12]   SMTP verified: 0 | Names found: 2
+[04:56:12]   Database: 16500 total, 2668 with email, 19 named contacts
+[04:56:12]   Quality: 1529 personal (57%) / 1139 generic
+[04:56:12]   Cost: $0 (zero API calls)
+[04:56:12] ============================================================
+[06:30:01] ============================================================
+[06:30:01] ============================================================
+[06:30:01] LEAD ENRICHER v4 — batch: 30
+[06:30:01] LEAD ENRICHER v4 — batch: 30
+[06:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[06:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[06:30:01] Brave API: OFF (saving money)
+[06:30:01] Brave API: OFF (saving money)
+[06:30:01] ============================================================
+[06:30:01] ============================================================
+[06:30:01] Found 30 leads to process
+[06:30:01] Found 30 leads to process
+[06:30:01]   [1/30] Commercial Laundry Service Port Saint Lucie
+[06:30:01]   [1/30] Commercial Laundry Service Port Saint Lucie
+[06:30:06]     → skip: no_data
+[06:30:06]     → skip: no_data
+[06:30:06]   [2/30] Saint Petersburg, FL Commercial Real Estate F
+[06:30:06]   [2/30] Saint Petersburg, FL Commercial Real Estate F
+[06:30:07]     → skip: no_data
+[06:30:07]     → skip: no_data
+[06:30:08]   [3/30] Cold Storage Warehouses and Logistics
+[06:30:08]   [3/30] Cold Storage Warehouses and Logistics
+[06:30:11]     → skip: no_data
+[06:30:11]     → skip: no_data
+[06:30:11]   [4/30] Electrician Boca Raton FL
+[06:30:11]   [4/30] Electrician Boca Raton FL
+[06:30:41]     → skip: no_data
+[06:30:41]     → skip: no_data
+[06:30:42]   [5/30] Chrysler, Dodge, Jeep, Ram Dealership in Sava
+[06:30:42]   [5/30] Chrysler, Dodge, Jeep, Ram Dealership in Sava
+[06:30:42]     → skip: no_mx:southernmotorssavannahcdjr.com
+[06:30:42]     → skip: no_mx:southernmotorssavannahcdjr.com
+[06:30:42]   [6/30] Community Association - Reblawpa
+[06:30:42]   [6/30] Community Association - Reblawpa
+[06:30:46]     [★ FOUND] sap@reblawpa.com
+[06:30:46]     [★ FOUND] sap@reblawpa.com
+[06:30:46]   [7/30] Apex Epoxy Flooring
+[06:30:46]   [7/30] Apex Epoxy Flooring
+[06:30:56]     → skip: no_data
+[06:30:56]     → skip: no_data
+[06:30:56]   [8/30] Mode Salon
+[06:30:56]   [8/30] Mode Salon
+[06:31:00]     [★ FOUND] danny@themodesalon.com
+[06:31:00]     [★ FOUND] danny@themodesalon.com
+[06:31:00]   [9/30] Office Space, Buildings & Property for Sale i
+[06:31:00]   [9/30] Office Space, Buildings & Property for Sale i
+[06:31:01]     → skip: no_data
+[06:31:01]     → skip: no_data
+[06:31:02]   [10/30] CRAFT BEER/SODA/WINE BAR Category
+[06:31:02]   [10/30] CRAFT BEER/SODA/WINE BAR Category
+[06:31:06]     → skip: no_data
+[06:31:06]     → skip: no_data
+[06:31:06]   [11/30] Local Climate Controlled Self Storage Units n
+[06:31:06]   [11/30] Local Climate Controlled Self Storage Units n
+[06:31:10]     → skip: no_data
+[06:31:10]     → skip: no_data
+[06:31:10]   [12/30] Boat Dock Contractor Cape Coral
+[06:31:10]   [12/30] Boat Dock Contractor Cape Coral
+[06:31:14]     → skip: no_data
+[06:31:14]     → skip: no_data
+[06:31:14]   [13/30] Contact Us
+[06:31:14]   [13/30] Contact Us
+[06:31:27]     → skip: no_data
+[06:31:27]     → skip: no_data
+[06:31:27]   [14/30] Greater Jackson
+[06:31:27]   [14/30] Greater Jackson
+[06:31:32]     → skip: no_data
+[06:31:32]     → skip: no_data
+[06:31:32]   [15/30] Spanish River Church
+[06:31:32]   [15/30] Spanish River Church
+[06:31:39]     [★ FOUND] communications@spanishriver.com
+[06:31:39]     [★ FOUND] communications@spanishriver.com
+[06:31:39]   [16/30] Aviation Services
+[06:31:39]   [16/30] Aviation Services
+[06:31:40]     → skip: no_data
+[06:31:40]     → skip: no_data
+[06:31:40]   [17/30] Top 4 Coffee Shops in Hialeah
+[06:31:40]   [17/30] Top 4 Coffee Shops in Hialeah
+[06:31:47]     → skip: no_data
+[06:31:47]     → skip: no_data
+[06:31:47]   [18/30] Parish Finder
+[06:31:47]   [18/30] Parish Finder
+[06:31:48]     → skip: no_data
+[06:31:48]     → skip: no_data
+[06:31:48]   [19/30] Faith Bible Church Naples
+[06:31:48]   [19/30] Faith Bible Church Naples
+[06:31:50]     [★ FOUND] faith@faithnaples.org
+[06:31:50]     [★ FOUND] faith@faithnaples.org
+[06:31:50]   [20/30] Industrial Marine Services
+[06:31:50]   [20/30] Industrial Marine Services
+[06:31:53]     → skip: no_data
+[06:31:53]     → skip: no_data
+[06:31:54]   [21/30] Publix Super Market, Downtown Stuart #749
+[06:31:54]   [21/30] Publix Super Market, Downtown Stuart #749
+[06:31:56]     → skip: no_data
+[06:31:56]     → skip: no_data
+[06:31:57]   [22/30] Hollywood Roofing Experts
+[06:31:57]   [22/30] Hollywood Roofing Experts
+[06:32:04]     → skip: no_data
+[06:32:04]     → skip: no_data
+[06:32:04]   [23/30] Commercial Property Management Nashville TN
+[06:32:04]   [23/30] Commercial Property Management Nashville TN
+[06:32:07]     → skip: no_data
+[06:32:07]     → skip: no_data
+[06:32:08]   [24/30] Asheville Specialty Hospital, Asheville, NC
+[06:32:08]   [24/30] Asheville Specialty Hospital, Asheville, NC
+[06:32:10]     → skip: no_data
+[06:32:10]     → skip: no_data
+[06:32:10]   [25/30] Veterinarians Little Rock
+[06:32:10]   [25/30] Veterinarians Little Rock
+[06:32:14]     → skip: no_data
+[06:32:14]     → skip: no_data
+[06:32:14]   [26/30] Plant Jobs, Employment in Louisville, KY
+[06:32:14]   [26/30] Plant Jobs, Employment in Louisville, KY
+[06:32:14]     → skip: no_domain
+[06:32:14]     → skip: no_domain
+[06:32:14]   [27/30] How to Find Ecommerce Store Owners Emails and
+[06:32:14]   [27/30] How to Find Ecommerce Store Owners Emails and
+[06:32:14]     → skip: no_mx:blog.datacaptive.com
+[06:32:14]     → skip: no_mx:blog.datacaptive.com
+[06:32:15]   [28/30] HVAC, Plumbing, & Electrical Services in Brad
+[06:32:15]   [28/30] HVAC, Plumbing, & Electrical Services in Brad
+[06:32:17]     → skip: no_data
+[06:32:17]     → skip: no_data
+[06:32:18]   [29/30] Palm Coast Electrical Services
+[06:32:18]   [29/30] Palm Coast Electrical Services
+[06:32:25]     → skip: no_data
+[06:32:25]     → skip: no_data
+[06:32:25]   [30/30] Self-Storage Units Regency, Arlington, Hidden
+[06:32:25]   [30/30] Self-Storage Units Regency, Arlington, Hidden
+[06:32:25]     → skip: no_mx:merrillroadstorage.com
+[06:32:25]     → skip: no_mx:merrillroadstorage.com
+[06:32:25] 
+============================================================
+[06:32:25] 
+============================================================
+[06:32:25] ENRICHMENT COMPLETE
+[06:32:25] ENRICHMENT COMPLETE
+[06:32:25]   Batch: 4 enriched / 30 processed
+[06:32:25]   Batch: 4 enriched / 30 processed
+[06:32:25]   Found on site: 4 | Pattern guess: 0
+[06:32:25]   Found on site: 4 | Pattern guess: 0
+[06:32:25]   SMTP verified: 0 | Names found: 0
+[06:32:25]   SMTP verified: 0 | Names found: 0
+[06:32:25]   Database: 16534 total, 2671 with email, 19 named contacts
+[06:32:25]   Database: 16534 total, 2671 with email, 19 named contacts
+[06:32:25]   Quality: 2588 personal (96%) / 83 generic
+[06:32:25]   Quality: 2588 personal (96%) / 83 generic
+[06:32:25]   Cost: $0 (zero API calls)
+[06:32:25]   Cost: $0 (zero API calls)
+[06:32:25] ============================================================
+[06:32:25] ============================================================
+[08:30:01] ============================================================
+[08:30:01] ============================================================
+[08:30:01] LEAD ENRICHER v4 — batch: 30
+[08:30:01] LEAD ENRICHER v4 — batch: 30
+[08:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[08:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[08:30:01] Brave API: OFF (saving money)
+[08:30:01] Brave API: OFF (saving money)
+[08:30:01] ============================================================
+[08:30:01] ============================================================
+[08:30:01] Found 30 leads to process
+[08:30:01] Found 30 leads to process
+[08:30:01]   [1/30] Roofing Services in Daytona Beach, FL
+[08:30:01]   [1/30] Roofing Services in Daytona Beach, FL
+[08:30:07]     → skip: no_data
+[08:30:07]     → skip: no_data
+[08:30:08]   [2/30] Contact Ghansham Singh, Email: g***@columbia.
+[08:30:08]   [2/30] Contact Ghansham Singh, Email: g***@columbia.
+[08:30:08]     → skip: no_domain
+[08:30:08]     → skip: no_domain
+[08:30:08]   [3/30] Fire Station 2
+[08:30:08]   [3/30] Fire Station 2
+[08:30:11]     → skip: no_data
+[08:30:11]     → skip: no_data
+[08:30:11]   [4/30] Cage Brewing
+[08:30:11]   [4/30] Cage Brewing
+[08:30:16]     → skip: no_data
+[08:30:16]     → skip: no_data
+[08:30:16]   [5/30] Meet the Team
+[08:30:16]   [5/30] Meet the Team
+[08:30:23]     → skip: no_data
+[08:30:23]     → skip: no_data
+[08:30:23]   [6/30] Dock Levelers
+[08:30:23]   [6/30] Dock Levelers
+[08:30:31]     → skip: no_data
+[08:30:31]     → skip: no_data
+[08:30:31]   [7/30] Furnace Repair
+[08:30:31]   [7/30] Furnace Repair
+[08:30:35]     → skip: no_data
+[08:30:35]     → skip: no_data
+[08:30:35]   [8/30] 6929 103rd Street Car Wash in Jacksonville, F
+[08:30:35]   [8/30] 6929 103rd Street Car Wash in Jacksonville, F
+[08:30:41]     → skip: no_data
+[08:30:41]     → skip: no_data
+[08:30:41]   [9/30] Coffee
+[08:30:41]   [9/30] Coffee
+[08:30:43]     → skip: no_data
+[08:30:43]     → skip: no_data
+[08:30:43]   [10/30] Cosmo &
+[08:30:43]   [10/30] Cosmo &
+[08:30:48]     [✓ SMTP] vincent@cosmoandcompany.com (Vincent Didomenico)
+[08:30:48]     [✓ SMTP] vincent@cosmoandcompany.com (Vincent Didomenico)
+[08:30:48]   [11/30] Hardwood Flooring Pompano Beach
+[08:30:48]   [11/30] Hardwood Flooring Pompano Beach
+[08:30:54]     → skip: no_data
+[08:30:54]     → skip: no_data
+[08:30:54]   [12/30] Detrick's Car Wash at Dick Pond Road
+[08:30:54]   [12/30] Detrick's Car Wash at Dick Pond Road
+[08:31:20]     → skip: no_data
+[08:31:20]     → skip: no_data
+[08:31:20]   [13/30] Pensacola, FL Industrial & Warehouse Spaces f
+[08:31:20]   [13/30] Pensacola, FL Industrial & Warehouse Spaces f
+[08:31:21]     → skip: no_data
+[08:31:21]     → skip: no_data
+[08:31:21]   [14/30] Dr. Sandeep V. Patel DDS & Dr. Darshan Patel 
+[08:31:21]   [14/30] Dr. Sandeep V. Patel DDS & Dr. Darshan Patel 
+[08:31:24]     → skip: no_data
+[08:31:24]     → skip: no_data
+[08:31:24]   [15/30] Plumber Sarasota FL
+[08:31:24]   [15/30] Plumber Sarasota FL
+[08:31:29]     → skip: no_data
+[08:31:29]     → skip: no_data
+[08:31:30]   [16/30] Detail by Entity Name
+[08:31:30]   [16/30] Detail by Entity Name
+[08:31:30]     → skip: no_mx:search.sunbiz.org
+[08:31:30]     → skip: no_mx:search.sunbiz.org
+[08:31:30]   [17/30] HCA FLORIDA OCALA HOSPITAL Facility Profile
+[08:31:30]   [17/30] HCA FLORIDA OCALA HOSPITAL Facility Profile
+[08:31:32]     → skip: no_data
+[08:31:32]     → skip: no_data
+[08:31:32]   [18/30] Broward Health Medical Center
+[08:31:32]   [18/30] Broward Health Medical Center
+[08:31:33]     → skip: no_data
+[08:31:33]     → skip: no_data
+[08:31:33]   [19/30] Tile Installation in Augusta, GA
+[08:31:33]   [19/30] Tile Installation in Augusta, GA
+[08:31:35]     → skip: no_data
+[08:31:35]     → skip: no_data
+[08:31:35]   [20/30] Treasure Coast Senior Living Communities
+[08:31:35]   [20/30] Treasure Coast Senior Living Communities
+[08:31:40]     → skip: no_data
+[08:31:40]     → skip: no_data
+[08:31:40]   [21/30] Dock & Door
+[08:31:40]   [21/30] Dock & Door
+[08:31:49]     → skip: no_data
+[08:31:49]     → skip: no_data
+[08:31:49]   [22/30] 8280 Industrial Pl, Alpharetta, GA 30004
+[08:31:49]   [22/30] 8280 Industrial Pl, Alpharetta, GA 30004
+[08:31:50]     → skip: no_data
+[08:31:50]     → skip: no_data
+[08:31:50]   [23/30] Sickies Garage Kissimmee – 7640 W Irlo Bronso
+[08:31:50]   [23/30] Sickies Garage Kissimmee – 7640 W Irlo Bronso
+[08:31:54]     → skip: no_data
+[08:31:54]     → skip: no_data
+[08:31:54]   [24/30] Flooring Installation & Carpeting Installatio
+[08:31:54]   [24/30] Flooring Installation & Carpeting Installatio
+[08:32:00]     → skip: no_data
+[08:32:00]     → skip: no_data
+[08:32:00]   [25/30] Gutter Installation & Downspout Services
+[08:32:00]   [25/30] Gutter Installation & Downspout Services
+[08:32:04]     → skip: no_data
+[08:32:04]     → skip: no_data
+[08:32:05]   [26/30] Boca Raton Painting Contractor
+[08:32:05]   [26/30] Boca Raton Painting Contractor
+[08:32:17]     → skip: no_data
+[08:32:17]     → skip: no_data
+[08:32:17]   [27/30] Tile Contractor of Fort Myers
+[08:32:17]   [27/30] Tile Contractor of Fort Myers
+[08:32:32]     [★ FOUND] joey@distinctivetilemarble.com
+[08:32:32]     [★ FOUND] joey@distinctivetilemarble.com
+[08:32:32]   [28/30] Vero Beach, FL Professional Business Director
+[08:32:32]   [28/30] Vero Beach, FL Professional Business Director
+[08:32:40]     → skip: no_data
+[08:32:40]     → skip: no_data
+[08:32:40]   [29/30] Manatee Memorial Hospital
+[08:32:40]   [29/30] Manatee Memorial Hospital
+[08:32:46]     → skip: no_data
+[08:32:46]     → skip: no_data
+[08:32:46]   [30/30] Best Coffee in Port St. Lucie, Florida
+[08:32:46]   [30/30] Best Coffee in Port St. Lucie, Florida
+[08:32:51]     → skip: no_data
+[08:32:51]     → skip: no_data
+[08:32:52] 
+============================================================
+[08:32:52] 
+============================================================
+[08:32:52] ENRICHMENT COMPLETE
+[08:32:52] ENRICHMENT COMPLETE
+[08:32:52]   Batch: 2 enriched / 30 processed
+[08:32:52]   Batch: 2 enriched / 30 processed
+[08:32:52]   Found on site: 1 | Pattern guess: 1
+[08:32:52]   Found on site: 1 | Pattern guess: 1
+[08:32:52]   SMTP verified: 1 | Names found: 1
+[08:32:52]   SMTP verified: 1 | Names found: 1
+[08:32:52]   Database: 16662 total, 2687 with email, 30 named contacts
+[08:32:52]   Database: 16662 total, 2687 with email, 30 named contacts
+[08:32:52]   Quality: 1591 personal (59%) / 1096 generic
+[08:32:52]   Quality: 1591 personal (59%) / 1096 generic
+[08:32:52]   Cost: $0 (zero API calls)
+[08:32:52]   Cost: $0 (zero API calls)
+[08:32:52] ============================================================
+[08:32:52] ============================================================
+[10:30:02] ============================================================
+[10:30:02] ============================================================
+[10:30:02] LEAD ENRICHER v4 — batch: 30
+[10:30:02] LEAD ENRICHER v4 — batch: 30
+[10:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[10:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[10:30:02] Brave API: OFF (saving money)
+[10:30:02] Brave API: OFF (saving money)
+[10:30:02] ============================================================
+[10:30:02] ============================================================
+[10:30:02] Found 30 leads to process
+[10:30:02] Found 30 leads to process
+[10:30:02]   [1/30] Bonita Springs Restaurants 2025
+[10:30:02]   [1/30] Bonita Springs Restaurants 2025
+[10:30:10]     → skip: no_data
+[10:30:10]     → skip: no_data
+[10:30:10]   [2/30] Capitol Carpet & Tile and Window Fashions
+[10:30:10]   [2/30] Capitol Carpet & Tile and Window Fashions
+[10:30:11]     → skip: no_data
+[10:30:11]     → skip: no_data
+[10:30:11]   [3/30] Homestead Medical Facilities
+[10:30:11]   [3/30] Homestead Medical Facilities
+[10:30:18]     → skip: no_data
+[10:30:18]     → skip: no_data
+[10:30:18]   [4/30] Cold Storage & Warehouse Locations in Florida
+[10:30:18]   [4/30] Cold Storage & Warehouse Locations in Florida
+[10:30:21]     → skip: no_data
+[10:30:21]     → skip: no_data
+[10:30:21]   [5/30] JACOB COMPANIES: WE BUILD!
+[10:30:21]   [5/30] JACOB COMPANIES: WE BUILD!
+[10:30:22]     → skip: no_data
+[10:30:22]     → skip: no_data
+[10:30:22]   [6/30] Kitchen Remodel Tampa FL
+[10:30:22]   [6/30] Kitchen Remodel Tampa FL
+[10:30:30]     → skip: no_data
+[10:30:30]     → skip: no_data
+[10:30:30]   [7/30] Staff Directory • Fire Department
+[10:30:30]   [7/30] Staff Directory • Fire Department
+[10:31:01]     → skip: no_data
+[10:31:01]     → skip: no_data
+[10:31:01]   [8/30] Palm Beach Concrete : Concrete Contractor
+[10:31:01]   [8/30] Palm Beach Concrete : Concrete Contractor
+[10:31:04]     → skip: no_data
+[10:31:04]     → skip: no_data
+[10:31:04]   [9/30] THE Top 10 Daycares in Fort Pierce, FL
+[10:31:04]   [9/30] THE Top 10 Daycares in Fort Pierce, FL
+[10:31:09]     [★ FOUND] denys.chesanovskyi@care.com
+[10:31:09]     [★ FOUND] denys.chesanovskyi@care.com
+[10:31:10]   [10/30] Hardwood Flooring Installation Service in Pen
+[10:31:10]   [10/30] Hardwood Flooring Installation Service in Pen
+[10:31:10]     → skip: no_mx:jonathansflooring.com
+[10:31:10]     → skip: no_mx:jonathansflooring.com
+[10:31:10]   [11/30] Station 12
+[10:31:10]   [11/30] Station 12
+[10:31:14]     → skip: no_data
+[10:31:14]     → skip: no_data
+[10:31:14]   [12/30] 有在upwork或freelancer等接过单的吗？有本职工作，每天只有1小时接 …
+[10:31:14]   [12/30] 有在upwork或freelancer等接过单的吗？有本职工作，每天只有1小时接 …
+[10:31:18]     [★ FOUND] 2d8d764432cc4f6fb3bc78ab9528299d@crash2.zhihu.com
+[10:31:18]     [★ FOUND] 2d8d764432cc4f6fb3bc78ab9528299d@crash2.zhihu.com
+[10:31:18]   [13/30] Toyota Dealerships
+[10:31:18]   [13/30] Toyota Dealerships
+[10:31:23]     → skip: no_data
+[10:31:23]     → skip: no_data
+[10:31:24]   [14/30] Step One Buick GMC Pensacola
+[10:31:24]   [14/30] Step One Buick GMC Pensacola
+[10:31:24]     → skip: no_mx:buickgmcpensacola.com
+[10:31:24]     → skip: no_mx:buickgmcpensacola.com
+[10:31:24]   [15/30] Enliven Spa & Salon
+[10:31:24]   [15/30] Enliven Spa & Salon
+[10:31:28]     → skip: no_data
+[10:31:28]     → skip: no_data
+[10:31:28]   [16/30] Concrete Work Services
+[10:31:28]   [16/30] Concrete Work Services
+[10:31:28]     → skip: no_mx:southwestbuilders.net
+[10:31:28]     → skip: no_mx:southwestbuilders.net
+[10:31:29]   [17/30] Pompano Beach Medical Facilities
+[10:31:29]   [17/30] Pompano Beach Medical Facilities
+[10:31:36]     → skip: no_data
+[10:31:36]     → skip: no_data
+[10:31:36]   [18/30] LTAC Specialty Hospital of Sarasota, FL
+[10:31:36]   [18/30] LTAC Specialty Hospital of Sarasota, FL
+[10:31:42]     [~ guess] tony@pamhealth.com (Tony Misitano)
+[10:31:42]     [~ guess] tony@pamhealth.com (Tony Misitano)
+[10:31:42]   [19/30] Silver Coin Laundry
+[10:31:42]   [19/30] Silver Coin Laundry
+[10:31:42]     → skip: no_domain
+[10:31:42]     → skip: no_domain
+[10:31:42]   [20/30] Specialized Property Management Orlando
+[10:31:42]   [20/30] Specialized Property Management Orlando
+[10:31:42]     → skip: no_mx:specializedpropertymanagementorlando.com
+[10:31:42]     → skip: no_mx:specializedpropertymanagementorlando.com
+[10:31:42]   [21/30] Eric Minnick's Concrete – Fort Myers and Cape
+[10:31:42]   [21/30] Eric Minnick's Concrete – Fort Myers and Cape
+[10:31:45]     [★ FOUND] eric@ericminnicksconcrete.com
+[10:31:45]     [★ FOUND] eric@ericminnicksconcrete.com
+[10:31:45]   [22/30] Electrical Services
+[10:31:45]   [22/30] Electrical Services
+[10:31:49]     → skip: no_data
+[10:31:49]     → skip: no_data
+[10:31:49]   [23/30] Dentist in Hollywood, FL
+[10:31:49]   [23/30] Dentist in Hollywood, FL
+[10:31:52]     → skip: no_data
+[10:31:52]     → skip: no_data
+[10:31:52]   [24/30] Five Star Painting of the Treasure Coast
+[10:31:52]   [24/30] Five Star Painting of the Treasure Coast
+[10:31:55]     → skip: no_data
+[10:31:55]     → skip: no_data
+[10:31:55]   [25/30] Contact Us
+[10:31:55]   [25/30] Contact Us
+[10:31:59]     [~ guess] chad@richmanpropertyservices.com (Chad Wood)
+[10:31:59]     [~ guess] chad@richmanpropertyservices.com (Chad Wood)
+[10:31:59]   [26/30] Office Space
+[10:31:59]   [26/30] Office Space
+[10:31:59]     → skip: no_mx:600thackerofficesfl.com
+[10:31:59]     → skip: no_mx:600thackerofficesfl.com
+[10:32:00]   [27/30] Painter in Melbourne Painting Contractor
+[10:32:00]   [27/30] Painter in Melbourne Painting Contractor
+[10:32:12]     [★ FOUND] paul@peckdrywallandpainting.com
+[10:32:12]     [★ FOUND] paul@peckdrywallandpainting.com
+[10:32:12]   [28/30] Resort Management: Employee Directory
+[10:32:12]   [28/30] Resort Management: Employee Directory
+[10:32:12]     → skip: no_domain
+[10:32:12]     → skip: no_domain
+[10:32:12]   [29/30] Contact Us
+[10:32:12]   [29/30] Contact Us
+[10:32:20]     [~ guess] bill@nfmplumbing.com (Bill Edinger)
+[10:32:20]     [~ guess] bill@nfmplumbing.com (Bill Edinger)
+[10:32:20]   [30/30] Dependable Painting & Improvements,.
+[10:32:20]   [30/30] Dependable Painting & Improvements,.
+[10:32:20]     → skip: no_mx:dependablepaintingnc.com
+[10:32:20]     → skip: no_mx:dependablepaintingnc.com
+[10:32:20] 
+============================================================
+[10:32:20] 
+============================================================
+[10:32:20] ENRICHMENT COMPLETE
+[10:32:20] ENRICHMENT COMPLETE
+[10:32:20]   Batch: 7 enriched / 30 processed
+[10:32:20]   Batch: 7 enriched / 30 processed
+[10:32:20]   Found on site: 4 | Pattern guess: 3
+[10:32:20]   Found on site: 4 | Pattern guess: 3
+[10:32:20]   SMTP verified: 0 | Names found: 3
+[10:32:20]   SMTP verified: 0 | Names found: 3
+[10:32:20]   Database: 16898 total, 2693 with email, 33 named contacts
+[10:32:20]   Database: 16898 total, 2693 with email, 33 named contacts
+[10:32:20]   Quality: 1520 personal (56%) / 1173 generic
+[10:32:20]   Quality: 1520 personal (56%) / 1173 generic
+[10:32:20]   Cost: $0 (zero API calls)
+[10:32:20]   Cost: $0 (zero API calls)
+[10:32:20] ============================================================
+[10:32:20] ============================================================
+[12:30:01] ============================================================
+[12:30:01] ============================================================
+[12:30:01] LEAD ENRICHER v4 — batch: 30
+[12:30:01] LEAD ENRICHER v4 — batch: 30
+[12:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[12:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[12:30:01] Brave API: OFF (saving money)
+[12:30:01] Brave API: OFF (saving money)
+[12:30:01] ============================================================
+[12:30:01] ============================================================
+[12:30:01] Found 30 leads to process
+[12:30:01] Found 30 leads to process
+[12:30:01]   [1/30] Big Mike’s Handyman Service
+[12:30:01]   [1/30] Big Mike’s Handyman Service
+[12:30:02]     → skip: no_mx:bigmikeshandymanservicepalmbay.com
+[12:30:02]     → skip: no_mx:bigmikeshandymanservicepalmbay.com
+[12:30:02]   [2/30] Ryan Tomm's email & phone number
+[12:30:02]   [2/30] Ryan Tomm's email & phone number
+[12:30:06]     → skip: no_data
+[12:30:06]     → skip: no_data
+[12:30:06]   [3/30] Orlando Seamless Gutters
+[12:30:06]   [3/30] Orlando Seamless Gutters
+[12:30:07]     → skip: no_mx:imperialseamlessgutters.com
+[12:30:07]     → skip: no_mx:imperialseamlessgutters.com
+[12:30:07]   [4/30] Jupiter FL Renovation Remodeling Interior Des
+[12:30:07]   [4/30] Jupiter FL Renovation Remodeling Interior Des
+[12:30:08]     → skip: no_data
+[12:30:08]     → skip: no_data
+[12:30:08]   [5/30] Staff Directory
+[12:30:08]   [5/30] Staff Directory
+[12:30:09]     → skip: no_data
+[12:30:09]     → skip: no_data
+[12:30:10]   [6/30] Martin County Catastrophic Injuries Law Firm 
+[12:30:10]   [6/30] Martin County Catastrophic Injuries Law Firm 
+[12:30:21]     → skip: no_data
+[12:30:21]     → skip: no_data
+[12:30:21]   [7/30] Quality Flooring and Installation in St. Pete
+[12:30:21]   [7/30] Quality Flooring and Installation in St. Pete
+[12:30:27]     → skip: no_data
+[12:30:27]     → skip: no_data
+[12:30:27]   [8/30] KinderCare Daycares & Child Care Centers in J
+[12:30:27]   [8/30] KinderCare Daycares & Child Care Centers in J
+[12:30:30]     [★ FOUND] care@kindercare.com
+[12:30:30]     [★ FOUND] care@kindercare.com
+[12:30:30]   [9/30] Concrete Contractor Expertise in Homestead, F
+[12:30:30]   [9/30] Concrete Contractor Expertise in Homestead, F
+[12:30:34]     → skip: no_data
+[12:30:34]     → skip: no_data
+[12:30:35]   [10/30] Florida Warehouse Locations
+[12:30:35]   [10/30] Florida Warehouse Locations
+[12:30:42]     [✓ SMTP] rsibila@peoplesservices.com (Raymond Sibila)
+[12:30:42]     [✓ SMTP] rsibila@peoplesservices.com (Raymond Sibila)
+[12:30:42]   [11/30] Contact Kevin Henault, Email: ****@acwarehous
+[12:30:42]   [11/30] Contact Kevin Henault, Email: ****@acwarehous
+[12:30:42]     → skip: no_domain
+[12:30:42]     → skip: no_domain
+[12:30:43]   [12/30] Gulf Coast Periodontics & Implants
+[12:30:43]   [12/30] Gulf Coast Periodontics & Implants
+[12:30:48]     → skip: no_data
+[12:30:48]     → skip: no_data
+[12:30:49]   [13/30] Air Conditioning, AC Service
+[12:30:49]   [13/30] Air Conditioning, AC Service
+[12:31:19]     → skip: no_data
+[12:31:19]     → skip: no_data
+[12:31:19]   [14/30] Church in North Stuart, FL
+[12:31:19]   [14/30] Church in North Stuart, FL
+[12:31:25]     → skip: no_data
+[12:31:25]     → skip: no_data
+[12:31:25]   [15/30] Best Realtors in Southwest Florida
+[12:31:25]   [15/30] Best Realtors in Southwest Florida
+[12:31:27]     → skip: no_data
+[12:31:27]     → skip: no_data
+[12:31:27]   [16/30] Skunkworts®
+[12:31:27]   [16/30] Skunkworts®
+[12:31:30]     → skip: no_data
+[12:31:30]     → skip: no_data
+[12:31:30]   [17/30] Plumbing Services
+[12:31:30]   [17/30] Plumbing Services
+[12:31:37]     → skip: no_data
+[12:31:37]     → skip: no_data
+[12:31:37]   [18/30] Contact us – Plumber Durham NC
+[12:31:37]   [18/30] Contact us – Plumber Durham NC
+[12:31:44]     → skip: no_data
+[12:31:44]     → skip: no_data
+[12:31:44]   [19/30] Contact
+[12:31:44]   [19/30] Contact
+[12:31:55]     → skip: no_data
+[12:31:55]     → skip: no_data
+[12:31:55]   [20/30] Hardwood Services
+[12:31:55]   [20/30] Hardwood Services
+[12:31:55]     → skip: no_mx:carpetsbyfivefourtreasurecoast.com
+[12:31:55]     → skip: no_mx:carpetsbyfivefourtreasurecoast.com
+[12:31:55]   [21/30] Mobile, AL Nationwide Trucking for Intermodal
+[12:31:55]   [21/30] Mobile, AL Nationwide Trucking for Intermodal
+[12:32:00]     → skip: no_data
+[12:32:00]     → skip: no_data
+[12:32:00]   [22/30] HOA Management in Asheville, NC
+[12:32:00]   [22/30] HOA Management in Asheville, NC
+[12:32:06]     [★ FOUND] hoa@wmdouglas.com
+[12:32:06]     [★ FOUND] hoa@wmdouglas.com
+[12:32:07]   [23/30] Best Roofers in Homestead, FL
+[12:32:07]   [23/30] Best Roofers in Homestead, FL
+[12:32:08]     → skip: no_data
+[12:32:08]     → skip: no_data
+[12:32:08]   [24/30] Home
+[12:32:08]   [24/30] Home
+[12:32:08]     → skip: no_mx:lopezqualityconcrete.com
+[12:32:08]     → skip: no_mx:lopezqualityconcrete.com
+[12:32:08]   [25/30] Contact Us At Our Broward County FL Restauran
+[12:32:08]   [25/30] Contact Us At Our Broward County FL Restauran
+[12:32:10]     → skip: no_data
+[12:32:10]     → skip: no_data
+[12:32:10]   [26/30] Roofing contractor in Tallahassee Florida spe
+[12:32:10]   [26/30] Roofing contractor in Tallahassee Florida spe
+[12:32:22]     → skip: no_data
+[12:32:22]     → skip: no_data
+[12:32:23]   [27/30] Hialeah Gardens Garage Door Repair
+[12:32:23]   [27/30] Hialeah Gardens Garage Door Repair
+[12:32:29]     → skip: no_data
+[12:32:29]     → skip: no_data
+[12:32:30]   [28/30] Professional Bathroom Remodeling In Naples, F
+[12:32:30]   [28/30] Professional Bathroom Remodeling In Naples, F
+[12:32:34]     [★ FOUND] will@nulahomeremodeling.com
+[12:32:34]     [★ FOUND] will@nulahomeremodeling.com
+[12:32:34]   [29/30] Superior Epoxy Florida
+[12:32:34]   [29/30] Superior Epoxy Florida
+[12:32:41]     → skip: no_data
+[12:32:41]     → skip: no_data
+[12:32:41]   [30/30] Contact Us
+[12:32:41]   [30/30] Contact Us
+[12:32:44]     → skip: no_data
+[12:32:44]     → skip: no_data
+[12:32:44] 
+============================================================
+[12:32:44] 
+============================================================
+[12:32:44] ENRICHMENT COMPLETE
+[12:32:44] ENRICHMENT COMPLETE
+[12:32:44]   Batch: 4 enriched / 30 processed
+[12:32:44]   Batch: 4 enriched / 30 processed
+[12:32:44]   Found on site: 3 | Pattern guess: 1
+[12:32:44]   Found on site: 3 | Pattern guess: 1
+[12:32:44]   SMTP verified: 1 | Names found: 1
+[12:32:44]   SMTP verified: 1 | Names found: 1
+[12:32:44]   Database: 17216 total, 2709 with email, 45 named contacts
+[12:32:44]   Database: 17216 total, 2709 with email, 45 named contacts
+[12:32:44]   Quality: 1551 personal (57%) / 1158 generic
+[12:32:44]   Quality: 1551 personal (57%) / 1158 generic
+[12:32:44]   Cost: $0 (zero API calls)
+[12:32:44]   Cost: $0 (zero API calls)
+[12:32:44] ============================================================
+[12:32:44] ============================================================
+[14:30:02] ============================================================
+[14:30:02] ============================================================
+[14:30:02] LEAD ENRICHER v4 — batch: 30
+[14:30:02] LEAD ENRICHER v4 — batch: 30
+[14:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[14:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[14:30:02] Brave API: OFF (saving money)
+[14:30:02] Brave API: OFF (saving money)
+[14:30:02] ============================================================
+[14:30:02] ============================================================
+[14:30:02] Found 30 leads to process
+[14:30:02] Found 30 leads to process
+[14:30:02]   [1/30] Town Directory • Fire Rescue
+[14:30:02]   [1/30] Town Directory • Fire Rescue
+[14:30:33]     → skip: no_data
+[14:30:33]     → skip: no_data
+[14:30:33]   [2/30] Grand Bohemian Lodge Greenville
+[14:30:33]   [2/30] Grand Bohemian Lodge Greenville
+[14:30:38]     → skip: no_data
+[14:30:38]     → skip: no_data
+[14:30:38]   [3/30] McGregor Baptist Church in Fort Myers, FL
+[14:30:38]   [3/30] McGregor Baptist Church in Fort Myers, FL
+[14:30:47]     → skip: no_data
+[14:30:47]     → skip: no_data
+[14:30:47]   [4/30] The Best Assisted Living Facilities in Port S
+[14:30:47]   [4/30] The Best Assisted Living Facilities in Port S
+[14:30:51]     → skip: no_data
+[14:30:51]     → skip: no_data
+[14:30:51]   [5/30] Fire Station Locations
+[14:30:51]   [5/30] Fire Station Locations
+[14:30:51]     → skip: no_mx:apps.ocfl.net
+[14:30:51]     → skip: no_mx:apps.ocfl.net
+[14:30:51]   [6/30] Dottie's Auto Spa
+[14:30:51]   [6/30] Dottie's Auto Spa
+[14:30:54]     → skip: no_data
+[14:30:54]     → skip: no_data
+[14:30:55]   [7/30] Top Rated Greenville Veterinarian
+[14:30:55]   [7/30] Top Rated Greenville Veterinarian
+[14:30:58]     [★ FOUND] staff@haywoodroadvet.com
+[14:30:58]     [★ FOUND] staff@haywoodroadvet.com
+[14:30:59]   [8/30] Warehouses for Sale in Hialeah, FL
+[14:30:59]   [8/30] Warehouses for Sale in Hialeah, FL
+[14:31:01]     → skip: no_data
+[14:31:01]     → skip: no_data
+[14:31:01]   [9/30] Hospitals in Miami Dade County
+[14:31:01]   [9/30] Hospitals in Miami Dade County
+[14:31:02]     → skip: no_data
+[14:31:02]     → skip: no_data
+[14:31:03]   [10/30] 10 Best Hong Kong Hotels, Hong Kong (From US$
+[14:31:03]   [10/30] 10 Best Hong Kong Hotels, Hong Kong (From US$
+[14:31:10]     → skip: no_data
+[14:31:10]     → skip: no_data
+[14:31:11]   [11/30] General Contractor Kissimmee
+[14:31:11]   [11/30] General Contractor Kissimmee
+[14:31:11]     → skip: no_mx:tekconstructiongroup.com
+[14:31:11]     → skip: no_mx:tekconstructiongroup.com
+[14:31:11]   [12/30] Welcome
+[14:31:11]   [12/30] Welcome
+[14:31:16]     [~ guess] troy@jetscapefbo.com (Troy Is)
+[14:31:16]     [~ guess] troy@jetscapefbo.com (Troy Is)
+[14:31:16]   [13/30] Jupiter’s Best Self Storage Units
+[14:31:16]   [13/30] Jupiter’s Best Self Storage Units
+[14:31:16]     → skip: no_mx:centerparkstorage.com
+[14:31:16]     → skip: no_mx:centerparkstorage.com
+[14:31:16]   [14/30] Fltplan
+[14:31:16]   [14/30] Fltplan
+[14:31:18]     → skip: no_data
+[14:31:18]     → skip: no_data
+[14:31:18]   [15/30] Palm Bay Painting Services
+[14:31:18]   [15/30] Palm Bay Painting Services
+[14:31:22]     → skip: no_data
+[14:31:22]     → skip: no_data
+[14:31:22]   [16/30] Neptune Cold Storage
+[14:31:22]   [16/30] Neptune Cold Storage
+[14:31:23]     [★ FOUND] carlost@neptunecoldstorage.com (Carl Ost)
+[14:31:23]     [★ FOUND] carlost@neptunecoldstorage.com (Carl Ost)
+[14:31:24]   [17/30] For Sale: Small Animal Veterinary Clinic
+[14:31:24]   [17/30] For Sale: Small Animal Veterinary Clinic
+[14:31:24]     → skip: no_data
+[14:31:24]     → skip: no_data
+[14:31:24]   [18/30] South Carolina Restaurant and Lodging Associa
+[14:31:24]   [18/30] South Carolina Restaurant and Lodging Associa
+[14:31:30]     → skip: no_data
+[14:31:30]     → skip: no_data
+[14:31:30]   [19/30] Axxeum
+[14:31:30]   [19/30] Axxeum
+[14:31:34]     → skip: no_data
+[14:31:34]     → skip: no_data
+[14:31:34]   [20/30] Residential
+[14:31:34]   [20/30] Residential
+[14:31:43]     → skip: no_data
+[14:31:43]     → skip: no_data
+[14:31:43]   [21/30] Clearwater FL Business Brokers
+[14:31:43]   [21/30] Clearwater FL Business Brokers
+[14:31:52]     → skip: no_data
+[14:31:52]     → skip: no_data
+[14:31:53]   [22/30] Own Your Own Franchise
+[14:31:53]   [22/30] Own Your Own Franchise
+[14:31:55]     → skip: no_data
+[14:31:55]     → skip: no_data
+[14:31:55]   [23/30] Home
+[14:31:55]   [23/30] Home
+[14:32:01]     → skip: no_data
+[14:32:01]     → skip: no_data
+[14:32:01]   [24/30] City Manager's Office
+[14:32:01]   [24/30] City Manager's Office
+[14:32:02]     → skip: no_data
+[14:32:02]     → skip: no_data
+[14:32:02]   [25/30] Shop ALDI Grocery Store Pompano Beach, FL
+[14:32:02]   [25/30] Shop ALDI Grocery Store Pompano Beach, FL
+[14:32:10]     → skip: no_data
+[14:32:10]     → skip: no_data
+[14:32:10]   [26/30] Contact Us
+[14:32:10]   [26/30] Contact Us
+[14:32:19]     → skip: no_data
+[14:32:19]     → skip: no_data
+[14:32:20]   [27/30] Domino's Pizza
+[14:32:20]   [27/30] Domino's Pizza
+[14:32:21]     → skip: no_data
+[14:32:21]     → skip: no_data
+[14:32:21]   [28/30] Contact – Your Home Discount Warehouse
+[14:32:21]   [28/30] Contact – Your Home Discount Warehouse
+[14:32:25]     → skip: no_data
+[14:32:25]     → skip: no_data
+[14:32:25]   [29/30] Meadows Painting
+[14:32:25]   [29/30] Meadows Painting
+[14:32:26]     → skip: no_data
+[14:32:26]     → skip: no_data
+[14:32:26]   [30/30] Quality Inn and Suites by the Lake
+[14:32:26]   [30/30] Quality Inn and Suites by the Lake
+[14:32:26]     → skip: no_mx:qualitybythelake.com
+[14:32:26]     → skip: no_mx:qualitybythelake.com
+[14:32:27] 
+============================================================
+[14:32:27] 
+============================================================
+[14:32:27] ENRICHMENT COMPLETE
+[14:32:27] ENRICHMENT COMPLETE
+[14:32:27]   Batch: 3 enriched / 30 processed
+[14:32:27]   Batch: 3 enriched / 30 processed
+[14:32:27]   Found on site: 2 | Pattern guess: 1
+[14:32:27]   Found on site: 2 | Pattern guess: 1
+[14:32:27]   SMTP verified: 0 | Names found: 2
+[14:32:27]   SMTP verified: 0 | Names found: 2
+[14:32:27]   Database: 17388 total, 2712 with email, 47 named contacts
+[14:32:27]   Database: 17388 total, 2712 with email, 47 named contacts
+[14:32:27]   Quality: 2532 personal (93%) / 180 generic
+[14:32:27]   Quality: 2532 personal (93%) / 180 generic
+[14:32:27]   Cost: $0 (zero API calls)
+[14:32:27]   Cost: $0 (zero API calls)
+[14:32:27] ============================================================
+[14:32:27] ============================================================
+[16:30:02] ============================================================
+[16:30:02] ============================================================
+[16:30:02] LEAD ENRICHER v4 — batch: 30
+[16:30:02] LEAD ENRICHER v4 — batch: 30
+[16:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[16:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[16:30:02] Brave API: OFF (saving money)
+[16:30:02] Brave API: OFF (saving money)
+[16:30:02] ============================================================
+[16:30:02] ============================================================
+[16:30:02] Found 30 leads to process
+[16:30:02] Found 30 leads to process
+[16:30:02]   [1/30] CONTRACTOR FOR HIRE PERMITS, GENERAL WORK,DOO
+[16:30:02]   [1/30] CONTRACTOR FOR HIRE PERMITS, GENERAL WORK,DOO
+[16:30:02]     → skip: no_domain
+[16:30:02]     → skip: no_domain
+[16:30:02]   [2/30] Franchising – Papa's Tapas
+[16:30:02]   [2/30] Franchising – Papa's Tapas
+[16:30:08]     → skip: no_data
+[16:30:08]     → skip: no_data
+[16:30:08]   [3/30] General Contractor
+[16:30:08]   [3/30] General Contractor
+[16:30:11]     → skip: no_data
+[16:30:11]     → skip: no_data
+[16:30:11]   [4/30] The Church At Asheville
+[16:30:11]   [4/30] The Church At Asheville
+[16:30:42]     → skip: no_data
+[16:30:42]     → skip: no_data
+[16:30:42]   [5/30] Hospital/Medical Center Near Me in Nashville,
+[16:30:42]   [5/30] Hospital/Medical Center Near Me in Nashville,
+[16:30:45]     → skip: no_data
+[16:30:45]     → skip: no_data
+[16:30:46]   [6/30] Florida Car Collection
+[16:30:46]   [6/30] Florida Car Collection
+[16:30:46]     → skip: no_mx:flcarcollection.com
+[16:30:46]     → skip: no_mx:flcarcollection.com
+[16:30:46]   [7/30] Top-rated Electrician Orlando, FL
+[16:30:46]   [7/30] Top-rated Electrician Orlando, FL
+[16:30:51]     → skip: no_data
+[16:30:51]     → skip: no_data
+[16:30:52]   [8/30] YLaundry
+[16:30:52]   [8/30] YLaundry
+[16:30:53]     → skip: no_data
+[16:30:53]     → skip: no_data
+[16:30:53]   [9/30] Clearwater Bathroom Renovations
+[16:30:53]   [9/30] Clearwater Bathroom Renovations
+[16:31:00]     → skip: no_data
+[16:31:00]     → skip: no_data
+[16:31:00]   [10/30] Manufacturing Companies in Hialeah, Florida
+[16:31:00]   [10/30] Manufacturing Companies in Hialeah, Florida
+[16:31:03]     → skip: no_data
+[16:31:03]     → skip: no_data
+[16:31:03]   [11/30] School District Virtual Contact Information
+[16:31:03]   [11/30] School District Virtual Contact Information
+[16:31:06]     [★ FOUND] commissioner@fldoe.org
+[16:31:06]     [★ FOUND] commissioner@fldoe.org
+[16:31:07]   [12/30] NWAelite Property Management |
+[16:31:07]   [12/30] NWAelite Property Management |
+[16:31:07]     → skip: no_mx:nwaelitepropertymanagement.com
+[16:31:07]     → skip: no_mx:nwaelitepropertymanagement.com
+[16:31:07]   [13/30] Commercial Properties For Sale, Lease & Rent
+[16:31:07]   [13/30] Commercial Properties For Sale, Lease & Rent
+[16:31:11]     [★ FOUND] tcreed@beaubox.com
+[16:31:11]     [★ FOUND] tcreed@beaubox.com
+[16:31:11]   [14/30] Bradenton HVAC & Electrical Services
+[16:31:11]   [14/30] Bradenton HVAC & Electrical Services
+[16:31:11]     → skip: no_mx:anthonysairconditioning.com
+[16:31:11]     → skip: no_mx:anthonysairconditioning.com
+[16:31:11]   [15/30] Education
+[16:31:11]   [15/30] Education
+[16:31:12]     → skip: no_data
+[16:31:12]     → skip: no_data
+[16:31:12]   [16/30] School Information for Pompano Beach, FL: Wei
+[16:31:12]   [16/30] School Information for Pompano Beach, FL: Wei
+[16:31:15]     → skip: no_data
+[16:31:15]     → skip: no_data
+[16:31:15]   [17/30] Tile Repair in Orlando, FL​: Hire a professio
+[16:31:15]   [17/30] Tile Repair in Orlando, FL​: Hire a professio
+[16:31:24]     → skip: no_data
+[16:31:24]     → skip: no_data
+[16:31:24]   [18/30] RTP Concrete
+[16:31:24]   [18/30] RTP Concrete
+[16:31:50]     → skip: no_data
+[16:31:50]     → skip: no_data
+[16:31:50]   [19/30] Belmont Church
+[16:31:50]   [19/30] Belmont Church
+[16:31:53]     [★ FOUND] danw@belmont.org
+[16:31:53]     [★ FOUND] danw@belmont.org
+[16:31:54]   [20/30] PBS General Contractors, Naples FL
+[16:31:54]   [20/30] PBS General Contractors, Naples FL
+[16:31:55]     → skip: no_data
+[16:31:55]     → skip: no_data
+[16:31:55]   [21/30] General Contractor in Fort Myers, Florida
+[16:31:55]   [21/30] General Contractor in Fort Myers, Florida
+[16:31:56]     → skip: no_data
+[16:31:56]     → skip: no_data
+[16:31:56]   [22/30] Hangars Available
+[16:31:56]   [22/30] Hangars Available
+[16:32:01]     → skip: no_data
+[16:32:01]     → skip: no_data
+[16:32:01]   [23/30] Pensacola Athletic Center – 24-Hour Gym + Fit
+[16:32:01]   [23/30] Pensacola Athletic Center – 24-Hour Gym + Fit
+[16:32:04]     → skip: no_data
+[16:32:04]     → skip: no_data
+[16:32:04]   [24/30] About St. Anthony's Hospital
+[16:32:04]   [24/30] About St. Anthony's Hospital
+[16:32:12]     [~ guess] stephanie@baycare.org (Stephanie Conners)
+[16:32:12]     [~ guess] stephanie@baycare.org (Stephanie Conners)
+[16:32:12]   [25/30] World's Most Famous Brewery Brewpub
+[16:32:12]   [25/30] World's Most Famous Brewery Brewpub
+[16:32:17]     [~ guess] ray@beermenus.com (Ray Daniels)
+[16:32:17]     [~ guess] ray@beermenus.com (Ray Daniels)
+[16:32:17]   [26/30] Local Dentist Office in Orlando FL
+[16:32:17]   [26/30] Local Dentist Office in Orlando FL
+[16:32:19]     → skip: no_data
+[16:32:19]     → skip: no_data
+[16:32:19]   [27/30] Contact
+[16:32:19]   [27/30] Contact
+[16:32:29]     → skip: no_data
+[16:32:29]     → skip: no_data
+[16:32:29]   [28/30] Find General Contractors in Gainesville, FL
+[16:32:29]   [28/30] Find General Contractors in Gainesville, FL
+[16:32:34]     → skip: no_data
+[16:32:34]     → skip: no_data
+[16:32:34]   [29/30] City Car – Car Dealer in Nashville, TN
+[16:32:34]   [29/30] City Car – Car Dealer in Nashville, TN
+[16:33:05]     → skip: no_data
+[16:33:05]     → skip: no_data
+[16:33:05]   [30/30] Remodeling Contractors in Palm Coast, Florida
+[16:33:05]   [30/30] Remodeling Contractors in Palm Coast, Florida
+[16:33:08]     → skip: no_data
+[16:33:08]     → skip: no_data
+[16:33:08] 
+============================================================
+[16:33:08] 
+============================================================
+[16:33:08] ENRICHMENT COMPLETE
+[16:33:08] ENRICHMENT COMPLETE
+[16:33:08]   Batch: 5 enriched / 30 processed
+[16:33:08]   Batch: 5 enriched / 30 processed
+[16:33:08]   Found on site: 3 | Pattern guess: 2
+[16:33:08]   Found on site: 3 | Pattern guess: 2
+[16:33:08]   SMTP verified: 0 | Names found: 2
+[16:33:08]   SMTP verified: 0 | Names found: 2
+[16:33:08]   Database: 17652 total, 2728 with email, 54 named contacts
+[16:33:08]   Database: 17652 total, 2728 with email, 54 named contacts
+[16:33:08]   Quality: 2556 personal (93%) / 172 generic
+[16:33:08]   Quality: 2556 personal (93%) / 172 generic
+[16:33:08]   Cost: $0 (zero API calls)
+[16:33:08]   Cost: $0 (zero API calls)
+[16:33:08] ============================================================
+[16:33:08] ============================================================
+[18:30:01] ============================================================
+[18:30:01] ============================================================
+[18:30:01] LEAD ENRICHER v4 — batch: 30
+[18:30:01] LEAD ENRICHER v4 — batch: 30
+[18:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[18:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[18:30:01] Brave API: OFF (saving money)
+[18:30:01] Brave API: OFF (saving money)
+[18:30:01] ============================================================
+[18:30:01] ============================================================
+[18:30:01] Found 30 leads to process
+[18:30:01] Found 30 leads to process
+[18:30:01]   [1/30] 20 Best kennel manager jobs in florida (Hirin
+[18:30:01]   [1/30] 20 Best kennel manager jobs in florida (Hirin
+[18:30:02]     → skip: no_data
+[18:30:02]     → skip: no_data
+[18:30:02]   [2/30] Jacksonville.gov
+[18:30:02]   [2/30] Jacksonville.gov
+[18:30:05]     → skip: no_data
+[18:30:05]     → skip: no_data
+[18:30:05]   [3/30] Find Verified Profiles by Industry & Location
+[18:30:05]   [3/30] Find Verified Profiles by Industry & Location
+[18:30:05]     → skip: no_domain
+[18:30:05]     → skip: no_domain
+[18:30:05]   [4/30] Appointments
+[18:30:05]   [4/30] Appointments
+[18:30:30]     → skip: no_data
+[18:30:30]     → skip: no_data
+[18:30:30]   [5/30] Oceanside Veterinary Clinic
+[18:30:30]   [5/30] Oceanside Veterinary Clinic
+[18:30:55]     [~ guess] ryan@oceansidevets.com (Ryan Gipe)
+[18:30:55]     [~ guess] ryan@oceansidevets.com (Ryan Gipe)
+[18:30:55]   [6/30] JDS Home Solutions| Professional Painting Ser
+[18:30:55]   [6/30] JDS Home Solutions| Professional Painting Ser
+[18:31:07]     → skip: no_data
+[18:31:07]     → skip: no_data
+[18:31:08]   [7/30] Home Renovation Specialists
+[18:31:08]   [7/30] Home Renovation Specialists
+[18:31:09]     → skip: no_data
+[18:31:09]     → skip: no_data
+[18:31:09]   [8/30] Hospitals
+[18:31:09]   [8/30] Hospitals
+[18:31:13]     → skip: no_data
+[18:31:13]     → skip: no_data
+[18:31:13]   [9/30] Warehouse Logistics in Florida
+[18:31:13]   [9/30] Warehouse Logistics in Florida
+[18:31:30]     [★ FOUND] jeff@flwarehousing.com
+[18:31:30]     [★ FOUND] jeff@flwarehousing.com
+[18:31:30]   [10/30] EZ Docks Florida
+[18:31:30]   [10/30] EZ Docks Florida
+[18:31:37]     → skip: no_data
+[18:31:37]     → skip: no_data
+[18:31:37]   [11/30] Contact Us
+[18:31:37]   [11/30] Contact Us
+[18:31:43]     → skip: no_data
+[18:31:43]     → skip: no_data
+[18:31:43]   [12/30] CONTACT
+[18:31:43]   [12/30] CONTACT
+[18:31:43]     → skip: no_mx:fgcarwash.com
+[18:31:43]     → skip: no_mx:fgcarwash.com
+[18:31:43]   [13/30] Kyser Property Management,.
+[18:31:43]   [13/30] Kyser Property Management,.
+[18:31:50]     → skip: no_data
+[18:31:50]     → skip: no_data
+[18:31:50]   [14/30] Notice's Automotive Sales & Service Center, L
+[18:31:50]   [14/30] Notice's Automotive Sales & Service Center, L
+[18:31:50]     → skip: no_mx:noticesautomotive.com
+[18:31:50]     → skip: no_mx:noticesautomotive.com
+[18:31:50]   [15/30] Contact
+[18:31:50]   [15/30] Contact
+[18:31:50]     → skip: no_mx:bradentonlaundromat.com
+[18:31:50]     → skip: no_mx:bradentonlaundromat.com
+[18:31:50]   [16/30] North Florida Aviation
+[18:31:50]   [16/30] North Florida Aviation
+[18:31:53]     → skip: no_data
+[18:31:53]     → skip: no_data
+[18:31:53]   [17/30] List of all Car Dealership in Miami, FL
+[18:31:53]   [17/30] List of all Car Dealership in Miami, FL
+[18:31:54]     → skip: no_data
+[18:31:54]     → skip: no_data
+[18:31:54]   [18/30] Contact Us
+[18:31:54]   [18/30] Contact Us
+[18:31:58]     → skip: no_data
+[18:31:58]     → skip: no_data
+[18:31:58]   [19/30] Executive Palace Hotel
+[18:31:58]   [19/30] Executive Palace Hotel
+[18:32:00]     → skip: no_data
+[18:32:00]     → skip: no_data
+[18:32:00]   [20/30] Contact
+[18:32:00]   [20/30] Contact
+[18:32:04]     → skip: no_data
+[18:32:04]     → skip: no_data
+[18:32:04]   [21/30] Gutter Installation Macon
+[18:32:04]   [21/30] Gutter Installation Macon
+[18:32:04]     → skip: no_mx:guttersofmacon.com
+[18:32:04]     → skip: no_mx:guttersofmacon.com
+[18:32:04]   [22/30] HANDYMAN SERVICE CAPE CORAL
+[18:32:04]   [22/30] HANDYMAN SERVICE CAPE CORAL
+[18:32:05]     → skip: no_data
+[18:32:05]     → skip: no_data
+[18:32:05]   [23/30] Hardwood Floor Installation in Columbus, GA
+[18:32:05]   [23/30] Hardwood Floor Installation in Columbus, GA
+[18:32:07]     → skip: no_data
+[18:32:07]     → skip: no_data
+[18:32:07]   [24/30] Contact Us for Cold Storage and Logistics
+[18:32:07]   [24/30] Contact Us for Cold Storage and Logistics
+[18:32:11]     → skip: no_data
+[18:32:11]     → skip: no_data
+[18:32:11]   [25/30] Properties & Business Development
+[18:32:11]   [25/30] Properties & Business Development
+[18:32:15]     → skip: no_data
+[18:32:15]     → skip: no_data
+[18:32:15]   [26/30] Concrete Crew
+[18:32:15]   [26/30] Concrete Crew
+[18:32:19]     → skip: no_data
+[18:32:19]     → skip: no_data
+[18:32:20]   [27/30] Home / Laundry Max
+[18:32:20]   [27/30] Home / Laundry Max
+[18:32:20]     → skip: no_mx:laundrymaxsummerlin.com
+[18:32:20]     → skip: no_mx:laundrymaxsummerlin.com
+[18:32:20]   [28/30] Budget Gutters Palm Bay
+[18:32:20]   [28/30] Budget Gutters Palm Bay
+[18:32:20]     → skip: no_mx:budgetgutters.com
+[18:32:20]     → skip: no_mx:budgetgutters.com
+[18:32:20]   [29/30] Watson Property Management
+[18:32:20]   [29/30] Watson Property Management
+[18:32:23]     → skip: no_data
+[18:32:23]     → skip: no_data
+[18:32:23]   [30/30] Avant-garde Management : Contact
+[18:32:23]   [30/30] Avant-garde Management : Contact
+[18:32:24]     → skip: no_data
+[18:32:24]     → skip: no_data
+[18:32:24] 
+============================================================
+[18:32:24] 
+============================================================
+[18:32:24] ENRICHMENT COMPLETE
+[18:32:24] ENRICHMENT COMPLETE
+[18:32:24]   Batch: 2 enriched / 30 processed
+[18:32:24]   Batch: 2 enriched / 30 processed
+[18:32:24]   Found on site: 1 | Pattern guess: 1
+[18:32:24]   Found on site: 1 | Pattern guess: 1
+[18:32:24]   SMTP verified: 0 | Names found: 1
+[18:32:24]   SMTP verified: 0 | Names found: 1
+[18:32:24]   Database: 17792 total, 2730 with email, 55 named contacts
+[18:32:24]   Database: 17792 total, 2730 with email, 55 named contacts
+[18:32:24]   Quality: 2655 personal (97%) / 75 generic
+[18:32:24]   Quality: 2655 personal (97%) / 75 generic
+[18:32:24]   Cost: $0 (zero API calls)
+[18:32:24]   Cost: $0 (zero API calls)
+[18:32:24] ============================================================
+[18:32:24] ============================================================
+[20:30:01] ============================================================
+[20:30:01] ============================================================
+[20:30:01] LEAD ENRICHER v4 — batch: 30
+[20:30:01] LEAD ENRICHER v4 — batch: 30
+[20:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[20:30:01] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[20:30:01] Brave API: OFF (saving money)
+[20:30:01] Brave API: OFF (saving money)
+[20:30:01] ============================================================
+[20:30:01] ============================================================
+[20:30:01] Found 30 leads to process
+[20:30:01] Found 30 leads to process
+[20:30:01]   [1/30] Contact Information – Cabinet Makers Warehous
+[20:30:01]   [1/30] Contact Information – Cabinet Makers Warehous
+[20:30:03]     → skip: no_data
+[20:30:03]     → skip: no_data
+[20:30:03]   [2/30] Hotel Resort Jobs, Employment in Chattanooga,
+[20:30:03]   [2/30] Hotel Resort Jobs, Employment in Chattanooga,
+[20:30:03]     → skip: no_domain
+[20:30:03]     → skip: no_domain
+[20:30:03]   [3/30] Tile Flooring Information
+[20:30:03]   [3/30] Tile Flooring Information
+[20:30:04]     → skip: no_data
+[20:30:04]     → skip: no_data
+[20:30:04]   [4/30] Strictly Hardwood Flooring, Columbia S.C.
+[20:30:04]   [4/30] Strictly Hardwood Flooring, Columbia S.C.
+[20:30:06]     → skip: no_data
+[20:30:06]     → skip: no_data
+[20:30:06]   [5/30] Home
+[20:30:06]   [5/30] Home
+[20:30:14]     → skip: no_data
+[20:30:14]     → skip: no_data
+[20:30:14]   [6/30] Contact Us
+[20:30:14]   [6/30] Contact Us
+[20:30:21]     → skip: no_data
+[20:30:21]     → skip: no_data
+[20:30:21]   [7/30] Greater Columbus, GA Flooring Specialist
+[20:30:21]   [7/30] Greater Columbus, GA Flooring Specialist
+[20:30:28]     [★ FOUND] jmendoza@ssandmore.net (Jason Was)
+[20:30:28]     [★ FOUND] jmendoza@ssandmore.net (Jason Was)
+[20:30:28]   [8/30] The Best Residential General Contractors in C
+[20:30:28]   [8/30] The Best Residential General Contractors in C
+[20:30:33]     → skip: no_data
+[20:30:33]     → skip: no_data
+[20:30:33]   [9/30] Jacksonville International Airport
+[20:30:33]   [9/30] Jacksonville International Airport
+[20:30:59]     → skip: no_data
+[20:30:59]     → skip: no_data
+[20:30:59]   [10/30] QSR & Fast Food Restaurants for Sale in Ocala
+[20:30:59]   [10/30] QSR & Fast Food Restaurants for Sale in Ocala
+[20:31:01]     → skip: no_data
+[20:31:01]     → skip: no_data
+[20:31:01]   [11/30] Ocala Preserve Homeowners Association, Ocala,
+[20:31:01]   [11/30] Ocala Preserve Homeowners Association, Ocala,
+[20:31:01]     → skip: no_mx:florida-hoa.net
+[20:31:01]     → skip: no_mx:florida-hoa.net
+[20:31:01]   [12/30] Contact Controls Warehouse
+[20:31:01]   [12/30] Contact Controls Warehouse
+[20:31:11]     → skip: no_data
+[20:31:11]     → skip: no_data
+[20:31:11]   [13/30] Emergency Plumber
+[20:31:11]   [13/30] Emergency Plumber
+[20:31:11]     → skip: no_mx:premierplumbingpatrol.com
+[20:31:11]     → skip: no_mx:premierplumbingpatrol.com
+[20:31:11]   [14/30] Contact
+[20:31:11]   [14/30] Contact
+[20:31:18]     [★ FOUND] donnacha.dowling@magellangroup.net
+[20:31:18]     [★ FOUND] donnacha.dowling@magellangroup.net
+[20:31:18]   [15/30] Serving Jensen beach, FL - Prestige Remodelin
+[20:31:18]   [15/30] Serving Jensen beach, FL - Prestige Remodelin
+[20:31:18]     → skip: no_mx:prestigeremodelingcontractors.org
+[20:31:18]     → skip: no_mx:prestigeremodelingcontractors.org
+[20:31:19]   [16/30] Palm Beach Gutter
+[20:31:19]   [16/30] Palm Beach Gutter
+[20:31:21]     → skip: no_data
+[20:31:21]     → skip: no_data
+[20:31:21]   [17/30] Stuart Breweries, Wineries, & Distilleries
+[20:31:21]   [17/30] Stuart Breweries, Wineries, & Distilleries
+[20:31:26]     → skip: no_data
+[20:31:26]     → skip: no_data
+[20:31:26]   [18/30] Mattison's
+[20:31:26]   [18/30] Mattison's
+[20:31:32]     [★ FOUND] mattisons_marketing@mattisons.com
+[20:31:32]     [★ FOUND] mattisons_marketing@mattisons.com
+[20:31:32]   [19/30] Home Remodeling Contractors Ocala FL
+[20:31:32]   [19/30] Home Remodeling Contractors Ocala FL
+[20:31:40]     [★ FOUND] %20info@remodelingcontractorsocala.com
+[20:31:40]     [★ FOUND] %20info@remodelingcontractorsocala.com
+[20:31:41]   [20/30] But First. Coffee Shop
+[20:31:41]   [20/30] But First. Coffee Shop
+[20:31:41]     → skip: no_mx:butfirstcoffeeshop.com
+[20:31:41]     → skip: no_mx:butfirstcoffeeshop.com
+[20:31:41]   [21/30] Coastal Property Management – Stuart & Jupite
+[20:31:41]   [21/30] Coastal Property Management – Stuart & Jupite
+[20:32:18]     → skip: no_data
+[20:32:18]     → skip: no_data
+[20:32:18]   [22/30] Chevrolet Used Cars for Sale
+[20:32:18]   [22/30] Chevrolet Used Cars for Sale
+[20:32:20]     → skip: no_data
+[20:32:20]     → skip: no_data
+[20:32:20]   [23/30] Las Olas
+[20:32:20]   [23/30] Las Olas
+[20:32:29]     → skip: no_data
+[20:32:29]     → skip: no_data
+[20:32:29]   [24/30] Bathroom Remodeling in Clearwater FL
+[20:32:29]   [24/30] Bathroom Remodeling in Clearwater FL
+[20:32:29]     → skip: no_data
+[20:32:29]     → skip: no_data
+[20:32:29]   [25/30] Expert House Painters in Cape Coral, FL
+[20:32:29]   [25/30] Expert House Painters in Cape Coral, FL
+[20:32:29]     → skip: no_mx:paintingcapecoral.com
+[20:32:29]     → skip: no_mx:paintingcapecoral.com
+[20:32:30]   [26/30] The 10 Best Bathroom Remodelers in Hialeah, F
+[20:32:30]   [26/30] The 10 Best Bathroom Remodelers in Hialeah, F
+[20:32:33]     → skip: no_data
+[20:32:33]     → skip: no_data
+[20:32:33]   [27/30] Cabinet Maker Huntsville, AL
+[20:32:33]   [27/30] Cabinet Maker Huntsville, AL
+[20:32:43]     → skip: no_data
+[20:32:43]     → skip: no_data
+[20:32:43]   [28/30] Advanced Manufacturing Jacksonville
+[20:32:43]   [28/30] Advanced Manufacturing Jacksonville
+[20:32:55]     [★ FOUND] jfreeman@jaxusa.org
+[20:32:55]     [★ FOUND] jfreeman@jaxusa.org
+[20:32:55]   [29/30] Wallpaper Warehouse, Bradenton, FL, 5700 Mana
+[20:32:55]   [29/30] Wallpaper Warehouse, Bradenton, FL, 5700 Mana
+[20:33:02]     → skip: no_data
+[20:33:02]     → skip: no_data
+[20:33:02]   [30/30] Seamless Gutter Installation Knoxville TN
+[20:33:02]   [30/30] Seamless Gutter Installation Knoxville TN
+[20:33:13]     → skip: no_data
+[20:33:13]     → skip: no_data
+[20:33:13] 
+============================================================
+[20:33:13] 
+============================================================
+[20:33:13] ENRICHMENT COMPLETE
+[20:33:13] ENRICHMENT COMPLETE
+[20:33:13]   Batch: 5 enriched / 30 processed
+[20:33:13]   Batch: 5 enriched / 30 processed
+[20:33:13]   Found on site: 5 | Pattern guess: 0
+[20:33:13]   Found on site: 5 | Pattern guess: 0
+[20:33:13]   SMTP verified: 0 | Names found: 1
+[20:33:13]   SMTP verified: 0 | Names found: 1
+[20:33:13]   Database: 18037 total, 2748 with email, 58 named contacts
+[20:33:13]   Database: 18037 total, 2748 with email, 58 named contacts
+[20:33:13]   Quality: 2560 personal (93%) / 188 generic
+[20:33:13]   Quality: 2560 personal (93%) / 188 generic
+[20:33:13]   Cost: $0 (zero API calls)
+[20:33:13]   Cost: $0 (zero API calls)
+[20:33:13] ============================================================
+[20:33:13] ============================================================
+[22:30:02] ============================================================
+[22:30:02] ============================================================
+[22:30:02] LEAD ENRICHER v4 — batch: 30
+[22:30:02] LEAD ENRICHER v4 — batch: 30
+[22:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[22:30:02] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[22:30:02] Brave API: OFF (saving money)
+[22:30:02] Brave API: OFF (saving money)
+[22:30:02] ============================================================
+[22:30:02] ============================================================
+[22:30:02] Found 30 leads to process
+[22:30:02] Found 30 leads to process
+[22:30:02]   [1/30] Kissimmee Electrical Services
+[22:30:02]   [1/30] Kissimmee Electrical Services
+[22:30:07]     → skip: no_data
+[22:30:07]     → skip: no_data
+[22:30:07]   [2/30] Staff Directory
+[22:30:07]   [2/30] Staff Directory
+[22:30:38]     → skip: no_data
+[22:30:38]     → skip: no_data
+[22:30:38]   [3/30] pond yacht plans
+[22:30:38]   [3/30] pond yacht plans
+[22:30:39]     → skip: no_data
+[22:30:39]     → skip: no_data
+[22:30:39]   [4/30] Phoenix Manufacturing – Port of Memphis
+[22:30:39]   [4/30] Phoenix Manufacturing – Port of Memphis
+[22:30:45]     → skip: no_data
+[22:30:45]     → skip: no_data
+[22:30:45]   [5/30] facilities manager jobs in port saint lucie, 
+[22:30:45]   [5/30] facilities manager jobs in port saint lucie, 
+[22:30:45]     → skip: no_data
+[22:30:45]     → skip: no_data
+[22:30:45]   [6/30] Emerald Coast Family Dentistry
+[22:30:45]   [6/30] Emerald Coast Family Dentistry
+[22:30:48]     [★ FOUND] dmd@emeraldcoastfamilydentistry.com
+[22:30:48]     [★ FOUND] dmd@emeraldcoastfamilydentistry.com
+[22:30:48]   [7/30] Columbia Property Management, Columbia Proper
+[22:30:48]   [7/30] Columbia Property Management, Columbia Proper
+[22:30:48]     → skip: no_mx:livelovesc.com
+[22:30:48]     → skip: no_mx:livelovesc.com
+[22:30:48]   [8/30] Central Florida Property Management, Communit
+[22:30:48]   [8/30] Central Florida Property Management, Communit
+[22:30:54]     [✓ SMTP] fsurface@vestapropertyservices.com (Frank Surface)
+[22:30:54]     [✓ SMTP] fsurface@vestapropertyservices.com (Frank Surface)
+[22:30:55]   [9/30] Privacy Policy
+[22:30:55]   [9/30] Privacy Policy
+[22:30:58]     → skip: no_data
+[22:30:58]     → skip: no_data
+[22:30:58]   [10/30] SCS Cabinets
+[22:30:58]   [10/30] SCS Cabinets
+[22:31:05]     [★ FOUND] order@scscabinets.com
+[22:31:05]     [★ FOUND] order@scscabinets.com
+[22:31:05]   [11/30] Help?
+[22:31:05]   [11/30] Help?
+[22:31:09]     [★ FOUND] infoline@greenville.k12.sc.us
+[22:31:09]     [★ FOUND] infoline@greenville.k12.sc.us
+[22:31:09]   [12/30] 20 Best tile installer jobs in florida (Hirin
+[22:31:09]   [12/30] 20 Best tile installer jobs in florida (Hirin
+[22:31:10]     → skip: no_data
+[22:31:10]     → skip: no_data
+[22:31:10]   [13/30] Lyon Head Dock & Door
+[22:31:10]   [13/30] Lyon Head Dock & Door
+[22:31:11]     → skip: no_data
+[22:31:11]     → skip: no_data
+[22:31:11]   [14/30] HOA Management Florida
+[22:31:11]   [14/30] HOA Management Florida
+[22:31:20]     → skip: no_data
+[22:31:20]     → skip: no_data
+[22:31:20]   [15/30] RPM GENERAL CONTRACTORS, INC.
+[22:31:20]   [15/30] RPM GENERAL CONTRACTORS, INC.
+[22:31:23]     [★ FOUND] kristen@rpmgc.com
+[22:31:23]     [★ FOUND] kristen@rpmgc.com
+[22:31:23]   [16/30] Nashville's Top Contractor
+[22:31:23]   [16/30] Nashville's Top Contractor
+[22:31:27]     → skip: no_data
+[22:31:27]     → skip: no_data
+[22:31:27]   [17/30] Luxury Hotels • The View Casino Resorts • Gul
+[22:31:27]   [17/30] Luxury Hotels • The View Casino Resorts • Gul
+[22:31:28]     → skip: no_data
+[22:31:28]     → skip: no_data
+[22:31:28]   [18/30] Chattanooga, TN, Self-Storage Units Near 1105
+[22:31:28]   [18/30] Chattanooga, TN, Self-Storage Units Near 1105
+[22:31:33]     → skip: no_data
+[22:31:33]     → skip: no_data
+[22:31:33]   [19/30] Fire Stations
+[22:31:33]   [19/30] Fire Stations
+[22:31:34]     → skip: no_data
+[22:31:34]     → skip: no_data
+[22:31:34]   [20/30] Local Dentist Office in Boca Raton FL
+[22:31:34]   [20/30] Local Dentist Office in Boca Raton FL
+[22:31:37]     → skip: no_data
+[22:31:37]     → skip: no_data
+[22:31:37]   [21/30] Arazoza Brothers Corp
+[22:31:37]   [21/30] Arazoza Brothers Corp
+[22:31:37]     → skip: no_domain
+[22:31:37]     → skip: no_domain
+[22:31:37]   [22/30] Belle Shops Village Shops
+[22:31:37]   [22/30] Belle Shops Village Shops
+[22:31:39]     → skip: no_data
+[22:31:39]     → skip: no_data
+[22:31:39]   [23/30] Contact Information
+[22:31:39]   [23/30] Contact Information
+[22:31:47]     [~ guess] matt@pompanobeachfl.gov (Matt Janes)
+[22:31:47]     [~ guess] matt@pompanobeachfl.gov (Matt Janes)
+[22:31:47]   [24/30] Contact Us
+[22:31:47]   [24/30] Contact Us
+[22:31:50]     → skip: no_data
+[22:31:50]     → skip: no_data
+[22:31:50]   [25/30] Go-To Palm Bay Plumber
+[22:31:50]   [25/30] Go-To Palm Bay Plumber
+[22:31:53]     [✓ SMTP] paul@paultheplumberfl.com (Paul Nencetty)
+[22:31:53]     [✓ SMTP] paul@paultheplumberfl.com (Paul Nencetty)
+[22:31:53]   [26/30] Glenn's Touchless Car Wash
+[22:31:53]   [26/30] Glenn's Touchless Car Wash
+[22:31:53]     → skip: no_mx:glennscarwash.com
+[22:31:53]     → skip: no_mx:glennscarwash.com
+[22:31:53]   [27/30] Palm Coast Gutters
+[22:31:53]   [27/30] Palm Coast Gutters
+[22:31:55]     → skip: no_data
+[22:31:55]     → skip: no_data
+[22:31:55]   [28/30] Grace Baptist Church
+[22:31:55]   [28/30] Grace Baptist Church
+[22:31:58]     → skip: no_data
+[22:31:58]     → skip: no_data
+[22:31:58]   [29/30] Vero Beach Firefighter Association
+[22:31:58]   [29/30] Vero Beach Firefighter Association
+[22:32:01]     → skip: no_data
+[22:32:01]     → skip: no_data
+[22:32:01]   [30/30] Kitchen Remodel Cape Coral
+[22:32:01]   [30/30] Kitchen Remodel Cape Coral
+[22:32:10]     → skip: no_data
+[22:32:10]     → skip: no_data
+[22:32:10] 
+============================================================
+[22:32:10] 
+============================================================
+[22:32:10] ENRICHMENT COMPLETE
+[22:32:10] ENRICHMENT COMPLETE
+[22:32:10]   Batch: 7 enriched / 30 processed
+[22:32:10]   Batch: 7 enriched / 30 processed
+[22:32:10]   Found on site: 4 | Pattern guess: 3
+[22:32:10]   Found on site: 4 | Pattern guess: 3
+[22:32:10]   SMTP verified: 2 | Names found: 3
+[22:32:10]   SMTP verified: 2 | Names found: 3
+[22:32:10]   Database: 18169 total, 2755 with email, 61 named contacts
+[22:32:10]   Database: 18169 total, 2755 with email, 61 named contacts
+[22:32:10]   Quality: 1631 personal (59%) / 1124 generic
+[22:32:10]   Quality: 1631 personal (59%) / 1124 generic
+[22:32:10]   Cost: $0 (zero API calls)
+[22:32:10]   Cost: $0 (zero API calls)
+[22:32:10] ============================================================
+[22:32:10] ============================================================

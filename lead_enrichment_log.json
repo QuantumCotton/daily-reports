@@ -1,0 +1,290 @@
+[
+  {
+    "lead_id": 3,
+    "timestamp": "2026-02-14T23:04:05.311092",
+    "original_email": "info@floridapm.net",
+    "enriched_emails": [
+      "you.could@floridapm.net",
+      "open@floridapm.net",
+      "treasure.coast@floridapm.net",
+      "palm.city@floridapm.net",
+      "managementlogo@floridapm.net"
+    ],
+    "decision_makers": [
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      }
+    ],
+    "company_info": "The trusted choice for Stuart Property Management.South Florida Realty Management",
+    "team_research": 753,
+    "quality_score": 84,
+    "status": "completed"
+  },
+  {
+    "lead_id": 3,
+    "timestamp": "2026-02-14T23:04:16.013434",
+    "original_email": "info@floridapm.net",
+    "enriched_emails": [
+      "you.could@floridapm.net",
+      "open@floridapm.net",
+      "treasure.coast@floridapm.net",
+      "palm.city@floridapm.net",
+      "managementlogo@floridapm.net"
+    ],
+    "decision_makers": [
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      }
+    ],
+    "company_info": "The trusted choice for Stuart Property Management.South Florida Realty Management",
+    "team_research": 753,
+    "quality_score": 84,
+    "status": "completed"
+  },
+  {
+    "lead_id": 3,
+    "timestamp": "2026-02-14T23:04:26.914675",
+    "original_email": "info@floridapm.net",
+    "enriched_emails": [
+      "you.could@floridapm.net",
+      "open@floridapm.net",
+      "treasure.coast@floridapm.net",
+      "palm.city@floridapm.net",
+      "managementlogo@floridapm.net"
+    ],
+    "decision_makers": [
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      }
+    ],
+    "company_info": "The trusted choice for Stuart Property Management.South Florida Realty Management",
+    "team_research": 753,
+    "quality_score": 84,
+    "status": "completed"
+  },
+  {
+    "lead_id": 3,
+    "timestamp": "2026-02-14T23:04:37.480618",
+    "original_email": "info@floridapm.net",
+    "enriched_emails": [
+      "you.could@floridapm.net",
+      "open@floridapm.net",
+      "treasure.coast@floridapm.net",
+      "palm.city@floridapm.net",
+      "managementlogo@floridapm.net"
+    ],
+    "decision_makers": [
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      }
+    ],
+    "company_info": "The trusted choice for Stuart Property Management.South Florida Realty Management",
+    "team_research": 753,
+    "quality_score": 84,
+    "status": "completed"
+  },
+  {
+    "lead_id": 3,
+    "timestamp": "2026-02-14T23:04:49.690068",
+    "original_email": "info@floridapm.net",
+    "enriched_emails": [
+      "resident.application@floridapm.net",
+      "youcould@floridapm.net",
+      "ownerfaqs@floridapm.net",
+      "googletag@floridapm.net",
+      "available@floridapm.net"
+    ],
+    "decision_makers": [
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      }
+    ],
+    "company_info": "The trusted choice for Stuart Property Management.South Florida Realty Management",
+    "team_research": 753,
+    "quality_score": 84,
+    "status": "completed"
+  },
+  {
+    "lead_id": 3,
+    "timestamp": "2026-02-14T23:05:00.403991",
+    "original_email": "info@floridapm.net",
+    "enriched_emails": [
+      "resident.application@floridapm.net",
+      "youcould@floridapm.net",
+      "ownerfaqs@floridapm.net",
+      "googletag@floridapm.net",
+      "available@floridapm.net"
+    ],
+    "decision_makers": [
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      },
+      {
+        "name": "Stuart Property",
+        "title": "Stuart Property Managers",
+        "decision_maker": true,
+        "email_guess": [
+          "stuart.property@floridapm.net",
+          "stuartproperty@floridapm.net",
+          "stuart@floridapm.net"
+        ]
+      }
+    ],
+    "company_info": "The trusted choice for Stuart Property Management.South Florida Realty Management",
+    "team_research": 753,
+    "quality_score": 84,
+    "status": "completed"
+  }
+]

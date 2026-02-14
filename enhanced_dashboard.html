@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Service Hub - Enhanced Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f0f1f 0%, #1a1a2e 100%);
+            color: #ffffff;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .header {
+            background: rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            padding: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .header h1 {
+            font-size: 24px;
+            font-weight: 300;
+            margin: 0;
+        }
+        
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 100%;
+        }
+        
+        .panel {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+            resize: both;
+            min-height: 300px;
+        }
+        
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            cursor: move;
+        }
+        
+        .panel-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #4fc3f7;
+        }
+        
+        .panel-controls {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .control-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+            padding: 8px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            transition: all 0.3s ease;
+        }
+        
+        .control-btn:hover {
+            background: rgba(79, 195, 247, 0.2);
+            transform: scale(1.05);
+        }
+        
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        
+        .data-table th {
+            background: rgba(79, 195, 247, 0.1);
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+            border-bottom: 2px solid rgba(79, 195, 247, 0.3);
+            cursor: pointer;
+            user-select: none;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        .data-table th:hover {
+            background: rgba(79, 195, 247, 0.2);
+        }
+        
+        .data-table td {
+            padding: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            transition: background 0.3s ease;
+        }
+        
+        .data-table tr:hover td {
+            background: rgba(79, 195, 247, 0.05);
+        }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .metric-card {
+            background: rgba(255, 255, 255, 0.03);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .metric-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: #4fc3f7;
+            margin-bottom: 5px;
+        }
+        
+        .metric-label {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+        }
+        
+        .sortable-icon::after {
+            content: ' ↕';
+            font-size: 12px;
+            margin-left: 5px;
+        }
+        
+        .filter-bar {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .filter-input {
+            flex: 1;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+            padding: 10px 15px;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            margin-left: 5px;
+        }
+        
+        .status-online { background: #10b981; }
+        .status-busy { background: #f59e0b; }
+        .status-error { background: #ef4444; }
+        .status-offline { background: #6b7280; }
+        
+        @media (max-width: 768px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+            
+            .metrics-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 Elite Service Hub Dashboard</h1>
+        <p style="opacity: 0.8; margin: 0;">Real-time lead generation, email platform, and contractor management</p>
+    </div>
+
+    <div class="filter-bar">
+        <input type="text" class="filter-input" placeholder="🔍 Search leads, contractors, or metrics..." id="searchInput">
+        <select class="filter-input" id="regionFilter">
+            <option value="">All Regions</option>
+            <option value="FL">Florida</option>
+            <option value="TX">Texas</option>
+            <option value="GA">Georgia</option>
+            <option value="NC">North Carolina</option>
+        </select>
+        <select class="filter-input" id="statusFilter">
+            <option value="">All Status</option>
+            <option value="verified">Verified Only</option>
+            <option value="pending">Pending Only</option>
+            <option value="approved">Approved Only</option>
+        </select>
+    </div>
+
+    <div class="dashboard-grid">
+        <!-- Lead Generation Panel -->
+        <div class="panel" style="grid-column: span 2;">
+            <div class="panel-header">
+                <h3 class="panel-title">📊 Lead Generation</h3>
+                <div class="panel-controls">
+                    <button class="control-btn" onclick="exportLeads()">📥 Export</button>
+                    <button class="control-btn" onclick="refreshLeads()">🔄 Refresh</button>
+                </div>
+            </div>
+            <table class="data-table" id="leadsTable">
+                <thead>
+                    <tr>
+                        <th class="sortable-icon" onclick="sortTable('name')">Name</th>
+                        <th class="sortable-icon" onclick="sortTable('email')">Email</th>
+                        <th class="sortable-icon" onclick="sortTable('status')">Status</th>
+                        <th class="sortable-icon" onclick="sortTable('location')">Location</th>
+                        <th class="sortable-icon" onclick="sortTable('category')">Category</th>
+                        <th class="sortable-icon" onclick="sortTable('date')">Added</th>
+                    </tr>
+                </thead>
+                <tbody id="leadsTableBody">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- ESH Mail Platform Status -->
+        <div class="panel">
+            <div class="panel-header">
+                <h3 class="panel-title">🚀 ESH Mail Platform</h3>
+                <div class="panel-controls">
+                    <button class="control-btn" onclick="launchPlatform()">🚀 Launch</button>
+                    <div class="status-indicator status-busy"></div>
+                </div>
+            </div>
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">2,847</div>
+                    <div class="metric-label">Emails Sent</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">98.2%</div>
+                    <div class="metric-label">Deliverability</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">0</div>
+                    <div class="metric-label">Complaints</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">4.8</div>
+                    <div class="metric-label">Reputation Score</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Agent Swarm Status -->
+        <div class="panel">
+            <div class="panel-header">
+                <h3 class="panel-title">🤖 Agent Swarm</h3>
+                <div class="panel-controls">
+                    <button class="control-btn" onclick="spawnAgent('lead-scout')">➕ Add Agent</button>
+                    <button class="control-btn" onclick="viewAgentLogs()">📋 Logs</button>
+                </div>
+            </div>
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">7</div>
+                    <div class="metric-label">Active Agents</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">142</div>
+                    <div class="metric-label">Tasks Today</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">96%</div>
+                    <div class="metric-label">Success Rate</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">24/7</div>
+                    <div class="metric-label">Uptime</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Regional Performance -->
+        <div class="panel">
+            <div class="panel-header">
+                <h3 class="panel-title">🗺️ Regional Performance</h3>
+                <div class="panel-controls">
+                    <button class="control-btn" onclick="addRegion()">➕ Add Region</button>
+                    <button class="control-btn" onclick="exportRegionReport()">📥 Export</button>
+                </div>
+            </div>
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Region</th>
+                        <th>Leads</th>
+                        <th>Contractors</th>
+                        <th>Conversion</th>
+                        <th>Revenue</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Treasure Coast, FL</strong></td>
+                        <td>2,147</td>
+                        <td>12</td>
+                        <td>$312,450</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Naples, FL</strong></td>
+                        <td>1,892</td>
+                        <td>8</td>
+                        <td>$278,340</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tampa, FL</strong></td>
+                        <td>1,456</td>
+                        <td>15</td>
+                        <td>$412,300</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Sample data (would come from CRM API)
+        const sampleLeads = [
+            {id: 1, name: "Stuart Property Management", email: "contact@example.com", status: "verified", location: "Stuart, FL", category: "Property Management", date: "2026-02-14"},
+            {id: 2, name: "Palm City Auto Dealer", email: "dealer@example.com", status: "pending", location: "Palm City, FL", category: "Auto/Dealership", date: "2026-02-14"},
+            {id: 3, name: "Jensen Beach HOA", email: "hoa@example.com", status: "approved", location: "Jensen Beach, FL", category: "HOA", date: "2026-02-14"},
+            {id: 4, name: "Port St Lucie Restaurant", email: "restaurant@example.com", status: "verified", location: "Port St Lucie, FL", category: "Restaurant/Kitchen", date: "2026-02-14"}
+        ];
+
+        let currentSort = {column: null, direction: 'asc'};
+
+        function renderLeadsTable(leads = sampleLeads) {
+            const tbody = document.getElementById('leadsTableBody');
+            tbody.innerHTML = '';
+            
+            leads.sort((a, b) => {
+                const aVal = a[currentSort.column] || '';
+                const bVal = b[currentSort.column] || '';
+                
+                if (currentSort.direction === 'asc') {
+                    return aVal > bVal ? 1 : -1;
+                } else {
+                    return aVal < bVal ? 1 : -1;
+                }
+            });
+            
+            leads.forEach(lead => {
+                const statusColor = lead.status === 'verified' ? '#10b981' : 
+                                   lead.status === 'approved' ? '#4fc3f7' : '#f59e0b';
+                
+                tbody.innerHTML += `
+                    <tr>
+                        <td>${lead.name}</td>
+                        <td>${lead.email}</td>
+                        <td><span style="color: ${statusColor};">●</span> ${lead.status}</td>
+                        <td>${lead.location}</td>
+                        <td>${lead.category}</td>
+                        <td>${lead.date}</td>
+                    </tr>
+                `;
+            });
+        }
+
+        function sortTable(column) {
+            if (currentSort.column === column) {
+                currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+            } else {
+                currentSort.column = column;
+                currentSort.direction = 'asc';
+            }
+            renderLeadsTable();
+        }
+
+        function exportLeads() {
+            alert('📥 Exporting leads to CSV...');
+            // Implementation would call CRM export API
+        }
+
+        function refreshLeads() {
+            alert('🔄 Refreshing lead data...');
+            // Implementation would call CRM refresh API
+        }
+
+        function launchPlatform() {
+            alert('🚀 Launching ESH Mail platform...');
+            // Implementation would start the email platform
+        }
+
+        function spawnAgent(agentType) {
+            alert(`➕ Spawning new ${agentType} agent...`);
+            // Implementation would call agent spawning system
+        }
+
+        function viewAgentLogs() {
+            alert('📋 Opening agent activity logs...');
+            // Implementation would show detailed logs
+        }
+
+        function addRegion() {
+            alert('➕ Adding new region to track...');
+            // Implementation would add new regional tracking
+        }
+
+        function exportRegionReport() {
+            alert('📥 Exporting regional performance report...');
+            // Implementation would generate regional report
+        }
+
+        function filterTable() {
+            const searchValue = document.getElementById('searchInput').value.toLowerCase();
+            const regionFilter = document.getElementById('regionFilter').value;
+            const statusFilter = document.getElementById('statusFilter').value;
+            
+            // Implementation would filter the table based on these criteria
+            alert(`Filtering by search: "${searchValue}", region: "${regionFilter}", status: "${statusFilter}"`);
+        }
+
+        // Auto-refresh every 30 seconds
+        setInterval(() => {
+            console.log('🔄 Auto-refreshing data...');
+            // Implementation would call refresh APIs
+        }, 30000);
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.ctrlKey && e.key === 'r') refreshLeads();
+            if (e.ctrlKey && e.key === 'e') exportLeads();
+            if (e.ctrlKey && e.key === 'n') spawnAgent('lead-scout');
+        });
+
+        // Initialize table
+        renderLeadsTable();
+        
+        // Filter on input
+        document.getElementById('searchInput').addEventListener('input', filterTable);
+        document.getElementById('regionFilter').addEventListener('change', filterTable);
+        document.getElementById('statusFilter').addEventListener('change', filterTable);
+    </script>
+</body>
+</html>

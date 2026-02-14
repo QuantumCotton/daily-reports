@@ -181,7 +181,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 <div class="header">
     <div>
         <h1>ESH Command Center</h1>
-        <div class="sub">Elite Service Hub — Lead Generation & CRM | Updated 2026-02-13 23:02 UTC</div>
+        <div class="sub">Elite Service Hub — Lead Generation & CRM | Updated 2026-02-14 23:30 UTC</div>
     </div>
     <div style="text-align:right;">
         <div style="color:var(--accent);font-weight:700;">Chris: (772) 777-0622</div>
@@ -17418,9 +17418,7 @@ function sendAllApproved() {
     fetch('/api/queue').then(r=>r.json()).then(q => {
         const count = (q.approved||[]).length;
         if (count === 0) { alert('No leads in the approved queue. Select and approve leads first.'); return; }
-        if (!confirm('SEND ' + count + ' approved leads via Instantly?
-
-This will add them to your Instantly campaign queue.')) return;
+        if (!confirm('SEND ' + count + ' approved leads via Instantly?\n\nThis will add them to your Instantly campaign queue.')) return;
         fetch('/api/send', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},

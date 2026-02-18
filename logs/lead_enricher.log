@@ -14540,3 +14540,275 @@ LINE 4:             WHERE city IN (?, ?, ?, ?, ?, ?, ?, ?)
 [00:31:10]     [★ FOUND] jubao@zhihu.com
 [00:31:10]   [14/300] 44 Mexican Dishes You Can Easily Make at Home
 [00:31:10]   [14/300] 44 Mexican Dishes You Can Easily Make at Home
+[00:31:17]     → skip: no_data
+[00:31:17]     → skip: no_data
+[00:31:17]   [15/300] 法语单词“café（咖啡树）”的发音是 [kafe]还是 [kεfe]？ - 知乎
+[00:31:17]   [15/300] 法语单词“café（咖啡树）”的发音是 [kafe]还是 [kεfe]？ - 知乎
+[00:31:21]     → skip: duplicate
+[00:31:21]     → skip: duplicate
+[00:31:21]   [16/300] A place for those interested in learning Ital
+[00:31:21]   [16/300] A place for those interested in learning Ital
+[00:31:21]     → skip: no_domain
+[00:31:21]     → skip: no_domain
+[00:31:21]   [17/300] Pizza Delivery & Carryout, Pasta, Wings & Mor
+[00:31:21]   [17/300] Pizza Delivery & Carryout, Pasta, Wings & Mor
+[00:31:25]     → skip: no_data
+[00:31:25]     → skip: no_data
+[00:31:26]   [18/300] Memphis Commercial Appeal
+[00:31:26]   [18/300] Memphis Commercial Appeal
+[00:31:28]     → skip: no_data
+[00:31:28]     → skip: no_data
+[00:31:28]   [19/300] Italian swear words? : r/italianlearning - Re
+[00:31:28]   [19/300] Italian swear words? : r/italianlearning - Re
+[00:31:28]     → skip: no_domain
+[00:31:28]     → skip: no_domain
+[00:31:28]   [20/300] Home - Pirates' Grill
+[00:31:28]   [20/300] Home - Pirates' Grill
+[00:31:36]     → skip: no_data
+[00:31:36]     → skip: no_data
+[00:31:36]   [21/300] Bistro - Wikipedia
+[00:31:36]   [21/300] Bistro - Wikipedia
+[00:31:36]     → skip: no_domain
+[00:31:36]     → skip: no_domain
+[00:31:36]   [22/300] Catering Newark NJ - Simply Delicious Caterin
+[00:31:36]   [22/300] Catering Newark NJ - Simply Delicious Caterin
+[00:31:43]     [★ FOUND] amy@simplydeliciouscatering.com
+[00:31:43]     [★ FOUND] amy@simplydeliciouscatering.com
+[00:31:43]   [23/300] Here's the latest on the National Guard ... -
+[00:31:43]   [23/300] Here's the latest on the National Guard ... -
+[00:31:45]     → skip: no_data
+[00:31:45]     → skip: no_data
+[00:31:45]   [24/300] Walmart Custom Cakes
+[00:31:45]   [24/300] Walmart Custom Cakes
+[00:31:45]     → skip: no_domain
+[00:31:45]     → skip: no_domain
+[00:31:45]   [25/300] Sakura Sushi - Sushi Restaurant丨Online Order丨
+[00:31:45]   [25/300] Sakura Sushi - Sushi Restaurant丨Online Order丨
+[00:31:45]     → skip: no_mx:sakurasushiwdm.com
+[00:31:45]     → skip: no_mx:sakurasushiwdm.com
+[00:31:46]   [26/300] coffee shop 与 café 有什么区别？ - 知乎
+[00:31:46]   [26/300] coffee shop 与 café 有什么区别？ - 知乎
+[00:31:49]     [★ FOUND] jubao@zhihu.com
+[00:31:49]     [★ FOUND] jubao@zhihu.com
+[00:31:49]   [27/300] 澳洲的单元房（公寓/Apartment/Unit）值得买吗？ - 知乎
+[00:31:49]   [27/300] 澳洲的单元房（公寓/Apartment/Unit）值得买吗？ - 知乎
+[00:31:53]     → skip: duplicate
+[00:31:53]     → skip: duplicate
+[00:31:53]   [28/300] 英国宿舍类型 apartment、ensuite、single、studio 有什么区别？
+[00:31:53]   [28/300] 英国宿舍类型 apartment、ensuite、single、studio 有什么区别？
+[00:31:57]     [★ FOUND] jubao@zhihu.com
+[00:31:57]     [★ FOUND] jubao@zhihu.com
+[00:31:57]   [29/300] The Commercial Appeal eNewspaper
+[00:31:57]   [29/300] The Commercial Appeal eNewspaper
+[00:31:59]     → skip: no_data
+[00:31:59]     → skip: no_data
+[00:31:59]   [30/300] CRA Investment Program | Martin County Florid
+[00:31:59]   [30/300] CRA Investment Program | Martin County Florid
+[00:32:05]     → skip: duplicate
+[00:32:05]     → skip: duplicate
+[00:32:05]   [31/300] PSM North Expansion Facility
+[00:32:05]   [31/300] PSM North Expansion Facility
+[00:32:07]     → skip: no_data
+[00:32:07]     → skip: no_data
+[00:32:07]   [32/300] One Hour Air Conditioning & Heating
+[00:32:07]   [32/300] One Hour Air Conditioning & Heating
+[00:32:14]     → skip: no_data
+[00:32:14]     → skip: no_data
+[00:32:14]   [33/300] 租房场景中，apartment、house、townhouse 和 unit 有 ... 
+[00:32:14]   [33/300] 租房场景中，apartment、house、townhouse 和 unit 有 ... 
+[00:32:18]     → skip: duplicate
+[00:32:18]     → skip: duplicate
+[00:32:18]   [34/300] FINE | definition in the Cambridge English Di
+[00:32:18]   [34/300] FINE | definition in the Cambridge English Di
+[00:32:18]     → skip: no_mx:dictionary.cambridge.org
+[00:32:18]     → skip: no_mx:dictionary.cambridge.org
+[00:32:18]   [35/300] Fresh Pizza Delivery & Pickup | &pizza Bold O
+[00:32:18]   [35/300] Fresh Pizza Delivery & Pickup | &pizza Bold O
+[00:32:27]     → skip: no_data
+[00:32:27]     → skip: no_data
+[00:32:27]   [36/300] Grills - The Home Depot
+[00:32:27]   [36/300] Grills - The Home Depot
+[00:32:29]     → skip: no_data
+[00:32:29]     → skip: no_data
+[00:32:29]   [37/300] Top 30 Most Popular Mexican Foods- Best Mexic
+[00:32:29]   [37/300] Top 30 Most Popular Mexican Foods- Best Mexic
+[00:32:36]     → skip: no_data
+[00:32:36]     → skip: no_data
+[00:32:37]   [38/300] Seafood | Description, Types, & Preparation |
+[00:32:37]   [38/300] Seafood | Description, Types, & Preparation |
+[00:32:37]     → skip: no_mx:britannica.com
+[00:32:37]     → skip: no_mx:britannica.com
+[00:32:37]   [39/300] 请问美国留学租房house和apartment我应该住哪个？ - 知乎
+[00:32:37]   [39/300] 请问美国留学租房house和apartment我应该住哪个？ - 知乎
+[00:32:40]     → skip: duplicate
+[00:32:40]     → skip: duplicate
+[00:32:41]   [40/300] Bistro - Wikipedia
+[00:32:41]   [40/300] Bistro - Wikipedia
+[00:32:41]     → skip: no_domain
+[00:32:41]     → skip: no_domain
+[00:32:41]   [41/300] List of types of seafood - Wikipedia
+[00:32:41]   [41/300] List of types of seafood - Wikipedia
+[00:32:41]     → skip: no_domain
+[00:32:41]     → skip: no_domain
+[00:32:41]   [42/300] Fine Definition & Meaning | Britannica Dictio
+[00:32:41]   [42/300] Fine Definition & Meaning | Britannica Dictio
+[00:32:41]     → skip: no_mx:britannica.com
+[00:32:41]     → skip: no_mx:britannica.com
+[00:32:41]   [43/300] Pizza Hut | Delivery & Carryout - No One OutP
+[00:32:41]   [43/300] Pizza Hut | Delivery & Carryout - No One OutP
+[00:32:42]     → skip: no_data
+[00:32:42]     → skip: no_data
+[00:32:42]   [44/300] italiancrush50 - Reddit
+[00:32:42]   [44/300] italiancrush50 - Reddit
+[00:32:42]     → skip: no_domain
+[00:32:42]     → skip: no_domain
+[00:32:43]   [45/300] 85C Bakery Cafe | Homepage
+[00:32:43]   [45/300] 85C Bakery Cafe | Homepage
+[00:32:47]     → skip: no_data
+[00:32:47]     → skip: no_data
+[00:32:47]   [46/300] Why do Italians tend to have such a high perc
+[00:32:47]   [46/300] Why do Italians tend to have such a high perc
+[00:32:47]     → skip: no_domain
+[00:32:47]     → skip: no_domain
+[00:32:47]   [47/300] Mexican Food: Top 100 Dishes - TasteAtlas
+[00:32:47]   [47/300] Mexican Food: Top 100 Dishes - TasteAtlas
+[00:32:47]     → skip: no_data
+[00:32:47]     → skip: no_data
+[00:32:47]   [48/300] Memphis Sports - The Commercial Appeal
+[00:32:47]   [48/300] Memphis Sports - The Commercial Appeal
+[00:32:49]     → skip: no_data
+[00:32:49]     → skip: no_data
+[00:32:49]   [49/300] Italian Citizenship through Jure Sanguinis - 
+[00:32:49]   [49/300] Italian Citizenship through Jure Sanguinis - 
+[00:32:49]     → skip: no_domain
+[00:32:49]     → skip: no_domain
+[00:32:49]   [50/300] Bakery | Publix Super Markets
+[00:32:49]   [50/300] Bakery | Publix Super Markets
+[00:32:53]     → skip: no_data
+[00:32:53]     → skip: no_data
+[00:32:54]   [51/300] FINE Definition & Meaning | Dictionary.com
+[00:32:54]   [51/300] FINE Definition & Meaning | Dictionary.com
+[00:32:55]     → skip: no_data
+[00:32:55]     → skip: no_data
+[00:32:56]   [52/300] FINE | definition in the Cambridge English Di
+[00:32:56]   [52/300] FINE | definition in the Cambridge English Di
+[00:32:56]     → skip: no_mx:dictionary.cambridge.org
+[00:32:56]     → skip: no_mx:dictionary.cambridge.org
+[00:32:56]   [53/300] Grills - The Home Depot
+[00:32:56]   [53/300] Grills - The Home Depot
+[00:32:58]     → skip: no_data
+[00:32:58]     → skip: no_data
+[00:32:58]   [54/300] Fine Definition & Meaning | Britannica Dictio
+[00:32:58]   [54/300] Fine Definition & Meaning | Britannica Dictio
+[00:32:58]     → skip: no_mx:britannica.com
+[00:32:58]     → skip: no_mx:britannica.com
+[00:32:58]   [55/300] I Received an Email, Text, or Call from Gemin
+[00:32:58]   [55/300] I Received an Email, Text, or Call from Gemin
+[00:33:02]     → skip: no_data
+[00:33:02]     → skip: no_data
+[00:33:02]   [56/300] Paramount Grill
+[00:33:02]   [56/300] Paramount Grill
+[00:33:02]     → skip: no_mx:paramountgrill.com
+[00:33:02]     → skip: no_mx:paramountgrill.com
+[00:33:02]   [57/300] Bistro | Mrs Browns Tea Rooms
+[00:33:02]   [57/300] Bistro | Mrs Browns Tea Rooms
+[00:33:05]     → skip: no_data
+[00:33:05]     → skip: no_data
+[00:33:05]   [58/300] Costco Stuart Warehouse
+[00:33:05]   [58/300] Costco Stuart Warehouse
+[00:33:06]     → skip: no_data
+[00:33:06]     → skip: no_data
+[00:33:06]   [59/300] Catering - HEB.com
+[00:33:06]   [59/300] Catering - HEB.com
+[00:33:08]     → skip: no_data
+[00:33:08]     → skip: no_data
+[00:33:09]   [60/300] Bakery Outlet Stores - Flowers Foods
+[00:33:09]   [60/300] Bakery Outlet Stores - Flowers Foods
+[00:33:12]     → skip: no_data
+[00:33:12]     → skip: no_data
+[00:33:12]   [61/300] Sushi | Definition, Description, & Facts | Br
+[00:33:12]   [61/300] Sushi | Definition, Description, & Facts | Br
+[00:33:12]     → skip: no_mx:britannica.com
+[00:33:12]     → skip: no_mx:britannica.com
+[00:33:12]   [62/300] Wellness Center
+[00:33:12]   [62/300] Wellness Center
+[00:33:18]     [★ FOUND] g51ed3fc9dc18463eb3e1a22292797bc1@ymcatreasurecoast.org
+[00:33:18]     [★ FOUND] g51ed3fc9dc18463eb3e1a22292797bc1@ymcatreasurecoast.org
+[00:33:18]   [63/300] Chinese languages | History, Characteristics,
+[00:33:18]   [63/300] Chinese languages | History, Characteristics,
+[00:33:18]     → skip: no_mx:britannica.com
+[00:33:18]     → skip: no_mx:britannica.com
+[00:33:19]   [64/300] Fresh Seafood Market & Online Seafood Company
+[00:33:19]   [64/300] Fresh Seafood Market & Online Seafood Company
+[00:33:24]     → skip: no_data
+[00:33:24]     → skip: no_data
+[00:33:25]   [65/300] Akebono 515 – Sushi Bars | Japanese Cuisine
+[00:33:25]   [65/300] Akebono 515 – Sushi Bars | Japanese Cuisine
+[00:33:27]     → skip: no_data
+[00:33:27]     → skip: no_data
+[00:33:27]   [66/300] Fine - Definition, Meaning, and Examples in E
+[00:33:27]   [66/300] Fine - Definition, Meaning, and Examples in E
+[00:33:27]     → skip: no_mx:finesentence.com
+[00:33:27]     → skip: no_mx:finesentence.com
+[00:33:27]   [67/300] FINE | definition in the Cambridge English Di
+[00:33:27]   [67/300] FINE | definition in the Cambridge English Di
+[00:33:28]     → skip: no_mx:dictionary.cambridge.org
+[00:33:28]     → skip: no_mx:dictionary.cambridge.org
+[00:33:28]   [68/300] China - Wikipedia
+[00:33:28]   [68/300] China - Wikipedia
+[00:33:28]     → skip: no_domain
+[00:33:28]     → skip: no_domain
+[00:33:28]   [69/300] Seafood | Costco
+[00:33:28]   [69/300] Seafood | Costco
+[00:33:29]     → skip: no_data
+[00:33:29]     → skip: no_data
+[00:33:29]   [70/300] FINE Definition & Meaning - Merriam-Webster
+[00:33:29]   [70/300] FINE Definition & Meaning - Merriam-Webster
+[00:33:31]     → skip: no_data
+[00:33:31]     → skip: no_data
+[00:33:32]   [71/300] The Commercial Appeal - Memphis Breaking News
+[00:33:32]   [71/300] The Commercial Appeal - Memphis Breaking News
+[00:33:33]     → skip: no_data
+[00:33:33]     → skip: no_data
+[00:33:33]   [72/300] italiancrush50 - Reddit
+[00:33:33]   [72/300] italiancrush50 - Reddit
+[00:33:33]     → skip: no_domain
+[00:33:33]     → skip: no_domain
+[00:33:33]   [73/300] 为什么在英语里，咖啡馆有时被写作「café」？ - 知乎
+[00:33:33]   [73/300] 为什么在英语里，咖啡馆有时被写作「café」？ - 知乎
+[00:33:37]     [★ FOUND] jubao@zhihu.com
+[00:33:37]     [★ FOUND] jubao@zhihu.com
+[00:33:37]   [74/300] Paramount Grill
+[00:33:37]   [74/300] Paramount Grill
+[00:33:37]     → skip: no_mx:paramountgrill.com
+[00:33:37]     → skip: no_mx:paramountgrill.com
+[00:33:38]   [75/300] Linda's La Cantina - Orlando, Florida
+[00:33:38]   [75/300] Linda's La Cantina - Orlando, Florida
+[00:33:39]     → skip: no_data
+[00:33:39]     → skip: no_data
+[00:33:40]   [76/300] Schwerer Dental Care
+[00:33:40]   [76/300] Schwerer Dental Care
+[00:33:42]     → skip: no_data
+[00:33:42]     → skip: no_data
+[00:33:42]   [77/300] Chinese Dictionary: Practice Writing & Charac
+[00:33:42]   [77/300] Chinese Dictionary: Practice Writing & Charac
+[00:33:42]     → skip: no_mx:dictionary.writtenchinese.com
+[00:33:42]     → skip: no_mx:dictionary.writtenchinese.com
+[00:33:42]   [78/300] Locations | Papas Pizza
+[00:33:42]   [78/300] Locations | Papas Pizza
+[00:33:46]     → skip: no_data
+[00:33:46]     → skip: no_data
+[00:33:47]   [79/300] 意式咖啡和美式咖啡的区别是什么？ - 知乎
+[00:33:47]   [79/300] 意式咖啡和美式咖啡的区别是什么？ - 知乎
+[00:33:50]     [★ FOUND] jubao@zhihu.com
+[00:33:50]     [★ FOUND] jubao@zhihu.com
+[00:33:50]   [80/300] Chinese Dictionary: Practice Writing & Charac
+[00:33:50]   [80/300] Chinese Dictionary: Practice Writing & Charac
+[00:33:51]     → skip: no_mx:dictionary.writtenchinese.com
+[00:33:51]     → skip: no_mx:dictionary.writtenchinese.com
+[00:33:51]   [81/300] Italian Citizenship through Jure Sanguinis - 
+[00:33:51]   [81/300] Italian Citizenship through Jure Sanguinis - 
+[00:33:51]     → skip: no_domain
+[00:33:51]     → skip: no_domain
+[00:33:51]   [82/300] Buy Seafood Online | Seafood Delivery - Fulto
+[00:33:51]   [82/300] Buy Seafood Online | Seafood Delivery - Fulto

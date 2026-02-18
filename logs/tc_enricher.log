@@ -2543,3 +2543,18 @@ LINE 4:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
 LINE 4:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
                                    ^
 
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_enricher.py", line 122, in main
+    leads = get_leads_to_enrich(conn)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_enricher.py", line 61, in get_leads_to_enrich
+    cursor.execute(query, params)
+psycopg2.errors.SyntaxError: syntax error at or near "OR"
+LINE 4:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[00:33:02] TC Enricher starting...
+[00:33:02] ERROR: syntax error at or near "OR"
+LINE 4:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+

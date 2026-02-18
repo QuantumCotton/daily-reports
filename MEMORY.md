@@ -69,6 +69,16 @@ This achievement proves something fundamental about our team's capability:
 - **memory/2026-02-15.md** - 90-Day plan + Treasure Coast enrichment
 
 ### Active Projects
+- **Property Maintenance Contract Model** (COMPLETE - 2026-02-18 00:45 UTC) ✅
+  - **Master plan:** PROPERTY_MAINTENANCE_CONTRACT_MODEL.md
+  - **3-Tier Pricing:** Budget $8,100, Standard $14,900 (recommended), Premium $19,200
+  - **KMJK Web App:** Work orders, progress tracking, homeowner portal, approval workflow, turnover documentation
+  - **20-Second Pitch Script:** Verbatim pitch for Josue's team
+  - **Reference Client:** PSR Homes LLC (22 units, Coral Springs/Delray Beach/Lake Worth)
+  - **Target:** Property managers with 20-100+ units
+  - **Revenue:** $2,200/month profit per client (15% of $14,900)
+  - **Expansion:** 5 property managers in Phase 2 → $11,175/month revenue
+
 - **National Expansion Plan** (ACTIVE - 2026-02-18 00:00 UTC) 🚀
   - **Master plan:** NATIONAL_EXPANSION_MASTER_PLAN.md (40 metros, 15 contractors, 1-year plan)
   - **Current phase:** Phase 1 (Treasure Coast completion) - Feb 17-23

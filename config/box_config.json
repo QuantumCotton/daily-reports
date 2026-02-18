@@ -1,0 +1,5 @@
+{
+  "box_api_key": "YOUR_BOX_API_KEY",
+  "box_client_id": "YOUR_BOX_CLIENT_ID",
+  "box_client_secret": "YOUR_BOX_CLIENT_SECRET"
+}

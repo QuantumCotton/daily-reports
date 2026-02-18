@@ -1,0 +1,1394 @@
+[2026-02-16 04:21:56] ============================================================
+[2026-02-16 04:21:56] TREASURE COAST LEAD ENRICHER
+[2026-02-16 04:21:56] ============================================================
+[2026-02-16 04:21:56] Target: Treasure Coast (Stuart, Jensen Beach, Port St Lucie, Vero Beach, Sebastian)
+[2026-02-16 04:21:56] Batch size: 100
+[2026-02-16 04:21:56] Strategy: Scrape sites directly → find personal emails → extract names
+[2026-02-16 04:21:56] ============================================================
+[2026-02-16 04:21:56] Found 100 Treasure Coast leads to process
+[2026-02-16 04:21:56] 
+[4813] Expert Concrete Services (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.coveconcretecompany.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.coveconcretecompany.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[11464] Church in Stuart, FL Homepage (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.gracestuart.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@gracestuart.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gracestuart.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6070] Contact (Stuart)
+[2026-02-16 04:21:56]   Website: https://tccommercialre.com/contact/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / Admin@TCCommercialRE.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8309] Contact Us (Stuart)
+[2026-02-16 04:21:56]   Website: https://besossalon.com/contact-us/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@besossalon.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://besossalon.com/contact-us/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[584] Stuart Bathroom Contractors - DreamMaker Bath & Kitchen (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@dreammaker-stuart.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6886] The 10 Best Stuart Hotels (From $99) (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.booking.com/city/us/stuart.html
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.booking.com/city/us/stuart.html/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[7109] HVAC Installation Services (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.summerbreezeairconditioningfl.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summerbreezeairconditioningfl.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[13] Real Property Management Dynamic (Port St Lucie)
+[2026-02-16 04:21:56]   Website: https://www.rpmdynamic.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / support@rpmdynamic.com/ (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.rpmdynamic.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[254] General Cleaning and Janitorial Services - Servpro (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@servpro.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.servpro.com/locations/fl/servpro-of-martin-county/services/cleaning/general/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[327] Olaf's Window Cleaning: Stuart, FL Window Cleaning Services (Stuart)
+[2026-02-16 04:21:56]   Website: https://olafswindowcleaning.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@olafswindowcleaning.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://olafswindowcleaning.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[9120] The Community Church: HOME (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.ccovb.org/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ccovb.org/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[2676] Bridges Early Learning Center (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://bridgeselc.org/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bridgeselc.org/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8867] Kitchen remodeling services in Stuart (Stuart)
+[2026-02-16 04:21:56]   Website: https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@garciaandsonsconstruct.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://garciaandsonsconstruct.com/solutions/kitchen-remodeling-services-in-stuart/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[337] Epoxy Floor Installation | XPS | Martin County (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / Info@SuperiorFloorCoating.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.treasurecoastfloors.com/Martin_County_Florida_epoxy_floor_installation_contractor_company_quote/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[11469] Stuart Congregational Church in Stuart, Florida (Stuart)
+[2026-02-16 04:21:56]   Website: https://stuartcongregationalchurch.org/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartcongregationalchurch.org/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[2999] Vero Beach Electrical (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://verobeachelectrical.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://verobeachelectrical.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6068] Home (Stuart)
+[2026-02-16 04:21:56]   Website: https://tccommercialre.com/
+[2026-02-16 04:21:56]   Current: N/A / cklein@tccommercialre.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://tccommercialre.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[11668] Downtown Stuart Laundry in Stuart, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://laundromats.cmac.ws/downtown-stuart-laundry/2846/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://laundromats.cmac.ws/downtown-stuart-laundry/2846/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[544] Property Managers in Port Saint Lucie, FL (Port St Lucie)
+[2026-02-16 04:21:56]   Website: https://www.zillow.com/professionals/property-manager-reviews/port-saint-lucie-fl/
+[2026-02-16 04:21:56]   Current: N/A / Choicepropertiesrentals@gmail.com (v=0)
+[2026-02-16 04:21:56]   ⏭ Skip: Domain in skip list
+[2026-02-16 04:21:56] 
+[10374] Stuart Bathroom Contractors (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-remodel.com/seflorida/stuart-bathroom-contractors/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[14225] T-Hangar Layout Map (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.verobeachairport.com/t-hangarlayoutmap
+[2026-02-16 04:21:56]   Current: N/A / bdambeck@covb.org (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachairport.com/t-hangarlayoutmap/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[205] Catering services along the Treasure Coast, FL - Corporate Caterers (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@corporatecaterers.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.corporatecaterers.com/location/corporate-caterers-treasure-coast-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[12179] Dependable Roofing,. (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.dependableroofing.org/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dependableroofing.org/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6235] Reservations (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.verobeachdriftwood.com/index-3.html
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachdriftwood.com/index-3.html/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[5595] Concrete Contractor Stuart, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.esquivelbrothersconcrete.com/stuart-fl/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.esquivelbrothersconcrete.com/stuart-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[10372] Expert Bathroom Remodeling Stuart, FL 34994 (Stuart)
+[2026-02-16 04:21:56]   Website: https://stuart-fl.somathomeremodeling.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuart-fl.somathomeremodeling.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[1969] Hangars (Stuart)
+[2026-02-16 04:21:56]   Website: https://appjetcenter.com/hangars/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://appjetcenter.com/hangars/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[354] Floors Coating Service Stuart | 10x Better Epoxy - Floortek Coatings (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.floortekcoatings.com/locations/stuart-florida
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@floortekcoatings.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floortekcoatings.com/locations/stuart-florida/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[274] Gutter Guard Installation Stuart, FL | Roof & Leaf Protection (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.gutterbro.team/fl/stuart/gutters-guard-installation/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@gutterbro.team (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gutterbro.team/fl/stuart/gutters-guard-installation/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[11761] Monkee's of Vero Beach (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.indianriverchamber.com/list/member/monkee-s-of-vero-beach-5623/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8458] Sailfish Brewing – Florida's Beer™ – Independently Owned (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://sailfishbrewingco.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sailfishbrewingco.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8868] Kitchen Renovation Contractor (Stuart)
+[2026-02-16 04:21:56]   Website: https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-renovation-contractor-stuart-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[9203] Vero Beach Commercial Properties For Sale (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.verobeachlistings.com/vero-beach-commercial-properties/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.verobeachlistings.com/vero-beach-commercial-properties/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[3641] Property Management in Vero Beach and Treasure Coast (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.whitehallservices.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.whitehallservices.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[12395] CONTACT US (Stuart)
+[2026-02-16 04:21:56]   Website: https://kirchmanconstruction.com/contact-us
+[2026-02-16 04:21:56]   Current: N/A / ronnie@kirchmanconstruction.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kirchmanconstruction.com/contact-us/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[5610] Contact (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.spallonefamilydentistry.com/contact
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / office@spallonefamilydentistry.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.spallonefamilydentistry.com/contact/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[12539] Relentless Personal Training (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.relentlessfamily.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.relentlessfamily.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[2319] Fast Food in Stuart, FL at 5960 Se Federal Hwy (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mcdonalds.com/us/en-us/location/fl/stuart/5960-se-federal-hwy/31297.html/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[1241] Chevrolet Dealership in Vero Beach FL (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.dyerchevy.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dyerchevy.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[13210] Jeremiah Baron & Commercial Real Estate – Commercial Sales, Commercial Leasing, Business Sales (Stuart)
+[2026-02-16 04:21:56]   Website: https://treasurecoastcommercialrealestate.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6071] Stuart, FL Commercial Real Estate For Sale & Lease (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.cbcworldwide.com/search/properties?location=Stuart,+FL
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cbcworldwide.com/search/properties?location=Stuart,+FL/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[7962] District Student Services Directors (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml
+[2026-02-16 04:21:56]   Current: N/A / rusty.corley@marion.k12.fl.us (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.fldoe.org/schools/k-12-public-schools/sss/dist-stu-serv-dir.stml/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[539] Industrial Warehouse Space (Stuart)
+[2026-02-16 04:21:56]   Website: https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@treasurecoastcommercialrealestate.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://treasurecoastcommercialrealestate.com/870-pop-tilton-pl-jensen-beach-warehouse-space-for-lease/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[10704] Tile Flooring installation in Stuart, FL, 3620 Southeast Federal Highway (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.lowes.com/store/1109-stuart-fl/tile-flooring-installation/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[339] Home | Kitchen and Bath Remodel from Stuart KBF (Stuart)
+[2026-02-16 04:21:56]   Website: https://stuartkitchenbathandflooring.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@stuartkitchenbathandflooring.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://stuartkitchenbathandflooring.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[12400] CONTRACTORS/GENERAL Category (Stuart)
+[2026-02-16 04:21:56]   Website: https://business.stuartmartinchamber.org/members/category/contractors-general-74
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/contractors-general-74/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[1354] New Audi and Used Cars near Jupiter, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.audistuart.com/
+[2026-02-16 04:21:56]   Current: N/A / Devin.Carlson@BrikellMotors.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.audistuart.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[9891] Florida SART (Stuart)
+[2026-02-16 04:21:56]   Website: https://flsart.org/viewcounty?pageID=0&countyID=42
+[2026-02-16 04:21:56]   Current: N/A / alopez@martin.fl.us (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://flsart.org/viewcounty?pageID=0&countyID=42/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[209] CT Catering (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.cheftablecatering.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@cheftablecatering.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cheftablecatering.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[512] Commercial Cleaning Jobs, Employment in Stuart, FL - Indeed (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.indeed.com/q-commercial-cleaning-l-stuart,-fl-jobs.html
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⏭ Skip: Domain in skip list
+[2026-02-16 04:21:56] 
+[7848] Hardwood Flooring Installation in Stuart, FL: Premium Solutions from 40+ Years of Experience (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernfloridaflooringwarehouse.com/hardwood-flooring-installation-in-stuart-fl-premium-solutions-from-40--years-of-experience/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[228] Commercial Cleaning Services in Palm Beach and Treasure Coast (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.vanguardcleaning.com/cleaning/florida-palm-beach/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@vanguardcleaning.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vanguardcleaning.com/cleaning/florida-palm-beach/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[453] Collision Body Shop | Wallace Auto Group In Stuart (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@wallaceautogroup.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.wallaceautogroup.com/collision-repair-center.html?srsltid=AfmBOoobOMEugS5XbjPs-xZFx2Mhc_aci9UTeVSzuDDRUjX90KIphDvb/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[4806] Vinyl Plank, Laminate & Hardwood Flooring (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://buyriteflooring.com/
+[2026-02-16 04:21:56]   Current: N/A / Shop@BuyRiteFlooring.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://buyriteflooring.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[7964] List of Schools in Martin District (43) (Stuart)
+[2026-02-16 04:21:56]   Website: http://web03.fldoe.org/schools/schoolreport.asp?id=43
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://web03.fldoe.org/schools/schoolreport.asp?id=43/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[1242] Vatland Chrysler Dodge Jeep Ram (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.vatlandcdjr.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.vatlandcdjr.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[13213] Stuart Warehouses For Rent & Lease (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.loopnet.com/search/listings/warehouses/stuart-fl/for-lease/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[27] Properties & Communities (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.watsonassociationmanagement.com/properties/
+[2026-02-16 04:21:56]   Current: N/A / kevin@stewartteam.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.watsonassociationmanagement.com/properties/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[475] Waterfront Stuart (Stuart)
+[2026-02-16 04:21:56]   Website: https://thewaterfrontstuart.com/
+[2026-02-16 04:21:56]   Current: N/A / waterfront@sandcrg.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thewaterfrontstuart.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[2680] DayAway (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.seniorresourceassociation.org/services/dayaway/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.seniorresourceassociation.org/services/dayaway/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[275] 15 Best Gutter Companies in Stuart, FL (2025 Reviews) - EcoWatch (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.ecowatch.com/gutters/best-services/fl/stuart
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@ecowatch.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.ecowatch.com/gutters/best-services/fl/stuart/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[4127] Trusted HOA & Condo Association Management in Florida (Stuart)
+[2026-02-16 04:21:56]   Website: https://maymgt.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://maymgt.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[429] Kitchen & Bathroom Remodeling in Jensen Beach, FL (Jensen Beach)
+[2026-02-16 04:21:56]   Website: https://www.glsremodeling.com/jensenbeach
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@glsremodeling.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.glsremodeling.com/jensenbeach/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[5201] Plumbing Services Vero Beach FL| Plumber & Water Heaters (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.southernplumbinginc.com/vero-beach-fl
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.southernplumbinginc.com/vero-beach-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[251] Masterpiece Builders | Custom Home Builder Martin County, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://masterpiecebuilders.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@masterpiecebuilders.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://masterpiecebuilders.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[576] Jensen Beach Home Renovations | Licensed & Insured (Jensen Beach)
+[2026-02-16 04:21:56]   Website: https://www.homeandbeyondfl.com/jensen-beach
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@homeandbeyondfl.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.homeandbeyondfl.com/jensen-beach/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6885] Top 10 Hotels in Stuart, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.hotels.com/de1415773/hotels-stuart-florida/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hotels.com/de1415773/hotels-stuart-florida/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8863] Stuart, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/stuart-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[3003] Electricians and Electrical Contractors Vero Beach FL 772-567-2471 (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://bipelectric.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://bipelectric.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[3790] Premium Handyman Solutions (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://premiumhandymansolutions.godaddysites.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://premiumhandymansolutions.godaddysites.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[496] Investment Property for Sale in Port St. Lucie, FL - Mashvisor (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@mashvisor.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.mashvisor.com/locations/florida/port-st.%2520lucie-investment-property-for-sale/c/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8737] Veterinarian Stuart, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.montereyanimalclinic.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.montereyanimalclinic.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[45] Trusted Cleaning Company in Stuart FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.customcleaningtc.com/
+[2026-02-16 04:21:56]   Current: N/A / ncsnatyka@gmail.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.customcleaningtc.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[12046] Rain Gutter Installation & Cleaning in Vero Beach, FL (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://allproseamlessgutters.com/service-area/vero-beach-fl/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://allproseamlessgutters.com/service-area/vero-beach-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[1125] Stuart Property Management, Stuart Property Managers, Stuart Property Management Companies. South Fl (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.floridapm.net/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.floridapm.net/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[105] Master Association - Welcome to Hammock Creek (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.hammockcreekhoa.com/master-association.html
+[2026-02-16 04:21:56]   Current: N/A / Master.HammockCreek@gmail.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.hammockcreekhoa.com/master-association.html/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[5084] Contact Our Storage Center in Vero Beach, FL (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.courtsideselfstorage.com/contact/
+[2026-02-16 04:21:56]   Current: N/A / manager@veromanagment.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.courtsideselfstorage.com/contact/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[13209] WHOLESALE WAREHOUSE Category (Stuart)
+[2026-02-16 04:21:56]   Website: https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://business.stuartmartinchamber.org/members/category/wholesale-warehouse-680/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[30082] Fogelman Properties hiring Property Manager Job in Stuart, FL (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.glassdoor.com/job-listing/property-manager-fogelman-JV_IC1154326_KO0,16_KE17,25.htm?jl=1009866270913
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⏭ Skip: Domain in skip list
+[2026-02-16 04:21:56] 
+[6738] Electrician (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.stottbrothers.com/electrician-stuart-fl/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stottbrothers.com/electrician-stuart-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[4126] Vesta Property Services – Florida HOA & Community Association Management Experts (Stuart)
+[2026-02-16 04:21:56]   Website: https://vestapropertyservices.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://vestapropertyservices.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[7737] Reputable painting service in Vero Beach, FL, 32960. (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://paradisepaintingtreasurecoastllc.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://paradisepaintingtreasurecoastllc.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[24] Coastal Property Management – Stuart & Jupiter – Condominium ... (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.cpmfl.com/
+[2026-02-16 04:21:56]   Current: N/A / susan.palmieri@cpmfl.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[7039] The Sailor’s Return Restaurant in Stuart Florida (772) 872-7250 (Stuart)
+[2026-02-16 04:21:56]   Website: https://thesailorsreturn.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thesailorsreturn.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[4707] Gertrude Walden Child Care Center (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.gertrudewalden.org/p/4/contact-us
+[2026-02-16 04:21:56]   Current: N/A / t.m.wash@comcast.net (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gertrudewalden.org/p/4/contact-us/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8356] The Oar Restaurant (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://theoarrestaurant.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://theoarrestaurant.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[715] Assisted Living Facility in Port St. Lucie (Port St Lucie)
+[2026-02-16 04:21:56]   Website: https://colliersassistedliving.com/port-st-lucie-assisted-living/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@colliersassistedliving.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://colliersassistedliving.com/port-st-lucie-assisted-living/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[1443] CONTACT US (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://thepreserveofverobeach.com/contact-us/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://thepreserveofverobeach.com/contact-us/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[102] Martin Meadows | Home Owners Association – MMHOA (Stuart)
+[2026-02-16 04:21:56]   Website: https://martinmeadows.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / admin@martinmeadows.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://martinmeadows.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[473] Florida's Treasure Coast Offers Natural Allure for Investors in ... (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@circlesquaredalts.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.circlesquaredalts.com/floridas-treasure-coast-offers-natural-allure-for-investors-in-multifamily-housing/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6092] Contact Us – Coastal Property Management – Stuart & Jupiter (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.cpmfl.com/contact-us-2/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.cpmfl.com/contact-us-2/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[8865] Kitchen Remodeling Design Contractor (Stuart)
+[2026-02-16 04:21:56]   Website: https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://islandhomesfl.com/kitchen-remodeling-design-contractor-stuart-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[32] Port St Lucie FL Auto Body Repair (Port St Lucie)
+[2026-02-16 04:21:56]   Website: https://www.gerbercollision.com/locations/port-st-lucie-fl
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@gerbercollision.com (v=1)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.gerbercollision.com/locations/port-st-lucie-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[41] Jensen Beach FL (Jensen Beach)
+[2026-02-16 04:21:56]   Website: https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@dreammaker-stuart.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.dreammaker-stuart.com/areas-we-serve/jensen-beach-fl/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[5924] Vero Beach VA Clinic (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.va.gov/west-palm-beach-health-care/locations/vero-beach-va-clinic/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[3906] Vero Beach (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://kiwicarwash.com/location-vero/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://kiwicarwash.com/location-vero/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[6737] Stuart FL Electrician – Stuart FL Electrical Contractor – 772-263-2333 (Stuart)
+[2026-02-16 04:21:56]   Website: http://www.stuartflelectrician.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.stuartflelectrician.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[13010] Sharkey Air, – Treasure Coast HVAC Experts for over 30 Years (Stuart)
+[2026-02-16 04:21:56]   Website: https://sharkeyair.com/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://sharkeyair.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[290] Scm Handyman Services (Stuart)
+[2026-02-16 04:21:56]   Website: https://www.scm-handyman-services.com/
+[2026-02-16 04:21:56]   Current: NEEDS_ENRICHMENT / info@scm-handyman-services.com (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.scm-handyman-services.com/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+[11690] Summit Construction (Vero Beach)
+[2026-02-16 04:21:56]   Website: https://www.summitcm.net/
+[2026-02-16 04:21:56]   Current: N/A / N/A (v=0)
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/about: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/contact: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/about-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/our-team: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ⚠ Fetch error https://www.summitcm.net/contact-us: Request.__init__() got an unexpected keyword argum
+[2026-02-16 04:21:56]   ❌ No emails found
+[2026-02-16 04:21:56] 
+============================================================
+[2026-02-16 04:21:56] ENRICHMENT COMPLETE
+[2026-02-16 04:21:56]   Batch: 0 enriched / 100 processed
+[2026-02-16 04:21:56]   Found on site: 0 | Names extracted: 0
+[2026-02-16 04:21:56]   SMTP verified: 0 | Skipped: 3
+[2026-02-16 04:21:56]   Database: 21197 total, 2929 with email, 118 named contacts
+[2026-02-16 04:21:56]   Quality: 2764 personal (94%) / 165 generic
+[2026-02-16 04:21:56]   Cost: $0 (zero API calls)
+[2026-02-16 04:21:56] ============================================================
+[2026-02-16 04:22:15] ============================================================
+[2026-02-16 04:22:15] TREASURE COAST LEAD ENRICHER
+[2026-02-16 04:22:15] ============================================================
+[2026-02-16 04:22:15] Target: Treasure Coast (Stuart, Jensen Beach, Port St Lucie, Vero Beach, Sebastian)
+[2026-02-16 04:22:15] Batch size: 50
+[2026-02-16 04:22:15] Strategy: Scrape sites directly → find personal emails → extract names
+[2026-02-16 04:22:15] ============================================================
+[2026-02-16 04:22:15] Found 50 Treasure Coast leads to process
+[2026-02-16 04:22:15] 
+[10240] Meet Our Talented Kia Staff Vero Beach FL (Vero Beach)
+[2026-02-16 04:22:15]   Website: https://www.kiaofverobeach.com/staff.aspx
+[2026-02-16 04:22:15]   Current: N/A / luism@toyotaofvero.com (v=0)
+[2026-02-16 04:22:16]   ⚠ Fetch error https://www.kiaofverobeach.com/staff.aspx/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:16]   ⚠ Fetch error https://www.kiaofverobeach.com/staff.aspx/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:16]   ⚠ Fetch error https://www.kiaofverobeach.com/staff.aspx/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:16]   ⚠ Fetch error https://www.kiaofverobeach.com/staff.aspx/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:17]   ⚠ Fetch error https://www.kiaofverobeach.com/staff.aspx/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:17]   ⚠ Fetch error https://www.kiaofverobeach.com/staff.aspx/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:17]   Found 2 total emails
+[2026-02-16 04:22:17]   ✓ Personal email: luism@toyotaofvero.com
+[2026-02-16 04:22:17]   ⚠ No name found
+[2026-02-16 04:22:17]   ✓ SMTP verified
+[2026-02-16 04:22:17]   ✅ Updated database
+[2026-02-16 04:22:17] 
+[21] Signature Property Management (Stuart)
+[2026-02-16 04:22:17]   Website: https://www.signaturepropertymgmt.com/
+[2026-02-16 04:22:17]   Current: N/A / Ira@signaturepropertymgmt.com (v=0)
+[2026-02-16 04:22:19]   ⚠ Fetch error https://www.signaturepropertymgmt.com/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:19]   ⚠ Fetch error https://www.signaturepropertymgmt.com/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:20]   ⚠ Fetch error https://www.signaturepropertymgmt.com/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:20]   Found 1 total emails
+[2026-02-16 04:22:20]   ✓ Personal email: user@domain.com
+[2026-02-16 04:22:20]   ⚠ No name found
+[2026-02-16 04:22:20]   ✓ SMTP verified
+[2026-02-16 04:22:20]   ✅ Updated database
+[2026-02-16 04:22:21] 
+[4810] Floor Installers Vero Beach, FL (Vero Beach)
+[2026-02-16 04:22:21]   Website: https://www.edificiumroofing.com/services/floor-installers/
+[2026-02-16 04:22:21]   Current: N/A / N/A (v=0)
+[2026-02-16 04:22:21]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/: HTTP Error 404: Not Found
+[2026-02-16 04:22:21]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:21]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:22]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:22]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:23]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:23]   ⚠ Fetch error https://www.edificiumroofing.com/services/floor-installers/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:23]   ❌ No emails found
+[2026-02-16 04:22:23] 
+[13892] Contact Us (Stuart)
+[2026-02-16 04:22:23]   Website: https://business.stuartmartinchamber.org/contact
+[2026-02-16 04:22:23]   Current: NEEDS_ENRICHMENT / info@stuartmartinchamber.org (v=0)
+[2026-02-16 04:22:24]   ⚠ Fetch error https://business.stuartmartinchamber.org/contact/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:24]   ⚠ Fetch error https://business.stuartmartinchamber.org/contact/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:25]   ⚠ Fetch error https://business.stuartmartinchamber.org/contact/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:26]   ⚠ Fetch error https://business.stuartmartinchamber.org/contact/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:26]   ⚠ Fetch error https://business.stuartmartinchamber.org/contact/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:26]   ⚠ Fetch error https://business.stuartmartinchamber.org/contact/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:26]   Found 1 total emails
+[2026-02-16 04:22:26]   ✓ Personal email: youremail@domain.com
+[2026-02-16 04:22:26]   ⚠ No name found
+[2026-02-16 04:22:26]   ✓ SMTP verified
+[2026-02-16 04:22:26]   ✅ Updated database
+[2026-02-16 04:22:27] 
+[340] Kitchen Bath & Home Design | Remodel: Stuart, Florida (Stuart)
+[2026-02-16 04:22:27]   Website: https://www.kitchenbathandhomedesign.com/
+[2026-02-16 04:22:27]   Current: NEEDS_ENRICHMENT / info@kitchenbathandhomedesign.com (v=1)
+[2026-02-16 04:22:27]   ⚠ Fetch error https://www.kitchenbathandhomedesign.com/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:28]   ⚠ Fetch error https://www.kitchenbathandhomedesign.com/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:28]   ⚠ Fetch error https://www.kitchenbathandhomedesign.com/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:28]   ⚠ Fetch error https://www.kitchenbathandhomedesign.com/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:29]   Found 2 total emails
+[2026-02-16 04:22:29]   ✓ Personal email: regina@kbhomedesign.com
+[2026-02-16 04:22:29]   ⚠ No name found
+[2026-02-16 04:22:29]   ✓ SMTP verified
+[2026-02-16 04:22:29]   ✅ Updated database
+[2026-02-16 04:22:29] 
+[4710] Central Stuart – Apple Tree Academy (Stuart)
+[2026-02-16 04:22:29]   Website: https://www.apple-tree-academy.com/central-stuart/
+[2026-02-16 04:22:29]   Current: N/A / appletreeacademy5@gmail.com (v=0)
+[2026-02-16 04:22:31]   ⚠ Fetch error https://www.apple-tree-academy.com/central-stuart/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:32]   ⚠ Fetch error https://www.apple-tree-academy.com/central-stuart/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:33]   Found 1 total emails
+[2026-02-16 04:22:33]   ✓ Personal email: appletreeacademy5@gmail.com
+[2026-02-16 04:22:33]   ⚠ No name found
+[2026-02-16 04:22:33]   ✓ SMTP verified
+[2026-02-16 04:22:33]   ✅ Updated database
+[2026-02-16 04:22:33] 
+[428] Remodeling Contractor Jensen Beach | Island Kitchen & Bath (Jensen Beach)
+[2026-02-16 04:22:33]   Website: https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/
+[2026-02-16 04:22:33]   Current: NEEDS_ENRICHMENT / info@ikbconstruction.com (v=0)
+[2026-02-16 04:22:35]   ⚠ Fetch error https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:35]   ⚠ Fetch error https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:36]   ⚠ Fetch error https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:37]   ⚠ Fetch error https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:37]   ⚠ Fetch error https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:38]   ⚠ Fetch error https://ikbconstruction.com/areas-of-service/jensen-beach-remodeling-contractor/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:38]   ❌ No emails found
+[2026-02-16 04:22:38] 
+[58] Treasure Coast Fl. Real Estate Articles (Stuart)
+[2026-02-16 04:22:38]   Website: https://realestateexpoinc.com/articles/
+[2026-02-16 04:22:38]   Current: N/A / John@tccommericalre.com (v=0)
+[2026-02-16 04:22:39]   ⚠ Fetch error https://realestateexpoinc.com/articles/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:40]   ⚠ Fetch error https://realestateexpoinc.com/articles/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:40]   ⚠ Fetch error https://realestateexpoinc.com/articles/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:41]   ⚠ Fetch error https://realestateexpoinc.com/articles/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:42]   ⚠ Fetch error https://realestateexpoinc.com/articles/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:43]   ⚠ Fetch error https://realestateexpoinc.com/articles/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:43]   ❌ No emails found
+[2026-02-16 04:22:43] 
+[4816] RF Concrete Construction, (Vero Beach)
+[2026-02-16 04:22:43]   Website: https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882
+[2026-02-16 04:22:43]   Current: N/A / N/A (v=0)
+[2026-02-16 04:22:45]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882: HTTP Error 404: Not Found
+[2026-02-16 04:22:45]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:45]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:45]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:46]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:46]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:46]   ⚠ Fetch error https://treasurecoastba-gzcms.preview.gochambermaster.com/list/member/rf-concrete-construction-inc-3882/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:46]   ❌ No emails found
+[2026-02-16 04:22:46] 
+[374] Cleveland Clinic Martin North Hospital (100044) - Free Profile (Stuart)
+[2026-02-16 04:22:46]   Website: https://www.ahd.com/free_profile/100044/Cleveland-Clinic-Martin-North-Hospital/Stuart/Florida/
+[2026-02-16 04:22:46]   Current: NEEDS_ENRICHMENT / sales@ahd.com (v=1)
+[2026-02-16 04:22:48]   ❌ No emails found
+[2026-02-16 04:22:48] 
+[358] Seamless Gutter Services in Stuart Florida - Gutter Hawk (Stuart)
+[2026-02-16 04:22:48]   Website: https://www.gutterhawks.com/locations/stuart
+[2026-02-16 04:22:48]   Current: NEEDS_ENRICHMENT / info@gutterhawks.com (v=1)
+[2026-02-16 04:22:50]   ⚠ Fetch error https://www.gutterhawks.com/locations/stuart/about: HTTP Error 404: Not Found
+[2026-02-16 04:22:50]   ⚠ Fetch error https://www.gutterhawks.com/locations/stuart/team: HTTP Error 404: Not Found
+[2026-02-16 04:22:51]   ⚠ Fetch error https://www.gutterhawks.com/locations/stuart/contact: HTTP Error 404: Not Found
+[2026-02-16 04:22:51]   ⚠ Fetch error https://www.gutterhawks.com/locations/stuart/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:52]   ⚠ Fetch error https://www.gutterhawks.com/locations/stuart/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:22:52]   ⚠ Fetch error https://www.gutterhawks.com/locations/stuart/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:22:52]   Found 1 total emails
+[2026-02-16 04:22:52]   ✓ Personal email: gutterhawks@gmail.com
+[2026-02-16 04:22:52]   ⚠ No name found
+[2026-02-16 04:22:53]   ✓ SMTP verified
+[2026-02-16 04:22:53]   ✅ Updated database
+[2026-02-16 04:22:53] 
+[7852] Top Rated Flooring Installation-Best Price in Stuart FL (Stuart)
+[2026-02-16 04:22:53]   Website: https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/
+[2026-02-16 04:22:53]   Current: N/A / N/A (v=0)
+[2026-02-16 04:23:01]   ⚠ Fetch error https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/about: HTTP Error 404: Not Found
+[2026-02-16 04:23:05]   ⚠ Fetch error https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/team: HTTP Error 404: Not Found
+[2026-02-16 04:23:09]   ⚠ Fetch error https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/contact: HTTP Error 404: Not Found
+[2026-02-16 04:23:14]   ⚠ Fetch error https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:23:18]   ⚠ Fetch error https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:23:21]   ⚠ Fetch error https://newandimprovedhomeservices.com/flooring-installation-stuart-fl/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:23:21]   Found 1 total emails
+[2026-02-16 04:23:21]   ✓ Personal email: newandimprovedservices@gmail.com
+[2026-02-16 04:23:21]   ⚠ No name found
+[2026-02-16 04:23:21]   ✓ SMTP verified
+[2026-02-16 04:23:21]   ✅ Updated database
+[2026-02-16 04:23:22] 
+[5510] Vero Vine Top 9 Coffee Shops in Indian River County (Vero Beach)
+[2026-02-16 04:23:22]   Website: https://verovine.com/vero-vine-top-9-coffee-shops-in-indian-river-county/
+[2026-02-16 04:23:22]   Current: N/A / N/A (v=0)
+[2026-02-16 04:23:27]   ⚠ Fetch error https://verovine.com/vero-vine-top-9-coffee-shops-in-indian-river-county/team: HTTP Error 404: Not Found
+[2026-02-16 04:23:30]   ⚠ Fetch error https://verovine.com/vero-vine-top-9-coffee-shops-in-indian-river-county/about-us: HTTP Error 404: Not Found
+[2026-02-16 04:23:30]   ⚠ Fetch error https://verovine.com/vero-vine-top-9-coffee-shops-in-indian-river-county/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:23:31]   ⚠ Fetch error https://verovine.com/vero-vine-top-9-coffee-shops-in-indian-river-county/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:23:31]   ❌ No emails found
+[2026-02-16 04:23:31] 
+[583] Bathroom Remodeling Contractor | Stuart, FL | Bobby & Brothers ... (Stuart)
+[2026-02-16 04:23:31]   Website: https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl
+[2026-02-16 04:23:31]   Current: N/A / N/A (v=0)
+[2026-02-16 04:23:32]   ⚠ Fetch error https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl/about: HTTP Error 404: 
+[2026-02-16 04:23:33]   ⚠ Fetch error https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl/team: HTTP Error 404: 
+[2026-02-16 04:23:33]   ⚠ Fetch error https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl/contact: HTTP Error 404: 
+[2026-02-16 04:23:33]   ⚠ Fetch error https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl/about-us: HTTP Error 404: 
+[2026-02-16 04:23:34]   ⚠ Fetch error https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl/our-team: HTTP Error 404: 
+[2026-02-16 04:23:34]   ⚠ Fetch error https://www.bobbyandbrothershandyman.com/contact/bathroom-remodeling-contractor-service-area/stuart-fl/contact-us: HTTP Error 404: 
+[2026-02-16 04:23:34]   ❌ No emails found
+[2026-02-16 04:23:34] 
+[418] MEYERS GROUP – Meyers Group, founded by respected real ... (Stuart)
+[2026-02-16 04:23:34]   Website: https://meyersgroup.net/
+[2026-02-16 04:23:34]   Current: NEEDS_ENRICHMENT / info@meyersgroup.net (v=1)
+[2026-02-16 04:23:39]   ⚠ Fetch error https://meyersgroup.net/team: HTTP Error 404: Not Found
+[2026-02-16 04:23:40]   ⚠ Fetch error https://meyersgroup.net/contact: HTTP Error 404: Not Found
+[2026-02-16 04:23:42]   ⚠ Fetch error https://meyersgroup.net/our-team: HTTP Error 404: Not Found
+[2026-02-16 04:23:43]   ⚠ Fetch error https://meyersgroup.net/contact-us: HTTP Error 404: Not Found
+[2026-02-16 04:23:43]   ❌ No emails found
+[2026-02-16 04:23:43] 
+[2715] Custom Gutters (Stuart)
+[2026-02-16 04:23:43] FATAL: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/treasure_coast_enricher.py", line 441, in <module>
+    stats = main()
+            ^^^^^^
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/treasure_coast_enricher.py", line 298, in main
+    log(f"  Website: {website}")
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/treasure_coast_enricher.py", line 106, in log
+    print(line)
+BrokenPipeError: [Errno 32] Broken pipe
+

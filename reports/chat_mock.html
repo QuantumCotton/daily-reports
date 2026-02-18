@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glitch Dashboard - Chat Interface</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f0f23 100%);
+            min-height: 100vh;
+            color: #e4e4e7;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+            max-width: 1600px;
+            margin: 0 auto;
+            background: rgba(26, 26, 46, 0.6);
+            backdrop-filter: blur(10px);
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 320px;
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(20px);
+            border-right: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .sidebar-header {
+            padding: 24px;
+            background: rgba(99, 102, 241, 0.1);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .sidebar-header h1 {
+            font-size: 20px;
+            font-weight: 600;
+            color: #a5b4fc;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .conversation-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px;
+        }
+
+        .conversation-item {
+            padding: 16px;
+            margin-bottom: 8px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .conversation-item:hover {
+            background: rgba(99, 102, 241, 0.15);
+            border-color: rgba(99, 102, 241, 0.3);
+            transform: translateX(4px);
+        }
+
+        .conversation-item.active {
+            background: rgba(99, 102, 241, 0.2);
+            border-color: rgba(99, 102, 241, 0.5);
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.2);
+        }
+
+        .conversation-item.unread::after {
+            content: '';
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 8px;
+            height: 8px;
+            background: #6366f1;
+            border-radius: 50%;
+            box-shadow: 0 0 8px #6366f1;
+        }
+
+        .conversation-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+
+        .conversation-icon {
+            font-size: 24px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(99, 102, 241, 0.2);
+            border-radius: 10px;
+        }
+
+        .conversation-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #e4e4e7;
+        }
+
+        .conversation-preview {
+            font-size: 12px;
+            color: #a1a1aa;
+            margin-left: 52px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .conversation-timestamp {
+            font-size: 11px;
+            color: #71717a;
+            margin-left: 52px;
+            margin-top: 4px;
+        }
+
+        /* Main Chat Area */
+        .main-chat {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: rgba(0, 0, 0, 0.2);
+        }
+
+        .chat-header {
+            padding: 20px 24px;
+            background: rgba(99, 102, 241, 0.1);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .chat-header-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .chat-header-icon {
+            font-size: 28px;
+        }
+
+        .chat-header-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #e4e4e7;
+        }
+
+        .chat-header-status {
+            font-size: 12px;
+            color: #a1a1aa;
+        }
+
+        .chat-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .chat-action-btn {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #a1a1aa;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            font-size: 16px;
+        }
+
+        .chat-action-btn:hover {
+            background: rgba(99, 102, 241, 0.2);
+            border-color: rgba(99, 102, 241, 0.4);
+            color: #a5b4fc;
+        }
+
+        /* Messages */
+        .messages-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .message {
+            display: flex;
+            gap: 12px;
+            max-width: 70%;
+            animation: messageSlide 0.3s ease;
+        }
+
+        @keyframes messageSlide {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.chris {
+            align-self: flex-end;
+            flex-direction: row-reverse;
+        }
+
+        .message-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+
+        .message.glitch .message-avatar {
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+        }
+
+        .message.chris .message-avatar {
+            background: linear-gradient(135deg, #3b82f6, #06b6d4);
+        }
+
+        .message-content {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .message-bubble {
+            padding: 12px 16px;
+            border-radius: 16px;
+            font-size: 14px;
+            line-height: 1.5;
+            backdrop-filter: blur(10px);
+        }
+
+        .message.glitch .message-bubble {
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #e4e4e7;
+            border-bottom-left-radius: 4px;
+        }
+
+        .message.chris .message-bubble {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.3), rgba(6, 182, 212, 0.3));
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            color: #e4e4e7;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message-timestamp {
+            font-size: 11px;
+            color: #71717a;
+            margin-top: 4px;
+        }
+
+        .message.chris .message-timestamp {
+            text-align: right;
+        }
+
+        /* Input Area */
+        .input-container {
+            padding: 20px 24px;
+            background: rgba(0, 0, 0, 0.2);
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 12px;
+            align-items: flex-end;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 12px 16px;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+
+        .input-wrapper:focus-within {
+            border-color: rgba(99, 102, 241, 0.5);
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.15);
+        }
+
+        .message-input {
+            flex: 1;
+            background: transparent;
+            border: none;
+            outline: none;
+            color: #e4e4e7;
+            font-size: 14px;
+            resize: none;
+            min-height: 24px;
+            max-height: 120px;
+            font-family: inherit;
+        }
+
+        .message-input::placeholder {
+            color: #71717a;
+        }
+
+        .send-btn {
+            width: 44px;
+            height: 44px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            border: none;
+            color: white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+        }
+
+        .send-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+        }
+
+        /* Loading Indicator */
+        .loading-indicator {
+            display: flex;
+            gap: 6px;
+            padding: 16px 20px;
+            align-self: flex-start;
+        }
+
+        .loading-dot {
+            width: 8px;
+            height: 8px;
+            background: #6366f1;
+            border-radius: 50%;
+            animation: loadingBounce 1.4s ease-in-out infinite;
+        }
+
+        .loading-dot:nth-child(1) {
+            animation-delay: 0s;
+        }
+
+        .loading-dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .loading-dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes loadingBounce {
+            0%, 60%, 100% {
+                transform: translateY(0);
+            }
+            30% {
+                transform: translateY(-10px);
+            }
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: rgba(99, 102, 241, 0.3);
+            border-radius: 3px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(99, 102, 241, 0.5);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 100%;
+                position: absolute;
+                z-index: 100;
+                height: 100%;
+                transform: translateX(-100%);
+                transition: transform 0.3s ease;
+            }
+
+            .sidebar.open {
+                transform: translateX(0);
+            }
+
+            .message {
+                max-width: 85%;
+            }
+        }
+
+        /* Glassmorphism glow effect */
+        .glass-glow {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.1) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="glass-glow"></div>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>🤖 Glitch Dashboard</h1>
+            </div>
+            <div class="conversation-list" id="conversationList">
+                <!-- Conversations will be inserted here -->
+            </div>
+        </div>
+
+        <!-- Main Chat Area -->
+        <div class="main-chat">
+            <div class="chat-header" id="chatHeader">
+                <div class="chat-header-info">
+                    <div class="chat-header-icon" id="headerIcon">📧</div>
+                    <div>
+                        <div class="chat-header-title" id="headerTitle">Email Warm-Up</div>
+                        <div class="chat-header-status">Active conversation</div>
+                    </div>
+                </div>
+                <div class="chat-actions">
+                    <button class="chat-action-btn" title="Search">🔍</button>
+                    <button class="chat-action-btn" title="Settings">⚙️</button>
+                    <button class="chat-action-btn" title="More">⋮</button>
+                </div>
+            </div>
+
+            <div class="messages-container" id="messagesContainer">
+                <!-- Messages will be inserted here -->
+            </div>
+
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <textarea 
+                        class="message-input" 
+                        id="messageInput" 
+                        placeholder="Type your message..." 
+                        rows="1"
+                    ></textarea>
+                    <button class="send-btn" id="sendBtn">➤</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample conversation data
+        const conversations = [
+            {
+                id: 1,
+                icon: '📧',
+                title: 'Email Warm-Up',
+                preview: 'Running warm-up sequence...',
+                timestamp: '2 min ago',
+                unread: true,
+                messages: [
+                    {
+                        sender: 'glitch',
+                        text: 'Email warm-up sequence initiated. Starting with 10 emails per day, gradually increasing to 50.',
+                        time: '10:32 AM'
+                    },
+                    {
+                        sender: 'chris',
+                        text: 'Perfect. How many accounts are we warming up?',
+                        time: '10:35 AM'
+                    },
+                    {
+                        sender: 'glitch',
+                        text: 'Currently warming up 5 accounts. Each will reach 50 emails/day by day 14. All emails are personalized and relevant to the recipient\'s industry.',
+                        time: '10:36 AM'
+                    },
+                    {
+                        sender: 'chris',
+                        text: 'Great work. Monitor the open rates and spam folder placement.',
+                        time: '10:38 AM'
+                    },
+                    {
+                        sender: 'glitch',
+                        text: 'Tracking all metrics. Current open rate: 47%. Zero spam folder placements so far. Will escalate to 20 emails/day tomorrow for all accounts.',
+                        time: '10:40 AM'
+                    }
+                ]
+            },
+            {
+                id: 2,
+                icon: '🏠',
+                title: 'Treasure Coast',
+                preview: 'Updated lead list for Stuart...',
+                timestamp: '15 min ago',
+                unread: true,
+                messages: [
+                    {
+                        sender: 'glitch',
+                        text: 'Treasure Coast market analysis complete. Found 34 new contractor leads in Stuart, Jensen Beach, and Port St. Lucie.',
+                        time: '9:45 AM'
+                    },
+                    {
+                        sender: 'chris',
+                        text: 'Excellent. What\'s the breakdown by category?',
+                        time: '9:50 AM'
+                    },
+                    {
+                        sender: 'glitch',
+                        text: 'Here\'s the breakdown:\n• 12 Kitchen & Bath Remodelers\n• 8 HVAC Contractors\n• 6 Roofing Companies\n• 5 Pool Services\n• 3 Landscaping Companies\n\nAll have active websites and verified phone numbers.',
+                        time: '9:52 AM'
+                    },
+                    {
+                        sender: 'chris',
+                        text: 'Add them to the outreach queue. Prioritize the remodelers.',
+                        time: '9:55 AM'
+                    },
+                    {
+                        sender: 'glitch',
+                        text: 'Added to queue. Remodelers flagged as priority. Email drafts will be ready by end of day.',
+                        time: '9:56 AM'
+                    }
+                ]
+            },
+            {
+                id: 3,
+                icon: '💬',
+                title: 'War Room',
+                preview: 'Strategy session notes...',
+                timestamp: '1 hour ago',
+                unread: false,
+                messages: [
+                    {
+                        sender: 'glitch',
+                        text: 'War Room session recap from yesterday:\n\n1. Lead Generation: On track for 500 leads/week\n2. Email Outreach: Warm-up progressing well\n3. Dashboard: New chat interface in development\n4. Competitor Analysis: 3 major competitors identified',
+                        time: '8:00 AM'
+                    },
+                    {
+                        sender: 'chris',
+                        text: 'What are the competitors doing differently?',
+                        time: '8:15 AM'
+                    },
+                    {
+                        sender: 'glitch',
+                        text: 'Key findings:\n\n• Competitor A: Heavy Facebook ads, lower quality leads\n• Competitor B: PPC focus, high CPA\n• Competitor C: Content marketing approach, slower growth\n\nOur multi-channel approach (search + scraping + enrichment) is still unique.',
+                        time: '8:18 AM'
+                    },
+                    {
+                        sender: 'chris',
+                        text: 'Good. Keep monitoring. Schedule next War Room for Friday.',
+                        time: '8:20 AM'
+                    }
+                ]
+            },
+            {
+                id: 4,
+                icon: '📊',
+                title: 'National Scraping',
+                preview: 'Batch 23 complete - 1,247 leads...',
+                timestamp: '2 hours ago',
+                unread: false,
+                messages: [
+                    {
+                        sender: 'glitch',
+                        text: 'National Scraping Batch #23 completed successfully.\n\n• Queries processed: 50\n• New leads: 1,247\n• Verified emails: 892\n• Total database: 47,892 leads',
+                        time: '6:30 AM'
+                    }
+                ]
+            },
+            {
+                id: 5,
+                icon: '📥',
+                title: 'Inbox Dashboard',
+                preview: '12 new leads awaiting approval...',
+                timestamp: '3 hours ago',
+                unread: false,
+                messages: [
+                    {
+                        sender: 'glitch',
+                        text: 'Inbox Dashboard update:\n\n• 12 new leads awaiting approval\n• 45 leads in outreach queue\n• 8 leads contacted, 3 responses received\n• 2 meetings scheduled for this week',
+                        time: '5:00 AM'
+                    }
+                ]
+            },
+            {
+                id: 6,
+                icon: '💰',
+                title: 'Sales Pipeline',
+                preview: 'Pipeline value: $127,000...',
+                timestamp: '4 hours ago',
+                unread: false,
+                messages: [
+                    {
+                        sender: 'glitch',
+                        text: 'Sales Pipeline status:\n\n• Stage 1 (New): 23 prospects\n• Stage 2 (Contacted): 15 prospects\n• Stage 3 (Qualified): 8 prospects\n• Stage 4 (Proposal): 4 prospects\n• Stage 5 (Closed): 2 deals this month\n\nTotal pipeline value: $127,000',
+                        time: '4:00 AM'
+                    }
+                ]
+            },
+            {
+                id: 7,
+                icon: '📝',
+                title: 'Content',
+                preview: 'Blog post draft ready...',
+                timestamp: 'Yesterday',
+                unread: false,
+                messages: []
+            },
+            {
+                id: 8,
+                icon: '🔧',
+                title: 'Tech Issues',
+                preview: 'All systems operational...',
+                timestamp: 'Yesterday',
+                unread: false,
+                messages: []
+            },
+            {
+                id: 9,
+                icon: '📈',
+                title: 'Metrics',
+                preview: 'Weekly growth: +23%...',
+                timestamp: 'Yesterday',
+                unread: false,
+                messages: []
+            },
+            {
+                id: 10,
+                icon: '🎯',
+                title: 'Strategy',
+                preview: 'Q1 goals on track...',
+                timestamp: '2 days ago',
+                unread: false,
+                messages: []
+            }
+        ];
+
+        let activeConversation = 0;
+
+        // Render conversation list
+        function renderConversations() {
+            const list = document.getElementById('conversationList');
+            list.innerHTML = '';
+
+            conversations.forEach((conv, index) => {
+                const item = document.createElement('div');
+                item.className = `conversation-item ${index === activeConversation ? 'active' : ''} ${conv.unread ? 'unread' : ''}`;
+                item.onclick = () => selectConversation(index);
+
+                item.innerHTML = `
+                    <div class="conversation-header">
+                        <div class="conversation-icon">${conv.icon}</div>
+                        <div class="conversation-title">${conv.title}</div>
+                    </div>
+                    <div class="conversation-preview">${conv.preview}</div>
+                    <div class="conversation-timestamp">${conv.timestamp}</div>
+                `;
+
+                list.appendChild(item);
+            });
+        }
+
+        // Render messages
+        function renderMessages() {
+            const container = document.getElementById('messagesContainer');
+            const conv = conversations[activeConversation];
+
+            // Update header
+            document.getElementById('headerIcon').textContent = conv.icon;
+            document.getElementById('headerTitle').textContent = conv.title;
+
+            container.innerHTML = '';
+
+            if (conv.messages.length === 0) {
+                container.innerHTML = `
+                    <div style="text-align: center; color: #71717a; padding: 40px;">
+                        <div style="font-size: 48px; margin-bottom: 16px;">💬</div>
+                        <div>No messages yet</div>
+                        <div style="font-size: 12px; margin-top: 8px;">Start the conversation</div>
+                    </div>
+                `;
+                return;
+            }
+
+            conv.messages.forEach(msg => {
+                const messageDiv = document.createElement('div');
+                messageDiv.className = `message ${msg.sender}`;
+
+                const avatar = msg.sender === 'glitch' ? '🤖' : '👤';
+
+                messageDiv.innerHTML = `
+                    <div class="message-avatar">${avatar}</div>
+                    <div class="message-content">
+                        <div class="message-bubble">${msg.text.replace(/\n/g, '<br>')}</div>
+                        <div class="message-timestamp">${msg.time}</div>
+                    </div>
+                `;
+
+                container.appendChild(messageDiv);
+            });
+
+            // Scroll to bottom
+            container.scrollTop = container.scrollHeight;
+        }
+
+        // Select conversation
+        function selectConversation(index) {
+            activeConversation = index;
+            conversations[index].unread = false;
+            renderConversations();
+            renderMessages();
+        }
+
+        // Send message
+        function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const text = input.value.trim();
+
+            if (!text) return;
+
+            const conv = conversations[activeConversation];
+            const now = new Date();
+            const time = now.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+
+            // Add user message
+            conv.messages.push({
+                sender: 'chris',
+                text: text,
+                time: time
+            });
+
+            // Update preview
+            conv.preview = text;
+            conv.timestamp = 'Just now';
+
+            input.value = '';
+            renderConversations();
+            renderMessages();
+
+            // Show loading indicator
+            const loadingDiv = document.createElement('div');
+            loadingDiv.className = 'loading-indicator';
+            loadingDiv.id = 'loadingIndicator';
+            loadingDiv.innerHTML = `
+                <div class="loading-dot"></div>
+                <div class="loading-dot"></div>
+                <div class="loading-dot"></div>
+            `;
+            document.getElementById('messagesContainer').appendChild(loadingDiv);
+            document.getElementById('messagesContainer').scrollTop = document.getElementById('messagesContainer').scrollHeight;
+
+            // Simulate Glitch response
+            setTimeout(() => {
+                const loading = document.getElementById('loadingIndicator');
+                if (loading) loading.remove();
+
+                const responses = [
+                    'I\'ll look into that right away.',
+                    'Got it. Processing your request.',
+                    'Excellent point. Let me analyze the data.',
+                    'On it! I\'ll have an update shortly.',
+                    'Understood. I\'ll make the necessary adjustments.'
+                ];
+
+                const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+
+                conv.messages.push({
+                    sender: 'glitch',
+                    text: randomResponse,
+                    time: new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' })
+                });
+
+                conv.preview = randomResponse;
+                renderConversations();
+                renderMessages();
+            }, 1500);
+        }
+
+        // Event listeners
+        document.getElementById('sendBtn').addEventListener('click', sendMessage);
+        document.getElementById('messageInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        // Auto-resize textarea
+        document.getElementById('messageInput').addEventListener('input', function() {
+            this.style.height = 'auto';
+            this.style.height = Math.min(this.scrollHeight, 120) + 'px';
+        });
+
+        // Initialize
+        renderConversations();
+        renderMessages();
+    </script>
+</body>
+</html>

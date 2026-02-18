@@ -1,0 +1,12 @@
+[04:30:06][SEG5] ============================================================
+[04:30:06][SEG5] APOLLO PARALLEL — Segment 5/10 | Batch: 20
+[04:30:06][SEG5] ============================================================
+[04:30:06][SEG5] Loaded 785 leads
+[04:30:06][SEG5] Leads in segment 5: 2
+[04:30:06][SEG5] Processing batch of 2
+[04:30:06][SEG5]   [1/2] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[04:30:06][SEG5]     → SKIP: no MX for brennityverobeach.com
+[04:30:06][SEG5]   [2/2] Detail by Entity Name → search.sunbiz.org
+[04:30:06][SEG5]     → SKIP: no MX for search.sunbiz.org
+[04:30:06][SEG5] SEGMENT 5 COMPLETE: 0 guessed, 0 verified
+[04:30:06][SEG5] ============================================================

@@ -1,0 +1,126 @@
+{
+  "groups": [
+    {
+      "id": "warzone",
+      "name": "War Room",
+      "icon": "\u2694\ufe0f",
+      "members": [
+        "chris",
+        "glitch",
+        "carmack",
+        "musk",
+        "jensen"
+      ],
+      "modelConfig": {
+        "chris": "zai/glm-4.7",
+        "glitch": "zai/glm-4.7",
+        "carmack": "zai/glm-4.7",
+        "musk": "zai/glm-4.7",
+        "jensen": "zai/glm-4.7"
+      }
+    },
+    {
+      "id": "lead-gen",
+      "name": "Lead Generation",
+      "icon": "\ud83c\udfaf",
+      "members": [
+        "chris",
+        "glitch",
+        "lead-scout",
+        "lead-scout-247",
+        "scraper-worker-01",
+        "scraper-worker-02",
+        "verifier-worker-01",
+        "verifier-worker-02",
+        "strategy-planner"
+      ]
+    },
+    {
+      "id": "treasure-coast",
+      "name": "Treasure Coast",
+      "icon": "\ud83c\udfd6\ufe0f",
+      "members": [
+        "chris",
+        "glitch",
+        "treasure-coast-fixer-01",
+        "treasure-coast-fixer-02",
+        "lead-scout",
+        "strategy-planner"
+      ]
+    },
+    {
+      "id": "founders",
+      "name": "Founders",
+      "icon": "\ud83d\ude80",
+      "members": [
+        "chris",
+        "glitch",
+        "carmack",
+        "musk",
+        "thiel",
+        "jensen"
+      ]
+    },
+    {
+      "id": "quality",
+      "name": "Quality Control",
+      "icon": "\u2705",
+      "members": [
+        "chris",
+        "glitch",
+        "quality-control",
+        "compliance-officer",
+        "email-quality",
+        "data-analyst"
+      ]
+    },
+    {
+      "id": "seo-analytics",
+      "name": "SEO & Analytics",
+      "icon": "\ud83d\udd0d",
+      "members": [
+        "chris",
+        "glitch",
+        "seo-analyst",
+        "data-analyst",
+        "strategy-planner"
+      ]
+    },
+    {
+      "id": "you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker",
+      "name": "you better not delete and this better have everyone in it mother fucker",
+      "icon": "\ud83d\udcac",
+      "members": [
+        "chris",
+        "glitch",
+        "carmack",
+        "musk",
+        "thiel",
+        "jensen"
+      ]
+    },
+    {
+      "id": "schedule",
+      "name": "schedule",
+      "icon": "\ud83d\udcacscheduling",
+      "type": "group",
+      "members": [
+        "chris"
+      ]
+    },
+    {
+      "id": "test-auto-add",
+      "name": "Test Auto Add",
+      "icon": "\ud83e\uddea",
+      "type": "group",
+      "members": [
+        "chris",
+        "glitch",
+        "carmack",
+        "musk",
+        "thiel",
+        "jensen"
+      ]
+    }
+  ]
+}

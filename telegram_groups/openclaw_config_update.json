@@ -1,0 +1,255 @@
+{
+  "channels": {
+    "telegram": {
+      "groupPolicy": "allowlist",
+      "groups": {
+        "-100empire-hq": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83c\udff0 Empire HQ' Telegram group.\n\nGroup Purpose: Overall business strategy, revenue tracking, major decisions\nPriority Level: CRITICAL\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100contractor-recruitment": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udc77 Contractor Recruitment' Telegram group.\n\nGroup Purpose: Email campaigns, contractor follow-ups, recruitment pipeline\nPriority Level: HIGH\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100elite-mail-dev": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udce7 Elite Mail Development' Telegram group.\n\nGroup Purpose: Email infrastructure, reputation management, platform updates\nPriority Level: HIGH\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100elite-services-dev": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83e\udd16 Elite Services Development' Telegram group.\n\nGroup Purpose: Chatbot development, service automation, bot deployment\nPriority Level: HIGH\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100revenue-tracking": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udcb0 Revenue Tracking' Telegram group.\n\nGroup Purpose: Revenue tracking, commission payments, financial analysis\nPriority Level: CRITICAL\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100technical-ops": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\u2699\ufe0f Technical Operations' Telegram group.\n\nGroup Purpose: Server management, system health, technical issues\nPriority Level: HIGH\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100daily-scrum": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\u2600\ufe0f Daily Scrum' Telegram group.\n\nGroup Purpose: Daily check-ins, task assignments, progress updates\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100project-status": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udcca Project Status' Telegram group.\n\nGroup Purpose: Project milestones, completion tracking, status reports\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100bug-reports": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udc1b Bug Reports & Issues' Telegram group.\n\nGroup Purpose: Bug tracking, issue resolution, system fixes\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100feature-requests": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udca1 Feature Requests' Telegram group.\n\nGroup Purpose: Feature planning, enhancement ideas, innovation\nPriority Level: LOW\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100quality-assurance": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\u2705 Quality Assurance' Telegram group.\n\nGroup Purpose: Testing protocols, quality standards, QA processes\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100deployment-tracking": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\ude80 Deployment Tracking' Telegram group.\n\nGroup Purpose: Deployment coordination, release management, version control\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100market-research": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udd0d Market Research' Telegram group.\n\nGroup Purpose: Competitor research, market trends, opportunity analysis\nPriority Level: LOW\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100lead-generation": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83c\udfaf Lead Generation' Telegram group.\n\nGroup Purpose: Lead generation, prospect research, lead quality\nPriority Level: HIGH\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100customer-feedback": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udce2 Customer Feedback' Telegram group.\n\nGroup Purpose: Customer satisfaction, feedback analysis, service improvements\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100industry-trends": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udcc8 Industry Trends' Telegram group.\n\nGroup Purpose: Industry monitoring, trend analysis, future planning\nPriority Level: LOW\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100email-specialists": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udce7 Email Specialist Team' Telegram group.\n\nGroup Purpose: Email strategy, deliverability, campaign optimization\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100chatbot-developers": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83e\udd16 Chatbot Developer Team' Telegram group.\n\nGroup Purpose: Bot development, AI training, conversation optimization\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100contractor-relations": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83e\udd1d Contractor Relations Team' Telegram group.\n\nGroup Purpose: Contractor support, relationship building, satisfaction\nPriority Level: HIGH\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        },
+        "-100data-analytics": {
+          "groupPolicy": "allowlist",
+          "requireMention": true,
+          "enabled": true,
+          "allowFrom": [
+            "7881105163"
+          ],
+          "systemPrompt": "You are participating in the '\ud83d\udcca Data Analytics Team' Telegram group.\n\nGroup Purpose: Data analysis, business insights, reporting optimization\nPriority Level: MEDIUM\n\nGuidelines:\n- Keep messages focused on the group's specific purpose\n- Stay on-topic and respect priority levels\n- Use @ mentions for urgent matters requiring attention\n- Track progress and provide regular updates\n- Maintain professional and focused communication\n\nCurrent session context: Empire building - Phase One complete, moving to execution phase.",
+          "skills": [
+            "all"
+          ]
+        }
+      },
+      "allowFrom": [
+        "7881105163"
+      ],
+      "groupAllowFrom": [
+        "7881105163"
+      ]
+    }
+  }
+}

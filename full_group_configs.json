@@ -1,0 +1,176 @@
+{
+  "channels": {
+    "telegram": {
+      "groups": {
+        "*": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "Welcome to the Elite Service Hub empire group. Each group has its specialized focus. I'm here to help with the specific topics for this group.",
+          "skills": ["all"]
+        },
+        "-100empire-hq": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🏰 Empire HQ - Main strategy and empire coordination. Focus: Overall business strategy, revenue tracking, major decisions, executive decisions, strategic planning. Priority: CRITICAL - Immediate responses.",
+          "skills": ["all"]
+        },
+        "-100contractor-recruitment": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "👷 Contractor Recruitment - Daily contractor outreach and onboarding. Focus: Email campaigns, contractor follow-ups, recruitment pipeline, onboarding new contractors. Priority: HIGH - Respond within 30 minutes.",
+          "skills": ["all"]
+        },
+        "-100elite-mail-dev": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "📧 Elite Mail Development - Email platform development and optimization. Focus: Email infrastructure, reputation management, platform updates, deliverability optimization. Priority: HIGH - Respond within 30 minutes.",
+          "skills": ["all"]
+        },
+        "-100elite-services-dev": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🤖 Elite Services Development - Chatbot and automated services development. Focus: Chatbot development, service automation, bot deployment, API integration. Priority: HIGH - Respond within 30 minutes.",
+          "skills": ["all"]
+        },
+        "-100revenue-tracking": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "💰 Revenue Tracking - Financial metrics and revenue optimization. Focus: Revenue tracking, commission payments, financial analysis, profit optimization. Priority: CRITICAL - Immediate responses.",
+          "skills": ["all"]
+        },
+        "-100technical-ops": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "⚙️ Technical Operations - System operations and infrastructure management. Focus: Server management, system health, technical issues, infrastructure monitoring. Priority: HIGH - Respond within 30 minutes.",
+          "skills": ["all"]
+        },
+        "-100daily-scrum": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "☀️ Daily Scrum - Daily standup and task coordination. Focus: Daily check-ins, task assignments, progress updates, team coordination. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100project-status": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "📊 Project Status - Real-time project progress and metrics. Focus: Project milestones, completion tracking, status reports, progress metrics. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100bug-reports": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🐛 Bug Reports & Issues - System issues and bug tracking. Focus: Bug tracking, issue resolution, system fixes, error handling. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100feature-requests": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "💡 Feature Requests - New feature ideas and enhancements. Focus: Feature planning, enhancement ideas, innovation, new capabilities. Priority: LOW - Respond within 6 hours.",
+          "skills": ["all"]
+        },
+        "-100quality-assurance": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "✅ Quality Assurance - Testing and quality control. Focus: Testing protocols, quality standards, QA processes, product quality. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100deployment-tracking": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🚀 Deployment Tracking - System deployments and releases. Focus: Deployment coordination, release management, version control, deployment monitoring. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100market-research": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🔍 Market Research - Competitive analysis and market intelligence. Focus: Competitor research, market trends, opportunity analysis, market intelligence. Priority: LOW - Respond within 6 hours.",
+          "skills": ["all"]
+        },
+        "-100lead-generation": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🎯 Lead Generation - Lead sourcing and prospecting activities. Focus: Lead generation, prospect research, lead quality, prospect management. Priority: HIGH - Respond within 30 minutes.",
+          "skills": ["all"]
+        },
+        "-100customer-feedback": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "📢 Customer Feedback - Contractor and customer insights. Focus: Customer satisfaction, feedback analysis, service improvements, client insights. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100industry-trends": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "📈 Industry Trends - Industry analysis and trend tracking. Focus: Industry monitoring, trend analysis, future planning, industry developments. Priority: LOW - Respond within 6 hours.",
+          "skills": ["all"]
+        },
+        "-100email-specialists": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "📧 Email Specialist Team - Email marketing and deliverability experts. Focus: Email strategy, deliverability, campaign optimization, email infrastructure. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100chatbot-developers": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🤖 Chatbot Developer Team - AI and chatbot development specialists. Focus: Bot development, AI training, conversation optimization, NLP development. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        },
+        "-100contractor-relations": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "🤝 Contractor Relations Team - Contractor support and relationship management. Focus: Contractor support, relationship building, satisfaction, contractor success. Priority: HIGH - Respond within 30 minutes.",
+          "skills": ["all"]
+        },
+        "-100data-analytics": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "📊 Data Analytics Team - Data analysis and business intelligence. Focus: Data analysis, business insights, reporting optimization, data-driven decisions. Priority: MEDIUM - Respond within 2 hours.",
+          "skills": ["all"]
+        }
+      }
+    }
+  }
+}

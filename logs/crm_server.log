@@ -1,34 +1,42 @@
-[03:13:17] Dashboard HTML generated
-[03:13:17] CRM Server running on http://0.0.0.0:8181
-[03:13:17] Serving: /home/chris/.openclaw/workspace/reports/html
-[03:13:17] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[03:13:39] APPROVED 1 leads for sending (total queue: 1)
-[03:13:39] REMOVED 1 leads from queue (remaining: 0)
-[05:37:08] Dashboard HTML generated
-[05:37:08] CRM Server running on http://0.0.0.0:8181
-[05:37:08] Serving: /home/chris/.openclaw/workspace/reports/html
-[05:37:08] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[20:46:39] Dashboard HTML generated
-[20:46:39] CRM Server running on http://0.0.0.0:8181
-[20:46:39] Serving: /home/chris/.openclaw/workspace/reports/html
-[20:46:39] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[23:00:49] Dashboard HTML generated
-[23:00:49] CRM Server running on http://0.0.0.0:8181
-[23:00:49] Serving: /home/chris/.openclaw/workspace/reports/html
-[23:00:49] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[23:38:56] Dashboard HTML generated
-[23:38:56] CRM Server running on http://0.0.0.0:8181
-[23:38:56] Serving: /home/chris/.openclaw/workspace/reports/html
-[23:38:56] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[23:41:04] Dashboard HTML generated
-[23:41:04] CRM Server running on http://0.0.0.0:8181
-[23:41:04] Serving: /home/chris/.openclaw/workspace/reports/html
-[23:41:04] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[00:50:29] Dashboard HTML generated
-[00:50:29] CRM Server running on http://0.0.0.0:8181
-[00:50:29] Serving: /home/chris/.openclaw/workspace/reports/html
-[00:50:29] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
-[21:35:57] Dashboard HTML generated
-[21:35:57] CRM Server running on http://0.0.0.0:8181
-[21:35:57] Serving: /home/chris/.openclaw/workspace/reports/html
-[21:35:57] API endpoints: /api/leads, /api/queue, /api/status, /api/approve, /api/send
+[09:31:02] Dashboard generation failed: 'NoneType' object has no attribute 'strip'
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/crm_server.py", line 407, in <module>
+    main()
+  File "/home/chris/.openclaw/bin/crm_server.py", line 394, in main
+    server = http.server.HTTPServer((HOST, PORT), CRMHandler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.12/socketserver.py", line 473, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+[09:31:09] CHAT: Created group 'Test Group' (ID: test)
+[09:31:13] CHAT: Message to group 'test' from 'chris'
+[09:45:39] CHAT: Message to group 'warzone' from 'chris'
+[09:45:45] CHAT: Message to group 'lead-gen' from 'chris'
+[09:56:13] CHAT: Message to group 'warzone' from 'chris'
+[10:25:47] CHAT: Message to group 'warzone' from 'chris'
+[11:06:45] CHAT: Message to group 'warzone' from 'chris'
+[19:28:28] CHAT: Message to group 'warzone' from 'chris'
+[20:21:58] CHAT: Message to group 'warzone' from 'chris'
+[01:20:50] CHAT: Message to group 'warzone' from 'chris'
+[01:28:18] CHAT: Created group 'email strat' (ID: email-strat)
+[01:28:28] CHAT: Message to group 'email-strat' from 'chris'
+[01:28:36] CHAT: Message to group 'email-strat' from 'chris'
+[01:34:22] CHAT: Message to group 'email-strat' from 'chris'
+[01:56:33] CHAT: Created group 'lkjn' (ID: lkjn)
+[01:56:39] CHAT: Message to group 'lkjn' from 'chris'
+[01:56:46] CHAT: Message to group 'lkjn' from 'chris'
+[02:36:43] CHAT: Created group 'you better not delete and this better have everyone in it mother fucker' (ID: you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker)
+[02:36:52] CHAT: Message to group 'you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker' from 'chris'
+[02:37:56] CHAT: Message to group 'you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker' from 'chris'
+[02:38:03] CHAT: Message to group 'you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker' from 'chris'
+[02:40:30] CHAT: Message to group 'you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker' from 'chris'
+[02:40:37] CHAT: Message to group 'you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker' from 'chris'
+[02:45:13] CHAT: Message to group 'you-better-not-delete-and-this-better-have-everyone-in-it-mother-fucker' from 'chris'
+[02:45:50] CHAT: Created group 'schedule' (ID: schedule)
+[02:46:48] CHAT: Message to group 'schedule' from 'chris'
+[02:47:03] CHAT: Message to group 'schedule' from 'chris'
+[02:54:08] CHAT: Created group 'Test Auto Add' (ID: test-auto-add)

@@ -1,0 +1,24 @@
+{
+  "agents": [
+    {"id": "glitch", "name": "GlitchGo", "icon": "🤖", "role": "Operations AI"},
+    {"id": "carmack", "name": "Carmack", "icon": "🎮", "role": "Tech Strategy"},
+    {"id": "musk", "name": "Musk", "icon": "🚀", "role": "Scale & Vision"},
+    {"id": "thiel", "name": "Thiel", "icon": "💰", "role": "Strategy & Moats"},
+    {"id": "jensen", "name": "Jensen", "icon": "💚", "role": "Infrastructure"},
+    {"id": "lead-scout", "name": "Lead Scout", "icon": "🎯", "role": "Lead Generation"},
+    {"id": "lead-scout-247", "name": "Lead Scout 24/7", "icon": "🔎", "role": "Continuous Lead Gen"},
+    {"id": "outreach-writer", "name": "Outreach Writer", "icon": "✉️", "role": "Email Drafts"},
+    {"id": "strategy-planner", "name": "Strategy Planner", "icon": "📊", "role": "Planning & Metrics"},
+    {"id": "seo-analyst", "name": "SEO Analyst", "icon": "🔍", "role": "Search & Rankings"},
+    {"id": "data-analyst", "name": "Data Analyst", "icon": "📈", "role": "Analytics & Dashboards"},
+    {"id": "quality-control", "name": "Quality Control", "icon": "✅", "role": "Quality Assurance"},
+    {"id": "compliance-officer", "name": "Compliance", "icon": "📋", "role": "Rules & Standards"},
+    {"id": "email-quality", "name": "Email Quality", "icon": "📧", "role": "Email Standards"},
+    {"id": "treasure-coast-fixer-01", "name": "TC Fixer 01", "icon": "🏖️", "role": "Regional Ops"},
+    {"id": "treasure-coast-fixer-02", "name": "TC Fixer 02", "icon": "🏖️", "role": "Regional Ops"},
+    {"id": "scraper-worker-01", "name": "Scraper 01", "icon": "⚙️", "role": "Data Scraping"},
+    {"id": "scraper-worker-02", "name": "Scraper 02", "icon": "⚙️", "role": "Data Scraping"},
+    {"id": "verifier-worker-01", "name": "Verifier 01", "icon": "✔️", "role": "Lead Verification"},
+    {"id": "verifier-worker-02", "name": "Verifier 02", "icon": "✔️", "role": "Lead Verification"}
+  ]
+}

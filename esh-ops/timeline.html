@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeline - ESH Operations Hub</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="timeline-container">
+        <div class="timeline-header">
+            <div class="timeline-title">
+                <h2><i class="fas fa-gantt-chart"></i> Timeline</h2>
+                <div class="project-info">
+                    <span id="currentProjectName">Select a project</span>
+                </div>
+            </div>
+            <div class="timeline-controls">
+                <div class="view-options">
+                    <button class="btn btn-secondary active" data-view="month" onclick="changeView('month')">Month</button>
+                    <button class="btn btn-secondary" data-view="quarter" onclick="changeView('quarter')">Quarter</button>
+                    <button class="btn btn-secondary" data-view="year" onclick="changeView('year')">Year</button>
+                </div>
+                <div class="zoom-controls">
+                    <button class="btn btn-secondary" onclick="zoomOut()">
+                        <i class="fas fa-search-minus"></i>
+                    </button>
+                    <button class="btn btn-secondary" onclick="resetZoom()">
+                        <i class="fas fa-compress"></i>
+                    </button>
+                    <button class="btn btn-secondary" onclick="zoomIn()">
+                        <i class="fas fa-search-plus"></i>
+                    </button>
+                </div>
+                <button class="btn btn-primary" onclick="parent.openTaskModal()">
+                    <i class="fas fa-plus"></i> Add Task
+                </button>
+                <button class="btn btn-secondary" onclick="refreshTimeline()">
+                    <i class="fas fa-sync"></i> Refresh
+                </button>
+            </div>
+        </div>
+
+        <div class="timeline-viewport" id="timelineViewport">
+            <div class="timeline-header-grid" id="timelineHeader">
+                <!-- Timeline headers will be generated here -->
+            </div>
+            <div class="timeline-content" id="timelineContent">
+                <!-- Timeline content will be generated here -->
+            </div>
+        </div>
+
+        <!-- Task Details Panel -->
+        <div class="timeline-details-panel" id="detailsPanel">
+            <div class="panel-header">
+                <h3>
+                    <i class="fas fa-info-circle"></i>
+                    Task Details
+                </h3>
+                <button class="close-panel" onclick="closeDetailsPanel()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="panel-content" id="panelContent">
+                <!-- Task details will be shown here -->
+            </div>
+        </div>
+
+        <!-- Timeline Legend -->
+        <div class="timeline-legend">
+            <div class="legend-item">
+                <div class="legend-color priority-low"></div>
+                <span>Low Priority</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color priority-medium"></div>
+                <span>Medium Priority</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color priority-high"></div>
+                <span>High Priority</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color priority-urgent"></div>
+                <span>Urgent</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color milestone"></div>
+                <span>Milestone</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let currentProject = null;
+        let tasks = [];
+        let dependencies = [];
+        let currentView = 'month';
+        let zoomLevel = 1;
+        let startDate = new Date();
+        let endDate = new Date();
+        
+        // Timeline dimensions
+        const DAY_WIDTH = 30; // pixels per day
+        const TASK_HEIGHT = 40;
+        const TASK_MARGIN = 10;
+
+        // Initialize timeline when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeTimeline();
+            startRealTimeUpdates();
+        });
+
+        function initializeTimeline() {
+            // Get current project from parent
+            if (window.parent.currentProject) {
+                currentProject = window.parent.currentProject;
+                document.getElementById('currentProjectName').textContent = currentProject.name;
+            }
+            
+            calculateDateRange();
+            loadTimelineData();
+            renderTimeline();
+            setupEventListeners();
+            setupDragScroll();
+        }
+
+        function setupEventListeners() {
+            // Listen for project changes from parent
+            window.addEventListener('message', function(event) {
+                if (event.data.type === 'projectChanged') {
+                    currentProject = event.data.project;
+                    document.getElementById('currentProjectName').textContent = currentProject.name;
+                    loadTimelineData();
+                    renderTimeline();
+                }
+            });
+
+            // Handle window resize
+            window.addEventListener('resize', () => {
+                renderTimeline();
+            });
+        }
+
+        function setupDragScroll() {
+            const viewport = document.getElementById('timelineViewport');
+            let isDragging = false;
+            let startX;
+            let scrollLeft;
+
+            viewport.addEventListener('mousedown', (e) => {
+                if (e.target.closest('.timeline-task')) return;
+                isDragging = true;
+                startX = e.pageX - viewport.offsetLeft;
+                scrollLeft = viewport.scrollLeft;
+                viewport.style.cursor = 'grabbing';
+            });
+
+            viewport.addEventListener('mouseleave', () => {
+                isDragging = false;
+                viewport.style.cursor = 'grab';
+            });
+
+            viewport.addEventListener('mouseup', () => {
+                isDragging = false;
+                viewport.style.cursor = 'grab';
+            });
+
+            viewport.addEventListener('mousemove', (e) => {
+                if (!isDragging) return;
+                e.preventDefault();
+                const x = e.pageX - viewport.offsetLeft;
+                const walk = (x - startX) * 2;
+                viewport.scrollLeft = scrollLeft - walk;
+            });
+        }
+
+        function calculateDateRange() {
+            const now = new Date();
+            
+            switch (currentView) {
+                case 'month':
+                    startDate = new Date(now.getFullYear(), now.getMonth(), 1);
+                    endDate = new Date(now.getFullYear(), now.getMonth() + 1, 0);
+                    break;
+                case 'quarter':
+                    const quarter = Math.floor(now.getMonth() / 3);
+                    startDate = new Date(now.getFullYear(), quarter * 3, 1);
+                    endDate = new Date(now.getFullYear(), (quarter + 1) * 3, 0);
+                    break;
+                case 'year':
+                    startDate = new Date(now.getFullYear(), 0, 1);
+                    endDate = new Date(now.getFullYear(), 11, 31);
+                    break;
+            }
+        }
+
+        async function loadTimelineData() {
+            try {
+                showLoading(true);
+                
+                // Load tasks
+                const tasksResponse = await fetch(`${window.parent.API_BASE_URL}/api/tasks?project_id=${currentProject?.id || ''}`, {
+                    headers: {
+                        'Authorization': `Bearer ${window.parent.getAuthToken()}`
+                    }
+                });
+
+                if (tasksResponse.ok) {
+                    const tasksData = await tasksResponse.json();
+                    tasks = tasksData.tasks || [];
+                }
+
+                // Load dependencies
+                if (currentProject) {
+                    const depsResponse = await fetch(`${window.parent.API_BASE_URL}/api/timeline/${currentProject.id}`, {
+                        headers: {
+                            'Authorization': `Bearer ${window.parent.getAuthToken()}`
+                        }
+                    });
+
+                    if (depsResponse.ok) {
+                        const depsData = await depsResponse.json();
+                        dependencies = depsData.dependencies || [];
+                    }
+                }
+
+            } catch (error) {
+                console.error('Error loading timeline data:', error);
+                showError('Failed to load timeline data');
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        function renderTimeline() {
+            renderTimelineHeader();
+            renderTimelineContent();
+        }
+
+        function renderTimelineHeader() {
+            const header = document.getElementById('timelineHeader');
+            header.innerHTML = '';
+            
+            const totalWidth = calculateTimelineWidth();
+            
+            // Create month headers
+            const current = new Date(startDate);
+            while (current <= endDate) {
+                const monthHeader = document.createElement('div');
+                monthHeader.className = 'timeline-month-header';
+                
+                const daysInMonth = new Date(current.getFullYear(), current.getMonth() + 1, 0).getDate();
+                const monthWidth = daysInMonth * DAY_WIDTH * zoomLevel;
+                
+                monthHeader.style.width = `${monthWidth}px`;
+                monthHeader.innerHTML = current.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+                
+                header.appendChild(monthHeader);
+                current.setMonth(current.getMonth() + 1);
+            }
+            
+            // Create day headers
+            const dayHeaderRow = document.createElement('div');
+            dayHeaderRow.className = 'timeline-day-headers';
+            
+            const dayCurrent = new Date(startDate);
+            while (dayCurrent <= endDate) {
+                const dayHeader = document.createElement('div');
+                dayHeader.className = 'timeline-day-header';
+                dayHeader.style.width = `${DAY_WIDTH * zoomLevel}px`;
+                dayHeader.innerHTML = dayCurrent.getDate();
+                
+                // Add weekend styling
+                const dayOfWeek = dayCurrent.getDay();
+                if (dayOfWeek === 0 || dayOfWeek === 6) {
+                    dayHeader.classList.add('weekend');
+                }
+                
+                // Add today styling
+                const today = new Date();
+                if (dayCurrent.toDateString() === today.toDateString()) {
+                    dayHeader.classList.add('today');
+                }
+                
+                dayHeaderRow.appendChild(dayHeader);
+                dayCurrent.setDate(dayCurrent.getDate() + 1);
+            }
+            
+            header.appendChild(dayHeaderRow);
+        }
+
+        function renderTimelineContent() {
+            const content = document.getElementById('timelineContent');
+            content.innerHTML = '';
+            
+            // Group tasks by status for better organization
+            const taskGroups = groupTasksByStatus();
+            
+            let rowPosition = 0;
+            
+            Object.entries(taskGroups).forEach(([status, statusTasks]) => {
+                if (statusTasks.length === 0) return;
+                
+                // Add status header
+                const statusHeader = document.createElement('div');
+                statusHeader.className = 'timeline-status-header';
+                statusHeader.style.top = `${rowPosition * (TASK_HEIGHT + TASK_MARGIN)}px`;
+                statusHeader.innerHTML = `
+                    <i class="fas fa-chevron-down"></i>
+                    ${status.charAt(0).toUpperCase() + status.slice(1)} (${statusTasks.length})
+                `;
+                content.appendChild(statusHeader);
+                rowPosition++;
+                
+                // Add tasks for this status
+                statusTasks.forEach((task, index) => {
+                    const taskRow = renderTaskRow(task, rowPosition);
+                    content.appendChild(taskRow);
+                    rowPosition++;
+                });
+            });
+            
+            // Render dependencies
+            renderDependencies();
+            
+            // Set content height
+            content.style.height = `${rowPosition * (TASK_HEIGHT + TASK_MARGIN)}px`;
+        }
+
+        function groupTasksByStatus() {
+            const groups = {
+                backlog: [],
+                planning: [],
+                in_progress: [],
+                review: [],
+                done: []
+            };
+            
+            tasks.forEach(task => {
+                const status = task.stage || 'backlog';
+                if (groups[status]) {
+                    groups[status].push(task);
+                }
+            });
+            
+            return groups;
+        }
+
+        function renderTaskRow(task, rowPosition) {
+            const taskRow = document.createElement('div');
+            taskRow.className = 'timeline-row';
+            taskRow.style.top = `${rowPosition * (TASK_HEIGHT + TASK_MARGIN)}px`;
+            
+            // Task info column
+            const taskInfo = document.createElement('div');
+            taskInfo.className = 'timeline-task-info';
+            taskInfo.innerHTML = `
+                <div class="task-info-content">
+                    <div class="task-title">${task.title}</div>
+                    <div class="task-meta">
+                        <span class="task-id">#${task.id}</span>
+                        ${task.assignee ? `
+                            <img src="https://picsum.photos/seed/${task.assignee.username}/20/20" alt="${task.assignee.full_name}" class="assignee-avatar">
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+            
+            // Task timeline
+            const taskTimeline = document.createElement('div');
+            taskTimeline.className = 'timeline-task-timeline';
+            
+            const taskBar = createTaskBar(task);
+            taskTimeline.appendChild(taskBar);
+            
+            taskRow.appendChild(taskInfo);
+            taskRow.appendChild(taskTimeline);
+            
+            return taskRow;
+        }
+
+        function createTaskBar(task) {
+            const taskBar = document.createElement('div');
+            taskBar.className = `timeline-task-bar priority-${task.priority}`;
+            taskBar.dataset.taskId = task.id;
+            
+            // Calculate position and width
+            const taskStart = task.due_date ? new Date(task.due_date) : new Date();
+            const taskEnd = task.due_date ? new Date(task.due_date) : new Date();
+            
+            // If no start date, assume it's a one-day task
+            const startDays = Math.max(0, Math.floor((taskStart - startDate) / (1000 * 60 * 60 * 24)));
+            const duration = Math.max(1, Math.floor((taskEnd - taskStart) / (1000 * 60 * 60 * 24)) + 1);
+            
+            const left = startDays * DAY_WIDTH * zoomLevel;
+            const width = Math.max(duration * DAY_WIDTH * zoomLevel, 60); // Minimum width
+            
+            taskBar.style.left = `${left}px`;
+            taskBar.style.width = `${width}px`;
+            taskBar.style.height = `${TASK_HEIGHT}px`;
+            
+            // Add milestone indicator if applicable
+            if (task.priority === 'urgent') {
+                const milestone = document.createElement('div');
+                milestone.className = 'milestone-indicator';
+                milestone.innerHTML = '<i class="fas fa-gem"></i>';
+                taskBar.appendChild(milestone);
+            }
+            
+            // Add progress indicator
+            const progress = calculateTaskProgress(task);
+            if (progress > 0) {
+                const progressBar = document.createElement('div');
+                progressBar.className = 'task-progress';
+                progressBar.style.width = `${progress}%`;
+                taskBar.appendChild(progressBar);
+            }
+            
+            // Add click handler
+            taskBar.addEventListener('click', () => showTaskDetails(task));
+            
+            return taskBar;
+        }
+
+        function calculateTaskProgress(task) {
+            if (task.stage === 'done') return 100;
+            if (task.stage === 'review') return 75;
+            if (task.stage === 'in_progress') return 50;
+            if (task.stage === 'planning') return 25;
+            return 0;
+        }
+
+        function renderDependencies() {
+            const content = document.getElementById('timelineContent');
+            
+            dependencies.forEach(dep => {
+                const fromTask = tasks.find(t => t.id === dep.task_id);
+                const toTask = tasks.find(t => t.id === dep.depends_on_task_id);
+                
+                if (fromTask && toTask) {
+                    const line = createDependencyLine(fromTask, toTask);
+                    if (line) {
+                        content.appendChild(line);
+                    }
+                }
+            });
+        }
+
+        function createDependencyLine(fromTask, toTask) {
+            // This is a simplified dependency line implementation
+            // In a real implementation, you'd use SVG or canvas for proper line drawing
+            const line = document.createElement('div');
+            line.className = 'dependency-line';
+            
+            // Calculate positions (simplified)
+            const fromBar = document.querySelector(`.timeline-task-bar[data-task-id="${fromTask.id}"]`);
+            const toBar = document.querySelector(`.timeline-task-bar[data-task-id="${toTask.id}"]`);
+            
+            if (!fromBar || !toBar) return null;
+            
+            const fromRect = fromBar.getBoundingClientRect();
+            const toRect = toBar.getBoundingClientRect();
+            
+            // This would need proper calculation relative to the timeline container
+            // For now, just return null as placeholder
+            return null;
+        }
+
+        function showTaskDetails(task) {
+            const panelContent = document.getElementById('panelContent');
+            
+            const priorityColors = {
+                low: '#4caf50',
+                medium: '#ff9800',
+                high: '#f44336',
+                urgent: '#9c27b0'
+            };
+            
+            panelContent.innerHTML = `
+                <div class="task-details">
+                    <div class="task-header">
+                        <h4>${task.title}</h4>
+                        <span class="task-priority priority-${task.priority}" style="background-color: ${priorityColors[task.priority]}">
+                            ${task.priority.toUpperCase()}
+                        </span>
+                    </div>
+                    <div class="task-description">${task.description || 'No description'}</div>
+                    <div class="task-meta-grid">
+                        <div class="meta-item">
+                            <label>Status:</label>
+                            <span>${task.stage ? task.stage.replace('_', ' ').toUpperCase() : 'BACKLOG'}</span>
+                        </div>
+                        <div class="meta-item">
+                            <label>Due Date:</label>
+                            <span>${task.due_date ? new Date(task.due_date).toLocaleDateString() : 'Not set'}</span>
+                        </div>
+                        <div class="meta-item">
+                            <label>Assigned to:</label>
+                            <span>${task.assignee ? task.assignee.full_name : 'Unassigned'}</span>
+                        </div>
+                        <div class="meta-item">
+                            <label>Estimated Hours:</label>
+                            <span>${task.estimated_hours || 'Not set'}</span>
+                        </div>
+                        <div class="meta-item">
+                            <label>Actual Hours:</label>
+                            <span>${task.actual_hours || '0'}</span>
+                        </div>
+                    </div>
+                    <div class="task-actions">
+                        <button class="btn btn-primary" onclick="editTask(${task.id})">
+                            <i class="fas fa-edit"></i> Edit Task
+                        </button>
+                        <button class="btn btn-secondary" onclick="closeDetailsPanel()">
+                            <i class="fas fa-times"></i> Close
+                        </button>
+                    </div>
+                </div>
+            `;
+            
+            document.getElementById('detailsPanel').classList.add('show');
+        }
+
+        function closeDetailsPanel() {
+            document.getElementById('detailsPanel').classList.remove('show');
+        }
+
+        function editTask(taskId) {
+            const task = tasks.find(t => t.id === taskId);
+            if (task) {
+                window.parent.postMessage({
+                    type: 'editTask',
+                    task: task
+                }, '*');
+                closeDetailsPanel();
+            }
+        }
+
+        function changeView(view) {
+            currentView = view;
+            
+            // Update button states
+            document.querySelectorAll('.view-options button').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            document.querySelector(`[data-view="${view}"]`).classList.add('active');
+            
+            calculateDateRange();
+            loadTimelineData();
+            renderTimeline();
+        }
+
+        function zoomIn() {
+            zoomLevel = Math.min(zoomLevel * 1.2, 3);
+            renderTimeline();
+        }
+
+        function zoomOut() {
+            zoomLevel = Math.max(zoomLevel / 1.2, 0.5);
+            renderTimeline();
+        }
+
+        function resetZoom() {
+            zoomLevel = 1;
+            renderTimeline();
+        }
+
+        function refreshTimeline() {
+            loadTimelineData();
+            renderTimeline();
+        }
+
+        function calculateTimelineWidth() {
+            const totalDays = Math.floor((endDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+            return totalDays * DAY_WIDTH * zoomLevel;
+        }
+
+        function showLoading(show) {
+            window.parent.showLoading(show);
+        }
+
+        function showError(message) {
+            window.parent.showError(message);
+        }
+
+        // Real-time updates
+        function startRealTimeUpdates() {
+            setInterval(() => {
+                if (currentProject) {
+                    loadTimelineData();
+                    renderTimeline();
+                }
+            }, 5000); // Update every 5 seconds
+        }
+    </script>
+</body>
+</html>

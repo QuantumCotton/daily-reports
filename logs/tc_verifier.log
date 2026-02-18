@@ -1,0 +1,3552 @@
+[01:33:01] TC Verifier starting...
+[01:33:01] Found 100 TC emails to verify
+[01:33:01] [1/100] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[01:33:02] [2/100] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[01:33:03] [3/100] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[01:33:05] [4/100] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[01:33:06] [5/100] accessibility@homeriver.com | Stuart
+  ✓ VERIFIED
+[01:33:07] [6/100] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[01:33:09] [7/100] ncsnatyka@gmail.com | Stuart
+  ✓ VERIFIED
+[01:33:10] [8/100] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[01:33:12] [9/100] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[01:33:13] [10/100] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[01:33:25] [11/100] info@cleanandfreshcleaning.com | Stuart
+  ✓ VERIFIED
+[01:33:26] [12/100] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[01:33:28] [13/100] sales@stewartsresort.com | Stuart
+  ✓ VERIFIED
+[01:33:30] [14/100] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[01:33:31] [15/100] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[01:33:32] [16/100] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:33:33] [17/100] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[01:33:35] [18/100] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[01:33:42] [19/100] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[01:33:43] [20/100] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[01:33:44] [21/100] jeanette.m.lugo@gmail.com | Stuart
+  ✓ VERIFIED
+[01:33:46] [22/100] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[01:33:47] [23/100] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[01:33:58] [24/100] Master.HammockCreek@gmail.com | Stuart
+  ✓ VERIFIED
+[01:34:00] [25/100] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[01:34:01] [26/100] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[01:34:03] [27/100] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[01:34:04] [28/100] faithmarie@tc-seniorliving.com | Stuart
+  ✓ VERIFIED
+[01:34:06] [29/100] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:34:07] [30/100] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[01:34:08] [31/100] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[01:34:10] [32/100] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[01:34:11] [33/100] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[01:34:12] [34/100] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:34:13] [35/100] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:34:14] [36/100] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[01:34:16] [37/100] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[01:34:18] [38/100] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[01:34:19] [39/100] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[01:34:20] [40/100] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[01:34:21] [41/100] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[01:34:23] [42/100] info@pressurewashingandhandyman.com | Stuart
+  ✓ VERIFIED
+[01:34:30] [43/100] ceramicprotcas@treasurecoastautospa | Stuart
+  ✓ VERIFIED
+[01:34:32] [44/100] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[01:34:33] [45/100] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:34:34] [46/100] liosqdllc@gmail.com | Stuart
+  ✓ VERIFIED
+[01:34:36] [47/100] ffdetailing77@gmail.com | Stuart
+  ✓ VERIFIED
+[01:34:37] [48/100] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[01:34:40] [49/100] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:34:41] [50/100] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[01:34:42] [51/100] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[01:34:43] [52/100] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[01:34:45] [53/100] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[01:34:49] [54/100] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[01:35:00] [55/100] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[01:35:02] [56/100] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[01:35:03] [57/100] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[01:35:05] [58/100] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[01:35:06] [59/100] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[01:35:13] [60/100] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[01:35:14] [61/100] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[01:35:15] [62/100] info@vanguardcleaning.com | Stuart
+  ✓ VERIFIED
+[01:35:17] [63/100] info@freedomcoastcleaningservices.c | Stuart
+  ✗ Rejected: 550
+[01:35:18] [64/100] info@cleanproservicesllc.com | Stuart
+  ✗ Rejected: 550
+[01:35:30] [65/100] info@treasurecoastcleaningsolutions | Stuart
+  ✗ Rejected: 450
+[01:35:31] [66/100] info@rcsoftreasurecoast.com | Stuart
+  ✗ Rejected: 550
+[01:35:32] [67/100] mack@mel-ry.com | Stuart
+  ✗ Rejected: 554
+[01:35:34] [68/100] info@westbuildingcontractors.com | Stuart
+  ✗ Rejected: 550
+[01:35:41] [69/100] info@crosbysconstructionfl.com | Stuart
+  ✗ Rejected: 550
+[01:35:48] [70/100] ted@servpro.com | Stuart
+  ✗ Rejected: 550
+[01:35:49] [71/100] info@bnsautodetailing.com | Stuart
+  ✗ Rejected: 554
+[01:35:52] [72/100] info@airliteautodetailing.com | Stuart
+  ✗ Rejected: 503
+[01:35:53] [73/100] info@camskisdetailing.com | Stuart
+  ✗ Rejected: 550
+[01:35:55] [74/100] info@jonathandetailstuartflorida.co | Stuart
+  ✗ Rejected: 550
+[01:36:02] [75/100] info@harvsdetails.com | Stuart
+  ✗ Rejected: 550
+[01:36:03] [76/100] info@reviews.birdeye.com | Stuart
+  ✗ No MX record
+[01:36:04] [77/100] info@gutterbro.team | Stuart
+  ✗ Rejected: 550
+[01:36:08] [78/100] rideslc@stlucieco.gov | Stuart
+  ✗ Rejected: 550
+[01:36:09] [79/100] support@leaffilter.com | Stuart
+  ✗ Rejected: 550
+[01:36:11] [80/100] info@todayshomeowner.com | Stuart
+  ✗ Rejected: 550
+[01:36:12] [81/100] info@americaspridehandyman.com | Stuart
+  ✓ VERIFIED
+[01:36:20] [82/100] info@scm-handyman-services.com | Stuart
+  ✗ Rejected: 550
+[01:36:28] [83/100] resume@leorc.com | Stuart
+  ✗ Rejected: 550
+[01:36:29] [84/100] info@propertyshark.com | Stuart
+  ✗ Rejected: 503
+[01:36:30] [85/100] info@commercialsearch.com | Stuart
+  ✗ Rejected: 503
+[01:36:31] [86/100] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[01:36:33] [87/100] info@commercialcafe.com | Stuart
+  ✗ Rejected: 503
+[01:36:34] [88/100] info@treasurecoastcommercialrealest | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:36:35] [89/100] info@cleaningsvcstuartfl.com | Stuart
+  ✗ Rejected: 550
+[01:36:37] [90/100] info@keimys.com | Stuart
+  ✗ Rejected: 550
+[01:36:38] [91/100] Info@SuperiorFloorCoating.com | Stuart
+  ✗ Rejected: 550
+[01:36:40] [92/100] isaac@tileanddecorusa.com | Stuart
+  ✗ Rejected: 550
+[01:36:41] [93/100] info@eastcoastkitchenandbath.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[01:36:42] [94/100] isaac@tileanddecorusa.com | Stuart
+  ✗ Rejected: 550
+[01:36:44] [95/100] lisa@retrofitsandrenovations.com | Stuart
+  ✓ VERIFIED
+[01:36:45] [96/100] info@dreammaker-stuart.com | Stuart
+  ✗ Rejected: 550
+[01:36:46] [97/100] info@rentcafe.com | Stuart
+  ✗ Rejected: 503
+[01:36:47] [98/100] info@mrintegritygutters.com | Stuart
+  ✗ Rejected: 554
+[01:36:49] [99/100] info@tkgutters.com | Stuart
+  ✗ Connection unexpectedly closed
+[01:36:50] [100/100] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[01:36:51] TC Verifier complete
+  Verified: 14
+  Failed: 86
+  Rate: 14%
+==================================================
+[02:18:01] TC Verifier starting...
+[02:18:01] Found 50 TC emails to verify
+[02:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[02:18:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[02:18:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[02:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[02:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[02:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[02:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[02:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[02:18:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[02:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[02:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[02:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[02:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[02:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[02:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[02:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[02:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[02:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[02:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[02:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[02:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[02:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[02:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[02:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[02:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[02:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[02:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[02:19:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[02:19:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[02:19:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[02:19:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[02:19:11] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:19:12] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[02:19:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:19:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[02:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[02:19:18] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[02:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[02:19:21] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[02:19:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[02:19:34] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[02:19:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[02:19:37] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[02:19:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[02:19:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[02:19:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[02:19:48] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[02:48:01] TC Verifier starting...
+[02:48:01] Found 50 TC emails to verify
+[02:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[02:48:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[02:48:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[02:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[02:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[02:48:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[02:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[02:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[02:48:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[02:48:22] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[02:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[02:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[02:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[02:48:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[02:48:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[02:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[02:48:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[02:48:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[02:48:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[02:48:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[02:48:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:48:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[02:48:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[02:48:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[02:48:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[02:49:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[02:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[02:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[02:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[02:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[02:49:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[02:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[02:49:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:49:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[02:49:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[02:49:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[02:49:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[02:49:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[02:49:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[02:49:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[02:49:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[02:49:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[02:49:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[02:49:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[02:49:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[02:49:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[02:49:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[02:49:49] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[03:18:01] TC Verifier starting...
+[03:18:01] Found 50 TC emails to verify
+[03:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[03:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[03:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[03:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[03:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[03:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[03:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[03:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[03:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[03:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[03:18:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[03:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[03:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[03:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[03:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[03:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[03:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[03:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[03:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[03:18:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[03:18:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:18:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[03:18:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[03:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[03:19:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[03:19:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:19:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:19:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[03:19:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[03:19:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[03:19:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[03:19:09] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[03:19:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[03:19:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[03:19:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:19:14] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[03:19:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:19:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[03:19:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[03:19:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[03:19:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[03:19:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[03:19:34] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[03:19:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[03:19:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[03:19:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[03:19:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[03:19:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[03:19:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[03:19:48] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[03:48:01] TC Verifier starting...
+[03:48:01] Found 50 TC emails to verify
+[03:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[03:48:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[03:48:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[03:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[03:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[03:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[03:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[03:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[03:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[03:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[03:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[03:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:48:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[03:48:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[03:48:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[03:48:38] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[03:48:39] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[03:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[03:48:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[03:48:53] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[03:48:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[03:48:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:48:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[03:48:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[03:48:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[03:49:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[03:49:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[03:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[03:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[03:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[03:49:09] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[03:49:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[03:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[03:49:13] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:49:14] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[03:49:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[03:49:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[03:49:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[03:49:20] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[03:49:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[03:49:25] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[03:49:36] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[03:49:38] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[03:49:40] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[03:49:41] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[03:49:42] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[03:49:50] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[03:49:51] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[03:49:52] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[04:18:02] TC Verifier starting...
+[04:18:02] Found 50 TC emails to verify
+[04:18:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[04:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[04:18:08] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[04:18:09] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[04:18:11] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[04:18:12] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[04:18:13] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[04:18:15] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[04:18:26] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[04:18:27] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[04:18:28] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[04:18:29] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:18:31] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[04:18:33] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[04:18:40] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[04:18:41] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[04:18:42] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[04:18:44] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[04:18:55] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[04:18:56] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[04:18:58] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[04:18:59] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:19:00] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[04:19:01] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[04:19:02] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[04:19:03] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[04:19:05] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[04:19:06] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:19:07] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[04:19:09] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[04:19:10] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[04:19:11] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[04:19:13] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[04:19:14] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[04:19:15] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[04:19:17] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:19:18] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[04:19:20] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:19:21] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[04:19:23] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[04:19:24] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[04:19:25] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[04:19:27] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[04:19:39] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[04:19:41] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[04:19:42] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[04:19:43] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[04:19:45] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[04:19:52] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[04:19:53] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[04:19:55] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[04:48:02] TC Verifier starting...
+[04:48:02] Found 50 TC emails to verify
+[04:48:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[04:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[04:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[04:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[04:48:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[04:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[04:48:10] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[04:48:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[04:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[04:48:24] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[04:48:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[04:48:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:48:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[04:48:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[04:48:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[04:48:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[04:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[04:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[04:48:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[04:48:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[04:48:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[04:48:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:48:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[04:48:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[04:48:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[04:49:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[04:49:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[04:49:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[04:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[04:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[04:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[04:49:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[04:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[04:49:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:49:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[04:49:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[04:49:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[04:49:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[04:49:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[04:49:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[04:49:21] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[04:49:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[04:49:34] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[04:49:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[04:49:37] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[04:49:38] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[04:49:45] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[04:49:46] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[04:49:47] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[05:18:02] TC Verifier starting...
+[05:18:02] Found 50 TC emails to verify
+[05:18:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[05:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[05:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[05:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[05:18:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[05:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[05:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[05:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[05:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[05:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[05:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[05:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:18:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[05:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[05:18:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[05:18:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[05:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[05:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[05:18:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[05:18:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[05:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[05:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[05:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[05:18:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[05:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[05:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[05:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[05:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[05:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[05:19:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[05:19:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[05:19:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[05:19:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[05:19:11] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:19:12] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[05:19:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:19:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[05:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[05:19:18] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[05:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[05:19:21] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[05:19:32] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Connection unexpectedly closed
+[05:19:34] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[05:19:35] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[05:19:36] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[05:19:37] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[05:19:45] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[05:19:46] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[05:19:47] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[05:48:01] TC Verifier starting...
+[05:48:01] Found 50 TC emails to verify
+[05:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[05:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[05:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[05:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[05:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[05:48:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[05:48:08] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[05:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[05:48:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[05:48:22] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[05:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[05:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[05:48:27] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[05:48:34] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[05:48:35] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[05:48:36] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[05:48:38] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[05:48:49] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[05:48:50] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[05:48:52] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[05:48:53] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:48:54] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[05:48:55] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[05:48:56] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[05:48:57] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[05:48:59] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:49:00] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:49:01] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[05:49:03] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[05:49:04] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[05:49:05] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[05:49:06] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[05:49:07] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[05:49:08] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[05:49:10] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:49:11] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[05:49:13] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[05:49:14] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[05:49:15] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[05:49:17] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[05:49:18] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[05:49:19] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[05:49:31] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Connection unexpectedly closed
+[05:49:32] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[05:49:33] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[05:49:35] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[05:49:36] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[05:49:43] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[05:49:44] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[05:49:46] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[06:18:01] TC Verifier starting...
+[06:18:01] Found 50 TC emails to verify
+[06:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[06:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[06:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[06:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[06:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[06:18:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[06:18:08] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[06:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[06:18:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[06:18:22] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[06:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[06:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:18:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[06:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[06:18:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[06:18:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[06:18:37] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[06:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[06:18:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[06:18:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[06:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[06:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[06:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[06:18:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[06:18:58] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[06:18:59] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:19:00] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:19:01] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[06:19:03] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[06:19:04] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[06:19:05] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[06:19:07] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[06:19:08] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[06:19:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[06:19:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:19:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[06:19:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:19:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[06:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[06:19:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[06:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[06:19:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[06:19:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[06:19:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[06:19:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[06:19:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[06:19:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[06:19:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[06:19:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[06:19:49] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[06:48:02] TC Verifier starting...
+[06:48:02] Found 50 TC emails to verify
+[06:48:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[06:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[06:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[06:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[06:48:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[06:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[06:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[06:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[06:48:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[06:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[06:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[06:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[06:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[06:48:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[06:48:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[06:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[06:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[06:48:54] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[06:48:56] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[06:48:57] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[06:48:58] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:48:59] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[06:49:00] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[06:49:01] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[06:49:03] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[06:49:04] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:49:05] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:49:06] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[06:49:08] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[06:49:09] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[06:49:10] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[06:49:12] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[06:49:13] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[06:49:14] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[06:49:15] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:49:17] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[06:49:19] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[06:49:20] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[06:49:21] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[06:49:22] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[06:49:24] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[06:49:25] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[06:49:36] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[06:49:38] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[06:49:39] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[06:49:40] [47/50] info@miamirealtors.com | Stuart
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 141, in <module>
+    main()
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 116, in main
+    update_verification(conn, lead['id'], is_valid, result)
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 84, in update_verification
+    cursor.execute("""
+sqlite3.OperationalError: database is locked
+[07:18:01] TC Verifier starting...
+[07:18:01] Found 50 TC emails to verify
+[07:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[07:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[07:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[07:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[07:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[07:18:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[07:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[07:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[07:18:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[07:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[07:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[07:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:18:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[07:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[07:18:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[07:18:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[07:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[07:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[07:18:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[07:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[07:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[07:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[07:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[07:18:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[07:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[07:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[07:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[07:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[07:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[07:19:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[07:19:07] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[07:19:08] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[07:19:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[07:19:11] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:19:12] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[07:19:14] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:19:15] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[07:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[07:19:18] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[07:19:19] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[07:19:20] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[07:19:32] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[07:19:33] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[07:19:35] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[07:19:36] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[07:19:37] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[07:19:44] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[07:19:45] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[07:19:46] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[07:48:01] TC Verifier starting...
+[07:48:01] Found 50 TC emails to verify
+[07:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[07:48:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[07:48:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[07:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[07:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[07:48:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[07:48:08] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[07:48:09] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[07:48:20] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[07:48:21] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[07:48:23] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[07:48:24] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:48:25] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[07:48:27] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[07:48:34] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[07:48:35] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[07:48:36] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[07:48:38] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[07:48:49] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[07:48:50] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[07:48:51] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[07:48:52] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:48:53] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[07:48:54] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[07:48:56] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[07:48:57] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[07:48:58] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:48:59] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:49:00] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[07:49:02] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[07:49:03] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[07:49:04] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[07:49:06] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[07:49:07] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[07:49:08] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[07:49:10] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:49:11] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[07:49:13] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[07:49:14] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[07:49:15] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[07:49:16] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[07:49:18] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[07:49:19] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[07:49:31] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[07:49:32] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[07:49:34] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[07:49:35] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[07:49:36] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[07:49:43] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[07:49:44] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[07:49:45] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[08:18:01] TC Verifier starting...
+[08:18:01] Found 50 TC emails to verify
+[08:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[08:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[08:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[08:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[08:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[08:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[08:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[08:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[08:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[08:18:24] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[08:18:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[08:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[08:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[08:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[08:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[08:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[08:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[08:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[08:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[08:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[08:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:18:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[08:18:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[08:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[08:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[08:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[08:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[08:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[08:19:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[08:19:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[08:19:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[08:19:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[08:19:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[08:19:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:19:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[08:19:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:19:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[08:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[08:19:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[08:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[08:19:21] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[08:19:32] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Connection unexpectedly closed
+[08:19:34] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[08:19:35] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[08:19:36] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[08:19:38] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[08:19:45] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[08:19:46] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[08:19:47] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[08:48:01] TC Verifier starting...
+[08:48:01] Found 50 TC emails to verify
+[08:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[08:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[08:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Connection unexpectedly closed
+[08:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[08:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[08:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[08:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[08:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[08:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[08:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[08:48:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[08:48:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:48:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[08:48:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[08:48:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[08:48:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[08:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[08:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[08:48:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[08:48:53] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[08:48:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[08:48:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:48:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[08:48:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[08:48:59] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[08:49:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[08:49:02] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[08:49:03] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:49:04] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[08:49:06] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[08:49:07] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[08:49:08] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[08:49:11] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[08:49:12] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[08:49:13] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[08:49:15] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:49:16] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[08:49:18] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[08:49:19] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[08:49:20] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[08:49:22] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[08:49:23] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[08:49:24] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[08:49:36] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[08:49:38] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[08:49:39] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[08:49:41] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[08:49:42] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[08:49:49] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[08:49:50] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[08:49:51] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[09:18:02] TC Verifier starting...
+[09:18:02] Found 50 TC emails to verify
+[09:18:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[09:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[09:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[09:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[09:18:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[09:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[09:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[09:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[09:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[09:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[09:18:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[09:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[09:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[09:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[09:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[09:18:39] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[09:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[09:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[09:18:53] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[09:18:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[09:18:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:18:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[09:18:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[09:18:59] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[09:19:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[09:19:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:19:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:19:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[09:19:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[09:19:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[09:19:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[09:19:09] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[09:19:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[09:19:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[09:19:13] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:19:14] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[09:19:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:19:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[09:19:19] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[09:19:20] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[09:19:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[09:19:24] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[09:19:36] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[09:19:37] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[09:19:39] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[09:19:40] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[09:19:42] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[09:19:49] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[09:19:50] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[09:19:51] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[09:48:01] TC Verifier starting...
+[09:48:01] Found 50 TC emails to verify
+[09:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[09:48:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[09:48:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[09:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[09:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[09:48:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[09:48:08] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[09:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[09:48:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[09:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[09:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[09:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[09:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[09:48:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[09:48:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[09:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[09:48:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[09:48:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[09:48:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[09:48:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[09:48:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:48:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[09:48:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[09:48:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[09:48:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[09:49:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[09:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[09:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[09:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[09:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[09:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[09:49:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[09:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[09:49:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:49:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[09:49:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[09:49:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[09:49:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[09:49:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[09:49:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[09:49:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[09:49:34] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[09:49:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[09:49:37] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[09:49:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[09:49:40] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[09:49:47] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[09:49:49] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[09:49:50] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[10:18:01] TC Verifier starting...
+[10:18:01] Found 50 TC emails to verify
+[10:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[10:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[10:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[10:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[10:18:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[10:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[10:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[10:18:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[10:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[10:18:24] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[10:18:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[10:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[10:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[10:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[10:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[10:18:39] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[10:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[10:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[10:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[10:18:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[10:18:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:18:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[10:18:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[10:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[10:19:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[10:19:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:19:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:19:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[10:19:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[10:19:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[10:19:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[10:19:09] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[10:19:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[10:19:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[10:19:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:19:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[10:19:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:19:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[10:19:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[10:19:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[10:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[10:19:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[10:19:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[10:19:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[10:19:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[10:19:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[10:19:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[10:19:47] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[10:19:48] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[10:19:50] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[10:48:01] TC Verifier starting...
+[10:48:01] Found 50 TC emails to verify
+[10:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[10:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[10:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[10:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[10:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[10:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[10:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[10:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[10:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[10:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[10:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[10:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[10:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[10:48:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[10:48:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[10:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[10:48:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[10:48:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[10:48:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[10:48:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[10:48:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:48:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[10:48:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[10:48:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[10:48:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[10:49:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[10:49:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[10:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[10:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[10:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[10:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[10:49:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[10:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[10:49:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:49:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[10:49:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[10:49:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[10:49:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[10:49:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[10:49:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[10:49:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[10:49:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[10:49:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[10:49:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[10:49:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[10:49:40] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[10:49:47] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[10:49:48] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[10:49:50] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[11:18:01] TC Verifier starting...
+[11:18:01] Found 50 TC emails to verify
+[11:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[11:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[11:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[11:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[11:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[11:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[11:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[11:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[11:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[11:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[11:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[11:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[11:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[11:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[11:18:38] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[11:18:39] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[11:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[11:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[11:18:53] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[11:18:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[11:18:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:18:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[11:18:58] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[11:18:59] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[11:19:01] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[11:19:02] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:19:03] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:19:04] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[11:19:06] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[11:19:07] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[11:19:08] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[11:19:09] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[11:19:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[11:19:12] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[11:19:13] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:19:14] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[11:19:17] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:19:18] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[11:19:19] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[11:19:20] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[11:19:22] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[11:19:23] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[11:19:34] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[11:19:36] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[11:19:37] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[11:19:39] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[11:19:40] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[11:19:47] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[11:19:48] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[11:19:49] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[11:48:01] TC Verifier starting...
+[11:48:01] Found 50 TC emails to verify
+[11:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[11:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[11:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[11:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[11:48:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[11:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[11:48:10] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[11:48:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[11:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[11:48:24] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[11:48:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[11:48:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:48:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[11:48:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[11:48:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[11:48:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[11:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[11:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[11:48:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[11:48:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[11:48:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[11:48:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:48:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[11:48:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[11:48:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[11:48:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[11:49:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[11:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[11:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[11:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[11:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[11:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[11:49:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[11:49:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[11:49:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:49:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[11:49:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[11:49:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[11:49:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[11:49:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[11:49:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[11:49:21] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[11:49:33] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[11:49:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[11:49:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[11:49:37] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[11:49:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[11:49:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[11:49:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[11:49:48] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[12:18:01] TC Verifier starting...
+[12:18:01] Found 50 TC emails to verify
+[12:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[12:18:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[12:18:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[12:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[12:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[12:18:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[12:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[12:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[12:18:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[12:18:22] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[12:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[12:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:18:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[12:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[12:18:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[12:18:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[12:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[12:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[12:18:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[12:18:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[12:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[12:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[12:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[12:18:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[12:18:58] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[12:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[12:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[12:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[12:19:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[12:19:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[12:19:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[12:19:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[12:19:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:19:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[12:19:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:19:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[12:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[12:19:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[12:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[12:19:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[12:19:34] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[12:19:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[12:19:37] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[12:19:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[12:19:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[12:19:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[12:19:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[12:19:48] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[12:48:01] TC Verifier starting...
+[12:48:01] Found 50 TC emails to verify
+[12:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[12:48:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[12:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[12:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[12:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[12:48:07] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[12:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[12:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[12:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[12:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[12:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[12:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[12:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[12:48:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[12:48:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[12:48:37] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[12:48:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[12:48:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[12:48:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[12:48:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[12:48:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:48:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[12:48:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[12:48:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[12:48:58] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[12:49:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[12:49:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:49:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[12:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[12:49:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[12:49:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[12:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[12:49:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[12:49:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[12:49:11] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:49:12] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[12:49:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[12:49:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[12:49:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[12:49:18] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[12:49:19] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[12:49:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[12:49:34] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[12:49:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[12:49:36] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[12:49:38] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[12:49:39] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[12:49:46] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[12:49:47] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[12:49:48] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[13:18:01] TC Verifier starting...
+[13:18:01] Found 50 TC emails to verify
+[13:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[13:18:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[13:18:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[13:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[13:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[13:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[13:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[13:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[13:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[13:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[13:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[13:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:18:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[13:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[13:18:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[13:18:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[13:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[13:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[13:18:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[13:18:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[13:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[13:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[13:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[13:18:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[13:18:58] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[13:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[13:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[13:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[13:19:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[13:19:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[13:19:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[13:19:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[13:19:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:19:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[13:19:15] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:19:16] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[13:19:17] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[13:19:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[13:19:20] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[13:19:27] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[13:19:39] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[13:19:40] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[13:19:42] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[13:19:44] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[13:19:45] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[13:19:52] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[13:19:53] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[13:19:54] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[13:48:02] TC Verifier starting...
+[13:48:02] Found 50 TC emails to verify
+[13:48:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[13:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[13:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[13:48:06] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[13:48:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[13:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[13:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[13:48:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[13:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[13:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[13:48:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[13:48:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:48:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[13:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[13:48:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[13:48:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[13:48:39] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[13:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[13:48:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[13:48:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[13:48:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[13:48:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:48:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[13:48:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[13:48:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[13:49:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[13:49:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[13:49:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[13:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[13:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[13:49:09] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[13:49:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[13:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[13:49:13] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:49:14] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[13:49:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[13:49:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[13:49:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[13:49:20] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[13:49:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[13:49:23] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[13:49:35] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[13:49:37] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[13:49:38] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[13:49:40] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[13:49:41] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[13:49:48] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[13:49:49] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[13:49:51] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[14:18:01] TC Verifier starting...
+[14:18:01] Found 50 TC emails to verify
+[14:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[14:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[14:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[14:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[14:18:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[14:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[14:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[14:18:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[14:18:21] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[14:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[14:18:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[14:18:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:18:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[14:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[14:18:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[14:18:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[14:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[14:18:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[14:18:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[14:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[14:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[14:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[14:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[14:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[14:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[14:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[14:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[14:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[14:19:06] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[14:19:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[14:19:09] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[14:19:10] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[14:19:11] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:19:12] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[14:19:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:19:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[14:19:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[14:19:20] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[14:19:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[14:19:27] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[14:19:38] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[14:19:40] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[14:19:41] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[14:19:43] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[14:19:44] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[14:19:51] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[14:19:52] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[14:19:53] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[14:48:01] TC Verifier starting...
+[14:48:01] Found 50 TC emails to verify
+[14:48:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[14:48:02] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[14:48:03] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[14:48:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[14:48:06] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[14:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[14:48:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[14:48:10] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[14:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[14:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[14:48:24] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[14:48:25] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:48:26] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[14:48:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[14:48:35] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[14:48:36] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[14:48:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[14:48:39] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[14:48:50] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[14:48:51] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[14:48:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[14:48:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:48:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[14:48:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[14:48:57] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[14:48:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[14:49:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[14:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[14:49:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[14:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[14:49:07] [32/50] singhr@ccf.org | Stuart
+  ✗ Rejected: 550
+[14:49:08] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[14:49:10] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[14:49:11] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[14:49:12] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:49:13] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[14:49:16] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[14:49:17] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[14:49:18] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[14:49:19] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[14:49:21] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[14:49:22] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[14:49:34] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[14:49:35] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[14:49:37] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[14:49:39] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[14:49:40] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[14:49:47] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[14:49:48] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[14:49:50] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[15:18:01] TC Verifier starting...
+[15:18:01] Found 50 TC emails to verify
+[15:18:01] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[15:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[15:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[15:18:05] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[15:18:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[15:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[15:18:09] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[15:18:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[15:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[15:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[15:18:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[15:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[15:18:28] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[15:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[15:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[15:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[15:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[15:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[15:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[15:18:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[15:18:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:18:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[15:18:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[15:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[15:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[15:19:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ Rejected: 550
+[15:19:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:19:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[15:19:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[15:19:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[15:19:07] [32/50] singhr@ccf.org | Stuart
+  ✓ VERIFIED
+[15:19:14] [33/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[15:19:15] [34/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[15:19:17] [35/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[15:19:18] [36/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:19:19] [37/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[15:19:21] [38/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:19:22] [39/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[15:19:24] [40/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[15:19:25] [41/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[15:19:26] [42/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[15:19:30] [43/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[15:19:41] [44/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[15:19:43] [45/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[15:19:44] [46/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[15:19:46] [47/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[15:19:47] [48/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[15:19:54] [49/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[15:19:55] [50/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[15:19:57] TC Verifier complete
+  Verified: 1
+  Failed: 49
+  Rate: 2%
+==================================================
+[15:48:02] TC Verifier starting...
+[15:48:02] Found 50 TC emails to verify
+[15:48:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[15:48:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[15:48:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[15:48:06] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[15:48:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[15:48:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[15:48:10] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[15:48:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[15:48:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[15:48:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[15:48:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[15:48:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:48:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[15:48:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[15:48:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[15:48:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[15:48:39] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[15:48:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[15:48:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[15:48:53] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[15:48:54] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[15:48:55] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:48:56] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[15:48:57] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[15:48:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[15:49:00] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[15:49:01] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:49:02] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:49:03] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[15:49:05] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[15:49:06] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[15:49:08] [32/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[15:49:09] [33/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[15:49:10] [34/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[15:49:11] [35/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:49:12] [36/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[15:49:14] [37/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[15:49:15] [38/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[15:49:17] [39/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[15:49:18] [40/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[15:49:19] [41/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[15:49:20] [42/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[15:49:32] [43/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[15:49:34] [44/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[15:49:35] [45/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[15:49:37] [46/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[15:49:38] [47/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[15:49:45] [48/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[15:49:46] [49/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[15:49:48] [50/50] info@freedomcoastcleaningservices.c | Stuart
+  ✗ Rejected: 550
+[15:49:49] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[16:18:02] TC Verifier starting...
+[16:18:02] Found 50 TC emails to verify
+[16:18:02] [1/50] Accounting@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[16:18:03] [2/50] chef@floridiankitchens.com/ | Stuart
+  ✗ No MX record
+[16:18:04] [3/50] john@campbellpropertymanagement.com | Stuart
+  ✗ Rejected: 550
+[16:18:06] [4/50] susan.palmieri@cpmfl.com | Stuart
+  ✗ Rejected: 550
+[16:18:07] [5/50] jeffrey@mgtspec.com | Stuart
+  ✗ Rejected: 550
+[16:18:08] [6/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[16:18:10] [7/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[16:18:11] [8/50] info@dustintimecleaning.com | Stuart
+  ✗ Rejected: 550
+[16:18:22] [9/50] office@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[16:18:23] [10/50] Kevin@TradewindRe.com | Stuart
+  ✗ Rejected: 550
+[16:18:25] [11/50] John@tccommericalre.com | Stuart
+  ✗ No MX record
+[16:18:26] [12/50] info@treasurecoastmlssearch.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[16:18:27] [13/50] ewallace@wallacechev.com | Stuart
+  ✗ Rejected: 550
+[16:18:29] [14/50] sales@jldauto.net | Stuart
+  ✗ Rejected: 550
+[16:18:36] [15/50] info@starlingbuickgmcstuart.com | Stuart
+  ✗ Rejected: 550
+[16:18:37] [16/50] info@treasurecoasttoyotaofstuart.co | Stuart
+  ✗ Rejected: 550
+[16:18:38] [17/50] patricia@mdpoa.org | Stuart
+  ✗ Rejected: 550
+[16:18:40] [18/50] fenglund@beaurivageestateshoa.org | Stuart
+  ✗ Connection unexpectedly closed: timed out
+[16:18:51] [19/50] sap@reblawpa.com | Stuart
+  ✗ Rejected: 550
+[16:18:52] [20/50] keith@tourseniorliving.org | Stuart
+  ✗ Rejected: 550
+[16:18:53] [21/50] info@brightenalf.comALF | Stuart
+  ✗ No MX record
+[16:18:54] [22/50] matt@sinceriseniorliving.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[16:18:55] [23/50] info@quality.healthfinder.fl.gov | Stuart
+  ✗ No MX record
+[16:18:56] [24/50] info@seniorplacementgroup.com | Stuart
+  ✗ Rejected: 550
+[16:18:58] [25/50] info@opentable.com | Stuart
+  ✗ Rejected: 503
+[16:18:59] [26/50] info@stuartboathouse.com | Stuart
+  ✗ Rejected: 550
+[16:19:00] [27/50] info@thesailorsreturn.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[16:19:01] [28/50] info@hudsonontheriver.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[16:19:02] [29/50] roiwestonfl@ccf.org | Stuart
+  ✗ Rejected: 550
+[16:19:04] [30/50] info@stuartmartinchamber.org | Stuart
+  ✗ Rejected: 550
+[16:19:05] [31/50] info@business.stuartmartinchamber.o | Stuart
+  ✗ No MX record
+[16:19:07] [32/50] info@doctors.wellmedhealthcare.com | Stuart
+  ✗ No MX record
+[16:19:08] [33/50] info@acehandymanservices.com | Stuart
+  ✗ Rejected: 503
+[16:19:09] [34/50] info@mdsautodetailing.com | Stuart
+  ✗ Rejected: 550
+[16:19:10] [35/50] matt@ddoftc.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[16:19:11] [36/50] info@showtimedetailing.org | Stuart
+  ✗ Rejected: 550
+[16:19:13] [37/50] info@dadetailingpsl.com | Stuart
+  ✗ [Errno -2] Name or service not known
+[16:19:14] [38/50] info@snlevents.com | Stuart
+  ✗ Connection unexpectedly closed
+[16:19:16] [39/50] info@corporatecaterers.com | Stuart
+  ✗ Rejected: 550
+[16:19:17] [40/50] kevin@cateringrevolution.com | Stuart
+  ✗ Rejected: 550
+[16:19:18] [41/50] info@shellyzbistro.com | Stuart
+  ✗ Rejected: 550
+[16:19:22] [42/50] cvera@cheftablecatering.com | Stuart
+  ✗ Rejected: 550
+[16:19:33] [43/50] mel@landmarkinvestmentsflorida.com | Stuart
+  ✗ Rejected: 550
+[16:19:35] [44/50] accessibility@martin.fl.us | Stuart
+  ✗ Rejected: 503
+[16:19:36] [45/50] info@realmo.com | Stuart
+  ✗ Rejected: 450
+[16:19:38] [46/50] info@miamirealtors.com | Stuart
+  ✗ Rejected: 550
+[16:19:39] [47/50] christina@thezeccagroup.com | Stuart
+  ✗ Rejected: 550
+[16:19:46] [48/50] info@echofineproperties.com | Stuart
+  ✗ Rejected: 550
+[16:19:47] [49/50] info@customcleaningtc.com | Stuart
+  ✗ Rejected: 550
+[16:19:49] [50/50] info@freedomcoastcleaningservices.c | Stuart
+  ✗ Rejected: 550
+[16:19:50] TC Verifier complete
+  Verified: 0
+  Failed: 50
+  Rate: 0%
+==================================================
+[16:48:02] TC Verifier starting...
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 147, in <module>
+    main()
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 111, in main
+    leads = get_leads_to_verify(conn)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 50, in get_leads_to_verify
+    cursor.execute(query)
+  File "/home/chris/.local/lib/python3.12/site-packages/psycopg2/extras.py", line 236, in execute
+    return super().execute(query, vars)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "leads" does not exist
+LINE 3:         FROM leads
+                     ^
+
+[17:18:02] TC Verifier already running, skipping...
+[17:48:01] TC Verifier already running, skipping...
+[18:18:01] TC Verifier already running, skipping...
+[18:48:01] TC Verifier already running, skipping...
+[19:18:01] TC Verifier already running, skipping...
+[19:48:01] TC Verifier already running, skipping...
+[20:18:01] TC Verifier already running, skipping...
+[20:48:01] TC Verifier already running, skipping...
+[21:18:01] TC Verifier already running, skipping...
+[21:48:01] TC Verifier already running, skipping...
+[2026-02-17 21:58:06] ============================================================
+[2026-02-17 21:58:06] TC VERIFIER — Batch: 50
+[2026-02-17 21:58:06] ============================================================
+[2026-02-17 21:58:06] Found 50 TC emails to verify
+[2026-02-17 21:58:06] Error verifying https://www.goodgreek.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:06] Error verifying info@www.ziprecruiter.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:07] Error verifying info@www.reuters.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:07] Error verifying info@emilyluxton.co.uk: HTTP Error 404: Not Found
+[2026-02-17 21:58:07] Error verifying info@todayshomeowner.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:08] Error verifying john@apartmentlist.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:08] Error verifying info@seniorhomes.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:08] Error verifying info@seniorhomes.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:08] Error verifying info@treasurecoastmom.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:09] Error verifying info@autodentrepair.co: HTTP Error 404: Not Found
+[2026-02-17 21:58:09] Error verifying info@delwebb.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:09] Error verifying info@opentable.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:09] Error verifying lucas@steambase.io: HTTP Error 404: Not Found
+[2026-02-17 21:58:10] Error verifying setcontactcenter@set.or.th: HTTP Error 404: Not Found
+[2026-02-17 21:58:10] Error verifying angela@thefitnesssuitefl.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:10] Error verifying info@tkgutters.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:10] Error verifying info@stores.advanceautoparts.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:11] Error verifying advantagepm@advpropmgt.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:11] Error verifying sales@jldauto.net: HTTP Error 404: Not Found
+[2026-02-17 21:58:11] Error verifying info@espn.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:11] Error verifying info@rentcafe.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:12] Error verifying info@autozone.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:12] Error verifying info@axisoneapts.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:12] Error verifying info@bnsautodetailing.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:12] Error verifying davidadamo779@gmail.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:13] Error verifying info@retrofitsandrenovations.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:13] Error verifying isaac@tileanddecorusa.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:13] Error verifying isaac@tileanddecorusa.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:13] Error verifying fenglund@beaurivageestateshoa.org: HTTP Error 404: Not Found
+[2026-02-17 21:58:14] Error verifying fenglund@bellsouth.net: HTTP Error 404: Not Found
+[2026-02-17 21:58:14] Error verifying info@echofineproperties.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:14] Error verifying info@seniors.fyi: HTTP Error 404: Not Found
+[2026-02-17 21:58:14] Error verifying info@billfishac.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:15] Error verifying sayhello@wearebrain.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:15] Error verifying info@showtimedetailing.org: HTTP Error 404: Not Found
+[2026-02-17 21:58:15] Error verifying info@brightview.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:15] Error verifying info@stuartmartinchamber.org: HTTP Error 404: Not Found
+[2026-02-17 21:58:16] Error verifying accessibility@martin.fl.us: HTTP Error 404: Not Found
+[2026-02-17 21:58:16] Error verifying info@martin.fl.us: HTTP Error 404: Not Found
+[2026-02-17 21:58:16] Error verifying cvera@cheftablecatering.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:16] Error verifying info@cheftablecatering.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:17] Error verifying info@camskisdetailing.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:17] Error verifying john@campbellpropertymanagement.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:17] Error verifying sales@jldauto.net: HTTP Error 404: Not Found
+[2026-02-17 21:58:17] Error verifying info@nationaldetailpros.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:18] Error verifying michael@carteamusa.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:18] Error verifying info@carteamusa.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:18] Error verifying kevin@cateringrevolution.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:19] Error verifying info@cateringrevolution.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:19] Error verifying info@corporatecaterers.com: HTTP Error 404: Not Found
+[2026-02-17 21:58:19]   https://www.goodgreek.com → error
+[2026-02-17 21:58:19]   info@www.ziprecruiter.com → error
+[2026-02-17 21:58:19]   info@www.reuters.com → error
+[2026-02-17 21:58:19]   info@emilyluxton.co.uk → error
+[2026-02-17 21:58:19]   info@todayshomeowner.com → error
+[2026-02-17 21:58:19]   john@apartmentlist.com → error
+[2026-02-17 21:58:19]   info@seniorhomes.com → error
+[2026-02-17 21:58:19]   info@seniorhomes.com → error
+[2026-02-17 21:58:19]   info@treasurecoastmom.com → error
+[2026-02-17 21:58:19]   info@autodentrepair.co → error
+[2026-02-17 21:58:19]   info@delwebb.com → error
+[2026-02-17 21:58:19]   info@opentable.com → error
+[2026-02-17 21:58:19]   lucas@steambase.io → error
+[2026-02-17 21:58:19]   setcontactcenter@set.or.th → error
+[2026-02-17 21:58:19]   angela@thefitnesssuitefl.com → error
+[2026-02-17 21:58:19]   info@tkgutters.com → error
+[2026-02-17 21:58:19]   info@stores.advanceautoparts.com → error
+[2026-02-17 21:58:19]   advantagepm@advpropmgt.com → error
+[2026-02-17 21:58:19]   sales@jldauto.net → error
+[2026-02-17 21:58:19]   info@espn.com → error
+[2026-02-17 21:58:19]   info@rentcafe.com → error
+[2026-02-17 21:58:19]   info@autozone.com → error
+[2026-02-17 21:58:19]   info@axisoneapts.com → error
+[2026-02-17 21:58:19]   info@bnsautodetailing.com → error
+[2026-02-17 21:58:19]   davidadamo779@gmail.com → error
+[2026-02-17 21:58:19]   info@retrofitsandrenovations.com → error
+[2026-02-17 21:58:19]   isaac@tileanddecorusa.com → error
+[2026-02-17 21:58:19]   isaac@tileanddecorusa.com → error
+[2026-02-17 21:58:19]   fenglund@beaurivageestateshoa.org → error
+[2026-02-17 21:58:19]   fenglund@bellsouth.net → error
+[2026-02-17 21:58:19]   info@echofineproperties.com → error
+[2026-02-17 21:58:19]   info@seniors.fyi → error
+[2026-02-17 21:58:19]   info@billfishac.com → error
+[2026-02-17 21:58:19]   sayhello@wearebrain.com → error
+[2026-02-17 21:58:19]   info@showtimedetailing.org → error
+[2026-02-17 21:58:19]   info@brightview.com → error
+[2026-02-17 21:58:19]   info@stuartmartinchamber.org → error
+[2026-02-17 21:58:19]   accessibility@martin.fl.us → error
+[2026-02-17 21:58:19]   info@martin.fl.us → error
+[2026-02-17 21:58:19]   cvera@cheftablecatering.com → error
+[2026-02-17 21:58:19]   info@cheftablecatering.com → error
+[2026-02-17 21:58:19]   info@camskisdetailing.com → error
+[2026-02-17 21:58:19]   john@campbellpropertymanagement.com → error
+[2026-02-17 21:58:19]   sales@jldauto.net → error
+[2026-02-17 21:58:19]   info@nationaldetailpros.com → error
+[2026-02-17 21:58:19]   michael@carteamusa.com → error
+[2026-02-17 21:58:19]   info@carteamusa.com → error
+[2026-02-17 21:58:19]   kevin@cateringrevolution.com → error
+[2026-02-17 21:58:19]   info@cateringrevolution.com → error
+[2026-02-17 21:58:19]   info@corporatecaterers.com → error
+[2026-02-17 21:58:19] TC VERIFIER COMPLETE: 0/50 emails verified
+[2026-02-17 21:58:19] ============================================================
+[2026-02-17 22:18:01] ============================================================
+[2026-02-17 22:18:01] ============================================================
+[2026-02-17 22:18:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 22:18:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 22:18:01] ============================================================
+[2026-02-17 22:18:01] ============================================================
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 164, in <module>
+    main()
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 124, in main
+    emails_data = get_tc_unverified_emails(conn)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 67, in get_tc_unverified_emails
+    cursor.execute(query, (TC_CITIES, limit))
+  File "/home/chris/.local/lib/python3.12/site-packages/psycopg2/extras.py", line 236, in execute
+    return super().execute(query, vars)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IndexError: tuple index out of range
+[2026-02-17 22:48:01] ============================================================
+[2026-02-17 22:48:01] ============================================================
+[2026-02-17 22:48:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 22:48:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 22:48:01] ============================================================
+[2026-02-17 22:48:01] ============================================================
+[2026-02-17 22:48:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-17 22:48:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 118, in main
+    emails_data = get_tc_unverified_emails(conn)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 56, in get_tc_unverified_emails
+    cursor.execute(query, params)
+psycopg2.errors.SyntaxError: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-17 23:18:01] ============================================================
+[2026-02-17 23:18:01] ============================================================
+[2026-02-17 23:18:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 23:18:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 23:18:01] ============================================================
+[2026-02-17 23:18:01] ============================================================
+[2026-02-17 23:18:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-17 23:18:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 118, in main
+    emails_data = get_tc_unverified_emails(conn)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 56, in get_tc_unverified_emails
+    cursor.execute(query, params)
+psycopg2.errors.SyntaxError: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-17 23:48:01] ============================================================
+[2026-02-17 23:48:01] ============================================================
+[2026-02-17 23:48:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 23:48:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-17 23:48:01] ============================================================
+[2026-02-17 23:48:01] ============================================================
+[2026-02-17 23:48:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-17 23:48:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 118, in main
+    emails_data = get_tc_unverified_emails(conn)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 56, in get_tc_unverified_emails
+    cursor.execute(query, params)
+psycopg2.errors.SyntaxError: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-18 00:18:01] ============================================================
+[2026-02-18 00:18:01] ============================================================
+[2026-02-18 00:18:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-18 00:18:01] TC VERIFIER (PostgreSQL) — Batch: 50
+[2026-02-18 00:18:01] ============================================================
+[2026-02-18 00:18:01] ============================================================
+[2026-02-18 00:18:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+[2026-02-18 00:18:01] FATAL ERROR: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 118, in main
+    emails_data = get_tc_unverified_emails(conn)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/.openclaw/bin/tc_verifier.py", line 56, in get_tc_unverified_emails
+    cursor.execute(query, params)
+psycopg2.errors.SyntaxError: syntax error at or near "OR"
+LINE 3:         WHERE (city LIKE ? OR city LIKE ? OR city LIKE ?)
+                                   ^
+

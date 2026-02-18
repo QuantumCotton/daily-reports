@@ -1,0 +1,216 @@
+[04:35:15] ============================================================
+[04:35:15] LEAD ENRICHER v4 — batch: 100
+[04:35:15] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:35:15] Brave API: OFF (saving money)
+[04:35:15] ============================================================
+[04:35:15] Found 100 leads to process
+[04:35:15]   [1/100] Contact
+[04:35:20]     → skip: no_data
+[04:35:20]   [2/100] Oliver's Plumbing.
+[04:35:29]     → skip: no_data
+[04:35:29]   [3/100] Top Rated Vero Beach Veterinarian
+[04:35:32]     → skip: no_data
+[04:35:32]   [4/100] Residential & Commercial Painting Contractor 
+[04:35:40]     → skip: no_data
+[04:35:40]   [5/100] Residential Epoxy Flooring Services in Stuart
+[04:35:49]     → skip: no_data
+[04:35:49]   [6/100] Storage Units in Fort Pierce, FL at 2500 S Je
+[04:35:51]     → skip: no_data
+[04:35:52]   [7/100] Home, Manatee Marina, Port Salerno, Florida
+[04:36:00]     → skip: no_data
+[04:36:00]   [8/100] Fast Food in Fort Pierce, FL at 1612 Delaware
+[04:36:02]     → skip: no_data
+[04:36:03]   [9/100] The Oar Restaurant
+[04:36:04]     → skip: no_data
+[04:36:04]   [10/100] BMA Property Management | Trusted Florida Ren
+[04:36:14]     [★ FOUND] andy@bmapropertymanagement.com
+[04:36:14]   [11/100] Meadowood Community Homeowners Association, F
+[04:36:14]     → skip: no_data
+[04:36:15]   [12/100] Stuart Apartments - PMC Property Group
+[04:36:17]     → skip: no_data
+[04:36:17]   [13/100] Bridges Early Learning Center
+[04:36:26]     → skip: no_data
+[04:36:26]   [14/100] Best Gutter Installation in Fort Pierce, FL N
+[04:36:26]     → skip: no_mx:fort-pierce-fl.metalsroofing.com
+[04:36:26]   [15/100] Stuart Property Management
+[04:36:31]     → skip: no_data
+[04:36:32]   [16/100] Top-Rated Electrician in Fort Pierce, FL
+[04:36:36]     → skip: no_data
+[04:36:36]   [17/100] 3776 SE Dixie Hwy Stuart, FL 34997
+[04:36:37]     → skip: no_data
+[04:36:37]   [18/100] Fort Pierce HVAC: AC, Plumbing, Gas, Electric
+[04:36:44]     → skip: no_data
+[04:36:44]   [19/100] Sedation Dentistry Stuart FL, Sedation Specia
+[04:36:45]     → skip: no_data
+[04:36:45]   [20/100] Stuart, FL Industrial & Warehouse Space for R
+[04:36:45]     → skip: no_data
+[04:36:45]   [21/100] Jensen Beach Kitchen and Bath Remodeling
+[04:37:29]     [~ guess] anthony@jensenbeachkitchenandbath.com (Anthony Gonzales)
+[04:37:29]   [22/100] Family Restaurant in Stuart, FL
+[04:37:29]     → skip: no_mx:familyrestaurantstuart.com
+[04:37:29]   [23/100] Top Rated Car Wash in Vero Beach, FL
+[04:37:37]     → skip: no_data
+[04:37:37]   [24/100] CONTACT US | mysite - Jensen Beach Club
+[04:37:43]     → skip: no_data
+[04:37:43]   [25/100] Epoxy Flooring
+[04:37:48]     → skip: no_data
+[04:37:48]   [26/100] Epoxy Floors N More
+[04:37:54]     → skip: no_data
+[04:37:54]   [27/100] Saints Cyril and Methodius Byzantine Catholic
+[04:37:55]     → skip: no_mx:fortpiercebyzantine.com
+[04:37:55]   [28/100] HVAC in Stuart, FL
+[04:38:02]     → skip: no_data
+[04:38:02]   [29/100] The Brennity at Tradition Senior Living | Ret
+[04:38:02]     → skip: no_mx:brennitytradition.com
+[04:38:02]   [30/100] Vero Beach Industrial Space For Rent
+[04:38:04]     → skip: no_data
+[04:38:04]   [31/100] The Palms of St. Lucie West
+[04:38:09]     → skip: no_data
+[04:38:09]   [32/100] Career Opportunities
+[04:38:10]     → skip: no_data
+[04:38:10]   [33/100] Jensen Beach Property Management | RPM Sailfi
+[04:38:15]     → skip: no_data
+[04:38:15]   [34/100] Electricians and Electrical Contractors in Fo
+[04:38:18]     → skip: no_data
+[04:38:18]   [35/100] Call Plumber
+[04:38:18]     → skip: no_mx:fitzpatrickplumbingfl.com
+[04:38:18]   [36/100] Fort Pierce Hotel near Hutchinson Island
+[04:38:19]     → skip: no_data
+[04:38:19]   [37/100] Bathroom Remodeling in Stuart FL - Home & Bey
+[04:38:21]     → skip: no_data
+[04:38:21]   [38/100] Restaurants Jensen Beach | Seafood Restaurant
+[04:38:31]     → skip: no_data
+[04:38:31]   [39/100] Vero Beach, FL Commercial Real Estate for Sal
+[04:38:31]     → skip: no_mx:commercial.century21.com
+[04:38:31]   [40/100] The Metal Roof Experts | Top Roofing Company 
+[04:38:44]     [~ guess] richard@themetalroofexperts.net (Richard Mckuhen)
+[04:38:44]   [41/100] Cleveland Clinic Indian River Hospital
+[04:38:47]     → skip: no_data
+[04:38:48]   [42/100] AC, Fort Pierce FL
+[04:38:54]     → skip: no_data
+[04:38:55]   [43/100] All About Gutters Florida
+[04:38:55]     → skip: no_mx:gutterslocal.com
+[04:38:55]   [44/100] Chez Frenchie's Steaks and Seafood Restaurant
+[04:39:12]     → skip: no_data
+[04:39:12]   [45/100] Real Property Management Sailfish Coast - Stu
+[04:39:16]     → skip: no_data
+[04:39:16]   [46/100] Vero Beach Roofing
+[04:39:28]     [~ guess] nick@verobeachroofing.com (Nick Bischoff)
+[04:39:28]   [47/100] Fast Food in Stuart, FL at 3600 Se Federal Hw
+[04:39:30]     → skip: no_data
+[04:39:31]   [48/100] Daycares in Fort Pierce FL
+[04:39:34]     → skip: no_data
+[04:39:35]   [49/100] Lands End Marine Construction: Top Stuart Doc
+[04:39:37]     → skip: no_data
+[04:39:38]   [50/100] Veterinarian in Vero Beach, FL
+[04:39:38]     → skip: no_mx:ssvhvero.com
+[04:39:38]   [51/100] 英国住宅建设里面的 flat 指的是什么建筑类型？Apartment 又是从什么...
+[04:39:42]     [★ FOUND] jubao@zhihu.com
+[04:39:42]   [52/100] OLD FLORIDA COFFEE CO, Fort Pierce
+[04:39:42]     → skip: no_domain
+[04:39:42]   [53/100] The 10 Best Restaurants Near Me in Jensen Bea
+[04:40:13]     → skip: no_data
+[04:40:13]   [54/100] Senior Living Facilities in Fort Pierce, FL
+[04:40:13]     → skip: no_mx:ourparents.com
+[04:40:13]   [55/100] Professional Concrete Floor Coatings Palm Cit
+[04:41:13]     [✓ SMTP] eric@customsurfacellc.com (Eric Townsend)
+[04:41:13]   [56/100] Available Cabinets
+[04:41:20]     [~ guess] robert@availablecabinets.com (Robert Smith)
+[04:41:21]   [57/100] Flooring Store servicing Vero Beach and Treas
+[04:41:21]     → skip: no_mx:costahardwoodfloors.com
+[04:41:21]   [58/100] Contact Stuart Merrill, Email: m***@cvshealth
+[04:41:21]     → skip: no_domain
+[04:41:21]   [59/100] PTAH Flooring
+[04:41:24]     → skip: no_data
+[04:41:24]   [60/100] Gym in Stuart Crossings, FL
+[04:41:25]     → skip: no_data
+[04:41:25]   [61/100] Contact Us : Fort Pierce SDA Fort Pierce FL
+[04:41:25]     → skip: no_mx:fortpiercefl.adventistchurch.org
+[04:41:25]   [62/100] Lawn Care and Lawn Maintenance
+[04:41:31]     → skip: no_data
+[04:41:31]   [63/100] Fort Pierce, FL Industrial & Warehouse Spaces
+[04:41:31]     → skip: no_data
+[04:41:31]   [64/100] Epoxy Garage Floor Solutions in Stuart
+[05:00:30]     → skip: no_data
+[05:00:30]   [65/100] Remodeling Contractor: Island Kitchen & Bath
+[05:00:37]     → skip: no_data
+[05:00:38]   [66/100] Top Rated Car Wash in Fort Pierce, FL
+[05:00:45]     → skip: no_data
+[05:00:45]   [67/100] KG Concrete & Development
+[05:00:45]     → skip: no_mx:kgconcretellc.com
+[05:00:46]   [68/100] Plumber Vero Beach FL
+[05:00:51]     → skip: no_data
+[05:00:51]   [69/100] Gym in Vero Beach, FL
+[05:00:56]     → skip: no_data
+[05:00:56]   [70/100] Custom Kitchen Design Experts - Stuart Kitche
+[05:00:58]     → skip: no_data
+[05:00:58]   [71/100] Stuart's Top Car Detailing | Get Your Price I
+[05:01:01]     → skip: no_data
+[05:01:01]   [72/100] Real Property Management Dynamic
+[05:01:07]     → skip: no_data
+[05:01:07]   [73/100] Jupiter Stuart Port St. Lucie Custom Cabinets
+[05:01:09]     → skip: no_data
+[05:01:09]   [74/100] Smith Services Heating and Air Conditioning –
+[05:01:15]     [~ guess] richard@smith-hvac.com (Richard Smith)
+[05:01:15]   [75/100] Property Management Stuart FL "32 unit Apartm
+[05:01:20]     [★ FOUND] mel@landmarkinvestmentsflorida.com
+[05:01:21]   [76/100] General Contractor | Kirchman Construction Co
+[05:01:23]     [★ FOUND] ronnie@kirchmanconstruction.com
+[05:01:23]   [77/100] Veterinarian in Stuart, FL
+[05:01:30]     → skip: no_data
+[05:01:30]   [78/100] Treasure Coast Life Real Estate Professionals
+[05:01:46]     → skip: no_data
+[05:01:47]   [79/100] Contact Us
+[05:02:04]     → skip: no_data
+[05:02:04]   [80/100] Florida SART
+[05:02:04]     → skip: no_mx:flsart.org
+[05:02:04]   [81/100] Self Storage in Fort Pierce, FL 34982
+[05:02:06]     [★ FOUND] donations@uhaul.com (Don Ations)
+[05:02:06]   [82/100] Outdoor Kitchen Design Services In Stuart, Fl
+[05:02:15]     [✓ SMTP] kbrams@islandlivingpatio.com (Karen Brams)
+[05:02:15]   [83/100] Expert Construction Project Management Firm S
+[05:02:22]     [★ FOUND] jessica@jkellyadvisors.com
+[05:02:22]   [84/100] Gourmet Markets in Indian River County
+[05:02:56]     → skip: no_data
+[05:02:56]   [85/100] Vet Near Me 34997
+[05:03:01]     → skip: no_data
+[05:03:01]   [86/100] Toyota New Vehicle Inventory Search in Fort P
+[05:03:04]     → skip: no_data
+[05:03:04]   [87/100] Contact Us
+[05:03:08]     → skip: no_data
+[05:03:08]   [88/100] Walking Tree Brewery
+[05:03:12]     → skip: no_data
+[05:03:12]   [89/100] New & Pre-Owned Toyota Dealership In Vero Bea
+[05:03:14]     → skip: no_data
+[05:03:14]   [90/100] Martin, FL Property Management Companies
+[05:03:21]     [~ guess] john@campbellpropertymanagement.com (John Uses)
+[05:03:21]   [91/100] Fort Made
+[05:03:51]     → skip: no_data
+[05:03:52]   [92/100] Real Property Management Dynamic
+[05:03:56]     → skip: no_data
+[05:03:56]   [93/100] Construction Materials
+[05:04:03]     [★ FOUND] proservices@thebluebook.com
+[05:04:03]   [94/100] AIRPORT LEASING
+[05:04:08]     → skip: no_data
+[05:04:08]   [95/100] Hotels in Stuart, FL
+[05:04:39]     → skip: no_data
+[05:04:39]   [96/100] Used Car Dealership in Stuart, FL
+[05:04:42]     → skip: no_data
+[05:04:42]   [97/100] H&H Plumbing
+[05:05:20]     → skip: no_data
+[05:05:20]   [98/100] Community Association - Reblawpa
+[05:05:24]     [★ FOUND] sap@reblawpa.com
+[05:05:24]   [99/100] Fort Pierce AC Repair, AC Installation by the
+[05:05:32]     → skip: no_data
+[05:05:32]   [100/100] Hospitals near Vero Beach, FL
+[05:05:37]     → skip: no_data
+[05:05:38] 
+============================================================
+[05:05:38] ENRICHMENT COMPLETE
+[05:05:38]   Batch: 16 enriched / 100 processed
+[05:05:38]   Found on site: 8 | Pattern guess: 8
+[05:05:38]   SMTP verified: 2 | Names found: 9
+[05:05:38]   Database: 21316 total, 3045 with email, 262 named contacts
+[05:05:38]   Quality: 1853 personal (60%) / 1192 generic
+[05:05:38]   Cost: $0 (zero API calls)
+[05:05:38] ============================================================

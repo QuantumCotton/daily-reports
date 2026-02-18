@@ -1,0 +1,16 @@
+{
+  "channels": {
+    "telegram": {
+      "groups": {
+        "*": {
+          "groupPolicy": "allowlist",
+          "requireMention": false,
+          "allowFrom": ["7881105163"],
+          "enabled": true,
+          "systemPrompt": "Welcome to the Elite Service Hub empire group. Each group has its specialized focus. I'm here to help with the specific topics for this group.",
+          "skills": ["all"]
+        }
+      }
+    }
+  }
+}

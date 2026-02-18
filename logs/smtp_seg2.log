@@ -1,0 +1,531 @@
+[04:40:11][SEG2] ============================================================
+[04:40:11][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[04:40:11][SEG2] ============================================================
+[04:40:11][SEG2] Loaded 983 leads
+[04:40:11][SEG2] Leads in segment 2: 160
+[04:40:11][SEG2] Processing batch of 20
+[04:40:11][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[04:40:12][SEG2]     → ✗ REJECTED: rejected
+[04:40:12][SEG2]   [2/20] Apartments for Rent in Fort Pierce, → sales-usa@theblueground.com
+[04:40:13][SEG2]     → ✓ VERIFIED
+[04:40:13][SEG2]   [3/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[04:40:13][SEG2]     → ✗ REJECTED: rejected
+[04:40:14][SEG2]   [4/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[04:40:14][SEG2]     → ✗ REJECTED: rejected
+[04:40:15][SEG2]   [5/20] Properties & Communities → kevin@stewartteam.com
+[04:40:15][SEG2]     → ✓ VERIFIED
+[04:40:16][SEG2]   [6/20] Auto Body Shop → info@jhcc.com
+[04:40:16][SEG2]     → ✗ REJECTED: rejected
+[04:40:16][SEG2]   [7/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[04:40:17][SEG2]     → ? UNKNOWN: unknown
+[04:40:18][SEG2]   [8/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[04:40:18][SEG2]     → ✗ REJECTED: rejected
+[04:40:19][SEG2]   [9/20] Trusted Cleaning Company in Stuart  → ncsnatyka@gmail.com
+[04:40:19][SEG2]     → ✓ VERIFIED
+[04:40:19][SEG2]   [10/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[04:40:30][SEG2]     → ✗ REJECTED: rejected
+[04:40:30][SEG2]   [11/20] Florida Investment Properties → nabertke@gmail.com
+[04:40:31][SEG2]     → ✓ VERIFIED
+[04:40:31][SEG2]   [12/20] Excellent Investment → sales@stewartsresort.com
+[04:40:32][SEG2]     → ✓ VERIFIED
+[04:40:32][SEG2]   [13/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[04:40:32][SEG2]     → ✗ REJECTED: rejected
+[04:40:33][SEG2]   [14/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[04:40:33][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:33][SEG2]   [15/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[04:40:34][SEG2]     → ✗ REJECTED: rejected
+[04:40:34][SEG2]   [16/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[04:40:34][SEG2]     → ? UNKNOWN: unknown
+[04:40:34][SEG2]   [17/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[04:40:35][SEG2]     → ✗ REJECTED: rejected
+[04:40:36][SEG2]   [18/20] Fleet services → info@gruntservices.com
+[04:40:36][SEG2]     → ✗ REJECTED: rejected
+[04:40:37][SEG2]   [19/20] Premium Car Detailing in Jupiter, F → beyondlimitspb@gmail.com
+[04:40:37][SEG2]     → ✓ VERIFIED
+[04:40:37][SEG2]   [20/20] Garage Floor Coating: Professional  → Floorcoatingpro@gmail.com
+[04:40:38][SEG2]     → ✓ VERIFIED
+[04:40:38][SEG2] Wrote 7 verified emails
+[04:40:38][SEG2] SEGMENT 2 COMPLETE: 7 verified, 10 rejected
+[04:40:38][SEG2] ============================================================
+[05:00:12][SEG2] ============================================================
+[05:00:12][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[05:00:12][SEG2] ============================================================
+[05:00:12][SEG2] Loaded 1253 leads
+[05:00:12][SEG2] Leads in segment 2: 196
+[05:00:12][SEG2] Processing batch of 20
+[05:00:12][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[05:00:13][SEG2]     → ✗ REJECTED: rejected
+[05:00:13][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[05:00:14][SEG2]     → ✗ REJECTED: rejected
+[05:00:14][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:00:15][SEG2]     → ✗ REJECTED: rejected
+[05:00:15][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[05:00:15][SEG2]     → ✗ REJECTED: rejected
+[05:00:16][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[05:00:16][SEG2]     → ? UNKNOWN: unknown
+[05:00:17][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[05:00:17][SEG2]     → ✗ REJECTED: rejected
+[05:00:17][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[05:00:28][SEG2]     → ✗ REJECTED: rejected
+[05:00:28][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[05:00:29][SEG2]     → ✗ REJECTED: rejected
+[05:00:29][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[05:00:29][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:30][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[05:00:30][SEG2]     → ✗ REJECTED: rejected
+[05:00:30][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[05:00:30][SEG2]     → ? UNKNOWN: unknown
+[05:00:31][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[05:00:32][SEG2]     → ✗ REJECTED: rejected
+[05:00:33][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[05:00:33][SEG2]     → ✗ REJECTED: rejected
+[05:00:33][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[05:00:34][SEG2]     → ✗ REJECTED: rejected
+[05:00:34][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[05:00:34][SEG2]     → ? UNKNOWN: unknown
+[05:00:34][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[05:00:35][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:35][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[05:00:36][SEG2]     → ✗ REJECTED: rejected
+[05:00:36][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[05:00:37][SEG2]     → ? UNKNOWN: unknown
+[05:00:37][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[05:00:37][SEG2]     → ✗ REJECTED: rejected
+[05:00:38][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[05:00:38][SEG2]     → ✗ REJECTED: rejected
+[05:00:38][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[05:00:38][SEG2] ============================================================
+[05:20:12][SEG2] ============================================================
+[05:20:12][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[05:20:12][SEG2] ============================================================
+[05:20:12][SEG2] Loaded 2665 leads
+[05:20:12][SEG2] Leads in segment 2: 226
+[05:20:12][SEG2] Processing batch of 20
+[05:20:12][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[05:20:12][SEG2]     → ✗ REJECTED: rejected
+[05:20:13][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[05:20:14][SEG2]     → ✗ REJECTED: rejected
+[05:20:15][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:20:15][SEG2]     → ✗ REJECTED: rejected
+[05:20:15][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[05:20:16][SEG2]     → ✗ REJECTED: rejected
+[05:20:16][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[05:20:17][SEG2]     → ? UNKNOWN: unknown
+[05:20:17][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[05:20:17][SEG2]     → ✗ REJECTED: rejected
+[05:20:18][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[05:20:28][SEG2]     → ✗ REJECTED: rejected
+[05:20:29][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[05:20:29][SEG2]     → ✗ REJECTED: rejected
+[05:20:29][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[05:20:29][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:20:30][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[05:20:30][SEG2]     → ✗ REJECTED: rejected
+[05:20:31][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[05:20:31][SEG2]     → ? UNKNOWN: unknown
+[05:20:31][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[05:20:32][SEG2]     → ✗ REJECTED: rejected
+[05:20:33][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[05:20:33][SEG2]     → ✗ REJECTED: rejected
+[05:20:33][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[05:20:34][SEG2]     → ✗ REJECTED: rejected
+[05:20:34][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[05:20:34][SEG2]     → ? UNKNOWN: unknown
+[05:20:34][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[05:20:35][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:20:35][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[05:20:35][SEG2]     → ✗ REJECTED: rejected
+[05:20:36][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[05:20:36][SEG2]     → ? UNKNOWN: unknown
+[05:20:36][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[05:20:37][SEG2]     → ✗ REJECTED: rejected
+[05:20:37][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[05:20:37][SEG2]     → ✗ REJECTED: rejected
+[05:20:38][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[05:20:38][SEG2] ============================================================
+[05:40:10][SEG2] ============================================================
+[05:40:10][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[05:40:10][SEG2] ============================================================
+[05:40:10][SEG2] Loaded 2665 leads
+[05:40:10][SEG2] Leads in segment 2: 244
+[05:40:10][SEG2] Processing batch of 20
+[05:40:10][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[05:40:11][SEG2]     → ✗ REJECTED: rejected
+[05:40:11][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[05:40:11][SEG2]     → ✗ REJECTED: rejected
+[05:40:12][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:40:12][SEG2]     → ✗ REJECTED: rejected
+[05:40:12][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[05:40:13][SEG2]     → ✗ REJECTED: rejected
+[05:40:13][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[05:40:14][SEG2]     → ? UNKNOWN: unknown
+[05:40:14][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[05:40:14][SEG2]     → ✗ REJECTED: rejected
+[05:40:15][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[05:40:25][SEG2]     → ✗ REJECTED: rejected
+[05:40:25][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[05:40:26][SEG2]     → ✗ REJECTED: rejected
+[05:40:26][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[05:40:26][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:27][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[05:40:27][SEG2]     → ✗ REJECTED: rejected
+[05:40:28][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[05:40:28][SEG2]     → ? UNKNOWN: unknown
+[05:40:28][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[05:40:29][SEG2]     → ✗ REJECTED: rejected
+[05:40:29][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[05:40:30][SEG2]     → ✗ REJECTED: rejected
+[05:40:30][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[05:40:30][SEG2]     → ✗ REJECTED: rejected
+[05:40:31][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[05:40:31][SEG2]     → ? UNKNOWN: unknown
+[05:40:31][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[05:40:31][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:32][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[05:40:32][SEG2]     → ✗ REJECTED: rejected
+[05:40:33][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[05:40:33][SEG2]     → ? UNKNOWN: unknown
+[05:40:33][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[05:40:33][SEG2]     → ✗ REJECTED: rejected
+[05:40:34][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[05:40:34][SEG2]     → ✗ REJECTED: rejected
+[05:40:34][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[05:40:34][SEG2] ============================================================
+[06:00:12][SEG2] ============================================================
+[06:00:12][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[06:00:12][SEG2] ============================================================
+[06:00:12][SEG2] Loaded 2665 leads
+[06:00:12][SEG2] Leads in segment 2: 257
+[06:00:12][SEG2] Processing batch of 20
+[06:00:12][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[06:00:13][SEG2]     → ✗ REJECTED: rejected
+[06:00:13][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[06:00:14][SEG2]     → ✗ REJECTED: rejected
+[06:00:14][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:00:14][SEG2]     → ✗ REJECTED: rejected
+[06:00:15][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[06:00:15][SEG2]     → ✗ REJECTED: rejected
+[06:00:15][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[06:00:16][SEG2]     → ? UNKNOWN: unknown
+[06:00:16][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[06:00:17][SEG2]     → ✗ REJECTED: rejected
+[06:00:17][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[06:00:27][SEG2]     → ✗ REJECTED: rejected
+[06:00:28][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[06:00:28][SEG2]     → ✗ REJECTED: rejected
+[06:00:28][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[06:00:29][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:29][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[06:00:29][SEG2]     → ✗ REJECTED: rejected
+[06:00:30][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[06:00:30][SEG2]     → ? UNKNOWN: unknown
+[06:00:31][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[06:00:32][SEG2]     → ✗ REJECTED: rejected
+[06:00:32][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[06:00:32][SEG2]     → ✗ REJECTED: rejected
+[06:00:33][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[06:00:33][SEG2]     → ✗ REJECTED: rejected
+[06:00:33][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[06:00:34][SEG2]     → ? UNKNOWN: unknown
+[06:00:34][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[06:00:34][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:35][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[06:00:35][SEG2]     → ✗ REJECTED: rejected
+[06:00:35][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[06:00:36][SEG2]     → ? UNKNOWN: unknown
+[06:00:36][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[06:00:37][SEG2]     → ✗ REJECTED: rejected
+[06:00:37][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[06:00:37][SEG2]     → ✗ REJECTED: rejected
+[06:00:38][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[06:00:38][SEG2] ============================================================
+[06:40:10][SEG2] ============================================================
+[06:40:10][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[06:40:10][SEG2] ============================================================
+[06:40:10][SEG2] Loaded 2665 leads
+[06:40:10][SEG2] Leads in segment 2: 278
+[06:40:10][SEG2] Processing batch of 20
+[06:40:10][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[06:40:11][SEG2]     → ✗ REJECTED: rejected
+[06:40:11][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[06:40:12][SEG2]     → ✗ REJECTED: rejected
+[06:40:12][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:40:12][SEG2]     → ✗ REJECTED: rejected
+[06:40:12][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[06:40:13][SEG2]     → ✗ REJECTED: rejected
+[06:40:13][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[06:40:14][SEG2]     → ? UNKNOWN: unknown
+[06:40:14][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[06:40:14][SEG2]     → ✗ REJECTED: rejected
+[06:40:15][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[06:40:25][SEG2]     → ✗ REJECTED: rejected
+[06:40:25][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[06:40:26][SEG2]     → ✗ REJECTED: rejected
+[06:40:26][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[06:40:26][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:27][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[06:40:27][SEG2]     → ✗ REJECTED: rejected
+[06:40:28][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[06:40:28][SEG2]     → ? UNKNOWN: unknown
+[06:40:28][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[06:40:29][SEG2]     → ✗ REJECTED: rejected
+[06:40:30][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[06:40:30][SEG2]     → ✗ REJECTED: rejected
+[06:40:30][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[06:40:31][SEG2]     → ✗ REJECTED: rejected
+[06:40:31][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[06:40:31][SEG2]     → ? UNKNOWN: unknown
+[06:40:32][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[06:40:32][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:32][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[06:40:33][SEG2]     → ✗ REJECTED: rejected
+[06:40:33][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[06:40:33][SEG2]     → ? UNKNOWN: unknown
+[06:40:34][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[06:40:34][SEG2]     → ✗ REJECTED: rejected
+[06:40:34][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[06:40:34][SEG2]     → ✗ REJECTED: rejected
+[06:40:35][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[06:40:35][SEG2] ============================================================
+[07:00:12][SEG2] ============================================================
+[07:00:12][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[07:00:12][SEG2] ============================================================
+[07:00:12][SEG2] Loaded 2665 leads
+[07:00:12][SEG2] Leads in segment 2: 290
+[07:00:12][SEG2] Processing batch of 20
+[07:00:12][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[07:00:13][SEG2]     → ✗ REJECTED: rejected
+[07:00:14][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[07:00:14][SEG2]     → ✗ REJECTED: rejected
+[07:00:14][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:00:15][SEG2]     → ✗ REJECTED: rejected
+[07:00:15][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[07:00:15][SEG2]     → ✗ REJECTED: rejected
+[07:00:16][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[07:00:16][SEG2]     → ? UNKNOWN: unknown
+[07:00:16][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[07:00:17][SEG2]     → ✗ REJECTED: rejected
+[07:00:17][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[07:00:27][SEG2]     → ✗ REJECTED: rejected
+[07:00:28][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[07:00:28][SEG2]     → ✗ REJECTED: rejected
+[07:00:29][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[07:00:29][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:29][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[07:00:30][SEG2]     → ✗ REJECTED: rejected
+[07:00:30][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[07:00:31][SEG2]     → ? UNKNOWN: unknown
+[07:00:31][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[07:00:32][SEG2]     → ✗ REJECTED: rejected
+[07:00:32][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[07:00:32][SEG2]     → ✗ REJECTED: rejected
+[07:00:33][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[07:00:34][SEG2]     → ✗ REJECTED: rejected
+[07:00:34][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[07:00:34][SEG2]     → ? UNKNOWN: unknown
+[07:00:35][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[07:00:35][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:35][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[07:00:36][SEG2]     → ✗ REJECTED: rejected
+[07:00:36][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[07:00:36][SEG2]     → ? UNKNOWN: unknown
+[07:00:37][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[07:00:37][SEG2]     → ✗ REJECTED: rejected
+[07:00:37][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[07:00:38][SEG2]     → ✗ REJECTED: rejected
+[07:00:38][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[07:00:38][SEG2] ============================================================
+[07:20:11][SEG2] ============================================================
+[07:20:11][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[07:20:11][SEG2] ============================================================
+[07:20:11][SEG2] Loaded 2665 leads
+[07:20:11][SEG2] Leads in segment 2: 298
+[07:20:11][SEG2] Processing batch of 20
+[07:20:11][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[07:20:12][SEG2]     → ✗ REJECTED: rejected
+[07:20:12][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[07:20:12][SEG2]     → ✗ REJECTED: rejected
+[07:20:13][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:20:13][SEG2]     → ✗ REJECTED: rejected
+[07:20:13][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[07:20:14][SEG2]     → ✗ REJECTED: rejected
+[07:20:14][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[07:20:14][SEG2]     → ? UNKNOWN: unknown
+[07:20:15][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[07:20:15][SEG2]     → ✗ REJECTED: rejected
+[07:20:16][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[07:20:26][SEG2]     → ✗ REJECTED: rejected
+[07:20:26][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[07:20:27][SEG2]     → ✗ REJECTED: rejected
+[07:20:27][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[07:20:27][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:28][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[07:20:28][SEG2]     → ✗ REJECTED: rejected
+[07:20:29][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[07:20:29][SEG2]     → ? UNKNOWN: unknown
+[07:20:29][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[07:20:30][SEG2]     → ✗ REJECTED: rejected
+[07:20:31][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[07:20:31][SEG2]     → ✗ REJECTED: rejected
+[07:20:31][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[07:20:32][SEG2]     → ✗ REJECTED: rejected
+[07:20:32][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[07:20:32][SEG2]     → ? UNKNOWN: unknown
+[07:20:33][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[07:20:33][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:33][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[07:20:34][SEG2]     → ✗ REJECTED: rejected
+[07:20:34][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[07:20:34][SEG2]     → ? UNKNOWN: unknown
+[07:20:35][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[07:20:35][SEG2]     → ✗ REJECTED: rejected
+[07:20:36][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[07:20:36][SEG2]     → ✗ REJECTED: rejected
+[07:20:36][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[07:20:36][SEG2] ============================================================
+[07:40:11][SEG2] ============================================================
+[07:40:11][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[07:40:11][SEG2] ============================================================
+[07:40:11][SEG2] Loaded 2665 leads
+[07:40:11][SEG2] Leads in segment 2: 310
+[07:40:11][SEG2] Processing batch of 20
+[07:40:11][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[07:40:12][SEG2]     → ✗ REJECTED: rejected
+[07:40:13][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[07:40:13][SEG2]     → ✗ REJECTED: rejected
+[07:40:13][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:40:14][SEG2]     → ✗ REJECTED: rejected
+[07:40:14][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[07:40:14][SEG2]     → ✗ REJECTED: rejected
+[07:40:15][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[07:40:15][SEG2]     → ? UNKNOWN: unknown
+[07:40:16][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[07:40:16][SEG2]     → ✗ REJECTED: rejected
+[07:40:16][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[07:40:27][SEG2]     → ✗ REJECTED: rejected
+[07:40:27][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[07:40:27][SEG2]     → ✗ REJECTED: rejected
+[07:40:28][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[07:40:28][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:28][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[07:40:29][SEG2]     → ✗ REJECTED: rejected
+[07:40:29][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[07:40:29][SEG2]     → ? UNKNOWN: unknown
+[07:40:30][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[07:40:31][SEG2]     → ✗ REJECTED: rejected
+[07:40:31][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[07:40:31][SEG2]     → ✗ REJECTED: rejected
+[07:40:32][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[07:40:32][SEG2]     → ✗ REJECTED: rejected
+[07:40:33][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[07:40:33][SEG2]     → ? UNKNOWN: unknown
+[07:40:33][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[07:40:34][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:34][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[07:40:35][SEG2]     → ✗ REJECTED: rejected
+[07:40:35][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[07:40:35][SEG2]     → ? UNKNOWN: unknown
+[07:40:36][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[07:40:36][SEG2]     → ✗ REJECTED: rejected
+[07:40:36][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[07:40:37][SEG2]     → ✗ REJECTED: rejected
+[07:40:37][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[07:40:37][SEG2] ============================================================
+[08:00:12][SEG2] ============================================================
+[08:00:12][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[08:00:12][SEG2] ============================================================
+[08:00:12][SEG2] Loaded 2665 leads
+[08:00:12][SEG2] Leads in segment 2: 323
+[08:00:12][SEG2] Processing batch of 20
+[08:00:12][SEG2]   [1/20] Choice Epoxy Coatings → info@choiceepoxycoatings.com
+[08:00:13][SEG2]     → ✗ REJECTED: rejected
+[08:00:13][SEG2]   [2/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[08:00:13][SEG2]     → ✗ REJECTED: rejected
+[08:00:13][SEG2]   [3/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[08:00:14][SEG2]     → ✗ REJECTED: rejected
+[08:00:14][SEG2]   [4/20] Auto Body Shop → info@jhcc.com
+[08:00:15][SEG2]     → ✗ REJECTED: rejected
+[08:00:15][SEG2]   [5/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[08:00:15][SEG2]     → ? UNKNOWN: unknown
+[08:00:16][SEG2]   [6/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[08:00:16][SEG2]     → ✗ REJECTED: rejected
+[08:00:17][SEG2]   [7/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[08:00:27][SEG2]     → ✗ REJECTED: rejected
+[08:00:27][SEG2]   [8/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[08:00:28][SEG2]     → ✗ REJECTED: rejected
+[08:00:28][SEG2]   [9/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[08:00:28][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:29][SEG2]   [10/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[08:00:29][SEG2]     → ✗ REJECTED: rejected
+[08:00:30][SEG2]   [11/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[08:00:30][SEG2]     → ? UNKNOWN: unknown
+[08:00:30][SEG2]   [12/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[08:00:34][SEG2]     → ✗ REJECTED: rejected
+[08:00:34][SEG2]   [13/20] Fleet services → info@gruntservices.com
+[08:00:35][SEG2]     → ✗ REJECTED: rejected
+[08:00:35][SEG2]   [14/20] Our Experienced Handyman Palm City, → info@tamcare.com
+[08:00:35][SEG2]     → ✗ REJECTED: rejected
+[08:00:36][SEG2]   [15/20] Martin County → eciampi@martin.fl.us
+[08:00:36][SEG2]     → ? UNKNOWN: unknown
+[08:00:36][SEG2]   [16/20] Kitchen Renovations Perfected | Rem → info@kitchenrenovationsperfected.com
+[08:00:36][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:37][SEG2]   [17/20] West Boca Raton Custom Cabinets, Re → info@kitchentuneup.com
+[08:00:37][SEG2]     → ✗ REJECTED: rejected
+[08:00:38][SEG2]   [18/20] Castlewood Assisted Living Residenc → brittanyf.cal@outlook.com
+[08:00:38][SEG2]     → ? UNKNOWN: unknown
+[08:00:38][SEG2]   [19/20] Delray Beach Kitchen Remodeling Ser → info@jrstonedesign.net
+[08:00:38][SEG2]     → ✗ REJECTED: rejected
+[08:00:39][SEG2]   [20/20] Florida Commercial Real Estate Comp → cpelaez@commercialrealestatellc.com
+[08:00:39][SEG2]     → ✗ REJECTED: rejected
+[08:00:39][SEG2] SEGMENT 2 COMPLETE: 0 verified, 14 rejected
+[08:00:39][SEG2] ============================================================
+[08:20:11][SEG2] ============================================================
+[08:20:11][SEG2] SMTP VERIFIER — Segment 2/3 | Batch: 20
+[08:20:11][SEG2] ============================================================
+[08:20:11][SEG2] Treasure Coast leads: 2061
+[08:20:11][SEG2] Loaded 2061 leads
+[08:20:11][SEG2] Leads in segment 2: 172
+[08:20:11][SEG2] Processing batch of 20
+[08:20:11][SEG2]   [1/20] South Florida Realty Management → property.manager@floridapm.net/
+[08:20:11][SEG2]     → SKIP: no MX for floridapm.net/
+[08:20:11][SEG2]   [2/20] Gizze Construction Inc → Gizzeconstruction@gmail.com
+[08:20:11][SEG2]     → ✓ VERIFIED
+[08:20:12][SEG2]   [3/20] Florida Property Management Agency → property.manager@mgtspec.com/
+[08:20:12][SEG2]     → SKIP: no MX for mgtspec.com/
+[08:20:12][SEG2]   [4/20] Apartments for Rent in Fort Pierce, → sales-usa@theblueground.com
+[08:20:12][SEG2]     → ? UNKNOWN: unknown
+[08:20:13][SEG2]   [5/20] Signature Property Management → Ira@signaturepropertymgmt.com
+[08:20:13][SEG2]     → ✗ REJECTED: rejected
+[08:20:13][SEG2]   [6/20] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[08:20:13][SEG2]     → ✗ REJECTED: rejected
+[08:20:14][SEG2]   [7/20] Properties & Communities → kevin@stewartteam.com
+[08:20:14][SEG2]     → ? UNKNOWN: unknown
+[08:20:15][SEG2]   [8/20] Auto Body Shop → info@jhcc.com
+[08:20:15][SEG2]     → ✗ REJECTED: rejected
+[08:20:15][SEG2]   [9/20] Remodeling Contractor: Island Kitch → info@ikbconstruction.com
+[08:20:16][SEG2]     → ? UNKNOWN: unknown
+[08:20:16][SEG2]   [10/20] Home Services at Jensen Beach #221 → cgallant@floridaelkscts.org
+[08:20:16][SEG2]     → ✗ REJECTED: rejected
+[08:20:17][SEG2]   [11/20] Trusted Cleaning Company in Stuart  → ncsnatyka@gmail.com
+[08:20:17][SEG2]     → ✓ VERIFIED
+[08:20:17][SEG2]   [12/20] Cleaning Services Stuart, Jensen Be → info@dustintimecleaning.com
+[08:20:28][SEG2]     → ✗ REJECTED: rejected
+[08:20:28][SEG2]   [13/20] Florida Investment Properties → nabertke@gmail.com
+[08:20:28][SEG2]     → ✓ VERIFIED
+[08:20:29][SEG2]   [14/20] Excellent Investment → sales@stewartsresort.com
+[08:20:29][SEG2]     → ? UNKNOWN: unknown
+[08:20:30][SEG2]   [15/20] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[08:20:30][SEG2]     → ✗ REJECTED: rejected
+[08:20:30][SEG2]   [16/20] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[08:20:31][SEG2]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:20:31][SEG2]   [17/20] Treasure Coast Toyota Of Stuart → info@treasurecoasttoyotaofstuart.com
+[08:20:31][SEG2]     → ✗ REJECTED: rejected
+[08:20:32][SEG2]   [18/20] Fort Pierce, FL Industrial & Wareho → info@propertyshark.com
+[08:20:32][SEG2]     → ? UNKNOWN: unknown
+[08:20:32][SEG2]   [19/20] 2700 Industrial Ave 2 , Fort Pierce → info@warehousespaces.com
+[08:20:33][SEG2]     → ✗ REJECTED: rejected
+[08:20:33][SEG2]   [20/20] Fleet services → info@gruntservices.com
+[08:20:34][SEG2]     → ✗ REJECTED: rejected
+[08:20:34][SEG2] Wrote 3 verified emails
+[08:20:34][SEG2] SEGMENT 2 COMPLETE: 3 verified, 9 rejected
+[08:20:34][SEG2] ============================================================

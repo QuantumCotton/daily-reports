@@ -1,0 +1,1690 @@
+[04:30:04][SEG3] ============================================================
+[04:30:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[04:30:04][SEG3] ============================================================
+[04:30:04][SEG3] Loaded 785 leads
+[04:30:04][SEG3] Leads in segment 3: 44
+[04:30:04][SEG3] Processing batch of 15
+[04:30:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[04:30:04][SEG3]     → ? UNKNOWN: unknown
+[04:30:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[04:30:05][SEG3]     → ✗ REJECTED: rejected
+[04:30:05][SEG3]   [3/15] Excellent Investment → sales@stewartsresort.com
+[04:30:06][SEG3]     → ✓ VERIFIED
+[04:30:07][SEG3]   [4/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[04:30:07][SEG3]     → ✗ REJECTED: rejected
+[04:30:08][SEG3]   [5/15] Fort Pierce, FL Warehouses for Rent → Pmayorga383@gmail.com
+[04:30:08][SEG3]     → ✓ VERIFIED
+[04:30:08][SEG3]   [6/15] Premium Car Detailing in Jupiter, F → beyondlimitspb@gmail.com
+[04:30:09][SEG3]     → ✓ VERIFIED
+[04:30:09][SEG3]   [7/15] Palm City Handyman Service → tchomecarerepair@gmail.com
+[04:30:10][SEG3]     → ✓ VERIFIED
+[04:30:10][SEG3]   [8/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[04:30:10][SEG3]     → ? UNKNOWN: unknown
+[04:30:10][SEG3]   [9/15] Treasure Coast Senior Living Commun → faithmarie@tc-seniorliving.com
+[04:30:12][SEG3]     → ✓ VERIFIED
+[04:30:12][SEG3]   [10/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[04:30:13][SEG3]     → ? UNKNOWN: unknown
+[04:30:13][SEG3]   [11/15] Professional Concrete Floor Coating → customsurfacesolutionsllc@gmail.com
+[04:30:14][SEG3]     → ✓ VERIFIED
+[04:30:14][SEG3]   [12/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[04:30:14][SEG3]     → ✗ REJECTED: rejected
+[04:30:15][SEG3]   [13/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[04:30:25][SEG3]     → ✗ REJECTED: rejected
+[04:30:26][SEG3]   [14/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[04:30:34][SEG3]     → ? UNKNOWN: timed out
+[04:30:34][SEG3]   [15/15] Full Service Catering | Treasure Co → info@snlevents.com
+[04:30:34][SEG3]     → ? UNKNOWN: unknown
+[04:30:35][SEG3] Wrote 6 verified emails
+[04:30:35][SEG3] SEGMENT 3 COMPLETE: 6 verified, 4 rejected
+[04:30:35][SEG3] ============================================================
+[04:35:04][SEG3] ============================================================
+[04:35:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[04:35:04][SEG3] ============================================================
+[04:35:04][SEG3] Loaded 921 leads
+[04:35:04][SEG3] FATAL: 'NoneType' object has no attribute 'lower'
+[04:40:04][SEG3] ============================================================
+[04:40:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[04:40:04][SEG3] ============================================================
+[04:40:04][SEG3] Loaded 983 leads
+[04:40:04][SEG3] Leads in segment 3: 51
+[04:40:04][SEG3] Processing batch of 15
+[04:40:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[04:40:04][SEG3]     → ? UNKNOWN: unknown
+[04:40:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[04:40:05][SEG3]     → ✗ REJECTED: rejected
+[04:40:05][SEG3]   [3/15] Excellent Investment → sales@stewartsresort.com
+[04:40:06][SEG3]     → ✓ VERIFIED
+[04:40:06][SEG3]   [4/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[04:40:07][SEG3]     → ✗ REJECTED: rejected
+[04:40:07][SEG3]   [5/15] Fort Pierce, FL Warehouses for Rent → Pmayorga383@gmail.com
+[04:40:07][SEG3]     → ✓ VERIFIED
+[04:40:08][SEG3]   [6/15] Premium Car Detailing in Jupiter, F → beyondlimitspb@gmail.com
+[04:40:08][SEG3]     → ✓ VERIFIED
+[04:40:09][SEG3]   [7/15] Palm City Handyman Service → tchomecarerepair@gmail.com
+[04:40:09][SEG3]     → ✓ VERIFIED
+[04:40:09][SEG3]   [8/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[04:40:09][SEG3]     → ? UNKNOWN: unknown
+[04:40:10][SEG3]   [9/15] Treasure Coast Senior Living Commun → faithmarie@tc-seniorliving.com
+[04:40:11][SEG3]     → ✓ VERIFIED
+[04:40:11][SEG3]   [10/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[04:40:12][SEG3]     → ? UNKNOWN: unknown
+[04:40:12][SEG3]   [11/15] Professional Concrete Floor Coating → customsurfacesolutionsllc@gmail.com
+[04:40:12][SEG3]     → ✓ VERIFIED
+[04:40:13][SEG3]   [12/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[04:40:13][SEG3]     → ✗ REJECTED: rejected
+[04:40:14][SEG3]   [13/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[04:40:24][SEG3]     → ✗ REJECTED: rejected
+[04:40:24][SEG3]   [14/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[04:40:32][SEG3]     → ? UNKNOWN: timed out
+[04:40:33][SEG3]   [15/15] Full Service Catering | Treasure Co → info@snlevents.com
+[04:40:33][SEG3]     → ? UNKNOWN: unknown
+[04:40:33][SEG3] Wrote 6 verified emails
+[04:40:33][SEG3] SEGMENT 3 COMPLETE: 6 verified, 4 rejected
+[04:40:33][SEG3] ============================================================
+[04:45:04][SEG3] ============================================================
+[04:45:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[04:45:04][SEG3] ============================================================
+[04:45:04][SEG3] Loaded 1020 leads
+[04:45:04][SEG3] Leads in segment 3: 50
+[04:45:04][SEG3] Processing batch of 15
+[04:45:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[04:45:04][SEG3]     → ? UNKNOWN: unknown
+[04:45:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[04:45:05][SEG3]     → ✗ REJECTED: rejected
+[04:45:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[04:45:06][SEG3]     → ✗ REJECTED: rejected
+[04:45:06][SEG3]   [4/15] Fort Pierce, FL Warehouses for Rent → Pmayorga383@gmail.com
+[04:45:07][SEG3]     → ✓ VERIFIED
+[04:45:07][SEG3]   [5/15] Palm City Handyman Service → tchomecarerepair@gmail.com
+[04:45:07][SEG3]     → ✓ VERIFIED
+[04:45:08][SEG3]   [6/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[04:45:08][SEG3]     → ? UNKNOWN: unknown
+[04:45:09][SEG3]   [7/15] Treasure Coast Senior Living Commun → faithmarie@tc-seniorliving.com
+[04:45:10][SEG3]     → ✓ VERIFIED
+[04:45:10][SEG3]   [8/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[04:45:10][SEG3]     → ? UNKNOWN: unknown
+[04:45:11][SEG3]   [9/15] Professional Concrete Floor Coating → customsurfacesolutionsllc@gmail.com
+[04:45:11][SEG3]     → ✓ VERIFIED
+[04:45:12][SEG3]   [10/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[04:45:12][SEG3]     → ✗ REJECTED: rejected
+[04:45:12][SEG3]   [11/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[04:45:23][SEG3]     → ✗ REJECTED: rejected
+[04:45:23][SEG3]   [12/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[04:45:31][SEG3]     → ? UNKNOWN: timed out
+[04:45:32][SEG3]   [13/15] Full Service Catering | Treasure Co → info@snlevents.com
+[04:45:32][SEG3]     → ? UNKNOWN: unknown
+[04:45:32][SEG3]   [14/15] Martin County, FL commercial real e → info@realmo.com
+[04:45:33][SEG3]     → ? UNKNOWN: unknown
+[04:45:33][SEG3]   [15/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[04:45:41][SEG3]     → ? UNKNOWN: timed out
+[04:45:42][SEG3] Wrote 4 verified emails
+[04:45:42][SEG3] SEGMENT 3 COMPLETE: 4 verified, 4 rejected
+[04:45:42][SEG3] ============================================================
+[04:50:05][SEG3] ============================================================
+[04:50:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[04:50:05][SEG3] ============================================================
+[04:50:05][SEG3] Loaded 1044 leads
+[04:50:05][SEG3] FATAL: 'NoneType' object has no attribute 'lower'
+[04:55:04][SEG3] ============================================================
+[04:55:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[04:55:04][SEG3] ============================================================
+[04:55:04][SEG3] Loaded 1237 leads
+[04:55:04][SEG3] Leads in segment 3: 66
+[04:55:04][SEG3] Processing batch of 15
+[04:55:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[04:55:04][SEG3]     → ? UNKNOWN: unknown
+[04:55:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[04:55:05][SEG3]     → ✗ REJECTED: rejected
+[04:55:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[04:55:06][SEG3]     → ✗ REJECTED: rejected
+[04:55:06][SEG3]   [4/15] Fort Pierce, FL Warehouses for Rent → Pmayorga383@gmail.com
+[04:55:07][SEG3]     → ✓ VERIFIED
+[04:55:07][SEG3]   [5/15] Palm City Handyman Service → tchomecarerepair@gmail.com
+[04:55:07][SEG3]     → ✓ VERIFIED
+[04:55:08][SEG3]   [6/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[04:55:08][SEG3]     → ? UNKNOWN: unknown
+[04:55:08][SEG3]   [7/15] Treasure Coast Senior Living Commun → faithmarie@tc-seniorliving.com
+[04:55:10][SEG3]     → ✓ VERIFIED
+[04:55:10][SEG3]   [8/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[04:55:10][SEG3]     → ? UNKNOWN: unknown
+[04:55:11][SEG3]   [9/15] Professional Concrete Floor Coating → customsurfacesolutionsllc@gmail.com
+[04:55:11][SEG3]     → ✓ VERIFIED
+[04:55:12][SEG3]   [10/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[04:55:12][SEG3]     → ✗ REJECTED: rejected
+[04:55:12][SEG3]   [11/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[04:55:23][SEG3]     → ✗ REJECTED: rejected
+[04:55:23][SEG3]   [12/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[04:55:31][SEG3]     → ? UNKNOWN: timed out
+[04:55:32][SEG3]   [13/15] Full Service Catering | Treasure Co → info@snlevents.com
+[04:55:32][SEG3]     → ? UNKNOWN: unknown
+[04:55:32][SEG3]   [14/15] Martin County, FL commercial real e → info@realmo.com
+[04:55:33][SEG3]     → ? UNKNOWN: unknown
+[04:55:33][SEG3]   [15/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[04:55:41][SEG3]     → ? UNKNOWN: timed out
+[04:55:42][SEG3] Wrote 4 verified emails
+[04:55:42][SEG3] SEGMENT 3 COMPLETE: 4 verified, 4 rejected
+[04:55:42][SEG3] ============================================================
+[05:00:06][SEG3] ============================================================
+[05:00:06][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:00:06][SEG3] ============================================================
+[05:00:06][SEG3] Loaded 1253 leads
+[05:00:06][SEG3] Leads in segment 3: 62
+[05:00:06][SEG3] Processing batch of 15
+[05:00:06][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:00:06][SEG3]     → ? UNKNOWN: unknown
+[05:00:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:00:07][SEG3]     → ✗ REJECTED: rejected
+[05:00:07][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:00:07][SEG3]     → ✗ REJECTED: rejected
+[05:00:08][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:00:08][SEG3]     → ? UNKNOWN: unknown
+[05:00:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:00:09][SEG3]     → ? UNKNOWN: unknown
+[05:00:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:00:10][SEG3]     → ✗ REJECTED: rejected
+[05:00:10][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:00:20][SEG3]     → ✗ REJECTED: rejected
+[05:00:21][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:00:29][SEG3]     → ? UNKNOWN: timed out
+[05:00:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:00:29][SEG3]     → ? UNKNOWN: unknown
+[05:00:30][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:00:30][SEG3]     → ? UNKNOWN: unknown
+[05:00:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:00:39][SEG3]     → ? UNKNOWN: timed out
+[05:00:39][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:00:39][SEG3]     → ? UNKNOWN: unknown
+[05:00:40][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:00:40][SEG3]     → ✗ REJECTED: rejected
+[05:00:41][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:00:41][SEG3]     → ? UNKNOWN: unknown
+[05:00:41][SEG3]   [15/15] Mobile Detailing in West Palm Beach → xtramiledetails@gmail.com
+[05:00:42][SEG3]     → ✓ VERIFIED
+[05:00:42][SEG3] Wrote 1 verified emails
+[05:00:42][SEG3] SEGMENT 3 COMPLETE: 1 verified, 5 rejected
+[05:00:42][SEG3] ============================================================
+[05:05:04][SEG3] ============================================================
+[05:05:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:05:04][SEG3] ============================================================
+[05:05:05][SEG3] Loaded 1330 leads
+[05:05:05][SEG3] Leads in segment 3: 62
+[05:05:05][SEG3] Processing batch of 15
+[05:05:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:05:05][SEG3]     → ? UNKNOWN: unknown
+[05:05:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:05:06][SEG3]     → ✗ REJECTED: rejected
+[05:05:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:05:07][SEG3]     → ✗ REJECTED: rejected
+[05:05:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:05:07][SEG3]     → ? UNKNOWN: unknown
+[05:05:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:05:08][SEG3]     → ? UNKNOWN: unknown
+[05:05:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:05:09][SEG3]     → ✗ REJECTED: rejected
+[05:05:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:05:19][SEG3]     → ✗ REJECTED: rejected
+[05:05:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:05:28][SEG3]     → ? UNKNOWN: timed out
+[05:05:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:05:28][SEG3]     → ? UNKNOWN: unknown
+[05:05:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:05:29][SEG3]     → ? UNKNOWN: unknown
+[05:05:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:05:38][SEG3]     → ? UNKNOWN: timed out
+[05:05:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:05:38][SEG3]     → ? UNKNOWN: unknown
+[05:05:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:05:39][SEG3]     → ✗ REJECTED: rejected
+[05:05:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:05:40][SEG3]     → ? UNKNOWN: unknown
+[05:05:40][SEG3]   [15/15] Mobile Detailing in West Palm Beach → xtramiledetails@gmail.com
+[05:05:41][SEG3]     → ✓ VERIFIED
+[05:05:41][SEG3] Wrote 1 verified emails
+[05:05:41][SEG3] SEGMENT 3 COMPLETE: 1 verified, 5 rejected
+[05:05:41][SEG3] ============================================================
+[05:10:05][SEG3] ============================================================
+[05:10:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:10:05][SEG3] ============================================================
+[05:10:05][SEG3] Loaded 1330 leads
+[05:10:05][SEG3] Leads in segment 3: 62
+[05:10:05][SEG3] Processing batch of 15
+[05:10:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:10:05][SEG3]     → ? UNKNOWN: unknown
+[05:10:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:10:06][SEG3]     → ✗ REJECTED: rejected
+[05:10:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:10:06][SEG3]     → ✗ REJECTED: rejected
+[05:10:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:10:07][SEG3]     → ? UNKNOWN: unknown
+[05:10:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:10:08][SEG3]     → ? UNKNOWN: unknown
+[05:10:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:10:09][SEG3]     → ✗ REJECTED: rejected
+[05:10:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:10:20][SEG3]     → ✗ REJECTED: rejected
+[05:10:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:10:28][SEG3]     → ? UNKNOWN: timed out
+[05:10:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:10:29][SEG3]     → ? UNKNOWN: unknown
+[05:10:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:10:29][SEG3]     → ? UNKNOWN: unknown
+[05:10:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:10:38][SEG3]     → ? UNKNOWN: timed out
+[05:10:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:10:38][SEG3]     → ? UNKNOWN: unknown
+[05:10:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:10:40][SEG3]     → ✗ REJECTED: rejected
+[05:10:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:10:40][SEG3]     → ? UNKNOWN: unknown
+[05:10:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:10:49][SEG3]     → ? UNKNOWN: timed out
+[05:10:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:10:49][SEG3] ============================================================
+[05:15:04][SEG3] ============================================================
+[05:15:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:15:04][SEG3] ============================================================
+[05:15:04][SEG3] Loaded 2665 leads
+[05:15:04][SEG3] Leads in segment 3: 63
+[05:15:04][SEG3] Processing batch of 15
+[05:15:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:15:04][SEG3]     → ? UNKNOWN: unknown
+[05:15:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:15:05][SEG3]     → ✗ REJECTED: rejected
+[05:15:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:15:06][SEG3]     → ✗ REJECTED: rejected
+[05:15:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:15:06][SEG3]     → ? UNKNOWN: unknown
+[05:15:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:15:07][SEG3]     → ? UNKNOWN: unknown
+[05:15:07][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:15:08][SEG3]     → ✗ REJECTED: rejected
+[05:15:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:15:18][SEG3]     → ✗ REJECTED: rejected
+[05:15:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:15:27][SEG3]     → ? UNKNOWN: timed out
+[05:15:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:15:27][SEG3]     → ? UNKNOWN: unknown
+[05:15:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:15:28][SEG3]     → ? UNKNOWN: unknown
+[05:15:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:15:37][SEG3]     → ? UNKNOWN: timed out
+[05:15:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:15:37][SEG3]     → ? UNKNOWN: unknown
+[05:15:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:15:38][SEG3]     → ✗ REJECTED: rejected
+[05:15:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:15:39][SEG3]     → ? UNKNOWN: unknown
+[05:15:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:15:47][SEG3]     → ? UNKNOWN: timed out
+[05:15:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:15:48][SEG3] ============================================================
+[05:20:05][SEG3] ============================================================
+[05:20:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:20:05][SEG3] ============================================================
+[05:20:05][SEG3] Loaded 2665 leads
+[05:20:05][SEG3] Leads in segment 3: 63
+[05:20:05][SEG3] Processing batch of 15
+[05:20:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:20:05][SEG3]     → ? UNKNOWN: unknown
+[05:20:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:20:06][SEG3]     → ✗ REJECTED: rejected
+[05:20:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:20:06][SEG3]     → ✗ REJECTED: rejected
+[05:20:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:20:07][SEG3]     → ? UNKNOWN: unknown
+[05:20:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:20:08][SEG3]     → ? UNKNOWN: unknown
+[05:20:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:20:08][SEG3]     → ✗ REJECTED: rejected
+[05:20:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:20:19][SEG3]     → ✗ REJECTED: rejected
+[05:20:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:20:27][SEG3]     → ? UNKNOWN: timed out
+[05:20:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:20:28][SEG3]     → ? UNKNOWN: unknown
+[05:20:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:20:29][SEG3]     → ? UNKNOWN: unknown
+[05:20:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:20:37][SEG3]     → ? UNKNOWN: timed out
+[05:20:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:20:38][SEG3]     → ? UNKNOWN: unknown
+[05:20:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:20:39][SEG3]     → ✗ REJECTED: rejected
+[05:20:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:20:39][SEG3]     → ? UNKNOWN: unknown
+[05:20:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:20:48][SEG3]     → ? UNKNOWN: timed out
+[05:20:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:20:48][SEG3] ============================================================
+[05:25:03][SEG3] ============================================================
+[05:25:03][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:25:03][SEG3] ============================================================
+[05:25:03][SEG3] Loaded 2665 leads
+[05:25:03][SEG3] Leads in segment 3: 63
+[05:25:03][SEG3] Processing batch of 15
+[05:25:03][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:25:03][SEG3]     → ? UNKNOWN: unknown
+[05:25:03][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:25:04][SEG3]     → ✗ REJECTED: rejected
+[05:25:04][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:25:05][SEG3]     → ✗ REJECTED: rejected
+[05:25:05][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:25:05][SEG3]     → ? UNKNOWN: unknown
+[05:25:05][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:25:06][SEG3]     → ? UNKNOWN: unknown
+[05:25:06][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:25:07][SEG3]     → ✗ REJECTED: rejected
+[05:25:07][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:25:17][SEG3]     → ✗ REJECTED: rejected
+[05:25:18][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:25:26][SEG3]     → ? UNKNOWN: timed out
+[05:25:26][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:25:26][SEG3]     → ? UNKNOWN: unknown
+[05:25:27][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:25:27][SEG3]     → ? UNKNOWN: unknown
+[05:25:27][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:25:35][SEG3]     → ? UNKNOWN: timed out
+[05:25:36][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:25:36][SEG3]     → ? UNKNOWN: unknown
+[05:25:36][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:25:37][SEG3]     → ✗ REJECTED: rejected
+[05:25:37][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:25:38][SEG3]     → ? UNKNOWN: unknown
+[05:25:38][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:25:46][SEG3]     → ? UNKNOWN: timed out
+[05:25:46][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:25:46][SEG3] ============================================================
+[05:30:05][SEG3] ============================================================
+[05:30:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:30:05][SEG3] ============================================================
+[05:30:05][SEG3] Loaded 2665 leads
+[05:30:05][SEG3] Leads in segment 3: 63
+[05:30:05][SEG3] Processing batch of 15
+[05:30:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:30:05][SEG3]     → ? UNKNOWN: unknown
+[05:30:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:30:06][SEG3]     → ✗ REJECTED: rejected
+[05:30:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:30:07][SEG3]     → ✗ REJECTED: rejected
+[05:30:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:30:08][SEG3]     → ? UNKNOWN: unknown
+[05:30:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:30:08][SEG3]     → ? UNKNOWN: unknown
+[05:30:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:30:09][SEG3]     → ✗ REJECTED: rejected
+[05:30:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:30:20][SEG3]     → ✗ REJECTED: rejected
+[05:30:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:30:28][SEG3]     → ? UNKNOWN: timed out
+[05:30:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:30:29][SEG3]     → ? UNKNOWN: unknown
+[05:30:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:30:30][SEG3]     → ? UNKNOWN: unknown
+[05:30:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:30:38][SEG3]     → ? UNKNOWN: timed out
+[05:30:39][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:30:39][SEG3]     → ? UNKNOWN: unknown
+[05:30:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:30:40][SEG3]     → ✗ REJECTED: rejected
+[05:30:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:30:40][SEG3]     → ? UNKNOWN: unknown
+[05:30:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:30:41][SEG3]     → ? UNKNOWN: [Errno 113] No route to host
+[05:30:42][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:30:42][SEG3] ============================================================
+[05:35:04][SEG3] ============================================================
+[05:35:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:35:04][SEG3] ============================================================
+[05:35:04][SEG3] Loaded 2665 leads
+[05:35:04][SEG3] Leads in segment 3: 63
+[05:35:04][SEG3] Processing batch of 15
+[05:35:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:35:05][SEG3]     → ? UNKNOWN: unknown
+[05:35:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:35:05][SEG3]     → ✗ REJECTED: rejected
+[05:35:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:35:06][SEG3]     → ✗ REJECTED: rejected
+[05:35:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:35:07][SEG3]     → ? UNKNOWN: unknown
+[05:35:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:35:07][SEG3]     → ? UNKNOWN: unknown
+[05:35:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:35:08][SEG3]     → ✗ REJECTED: rejected
+[05:35:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:35:19][SEG3]     → ✗ REJECTED: rejected
+[05:35:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:35:27][SEG3]     → ? UNKNOWN: timed out
+[05:35:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:35:28][SEG3]     → ? UNKNOWN: unknown
+[05:35:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:35:28][SEG3]     → ? UNKNOWN: unknown
+[05:35:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:35:37][SEG3]     → ? UNKNOWN: timed out
+[05:35:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:35:37][SEG3]     → ? UNKNOWN: unknown
+[05:35:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:35:38][SEG3]     → ✗ REJECTED: rejected
+[05:35:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:35:39][SEG3]     → ? UNKNOWN: unknown
+[05:35:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:35:48][SEG3]     → ? UNKNOWN: timed out
+[05:35:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:35:48][SEG3] ============================================================
+[05:40:03][SEG3] ============================================================
+[05:40:03][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:40:03][SEG3] ============================================================
+[05:40:03][SEG3] Loaded 2665 leads
+[05:40:03][SEG3] Leads in segment 3: 63
+[05:40:03][SEG3] Processing batch of 15
+[05:40:03][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:40:03][SEG3]     → ? UNKNOWN: unknown
+[05:40:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:40:04][SEG3]     → ✗ REJECTED: rejected
+[05:40:04][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:40:04][SEG3]     → ✗ REJECTED: rejected
+[05:40:05][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:40:05][SEG3]     → ? UNKNOWN: unknown
+[05:40:05][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:40:06][SEG3]     → ? UNKNOWN: unknown
+[05:40:06][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:40:06][SEG3]     → ✗ REJECTED: rejected
+[05:40:07][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:40:17][SEG3]     → ✗ REJECTED: rejected
+[05:40:18][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:40:26][SEG3]     → ? UNKNOWN: timed out
+[05:40:26][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:40:26][SEG3]     → ? UNKNOWN: unknown
+[05:40:27][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:40:27][SEG3]     → ? UNKNOWN: unknown
+[05:40:27][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:40:36][SEG3]     → ? UNKNOWN: timed out
+[05:40:36][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:40:36][SEG3]     → ? UNKNOWN: unknown
+[05:40:37][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:40:37][SEG3]     → ✗ REJECTED: rejected
+[05:40:38][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:40:38][SEG3]     → ? UNKNOWN: unknown
+[05:40:38][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:40:46][SEG3]     → ? UNKNOWN: timed out
+[05:40:47][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:40:47][SEG3] ============================================================
+[05:45:04][SEG3] ============================================================
+[05:45:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:45:04][SEG3] ============================================================
+[05:45:04][SEG3] Loaded 2665 leads
+[05:45:04][SEG3] Leads in segment 3: 63
+[05:45:04][SEG3] Processing batch of 15
+[05:45:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:45:04][SEG3]     → ? UNKNOWN: unknown
+[05:45:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:45:05][SEG3]     → ✗ REJECTED: rejected
+[05:45:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:45:06][SEG3]     → ✗ REJECTED: rejected
+[05:45:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:45:07][SEG3]     → ? UNKNOWN: unknown
+[05:45:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:45:08][SEG3]     → ? UNKNOWN: unknown
+[05:45:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:45:08][SEG3]     → ✗ REJECTED: rejected
+[05:45:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:45:19][SEG3]     → ✗ REJECTED: rejected
+[05:45:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:45:28][SEG3]     → ? UNKNOWN: timed out
+[05:45:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:45:28][SEG3]     → ? UNKNOWN: unknown
+[05:45:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:45:29][SEG3]     → ? UNKNOWN: unknown
+[05:45:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:45:37][SEG3]     → ? UNKNOWN: timed out
+[05:45:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:45:38][SEG3]     → ? UNKNOWN: unknown
+[05:45:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:45:39][SEG3]     → ✗ REJECTED: rejected
+[05:45:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:45:39][SEG3]     → ? UNKNOWN: unknown
+[05:45:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:45:48][SEG3]     → ? UNKNOWN: timed out
+[05:45:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:45:48][SEG3] ============================================================
+[05:50:04][SEG3] ============================================================
+[05:50:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:50:04][SEG3] ============================================================
+[05:50:04][SEG3] Loaded 2665 leads
+[05:50:04][SEG3] Leads in segment 3: 63
+[05:50:04][SEG3] Processing batch of 15
+[05:50:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:50:04][SEG3]     → ? UNKNOWN: unknown
+[05:50:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:50:05][SEG3]     → ✗ REJECTED: rejected
+[05:50:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:50:06][SEG3]     → ✗ REJECTED: rejected
+[05:50:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:50:06][SEG3]     → ? UNKNOWN: unknown
+[05:50:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:50:07][SEG3]     → ? UNKNOWN: unknown
+[05:50:07][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:50:08][SEG3]     → ✗ REJECTED: rejected
+[05:50:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:50:18][SEG3]     → ✗ REJECTED: rejected
+[05:50:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:50:27][SEG3]     → ? UNKNOWN: timed out
+[05:50:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:50:27][SEG3]     → ? UNKNOWN: unknown
+[05:50:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:50:28][SEG3]     → ? UNKNOWN: unknown
+[05:50:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:50:37][SEG3]     → ? UNKNOWN: timed out
+[05:50:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:50:37][SEG3]     → ? UNKNOWN: unknown
+[05:50:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:50:38][SEG3]     → ✗ REJECTED: rejected
+[05:50:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:50:39][SEG3]     → ? UNKNOWN: unknown
+[05:50:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:50:47][SEG3]     → ? UNKNOWN: timed out
+[05:50:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:50:48][SEG3] ============================================================
+[05:55:03][SEG3] ============================================================
+[05:55:03][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[05:55:03][SEG3] ============================================================
+[05:55:03][SEG3] Loaded 2665 leads
+[05:55:03][SEG3] Leads in segment 3: 63
+[05:55:03][SEG3] Processing batch of 15
+[05:55:03][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:55:04][SEG3]     → ? UNKNOWN: unknown
+[05:55:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[05:55:05][SEG3]     → ✗ REJECTED: rejected
+[05:55:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:55:05][SEG3]     → ✗ REJECTED: rejected
+[05:55:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:55:06][SEG3]     → ? UNKNOWN: unknown
+[05:55:06][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[05:55:07][SEG3]     → ? UNKNOWN: unknown
+[05:55:07][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[05:55:08][SEG3]     → ✗ REJECTED: rejected
+[05:55:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[05:55:18][SEG3]     → ✗ REJECTED: rejected
+[05:55:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[05:55:27][SEG3]     → ? UNKNOWN: timed out
+[05:55:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[05:55:27][SEG3]     → ? UNKNOWN: unknown
+[05:55:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[05:55:28][SEG3]     → ? UNKNOWN: unknown
+[05:55:28][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[05:55:37][SEG3]     → ? UNKNOWN: timed out
+[05:55:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[05:55:37][SEG3]     → ? UNKNOWN: unknown
+[05:55:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[05:55:38][SEG3]     → ✗ REJECTED: rejected
+[05:55:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[05:55:39][SEG3]     → ? UNKNOWN: unknown
+[05:55:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[05:55:47][SEG3]     → ? UNKNOWN: timed out
+[05:55:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[05:55:48][SEG3] ============================================================
+[06:00:05][SEG3] ============================================================
+[06:00:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:00:05][SEG3] ============================================================
+[06:00:05][SEG3] Loaded 2665 leads
+[06:00:05][SEG3] Leads in segment 3: 63
+[06:00:05][SEG3] Processing batch of 15
+[06:00:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:00:05][SEG3]     → ? UNKNOWN: unknown
+[06:00:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:00:06][SEG3]     → ✗ REJECTED: rejected
+[06:00:07][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:00:07][SEG3]     → ✗ REJECTED: rejected
+[06:00:08][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:00:08][SEG3]     → ? UNKNOWN: unknown
+[06:00:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:00:08][SEG3]     → ? UNKNOWN: unknown
+[06:00:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:00:09][SEG3]     → ✗ REJECTED: rejected
+[06:00:10][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:00:20][SEG3]     → ✗ REJECTED: rejected
+[06:00:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:00:28][SEG3]     → ? UNKNOWN: timed out
+[06:00:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:00:29][SEG3]     → ? UNKNOWN: unknown
+[06:00:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:00:30][SEG3]     → ? UNKNOWN: unknown
+[06:00:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:00:38][SEG3]     → ? UNKNOWN: timed out
+[06:00:39][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:00:39][SEG3]     → ? UNKNOWN: unknown
+[06:00:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:00:40][SEG3]     → ✗ REJECTED: rejected
+[06:00:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:00:40][SEG3]     → ? UNKNOWN: unknown
+[06:00:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:00:49][SEG3]     → ? UNKNOWN: timed out
+[06:00:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:00:49][SEG3] ============================================================
+[06:05:04][SEG3] ============================================================
+[06:05:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:05:04][SEG3] ============================================================
+[06:05:04][SEG3] Loaded 2665 leads
+[06:05:04][SEG3] Leads in segment 3: 79
+[06:05:04][SEG3] Processing batch of 15
+[06:05:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:05:05][SEG3]     → ? UNKNOWN: unknown
+[06:05:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:05:06][SEG3]     → ✗ REJECTED: rejected
+[06:05:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:05:07][SEG3]     → ✗ REJECTED: rejected
+[06:05:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:05:07][SEG3]     → ? UNKNOWN: unknown
+[06:05:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:05:08][SEG3]     → ? UNKNOWN: unknown
+[06:05:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:05:09][SEG3]     → ✗ REJECTED: rejected
+[06:05:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:05:19][SEG3]     → ✗ REJECTED: rejected
+[06:05:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:05:28][SEG3]     → ? UNKNOWN: timed out
+[06:05:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:05:28][SEG3]     → ? UNKNOWN: unknown
+[06:05:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:05:29][SEG3]     → ? UNKNOWN: unknown
+[06:05:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:05:38][SEG3]     → ? UNKNOWN: timed out
+[06:05:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:05:38][SEG3]     → ? UNKNOWN: unknown
+[06:05:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:05:43][SEG3]     → ✗ REJECTED: rejected
+[06:05:43][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:05:43][SEG3]     → ? UNKNOWN: unknown
+[06:05:44][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:05:52][SEG3]     → ? UNKNOWN: timed out
+[06:05:52][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:05:52][SEG3] ============================================================
+[06:10:03][SEG3] ============================================================
+[06:10:03][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:10:03][SEG3] ============================================================
+[06:10:03][SEG3] Loaded 2665 leads
+[06:10:03][SEG3] Leads in segment 3: 86
+[06:10:03][SEG3] Processing batch of 15
+[06:10:03][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:10:03][SEG3]     → ? UNKNOWN: unknown
+[06:10:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:10:04][SEG3]     → ✗ REJECTED: rejected
+[06:10:04][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:10:05][SEG3]     → ✗ REJECTED: rejected
+[06:10:05][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:10:05][SEG3]     → ? UNKNOWN: unknown
+[06:10:06][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:10:06][SEG3]     → ? UNKNOWN: unknown
+[06:10:06][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:10:07][SEG3]     → ✗ REJECTED: rejected
+[06:10:07][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:10:18][SEG3]     → ✗ REJECTED: rejected
+[06:10:18][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:10:26][SEG3]     → ? UNKNOWN: timed out
+[06:10:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:10:27][SEG3]     → ? UNKNOWN: unknown
+[06:10:27][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:10:27][SEG3]     → ? UNKNOWN: unknown
+[06:10:28][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:10:36][SEG3]     → ? UNKNOWN: timed out
+[06:10:36][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:10:37][SEG3]     → ? UNKNOWN: unknown
+[06:10:37][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:10:38][SEG3]     → ✗ REJECTED: rejected
+[06:10:38][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:10:38][SEG3]     → ? UNKNOWN: unknown
+[06:10:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:10:47][SEG3]     → ? UNKNOWN: timed out
+[06:10:47][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:10:47][SEG3] ============================================================
+[06:15:04][SEG3] ============================================================
+[06:15:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:15:04][SEG3] ============================================================
+[06:15:04][SEG3] Loaded 2665 leads
+[06:15:04][SEG3] Leads in segment 3: 92
+[06:15:04][SEG3] Processing batch of 15
+[06:15:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:15:05][SEG3]     → ? UNKNOWN: unknown
+[06:15:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:15:06][SEG3]     → ✗ REJECTED: rejected
+[06:15:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:15:06][SEG3]     → ✗ REJECTED: rejected
+[06:15:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:15:07][SEG3]     → ? UNKNOWN: unknown
+[06:15:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:15:08][SEG3]     → ? UNKNOWN: unknown
+[06:15:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:15:09][SEG3]     → ✗ REJECTED: rejected
+[06:15:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:15:19][SEG3]     → ✗ REJECTED: rejected
+[06:15:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:15:28][SEG3]     → ? UNKNOWN: timed out
+[06:15:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:15:28][SEG3]     → ? UNKNOWN: unknown
+[06:15:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:15:29][SEG3]     → ? UNKNOWN: unknown
+[06:15:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:15:38][SEG3]     → ? UNKNOWN: timed out
+[06:15:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:15:38][SEG3]     → ? UNKNOWN: unknown
+[06:15:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:15:39][SEG3]     → ✗ REJECTED: rejected
+[06:15:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:15:40][SEG3]     → ? UNKNOWN: unknown
+[06:15:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:15:48][SEG3]     → ? UNKNOWN: timed out
+[06:15:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:15:49][SEG3] ============================================================
+[06:25:03][SEG3] ============================================================
+[06:25:03][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:25:03][SEG3] ============================================================
+[06:25:03][SEG3] Loaded 2665 leads
+[06:25:03][SEG3] Leads in segment 3: 92
+[06:25:03][SEG3] Processing batch of 15
+[06:25:03][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:25:03][SEG3]     → ? UNKNOWN: unknown
+[06:25:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:25:04][SEG3]     → ✗ REJECTED: rejected
+[06:25:04][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:25:05][SEG3]     → ✗ REJECTED: rejected
+[06:25:05][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:25:05][SEG3]     → ? UNKNOWN: unknown
+[06:25:06][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:25:06][SEG3]     → ? UNKNOWN: unknown
+[06:25:06][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:25:07][SEG3]     → ✗ REJECTED: rejected
+[06:25:07][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:25:17][SEG3]     → ✗ REJECTED: rejected
+[06:25:18][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:25:26][SEG3]     → ? UNKNOWN: timed out
+[06:25:26][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:25:27][SEG3]     → ? UNKNOWN: unknown
+[06:25:27][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:25:27][SEG3]     → ? UNKNOWN: unknown
+[06:25:28][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:25:36][SEG3]     → ? UNKNOWN: timed out
+[06:25:36][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:25:37][SEG3]     → ? UNKNOWN: unknown
+[06:25:37][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:25:37][SEG3]     → ✗ REJECTED: rejected
+[06:25:38][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:25:38][SEG3]     → ? UNKNOWN: unknown
+[06:25:38][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:25:47][SEG3]     → ? UNKNOWN: timed out
+[06:25:47][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:25:47][SEG3] ============================================================
+[06:30:05][SEG3] ============================================================
+[06:30:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:30:05][SEG3] ============================================================
+[06:30:05][SEG3] Loaded 2665 leads
+[06:30:05][SEG3] Leads in segment 3: 92
+[06:30:05][SEG3] Processing batch of 15
+[06:30:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:30:06][SEG3]     → ? UNKNOWN: unknown
+[06:30:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:30:06][SEG3]     → ✗ REJECTED: rejected
+[06:30:07][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:30:07][SEG3]     → ✗ REJECTED: rejected
+[06:30:08][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:30:08][SEG3]     → ? UNKNOWN: unknown
+[06:30:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:30:09][SEG3]     → ? UNKNOWN: unknown
+[06:30:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:30:09][SEG3]     → ✗ REJECTED: rejected
+[06:30:10][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:30:20][SEG3]     → ✗ REJECTED: rejected
+[06:30:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:30:28][SEG3]     → ? UNKNOWN: timed out
+[06:30:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:30:29][SEG3]     → ? UNKNOWN: unknown
+[06:30:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:30:30][SEG3]     → ? UNKNOWN: unknown
+[06:30:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:30:38][SEG3]     → ? UNKNOWN: timed out
+[06:30:39][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:30:39][SEG3]     → ? UNKNOWN: unknown
+[06:30:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:30:40][SEG3]     → ✗ REJECTED: rejected
+[06:30:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:30:40][SEG3]     → ? UNKNOWN: unknown
+[06:30:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:30:49][SEG3]     → ? UNKNOWN: timed out
+[06:30:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:30:49][SEG3] ============================================================
+[06:35:04][SEG3] ============================================================
+[06:35:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:35:04][SEG3] ============================================================
+[06:35:04][SEG3] Loaded 2665 leads
+[06:35:04][SEG3] Leads in segment 3: 93
+[06:35:04][SEG3] Processing batch of 15
+[06:35:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:35:05][SEG3]     → ? UNKNOWN: unknown
+[06:35:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:35:06][SEG3]     → ✗ REJECTED: rejected
+[06:35:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:35:06][SEG3]     → ✗ REJECTED: rejected
+[06:35:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:35:07][SEG3]     → ? UNKNOWN: unknown
+[06:35:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:35:08][SEG3]     → ? UNKNOWN: unknown
+[06:35:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:35:08][SEG3]     → ✗ REJECTED: rejected
+[06:35:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:35:19][SEG3]     → ✗ REJECTED: rejected
+[06:35:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:35:27][SEG3]     → ? UNKNOWN: timed out
+[06:35:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:35:28][SEG3]     → ? UNKNOWN: unknown
+[06:35:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:35:29][SEG3]     → ? UNKNOWN: unknown
+[06:35:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:35:37][SEG3]     → ? UNKNOWN: timed out
+[06:35:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:35:38][SEG3]     → ? UNKNOWN: unknown
+[06:35:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:35:39][SEG3]     → ✗ REJECTED: rejected
+[06:35:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:35:40][SEG3]     → ? UNKNOWN: unknown
+[06:35:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:35:48][SEG3]     → ? UNKNOWN: timed out
+[06:35:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:35:48][SEG3] ============================================================
+[06:40:03][SEG3] ============================================================
+[06:40:03][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:40:03][SEG3] ============================================================
+[06:40:03][SEG3] Loaded 2665 leads
+[06:40:03][SEG3] Leads in segment 3: 93
+[06:40:03][SEG3] Processing batch of 15
+[06:40:03][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:40:03][SEG3]     → ? UNKNOWN: unknown
+[06:40:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:40:04][SEG3]     → ✗ REJECTED: rejected
+[06:40:04][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:40:05][SEG3]     → ✗ REJECTED: rejected
+[06:40:05][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:40:05][SEG3]     → ? UNKNOWN: unknown
+[06:40:06][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:40:06][SEG3]     → ? UNKNOWN: unknown
+[06:40:06][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:40:07][SEG3]     → ✗ REJECTED: rejected
+[06:40:07][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:40:17][SEG3]     → ✗ REJECTED: rejected
+[06:40:18][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:40:26][SEG3]     → ? UNKNOWN: timed out
+[06:40:26][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:40:26][SEG3]     → ? UNKNOWN: unknown
+[06:40:27][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:40:27][SEG3]     → ? UNKNOWN: unknown
+[06:40:28][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:40:36][SEG3]     → ? UNKNOWN: timed out
+[06:40:36][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:40:36][SEG3]     → ? UNKNOWN: unknown
+[06:40:37][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:40:37][SEG3]     → ✗ REJECTED: rejected
+[06:40:38][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:40:38][SEG3]     → ? UNKNOWN: unknown
+[06:40:38][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:40:46][SEG3]     → ? UNKNOWN: timed out
+[06:40:47][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:40:47][SEG3] ============================================================
+[06:45:04][SEG3] ============================================================
+[06:45:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:45:04][SEG3] ============================================================
+[06:45:04][SEG3] Loaded 2665 leads
+[06:45:04][SEG3] Leads in segment 3: 93
+[06:45:04][SEG3] Processing batch of 15
+[06:45:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:45:05][SEG3]     → ? UNKNOWN: unknown
+[06:45:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:45:05][SEG3]     → ✗ REJECTED: rejected
+[06:45:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:45:06][SEG3]     → ✗ REJECTED: rejected
+[06:45:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:45:06][SEG3]     → ? UNKNOWN: unknown
+[06:45:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:45:07][SEG3]     → ? UNKNOWN: unknown
+[06:45:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:45:08][SEG3]     → ✗ REJECTED: rejected
+[06:45:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:45:19][SEG3]     → ✗ REJECTED: rejected
+[06:45:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:45:27][SEG3]     → ? UNKNOWN: timed out
+[06:45:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:45:28][SEG3]     → ? UNKNOWN: unknown
+[06:45:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:45:29][SEG3]     → ? UNKNOWN: unknown
+[06:45:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:45:37][SEG3]     → ? UNKNOWN: timed out
+[06:45:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:45:38][SEG3]     → ? UNKNOWN: unknown
+[06:45:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:45:39][SEG3]     → ✗ REJECTED: rejected
+[06:45:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:45:39][SEG3]     → ? UNKNOWN: unknown
+[06:45:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:45:48][SEG3]     → ? UNKNOWN: timed out
+[06:45:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:45:48][SEG3] ============================================================
+[06:50:04][SEG3] ============================================================
+[06:50:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:50:04][SEG3] ============================================================
+[06:50:04][SEG3] Loaded 2665 leads
+[06:50:04][SEG3] Leads in segment 3: 93
+[06:50:04][SEG3] Processing batch of 15
+[06:50:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:50:05][SEG3]     → ? UNKNOWN: unknown
+[06:50:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:50:05][SEG3]     → ✗ REJECTED: rejected
+[06:50:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:50:06][SEG3]     → ✗ REJECTED: rejected
+[06:50:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:50:07][SEG3]     → ? UNKNOWN: unknown
+[06:50:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:50:08][SEG3]     → ? UNKNOWN: unknown
+[06:50:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:50:08][SEG3]     → ✗ REJECTED: rejected
+[06:50:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:50:19][SEG3]     → ✗ REJECTED: rejected
+[06:50:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:50:27][SEG3]     → ? UNKNOWN: timed out
+[06:50:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:50:28][SEG3]     → ? UNKNOWN: unknown
+[06:50:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:50:29][SEG3]     → ? UNKNOWN: unknown
+[06:50:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:50:37][SEG3]     → ? UNKNOWN: timed out
+[06:50:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:50:38][SEG3]     → ? UNKNOWN: unknown
+[06:50:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:50:39][SEG3]     → ✗ REJECTED: rejected
+[06:50:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:50:39][SEG3]     → ? UNKNOWN: unknown
+[06:50:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:50:48][SEG3]     → ? UNKNOWN: timed out
+[06:50:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:50:48][SEG3] ============================================================
+[06:55:04][SEG3] ============================================================
+[06:55:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[06:55:04][SEG3] ============================================================
+[06:55:04][SEG3] Loaded 2665 leads
+[06:55:04][SEG3] Leads in segment 3: 93
+[06:55:04][SEG3] Processing batch of 15
+[06:55:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:55:04][SEG3]     → ? UNKNOWN: unknown
+[06:55:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[06:55:05][SEG3]     → ✗ REJECTED: rejected
+[06:55:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:55:06][SEG3]     → ✗ REJECTED: rejected
+[06:55:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:55:07][SEG3]     → ? UNKNOWN: unknown
+[06:55:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[06:55:07][SEG3]     → ? UNKNOWN: unknown
+[06:55:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[06:55:08][SEG3]     → ✗ REJECTED: rejected
+[06:55:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[06:55:19][SEG3]     → ✗ REJECTED: rejected
+[06:55:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[06:55:27][SEG3]     → ? UNKNOWN: timed out
+[06:55:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[06:55:28][SEG3]     → ? UNKNOWN: unknown
+[06:55:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[06:55:28][SEG3]     → ? UNKNOWN: unknown
+[06:55:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[06:55:37][SEG3]     → ? UNKNOWN: timed out
+[06:55:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[06:55:38][SEG3]     → ? UNKNOWN: unknown
+[06:55:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[06:55:38][SEG3]     → ✗ REJECTED: rejected
+[06:55:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[06:55:39][SEG3]     → ? UNKNOWN: unknown
+[06:55:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[06:55:48][SEG3]     → ? UNKNOWN: timed out
+[06:55:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[06:55:48][SEG3] ============================================================
+[07:00:05][SEG3] ============================================================
+[07:00:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:00:05][SEG3] ============================================================
+[07:00:05][SEG3] Loaded 2665 leads
+[07:00:05][SEG3] Leads in segment 3: 93
+[07:00:05][SEG3] Processing batch of 15
+[07:00:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:00:06][SEG3]     → ? UNKNOWN: unknown
+[07:00:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:00:07][SEG3]     → ✗ REJECTED: rejected
+[07:00:07][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:00:07][SEG3]     → ✗ REJECTED: rejected
+[07:00:08][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:00:08][SEG3]     → ? UNKNOWN: unknown
+[07:00:09][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:00:09][SEG3]     → ? UNKNOWN: unknown
+[07:00:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:00:10][SEG3]     → ✗ REJECTED: rejected
+[07:00:10][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:00:20][SEG3]     → ✗ REJECTED: rejected
+[07:00:21][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:00:29][SEG3]     → ? UNKNOWN: timed out
+[07:00:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:00:29][SEG3]     → ? UNKNOWN: unknown
+[07:00:30][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:00:30][SEG3]     → ? UNKNOWN: unknown
+[07:00:31][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:00:39][SEG3]     → ? UNKNOWN: timed out
+[07:00:39][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:00:39][SEG3]     → ? UNKNOWN: unknown
+[07:00:40][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:00:40][SEG3]     → ✗ REJECTED: rejected
+[07:00:41][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:00:41][SEG3]     → ? UNKNOWN: unknown
+[07:00:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:00:49][SEG3]     → ? UNKNOWN: timed out
+[07:00:50][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:00:50][SEG3] ============================================================
+[07:05:04][SEG3] ============================================================
+[07:05:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:05:04][SEG3] ============================================================
+[07:05:04][SEG3] Loaded 2665 leads
+[07:05:04][SEG3] Leads in segment 3: 93
+[07:05:04][SEG3] Processing batch of 15
+[07:05:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:05:04][SEG3]     → ? UNKNOWN: unknown
+[07:05:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:05:05][SEG3]     → ✗ REJECTED: rejected
+[07:05:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:05:06][SEG3]     → ✗ REJECTED: rejected
+[07:05:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:05:06][SEG3]     → ? UNKNOWN: unknown
+[07:05:06][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:05:07][SEG3]     → ? UNKNOWN: unknown
+[07:05:07][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:05:07][SEG3]     → ✗ REJECTED: rejected
+[07:05:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:05:18][SEG3]     → ✗ REJECTED: rejected
+[07:05:18][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:05:27][SEG3]     → ? UNKNOWN: timed out
+[07:05:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:05:27][SEG3]     → ? UNKNOWN: unknown
+[07:05:27][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:05:28][SEG3]     → ? UNKNOWN: unknown
+[07:05:28][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:05:36][SEG3]     → ? UNKNOWN: timed out
+[07:05:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:05:37][SEG3]     → ? UNKNOWN: unknown
+[07:05:37][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:05:38][SEG3]     → ✗ REJECTED: rejected
+[07:05:38][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:05:38][SEG3]     → ? UNKNOWN: unknown
+[07:05:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:05:47][SEG3]     → ? UNKNOWN: timed out
+[07:05:47][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:05:47][SEG3] ============================================================
+[07:10:04][SEG3] ============================================================
+[07:10:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:10:04][SEG3] ============================================================
+[07:10:04][SEG3] Loaded 2665 leads
+[07:10:04][SEG3] Leads in segment 3: 93
+[07:10:04][SEG3] Processing batch of 15
+[07:10:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:10:05][SEG3]     → ? UNKNOWN: unknown
+[07:10:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:10:05][SEG3]     → ✗ REJECTED: rejected
+[07:10:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:10:06][SEG3]     → ✗ REJECTED: rejected
+[07:10:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:10:06][SEG3]     → ? UNKNOWN: unknown
+[07:10:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:10:07][SEG3]     → ? UNKNOWN: unknown
+[07:10:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:10:08][SEG3]     → ✗ REJECTED: rejected
+[07:10:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:10:19][SEG3]     → ✗ REJECTED: rejected
+[07:10:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:10:27][SEG3]     → ? UNKNOWN: timed out
+[07:10:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:10:28][SEG3]     → ? UNKNOWN: unknown
+[07:10:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:10:28][SEG3]     → ? UNKNOWN: unknown
+[07:10:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:10:37][SEG3]     → ? UNKNOWN: timed out
+[07:10:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:10:37][SEG3]     → ? UNKNOWN: unknown
+[07:10:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:10:38][SEG3]     → ✗ REJECTED: rejected
+[07:10:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:10:39][SEG3]     → ? UNKNOWN: unknown
+[07:10:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:10:47][SEG3]     → ? UNKNOWN: timed out
+[07:10:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:10:48][SEG3] ============================================================
+[07:15:04][SEG3] ============================================================
+[07:15:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:15:04][SEG3] ============================================================
+[07:15:04][SEG3] Loaded 2665 leads
+[07:15:04][SEG3] Leads in segment 3: 93
+[07:15:04][SEG3] Processing batch of 15
+[07:15:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:15:05][SEG3]     → ? UNKNOWN: unknown
+[07:15:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:15:05][SEG3]     → ✗ REJECTED: rejected
+[07:15:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:15:06][SEG3]     → ✗ REJECTED: rejected
+[07:15:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:15:07][SEG3]     → ? UNKNOWN: unknown
+[07:15:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:15:08][SEG3]     → ? UNKNOWN: unknown
+[07:15:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:15:08][SEG3]     → ✗ REJECTED: rejected
+[07:15:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:15:19][SEG3]     → ✗ REJECTED: rejected
+[07:15:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:15:28][SEG3]     → ? UNKNOWN: timed out
+[07:15:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:15:28][SEG3]     → ? UNKNOWN: unknown
+[07:15:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:15:29][SEG3]     → ? UNKNOWN: unknown
+[07:15:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:15:37][SEG3]     → ? UNKNOWN: timed out
+[07:15:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:15:38][SEG3]     → ? UNKNOWN: unknown
+[07:15:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:15:39][SEG3]     → ✗ REJECTED: rejected
+[07:15:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:15:40][SEG3]     → ? UNKNOWN: unknown
+[07:15:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:15:48][SEG3]     → ? UNKNOWN: timed out
+[07:15:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:15:48][SEG3] ============================================================
+[07:20:04][SEG3] ============================================================
+[07:20:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:20:04][SEG3] ============================================================
+[07:20:04][SEG3] Loaded 2665 leads
+[07:20:04][SEG3] Leads in segment 3: 93
+[07:20:04][SEG3] Processing batch of 15
+[07:20:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:20:04][SEG3]     → ? UNKNOWN: unknown
+[07:20:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:20:05][SEG3]     → ✗ REJECTED: rejected
+[07:20:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:20:06][SEG3]     → ✗ REJECTED: rejected
+[07:20:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:20:06][SEG3]     → ? UNKNOWN: unknown
+[07:20:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:20:07][SEG3]     → ? UNKNOWN: unknown
+[07:20:07][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:20:08][SEG3]     → ✗ REJECTED: rejected
+[07:20:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:20:18][SEG3]     → ✗ REJECTED: rejected
+[07:20:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:20:27][SEG3]     → ? UNKNOWN: timed out
+[07:20:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:20:27][SEG3]     → ? UNKNOWN: unknown
+[07:20:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:20:28][SEG3]     → ? UNKNOWN: unknown
+[07:20:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:20:37][SEG3]     → ? UNKNOWN: timed out
+[07:20:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:20:37][SEG3]     → ? UNKNOWN: unknown
+[07:20:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:20:38][SEG3]     → ✗ REJECTED: rejected
+[07:20:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:20:39][SEG3]     → ? UNKNOWN: unknown
+[07:20:39][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:20:47][SEG3]     → ? UNKNOWN: timed out
+[07:20:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:20:48][SEG3] ============================================================
+[07:25:04][SEG3] ============================================================
+[07:25:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:25:04][SEG3] ============================================================
+[07:25:04][SEG3] Loaded 2665 leads
+[07:25:04][SEG3] Leads in segment 3: 93
+[07:25:04][SEG3] Processing batch of 15
+[07:25:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:25:05][SEG3]     → ? UNKNOWN: unknown
+[07:25:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:25:05][SEG3]     → ✗ REJECTED: rejected
+[07:25:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:25:06][SEG3]     → ✗ REJECTED: rejected
+[07:25:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:25:07][SEG3]     → ? UNKNOWN: unknown
+[07:25:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:25:08][SEG3]     → ? UNKNOWN: unknown
+[07:25:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:25:08][SEG3]     → ✗ REJECTED: rejected
+[07:25:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:25:19][SEG3]     → ✗ REJECTED: rejected
+[07:25:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:25:28][SEG3]     → ? UNKNOWN: timed out
+[07:25:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:25:28][SEG3]     → ? UNKNOWN: unknown
+[07:25:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:25:29][SEG3]     → ? UNKNOWN: unknown
+[07:25:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:25:37][SEG3]     → ? UNKNOWN: timed out
+[07:25:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:25:38][SEG3]     → ? UNKNOWN: unknown
+[07:25:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:25:39][SEG3]     → ✗ REJECTED: rejected
+[07:25:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:25:40][SEG3]     → ? UNKNOWN: unknown
+[07:25:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:25:48][SEG3]     → ? UNKNOWN: timed out
+[07:25:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:25:48][SEG3] ============================================================
+[07:30:05][SEG3] ============================================================
+[07:30:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:30:05][SEG3] ============================================================
+[07:30:05][SEG3] Loaded 2665 leads
+[07:30:05][SEG3] Leads in segment 3: 93
+[07:30:05][SEG3] Processing batch of 15
+[07:30:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:30:05][SEG3]     → ? UNKNOWN: unknown
+[07:30:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:30:06][SEG3]     → ✗ REJECTED: rejected
+[07:30:07][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:30:07][SEG3]     → ✗ REJECTED: rejected
+[07:30:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:30:08][SEG3]     → ? UNKNOWN: unknown
+[07:30:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:30:08][SEG3]     → ? UNKNOWN: unknown
+[07:30:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:30:09][SEG3]     → ✗ REJECTED: rejected
+[07:30:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:30:20][SEG3]     → ✗ REJECTED: rejected
+[07:30:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:30:28][SEG3]     → ? UNKNOWN: timed out
+[07:30:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:30:29][SEG3]     → ? UNKNOWN: unknown
+[07:30:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:30:30][SEG3]     → ? UNKNOWN: unknown
+[07:30:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:30:38][SEG3]     → ? UNKNOWN: timed out
+[07:30:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:30:39][SEG3]     → ? UNKNOWN: unknown
+[07:30:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:30:40][SEG3]     → ✗ REJECTED: rejected
+[07:30:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:30:40][SEG3]     → ? UNKNOWN: unknown
+[07:30:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:30:49][SEG3]     → ? UNKNOWN: timed out
+[07:30:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:30:49][SEG3] ============================================================
+[07:35:05][SEG3] ============================================================
+[07:35:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:35:05][SEG3] ============================================================
+[07:35:05][SEG3] Loaded 2665 leads
+[07:35:05][SEG3] Leads in segment 3: 93
+[07:35:05][SEG3] Processing batch of 15
+[07:35:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:35:05][SEG3]     → ? UNKNOWN: unknown
+[07:35:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:35:06][SEG3]     → ✗ REJECTED: rejected
+[07:35:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:35:06][SEG3]     → ✗ REJECTED: rejected
+[07:35:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:35:07][SEG3]     → ? UNKNOWN: unknown
+[07:35:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:35:08][SEG3]     → ? UNKNOWN: unknown
+[07:35:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:35:08][SEG3]     → ✗ REJECTED: rejected
+[07:35:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:35:19][SEG3]     → ✗ REJECTED: rejected
+[07:35:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:35:28][SEG3]     → ? UNKNOWN: timed out
+[07:35:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:35:28][SEG3]     → ? UNKNOWN: unknown
+[07:35:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:35:29][SEG3]     → ? UNKNOWN: unknown
+[07:35:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:35:37][SEG3]     → ? UNKNOWN: timed out
+[07:35:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:35:38][SEG3]     → ? UNKNOWN: unknown
+[07:35:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:35:39][SEG3]     → ✗ REJECTED: rejected
+[07:35:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:35:40][SEG3]     → ? UNKNOWN: unknown
+[07:35:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:35:48][SEG3]     → ? UNKNOWN: timed out
+[07:35:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:35:49][SEG3] ============================================================
+[07:40:04][SEG3] ============================================================
+[07:40:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:40:04][SEG3] ============================================================
+[07:40:04][SEG3] Loaded 2665 leads
+[07:40:04][SEG3] Leads in segment 3: 93
+[07:40:04][SEG3] Processing batch of 15
+[07:40:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:40:06][SEG3]     → ? UNKNOWN: unknown
+[07:40:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:40:07][SEG3]     → ✗ REJECTED: rejected
+[07:40:07][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:40:08][SEG3]     → ✗ REJECTED: rejected
+[07:40:08][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:40:08][SEG3]     → ? UNKNOWN: unknown
+[07:40:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:40:09][SEG3]     → ? UNKNOWN: unknown
+[07:40:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:40:09][SEG3]     → ✗ REJECTED: rejected
+[07:40:10][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:40:20][SEG3]     → ✗ REJECTED: rejected
+[07:40:21][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:40:29][SEG3]     → ? UNKNOWN: timed out
+[07:40:29][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:40:29][SEG3]     → ? UNKNOWN: unknown
+[07:40:30][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:40:30][SEG3]     → ? UNKNOWN: unknown
+[07:40:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:40:39][SEG3]     → ? UNKNOWN: timed out
+[07:40:39][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:40:39][SEG3]     → ? UNKNOWN: unknown
+[07:40:40][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:40:40][SEG3]     → ✗ REJECTED: rejected
+[07:40:41][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:40:41][SEG3]     → ? UNKNOWN: unknown
+[07:40:41][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:40:49][SEG3]     → ? UNKNOWN: timed out
+[07:40:50][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:40:50][SEG3] ============================================================
+[07:45:04][SEG3] ============================================================
+[07:45:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:45:04][SEG3] ============================================================
+[07:45:04][SEG3] Loaded 2665 leads
+[07:45:04][SEG3] Leads in segment 3: 93
+[07:45:04][SEG3] Processing batch of 15
+[07:45:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:45:05][SEG3]     → ? UNKNOWN: unknown
+[07:45:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:45:06][SEG3]     → ✗ REJECTED: rejected
+[07:45:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:45:06][SEG3]     → ✗ REJECTED: rejected
+[07:45:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:45:07][SEG3]     → ? UNKNOWN: unknown
+[07:45:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:45:07][SEG3]     → ? UNKNOWN: unknown
+[07:45:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:45:08][SEG3]     → ✗ REJECTED: rejected
+[07:45:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:45:19][SEG3]     → ✗ REJECTED: rejected
+[07:45:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:45:27][SEG3]     → ? UNKNOWN: timed out
+[07:45:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:45:28][SEG3]     → ? UNKNOWN: unknown
+[07:45:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:45:29][SEG3]     → ? UNKNOWN: unknown
+[07:45:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:45:37][SEG3]     → ? UNKNOWN: timed out
+[07:45:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:45:38][SEG3]     → ? UNKNOWN: unknown
+[07:45:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:45:39][SEG3]     → ✗ REJECTED: rejected
+[07:45:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:45:39][SEG3]     → ? UNKNOWN: unknown
+[07:45:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:45:48][SEG3]     → ? UNKNOWN: timed out
+[07:45:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:45:48][SEG3] ============================================================
+[07:50:04][SEG3] ============================================================
+[07:50:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:50:04][SEG3] ============================================================
+[07:50:04][SEG3] Loaded 2665 leads
+[07:50:04][SEG3] Leads in segment 3: 93
+[07:50:04][SEG3] Processing batch of 15
+[07:50:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:50:04][SEG3]     → ? UNKNOWN: unknown
+[07:50:04][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:50:05][SEG3]     → ✗ REJECTED: rejected
+[07:50:05][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:50:06][SEG3]     → ✗ REJECTED: rejected
+[07:50:06][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:50:06][SEG3]     → ? UNKNOWN: unknown
+[07:50:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:50:07][SEG3]     → ? UNKNOWN: unknown
+[07:50:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:50:08][SEG3]     → ✗ REJECTED: rejected
+[07:50:08][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:50:19][SEG3]     → ✗ REJECTED: rejected
+[07:50:19][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:50:27][SEG3]     → ? UNKNOWN: timed out
+[07:50:27][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:50:28][SEG3]     → ? UNKNOWN: unknown
+[07:50:28][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:50:28][SEG3]     → ? UNKNOWN: unknown
+[07:50:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:50:37][SEG3]     → ? UNKNOWN: timed out
+[07:50:37][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:50:38][SEG3]     → ? UNKNOWN: unknown
+[07:50:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:50:39][SEG3]     → ✗ REJECTED: rejected
+[07:50:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:50:39][SEG3]     → ? UNKNOWN: unknown
+[07:50:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:50:48][SEG3]     → ? UNKNOWN: timed out
+[07:50:48][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:50:48][SEG3] ============================================================
+[07:55:05][SEG3] ============================================================
+[07:55:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[07:55:05][SEG3] ============================================================
+[07:55:05][SEG3] Loaded 2665 leads
+[07:55:05][SEG3] Leads in segment 3: 93
+[07:55:05][SEG3] Processing batch of 15
+[07:55:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:55:05][SEG3]     → ? UNKNOWN: unknown
+[07:55:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[07:55:06][SEG3]     → ✗ REJECTED: rejected
+[07:55:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:55:06][SEG3]     → ✗ REJECTED: rejected
+[07:55:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:55:07][SEG3]     → ? UNKNOWN: unknown
+[07:55:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[07:55:08][SEG3]     → ? UNKNOWN: unknown
+[07:55:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[07:55:08][SEG3]     → ✗ REJECTED: rejected
+[07:55:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[07:55:19][SEG3]     → ✗ REJECTED: rejected
+[07:55:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[07:55:28][SEG3]     → ? UNKNOWN: timed out
+[07:55:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[07:55:28][SEG3]     → ? UNKNOWN: unknown
+[07:55:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[07:55:29][SEG3]     → ? UNKNOWN: unknown
+[07:55:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[07:55:37][SEG3]     → ? UNKNOWN: timed out
+[07:55:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[07:55:38][SEG3]     → ? UNKNOWN: unknown
+[07:55:38][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[07:55:39][SEG3]     → ✗ REJECTED: rejected
+[07:55:39][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[07:55:40][SEG3]     → ? UNKNOWN: unknown
+[07:55:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[07:55:48][SEG3]     → ? UNKNOWN: timed out
+[07:55:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[07:55:49][SEG3] ============================================================
+[08:00:05][SEG3] ============================================================
+[08:00:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[08:00:05][SEG3] ============================================================
+[08:00:05][SEG3] Loaded 2665 leads
+[08:00:05][SEG3] Leads in segment 3: 93
+[08:00:05][SEG3] Processing batch of 15
+[08:00:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[08:00:05][SEG3]     → ? UNKNOWN: unknown
+[08:00:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[08:00:06][SEG3]     → ✗ REJECTED: rejected
+[08:00:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[08:00:06][SEG3]     → ✗ REJECTED: rejected
+[08:00:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[08:00:07][SEG3]     → ? UNKNOWN: unknown
+[08:00:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[08:00:08][SEG3]     → ? UNKNOWN: unknown
+[08:00:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[08:00:08][SEG3]     → ✗ REJECTED: rejected
+[08:00:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[08:00:19][SEG3]     → ✗ REJECTED: rejected
+[08:00:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[08:00:28][SEG3]     → ? UNKNOWN: timed out
+[08:00:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[08:00:28][SEG3]     → ? UNKNOWN: unknown
+[08:00:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[08:00:29][SEG3]     → ? UNKNOWN: unknown
+[08:00:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[08:00:38][SEG3]     → ? UNKNOWN: timed out
+[08:00:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[08:00:38][SEG3]     → ? UNKNOWN: unknown
+[08:00:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[08:00:39][SEG3]     → ✗ REJECTED: rejected
+[08:00:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[08:00:40][SEG3]     → ? UNKNOWN: unknown
+[08:00:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[08:00:48][SEG3]     → ? UNKNOWN: timed out
+[08:00:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[08:00:49][SEG3] ============================================================
+[08:05:04][SEG3] ============================================================
+[08:05:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[08:05:04][SEG3] ============================================================
+[08:05:04][SEG3] Loaded 2665 leads
+[08:05:04][SEG3] Leads in segment 3: 93
+[08:05:04][SEG3] Processing batch of 15
+[08:05:04][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[08:05:05][SEG3]     → ? UNKNOWN: unknown
+[08:05:05][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[08:05:06][SEG3]     → ✗ REJECTED: rejected
+[08:05:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[08:05:06][SEG3]     → ✗ REJECTED: rejected
+[08:05:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[08:05:07][SEG3]     → ? UNKNOWN: unknown
+[08:05:07][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[08:05:08][SEG3]     → ? UNKNOWN: unknown
+[08:05:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[08:05:09][SEG3]     → ✗ REJECTED: rejected
+[08:05:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[08:05:19][SEG3]     → ✗ REJECTED: rejected
+[08:05:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[08:05:28][SEG3]     → ? UNKNOWN: timed out
+[08:05:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[08:05:28][SEG3]     → ? UNKNOWN: unknown
+[08:05:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[08:05:29][SEG3]     → ? UNKNOWN: unknown
+[08:05:29][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[08:05:38][SEG3]     → ? UNKNOWN: timed out
+[08:05:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[08:05:38][SEG3]     → ? UNKNOWN: unknown
+[08:05:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[08:05:39][SEG3]     → ✗ REJECTED: rejected
+[08:05:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[08:05:40][SEG3]     → ? UNKNOWN: unknown
+[08:05:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[08:05:48][SEG3]     → ? UNKNOWN: timed out
+[08:05:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[08:05:49][SEG3] ============================================================
+[08:10:05][SEG3] ============================================================
+[08:10:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[08:10:05][SEG3] ============================================================
+[08:10:05][SEG3] Loaded 2665 leads
+[08:10:05][SEG3] Leads in segment 3: 93
+[08:10:05][SEG3] Processing batch of 15
+[08:10:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[08:10:05][SEG3]     → ? UNKNOWN: unknown
+[08:10:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[08:10:06][SEG3]     → ✗ REJECTED: rejected
+[08:10:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[08:10:06][SEG3]     → ✗ REJECTED: rejected
+[08:10:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[08:10:07][SEG3]     → ? UNKNOWN: unknown
+[08:10:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[08:10:08][SEG3]     → ? UNKNOWN: unknown
+[08:10:08][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[08:10:09][SEG3]     → ✗ REJECTED: rejected
+[08:10:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[08:10:19][SEG3]     → ✗ REJECTED: rejected
+[08:10:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[08:10:28][SEG3]     → ? UNKNOWN: timed out
+[08:10:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[08:10:28][SEG3]     → ? UNKNOWN: unknown
+[08:10:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[08:10:29][SEG3]     → ? UNKNOWN: unknown
+[08:10:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[08:10:38][SEG3]     → ? UNKNOWN: timed out
+[08:10:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[08:10:38][SEG3]     → ? UNKNOWN: unknown
+[08:10:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[08:10:39][SEG3]     → ✗ REJECTED: rejected
+[08:10:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[08:10:40][SEG3]     → ? UNKNOWN: unknown
+[08:10:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[08:10:48][SEG3]     → ? UNKNOWN: timed out
+[08:10:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[08:10:49][SEG3] ============================================================
+[08:15:05][SEG3] ============================================================
+[08:15:05][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[08:15:05][SEG3] ============================================================
+[08:15:05][SEG3] Loaded 2665 leads
+[08:15:05][SEG3] Leads in segment 3: 93
+[08:15:05][SEG3] Processing batch of 15
+[08:15:05][SEG3]   [1/15] JC Epoxy Coatings → randerson3222@yahoo.com
+[08:15:05][SEG3]     → ? UNKNOWN: unknown
+[08:15:06][SEG3]   [2/15] Coastal Property Management – Stuar → susan.palmieri@cpmfl.com
+[08:15:06][SEG3]     → ✗ REJECTED: rejected
+[08:15:06][SEG3]   [3/15] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[08:15:07][SEG3]     → ✗ REJECTED: rejected
+[08:15:07][SEG3]   [4/15] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[08:15:08][SEG3]     → ? UNKNOWN: unknown
+[08:15:08][SEG3]   [5/15] Sewalls Point Property Management | → mbuo1989@bellsouth.net
+[08:15:08][SEG3]     → ? UNKNOWN: unknown
+[08:15:09][SEG3]   [6/15] Home - BOATHOUSE - Fish restaurant  → info@stuartboathouse.com
+[08:15:09][SEG3]     → ✗ REJECTED: rejected
+[08:15:09][SEG3]   [7/15] Jensen Beach Kitchen and Bath Remod → info@jensenbeachkitchenandbath.com
+[08:15:19][SEG3]     → ✗ REJECTED: rejected
+[08:15:20][SEG3]   [8/15] Martin Memorial Hospital South, Stu → info@doctors.wellmedhealthcare.com
+[08:15:28][SEG3]     → ? UNKNOWN: timed out
+[08:15:28][SEG3]   [9/15] Full Service Catering | Treasure Co → info@snlevents.com
+[08:15:28][SEG3]     → ? UNKNOWN: unknown
+[08:15:29][SEG3]   [10/15] Martin County, FL commercial real e → info@realmo.com
+[08:15:29][SEG3]     → ? UNKNOWN: unknown
+[08:15:30][SEG3]   [11/15] Crawdaddy - Jensen Beach → info@crawdaddysjensenbeach.com
+[08:15:38][SEG3]     → ? UNKNOWN: timed out
+[08:15:38][SEG3]   [12/15] Lang Management - Association Manag → info@langmgmt.com
+[08:15:38][SEG3]     → ? UNKNOWN: unknown
+[08:15:39][SEG3]   [13/15] General Cleaning and Janitorial Ser → info@servpro.com
+[08:15:39][SEG3]     → ✗ REJECTED: rejected
+[08:15:40][SEG3]   [14/15] Gutter Guard Installation Stuart, F → info@gutterbro.team
+[08:15:40][SEG3]     → ? UNKNOWN: unknown
+[08:15:40][SEG3]   [15/15] Property Manager | JBCC HOA → info@jbcchoa.com
+[08:15:48][SEG3]     → ? UNKNOWN: timed out
+[08:15:49][SEG3] SEGMENT 3 COMPLETE: 0 verified, 5 rejected
+[08:15:49][SEG3] ============================================================
+[08:20:04][SEG3] ============================================================
+[08:20:04][SEG3] SMTP VERIFIER — Segment 3/10 | Batch: 15
+[08:20:04][SEG3] ============================================================
+[08:20:04][SEG3] Treasure Coast leads: 2061
+[08:20:04][SEG3] Loaded 2061 leads
+[08:20:04][SEG3] Leads in segment 3: 52
+[08:20:04][SEG3] Processing batch of 15
+[08:20:04][SEG3]   [1/15] Port St Lucie Epoxy Pros → support@epoxyportstlucie.com/
+[08:20:04][SEG3]     → SKIP: no MX for epoxyportstlucie.com/
+[08:20:04][SEG3]   [2/15] Apartments for Rent in Fort Pierce  → sales-usa@theblueground.com
+[08:20:04][SEG3]     → ? UNKNOWN: unknown
+[08:20:05][SEG3]   [3/15] Properties & Communities → kevin@stewartteam.com
+[08:20:05][SEG3]     → ? UNKNOWN: unknown
+[08:20:06][SEG3]   [4/15] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[08:20:07][SEG3]     → ? UNKNOWN: unknown
+[08:20:07][SEG3]   [5/15] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[08:20:07][SEG3]     → ✗ REJECTED: rejected
+[08:20:08][SEG3]   [6/15] Luxury Homes of the Treasure Coast → Kevin@TradewindRe.com
+[08:20:08][SEG3]     → ✗ REJECTED: rejected
+[08:20:08][SEG3]   [7/15] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[08:20:09][SEG3]     → ✗ REJECTED: rejected
+[08:20:09][SEG3]   [8/15] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[08:20:10][SEG3]     → ✗ REJECTED: rejected
+[08:20:10][SEG3]   [9/15] Garage Floor Coating: Professional  → Floorcoatingpro@gmail.com
+[08:20:10][SEG3]     → ✓ VERIFIED
+[08:20:11][SEG3]   [10/15] Lawn Care and Lawn Maintenance → Contractors@BelmontProviderNetwork.com
+[08:20:11][SEG3]     → ? UNKNOWN: unknown
+[08:20:11][SEG3]   [11/15] New Homes In Port St. Lucie, Florid → info@ryanhomes.com
+[08:20:12][SEG3]     → ? UNKNOWN: unknown
+[08:20:12][SEG3]   [12/15] Seamless Gutters | Jensen Beach, FL → gutterguy@gutterguyfl.com
+[08:20:12][SEG3]     → ✗ REJECTED: rejected
+[08:20:13][SEG3]   [13/15] HOSPITALS/EMERGENCY ROOM Category | → info@business.stuartmartinchamber.org
+[08:20:21][SEG3]     → ? UNKNOWN: timed out
+[08:20:21][SEG3]   [14/15] Doctor Detail of the Treasure Coast → info@ddoftc.com
+[08:20:21][SEG3]     → ? UNKNOWN: [Errno -2] Name or service not
+[08:20:22][SEG3]   [15/15] Catering Revolution: Catering Servi → info@cateringrevolution.com
+[08:20:22][SEG3]     → ✗ REJECTED: rejected
+[08:20:22][SEG3] Wrote 1 verified emails
+[08:20:22][SEG3] SEGMENT 3 COMPLETE: 1 verified, 6 rejected
+[08:20:22][SEG3] ============================================================

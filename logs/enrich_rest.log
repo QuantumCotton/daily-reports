@@ -1,0 +1,119 @@
+[04:27:36] ============================================================
+[04:27:36] LEAD ENRICHER v4 — batch: 100
+[04:27:36] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:27:36] Brave API: OFF (saving money)
+[04:27:36] ============================================================
+[04:27:36] Found 100 leads to process
+[04:27:36]   [1/100] Home
+[04:27:41]     → skip: no_data
+[04:27:41]   [2/100] Preschool and Daycare in Vero Beach, FL
+[04:27:46]     → skip: no_data
+[04:27:46]   [3/100] Clearwater, FL Commercial Real Estate For Sal
+[04:27:51]     → skip: no_data
+[04:27:51]   [4/100] Atlanta Hospitals, Clinics and Healthcare
+[04:27:57]     → skip: no_data
+[04:27:57]   [5/100] Apartment Complex
+[04:28:00]     → skip: no_data
+[04:28:00]   [6/100] New California Laws Regarding Real Estate for
+[04:28:06]     → skip: no_data
+[04:28:06]   [7/100] Real Treasure Coast Real Estate Blog
+[04:28:07]     → skip: no_data
+[04:28:07]   [8/100] Contact Us
+[04:28:07]     → skip: no_mx:washcitymemphis.com
+[04:28:07]   [9/100] Meet Our Homestead Team
+[04:28:10]     → skip: no_data
+[04:28:11]   [10/100] Lighthouse Tile & Marble
+[04:28:14]     [~ guess] roy@lighthousetileandmarble.com (Roy Doyle)
+[04:28:14]   [11/100] Lakeland, FL Commercial Real Estate for Lease
+[04:28:15]     → skip: no_data
+[04:28:15]   [12/100] Roofing In Charlotte, NC
+[04:28:21]     → skip: no_data
+[04:28:21]   [13/100] Contact Serra Toyota
+[04:28:21]     → skip: no_data
+[04:28:21]   [14/100] Your Ultimate Guide to Bradenton Craft Brewer
+[04:28:26]     → skip: no_data
+[04:28:26]   [15/100] Licensed Roofing Contractor, Commercial Roofi
+[04:28:32]     → skip: no_data
+[04:28:32]   [16/100] Memphis Business News
+[04:28:33]     → skip: no_data
+[04:28:34]   [17/100] Owner of three popular Sarasota area restaura
+[04:28:38]     → skip: no_data
+[04:28:38]   [18/100] Pompano Beach Spas & Wellness Activities
+[04:28:43]     → skip: no_data
+[04:28:43]   [19/100] WestScott Construction
+[04:29:09]     [~ guess] debra@westscottinc.com (Debra Childers)
+[04:29:09]   [20/100] Character Built Construction
+[04:29:13]     [~ guess] chris@character-built.com (Chris Herron)
+[04:29:13]   [21/100] OBBB Tax Deduction for Car Loan Interest
+[04:29:14]     → skip: no_data
+[04:29:14]   [22/100] Fortress RV and Boat Storage
+[04:29:17]     → skip: no_data
+[04:29:17]   [23/100] Homestead Rain Gutters, Rain Gutters Homestea
+[04:29:24]     → skip: no_data
+[04:29:24]   [24/100] The 48 best fast food restaurants in Lakeland
+[04:29:25]     → skip: no_data
+[04:29:26]   [25/100] Ivy Lea Construction
+[04:29:34]     [★ FOUND] thiebolt@ivyleaconstruction.com
+[04:29:34]   [26/100] Family Dentist in Vero Beach, Florida
+[04:29:35]     → skip: no_data
+[04:29:35]   [27/100] PDQ Chicken — PDQ South Sarasota
+[04:29:39]     [~ guess] bob@eatpdq.com (Bob Basham)
+[04:29:40]   [28/100] Back2Business Directory
+[04:29:41]     → skip: no_data
+[04:29:41]   [29/100] Augusta
+[04:29:44]     → skip: no_data
+[04:29:44]   [30/100] Trusted AC in Hialeah
+[04:29:52]     → skip: no_data
+[04:29:52]   [31/100] Contact Eric Neilsen, Email: e***@industrialt
+[04:29:52]     → skip: no_domain
+[04:29:52]   [32/100] Phase One Landscapes
+[04:30:02]     [★ FOUND] email@phaseonelandscapes.com (Dennis Frank)
+[04:30:02]   [33/100] Home
+[04:30:07]     → skip: no_data
+[04:30:07]   [34/100] Used Cars New Orleans LA
+[04:30:15]     → skip: no_data
+[04:30:15]   [35/100] 20 Best aviation jobs in port saint lucie, fl
+[04:30:15]     → skip: no_data
+[04:30:15]   [36/100] pool technician jobs in jupiter, fl
+[04:30:16]     → skip: no_data
+[04:30:16]   [37/100] Cleveland Clinic Martin Health-Stuart in Stua
+[04:30:16]     → skip: no_mx:health.usnews.com
+[04:30:16]   [38/100] Naples Dental and Wellness Center
+[04:30:24]     → skip: no_data
+[04:30:24]   [39/100] Property Management
+[04:30:30]     [★ FOUND] agould@holrob.com
+[04:30:30]   [40/100] Abacoa Dental Office
+[04:30:36]     → skip: no_data
+[04:30:36]   [41/100] Hollaway Property Management
+[04:30:41]     → skip: no_data
+[04:30:42]   [42/100] Contact Us
+[04:30:53]     → skip: no_data
+[04:30:53]   [43/100] Supprimer compte pornhub
+[04:30:57]     → skip: no_data
+[04:30:57]   [44/100] Lexington Roofing
+[04:31:08]     → skip: no_data
+[04:31:08]   [45/100] Supply Store for Polished Concrete Pensacola 
+[04:31:12]     → skip: no_data
+[04:31:12]   [46/100] Grace Child Development Center
+[04:31:16]     → skip: no_data
+[04:31:16]   [47/100] Top 25 Manufacturing Companies in Madison Cou
+[04:31:17]     → skip: no_data
+[04:31:17]   [48/100] Shopping in Vero Beach, FL
+[04:31:26]     → skip: no_data
+[04:31:26]   [49/100] Deltona Property Management
+[04:31:32]     [★ FOUND] rick@amgrents.com
+[04:31:32]   [50/100] Facilities • Fire Stations
+[04:32:02]     → skip: no_data
+[04:32:02]   [51/100] My Raleigh Handyman
+[04:32:05]     [✓ SMTP] michael@myraleighhandyman.com (Michael Crane)
+[04:32:05]   [52/100] 56 Project manager Jobs in Vero Beach, FL
+[04:32:07]     → skip: no_data
+[04:32:07]   [53/100] SUCO ESI North America Information
+[04:32:07]     → skip: no_domain
+[04:32:07]   [54/100] WILSON’S RANGELINE
+[04:32:15]     → skip: no_data
+[04:32:15]   [55/100] 20 Best facilities maintenance managers jobs 
+[04:32:15]     → skip: no_data
+[04:32:15]   [56/100] Nashville Homeowners Association Management- 
+[04:32:27]     → skip: no_data
+[04:32:27]   [57/100] Flooring Installers Near Me

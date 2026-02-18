@@ -1,0 +1,216 @@
+[04:35:12] ============================================================
+[04:35:12] LEAD ENRICHER v4 — batch: 100
+[04:35:12] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:35:12] Brave API: OFF (saving money)
+[04:35:12] ============================================================
+[04:35:12] Found 100 leads to process
+[04:35:12]   [1/100] Dock Builders in Vero Beach, FL
+[04:35:31]     → skip: no_data
+[04:35:32]   [2/100] Top-Tier Handyman Vero Beach
+[04:35:40]     → skip: no_data
+[04:35:40]   [3/100] Flooring store in Stuart, FL
+[04:35:42]     [★ FOUND] angela@aglerinteriors.com
+[04:35:43]   [4/100] Tuohy's Downtown
+[04:35:46]     → skip: no_data
+[04:35:46]   [5/100] Stuart Laundry Services in Stuart
+[04:35:50]     → skip: no_data
+[04:35:50]   [6/100] Shiny Shell Car Wash
+[04:35:50]     → skip: no_mx:shiny-shell-car-wash.wheree.com
+[04:35:50]   [7/100] Home Remodeling Jensen Beach, FL | db Home Im
+[04:35:55]     → skip: no_data
+[04:35:55]   [8/100] Vesta Property Services – Florida HOA & Commu
+[04:36:00]     [~ guess] frank@vestapropertyservices.com (Frank Surface)
+[04:36:00]   [9/100] Jensen Beach Club Assoc, 4500 NE Ocean Blvd, 
+[04:36:00]     → skip: no_domain
+[04:36:00]   [10/100] Wallace Lincoln
+[04:36:03]     → skip: no_data
+[04:36:03]   [11/100] Full Service Catering | Treasure Coast | Home
+[04:36:05]     → skip: no_data
+[04:36:05]   [12/100] Home
+[04:36:08]     → skip: no_data
+[04:36:08]   [13/100] HOA Management Florida
+[04:36:19]     → skip: no_data
+[04:36:19]   [14/100] Restaurant
+[04:36:19]     → skip: no_mx:ontheedgebarandgrill.com
+[04:36:19]   [15/100] SLC commercial
+[04:36:32]     [★ FOUND] jaime@slccommercial.com
+[04:36:32]   [16/100] Lake Forest Park
+[04:36:32]     [★ FOUND] marketingdirector@lakeforestparksl.com (Mark Etingdirector)
+[04:36:33]   [17/100] B & S Auto Detailing LLC: Superior Auto Detai
+[04:36:42]     → skip: no_data
+[04:36:42]   [18/100] Best Restaurants in Stuart Florida
+[04:36:47]     → skip: no_data
+[04:36:47]   [19/100] RPM Dynamic
+[04:36:52]     → skip: no_data
+[04:36:52]   [20/100] Fort Made
+[04:37:23]     → skip: no_data
+[04:37:23]   [21/100] Electricians and Electrical Contractors in Fo
+[04:37:26]     → skip: no_data
+[04:37:26]   [22/100] Roofing Companies Near Me in Stuart, FL
+[04:37:34]     → skip: no_data
+[04:37:34]   [23/100] Boulevard Animal Hospital Stuart Florida Vete
+[04:37:34]     → skip: no_mx:boulevardanimalhospitalfl.com
+[04:37:34]   [24/100] Veterinarian Stuart, FL
+[04:37:40]     → skip: no_data
+[04:37:40]   [25/100] Crosby's Construction LLC: Home
+[04:37:46]     → skip: no_data
+[04:37:46]   [26/100] Hangars
+[04:37:52]     → skip: no_data
+[04:37:52]   [27/100] Gutter Guys of Vero Beach, Florida
+[04:37:52]     → skip: no_mx:gutterguysofverobeach.com
+[04:37:53]   [28/100] Best Assisted Living Facilities in Fort Pierc
+[04:37:59]     [~ guess] jeff@seniorliving.org (Jeff Hoyt)
+[04:37:59]   [29/100] Fort Pierce, FL Warehouses for Rent & Lease
+[04:37:59]     → skip: no_data
+[04:37:59]   [30/100] Sailfish Brewing (2026 Reviews)
+[04:37:59]     → skip: no_domain
+[04:38:00]   [31/100] Vero Beach Hotel
+[04:38:02]     → skip: no_mx:veroinn.com
+[04:38:02]   [32/100] Drift Away Massage & Spa
+[04:38:02]     → skip: no_mx:driftawaymassage.org
+[04:38:02]   [33/100] Welcome to Sunshine Laundry Centers
+[04:38:12]     → skip: no_data
+[04:38:12]   [34/100] Cheap Storage Units in Vero Beach, FL (from $
+[04:38:14]     → skip: no_data
+[04:38:14]   [35/100] Staff Directory • Purchasing
+[04:38:44]     → skip: no_data
+[04:38:44]   [36/100] Fort Pierce Warehouses For Rent & Lease
+[04:38:45]     → skip: no_data
+[04:38:45]   [37/100] Treasure Island Beachfront Investment Propert
+[04:38:46]     → skip: no_data
+[04:38:46]   [38/100] Remodeling Contractor: Island Kitchen & Bath
+[04:38:54]     → skip: no_data
+[04:38:54]   [39/100] The Gutter Factory
+[04:38:56]     [✓ SMTP] jim.co@thegutterfactory.net (Jim Co)
+[04:38:57]   [40/100] Martin North Hospital | Cleveland Clinic
+[04:38:57]     → skip: no_mx:my.clevelandclinic.org
+[04:38:57]   [41/100] Veterinarians in Vero Beach, FL
+[04:39:02]     [✓ SMTP] todd@vcahospitals.com (Todd Lavender)
+[04:39:02]   [42/100] Hardwood Flooring Vero Beach
+[04:39:08]     → skip: no_data
+[04:39:09]   [43/100] Mickey's Restaurant
+[04:39:09]     → skip: no_mx:restaurantjump.com
+[04:39:09]   [44/100] Contact
+[04:39:12]     → skip: no_data
+[04:39:12]   [45/100] Station 7
+[04:39:12]     → skip: no_mx:slcfd.com
+[04:39:12]   [46/100] Kitchen Renovation
+[04:39:19]     → skip: no_data
+[04:39:20]   [47/100] Jensen Beach Seamless Gutters
+[04:39:20]     → skip: no_mx:raincontrolseamlessgutters.com
+[04:39:20]   [48/100] Get Kitchen Remodeling in Jensen Beach, FL
+[04:39:23]     → skip: no_data
+[04:39:23]   [49/100] Self Storage Units in Stuart, FL, on Indian S
+[04:39:32]     → skip: no_data
+[04:39:32]   [50/100] Jennifer Trent, CPM, ACoM, CRRP - Principal/P
+[04:39:32]     → skip: no_domain
+[04:39:32]   [51/100] Florida Property Management Companies
+[04:39:37]     → skip: no_data
+[04:39:37]   [52/100] Stuart Bathroom Contractors
+[04:39:37]     → skip: no_mx:dreammaker-remodel.com
+[04:39:37]   [53/100] Martin Meadows | Home Owners Association – MM
+[04:39:39]     → skip: no_data
+[04:39:39]   [54/100] How can I avoid 'cannot read property of unde
+[04:39:42]     → skip: no_data
+[04:39:42]   [55/100] Electricians near Stuart, FL
+[04:39:47]     → skip: no_data
+[04:39:47]   [56/100] Professional Painting Contractor
+[04:39:49]     → skip: no_data
+[04:39:49]   [57/100] Top Rated Car Wash in Stuart FL
+[04:39:56]     → skip: no_data
+[04:39:57]   [58/100] Gym in Lakewood Park
+[04:40:04]     [~ guess] jerry@workoutanytime.com (Jerry Pugh)
+[04:40:04]   [59/100] Veterinarian in Stuart, FL
+[04:40:15]     → skip: no_data
+[04:40:15]   [60/100] Career Opportunities
+[04:40:16]     → skip: no_data
+[04:40:16]   [61/100] Contact
+[04:40:25]     [★ FOUND] kate@tccommercialre.com
+[04:40:25]   [62/100] All Dealers in Stuart, FL 34997
+[04:40:28]     → skip: no_data
+[04:40:28]   [63/100] 69 Best Casual Restaurants in Stuart | OpenTa
+[04:40:59]     → skip: no_data
+[04:40:59]   [64/100] 55+ Communities in Port St. Lucie and Fort Pi
+[04:41:06]     [★ FOUND] homes@spanishlakes.com
+[04:41:06]   [65/100] Contact — Energy Spa and Salon
+[04:41:06]     → skip: no_mx:energyspaverobeach.com
+[04:41:06]   [66/100] Floor Installation
+[04:41:06]     → skip: no_mx:gscremodeling.com
+[04:41:06]   [67/100] Cold Storage Warehouses and Logistics
+[04:41:09]     → skip: no_data
+[04:41:09]   [68/100] Fort Pierce Bathrooms
+[04:41:13]     → skip: no_data
+[04:41:13]   [69/100] About Our Representatives
+[04:41:19]     → skip: no_data
+[04:41:19]   [70/100] Vero Beach Medical Facilities
+[04:41:25]     → skip: no_data
+[04:41:26]   [71/100] Epoxy Floors N More
+[04:41:32]     → skip: no_data
+[04:41:32]   [72/100] Martin County Existing Condo Sales Climb - MI
+[04:41:38]     → skip: no_data
+[04:41:38]   [73/100] Property Management Stuart FL "32 unit Apartm
+[04:41:44]     [★ FOUND] mel@landmarkinvestmentsflorida.com
+[04:41:44]   [74/100] Home Renovation Contractor
+[04:41:51]     → skip: no_data
+[04:41:52]   [75/100] Mobile Car Detailing in Stuart, FL | AIRLITE
+[04:41:54]     → skip: no_data
+[04:41:54]   [76/100] Metal Roofing Contractor | Stuart, FL - Leo R
+[04:41:54]     → skip: no_mx:leoroofingfl.com
+[04:41:54]   [77/100] Treasure Coast - 2025 Pricing, Photos, Review
+[04:41:57]     → skip: no_data
+[04:41:57]   [78/100] Cleveland Clinic Martin North Hospital - Stua
+[04:42:03]     → skip: no_data
+[04:42:03]   [79/100] Top Concrete Contractor Vero Beach Fl
+[04:42:07]     → skip: no_data
+[04:42:07]   [80/100] Epoxy Flooring
+[04:42:11]     → skip: no_data
+[04:42:11]   [81/100] Palm City, FL Commercial Maintenance Services
+[04:42:13]     → skip: no_data
+[04:42:13]   [82/100] Staff Directory • Fort Pierce, FL • CivicEnga
+[04:42:43]     → skip: no_data
+[04:42:43]   [83/100] Vero Beach – DHG Medical Centers
+[04:42:47]     → skip: no_data
+[04:42:47]   [84/100] 英国宿舍类型 apartment、ensuite、single、studio 有什么区别？
+[04:42:51]     [★ FOUND] 2d8d764432cc4f6fb3bc78ab9528299d@crash2.zhihu.com
+[04:42:51]   [85/100] The Driftwood Resort
+[04:43:00]     → skip: no_data
+[04:43:01]   [86/100] Stuart Kitchen Contractors
+[04:43:01]     → skip: no_mx:dreammaker-remodel.com
+[04:43:01]   [87/100] Ecosystem Restoration and Management
+[04:43:08]     [★ FOUND] accessibility@martin.fl.us
+[04:43:09]   [88/100] Proctor Construction
+[04:43:13]     → skip: no_data
+[04:43:13]   [89/100] Breweries – Treasure Coast Wine, Ale & Spirit
+[04:43:13]     → skip: no_mx:tcwineandaletrail.com
+[04:43:14]   [90/100] Hotel in Fort Pierce, FL
+[04:43:44]     → skip: no_data
+[04:43:45]   [91/100] Contact Ian Jackson, Email: i***@cedpalmbay.c
+[04:43:45]     → skip: no_domain
+[04:43:45]   [92/100] Contact Info for Available Cabinets. of Fort 
+[04:43:45]     → skip: no_mx:available-cabinets-inc.fortpiercedirect.us
+[04:43:45]   [93/100] Auto Body Services
+[04:44:06]     → skip: no_data
+[04:44:06]   [94/100] Bathroom Remodeling Stuart, FL
+[04:44:06]     → skip: no_mx:stuart-fl.aapaintingremodeling.com
+[04:44:06]   [95/100] Vero Beach Dentist
+[04:44:14]     → skip: no_data
+[04:44:14]   [96/100] Vero Dock in Vero Beach, FL – Reviews, Hours,
+[04:44:19]     → skip: no_data
+[04:44:19]   [97/100] Fort Pierce HVAC: AC, Plumbing, Gas, Electric
+[04:44:26]     → skip: no_data
+[04:44:26]   [98/100] Palm City Property Management | South Florida
+[04:44:32]     → skip: no_data
+[04:44:32]   [99/100] Senior Living Apartments for Rent in Fort Pie
+[04:44:32]     → skip: no_domain
+[04:44:32]   [100/100] REAL ESTATE/PROPERTY MANAGEMENT Category
+[04:44:35]     → skip: no_data
+[04:44:35] 
+============================================================
+[04:44:35] ENRICHMENT COMPLETE
+[04:44:35]   Batch: 13 enriched / 100 processed
+[04:44:35]   Found on site: 8 | Pattern guess: 5
+[04:44:35]   SMTP verified: 2 | Names found: 6
+[04:44:35]   Database: 21271 total, 3013 with email, 255 named contacts
+[04:44:35]   Quality: 1836 personal (60%) / 1177 generic
+[04:44:35]   Cost: $0 (zero API calls)
+[04:44:35] ============================================================

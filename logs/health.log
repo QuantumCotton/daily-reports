@@ -10,3 +10,43 @@
 ✅ Brave: 0/4,500 this week (0%)
 💾 Disk: 17% | RAM: 1368MB/3915MB
 ✅ No recent errors in logs
+/home/chris/.openclaw/bin/system_health.py:89: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  week = datetime.utcnow().strftime("%G-W%V")
+🔧 *GLITCH DAILY HEALTH REPORT*
+📅 Feb 15, 2026 11:00 AM ET
+
+❌ Gateway: unknown
+✅ PM2: glitch-v2, crm
+📊 Leads: 19,480 total | 2,843 email | 281 verified
+📈 New 24h: +3,074 | Metros: 103 | Queue: 6,404 pending
+✅ Brave: 0/4,500 this week (0%)
+💾 Disk: 18% | RAM: 1744MB/3915MB
+✅ No recent errors in logs
+/home/chris/.openclaw/bin/system_health.py:89: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  week = datetime.utcnow().strftime("%G-W%V")
+🔧 *GLITCH DAILY HEALTH REPORT*
+📅 Feb 16, 2026 11:00 AM ET
+
+❌ Gateway: unknown
+✅ PM2: glitch-v2, crm, glitch-os
+📊 Leads: 22,826 total | 3,101 email | 388 verified
+📈 New 24h: +4,234 | Metros: 113 | Queue: 6,314 pending
+✅ Brave: 0/4,500 this week (0%)
+💾 Disk: 17% | RAM: 1841MB/3915MB
+
+⚠️ *Recent Errors:*
+  - treasure_coast_enricher.log: 5 errors in last 20 lines
+/home/chris/.openclaw/bin/system_health.py:89: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  week = datetime.utcnow().strftime("%G-W%V")
+🔧 *GLITCH DAILY HEALTH REPORT*
+📅 Feb 17, 2026 11:00 AM ET
+
+❌ Gateway: unknown
+✅ PM2: glitch-v2, crm, glitch-os
+📊 Leads: 27,786 total | 3,707 email | 449 verified
+📈 New 24h: +7,146 | Metros: 159 | Queue: 5,905 pending
+✅ Brave: 0/4,500 this week (0%)
+💾 Disk: 18% | RAM: 2033MB/3915MB
+
+⚠️ *Recent Errors:*
+  - treasure_coast_enricher.log: 5 errors in last 20 lines

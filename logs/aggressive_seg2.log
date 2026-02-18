@@ -1,0 +1,12 @@
+[04:30:03][SEG2] ============================================================
+[04:30:03][SEG2] APOLLO PARALLEL — Segment 2/10 | Batch: 20
+[04:30:03][SEG2] ============================================================
+[04:30:03][SEG2] Loaded 785 leads
+[04:30:03][SEG2] Leads in segment 2: 2
+[04:30:03][SEG2] Processing batch of 2
+[04:30:03][SEG2]   [1/2] Circle Bay Yacht Club → circlebay.org
+[04:30:03][SEG2]     → SKIP: no MX for circlebay.org
+[04:30:03][SEG2]   [2/2] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[04:30:03][SEG2]     → SKIP: no MX for bobbyandbrothershandyman.com
+[04:30:03][SEG2] SEGMENT 2 COMPLETE: 0 guessed, 0 verified
+[04:30:03][SEG2] ============================================================

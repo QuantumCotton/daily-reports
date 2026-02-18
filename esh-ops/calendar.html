@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar - ESH Operations Hub</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="calendar-container">
+        <div class="calendar-header">
+            <div class="calendar-title">
+                <h2><i class="fas fa-calendar"></i> Calendar</h2>
+                <div class="project-info">
+                    <span id="currentProjectName">Select a project</span>
+                </div>
+            </div>
+            <div class="calendar-controls">
+                <button class="btn btn-secondary" onclick="previousMonth()">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                <button class="btn btn-secondary" onclick="currentMonth()">
+                    Today
+                </button>
+                <button class="btn btn-secondary" onclick="nextMonth()">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+                <span class="current-month" id="currentMonth"></span>
+                <button class="btn btn-primary" onclick="parent.openTaskModal()">
+                    <i class="fas fa-plus"></i> Add Task
+                </button>
+                <button class="btn btn-secondary" onclick="refreshCalendar()">
+                    <i class="fas fa-sync"></i> Refresh
+                </button>
+            </div>
+        </div>
+
+        <div class="calendar-view">
+            <div class="calendar-weekdays">
+                <div class="weekday">Sun</div>
+                <div class="weekday">Mon</div>
+                <div class="weekday">Tue</div>
+                <div class="weekday">Wed</div>
+                <div class="weekday">Thu</div>
+                <div class="weekday">Fri</div>
+                <div class="weekday">Sat</div>
+            </div>
+            <div class="calendar-grid" id="calendarGrid">
+                <!-- Calendar days will be generated here -->
+            </div>
+        </div>
+
+        <!-- Task Details Panel -->
+        <div class="calendar-details-panel" id="detailsPanel">
+            <div class="panel-header">
+                <h3>
+                    <i class="fas fa-tasks"></i>
+                    Tasks for <span id="selectedDate"></span>
+                </h3>
+                <button class="close-panel" onclick="closeDetailsPanel()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="panel-content" id="panelContent">
+                <p class="no-tasks">No tasks for this date</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let currentProject = null;
+        let currentDate = new Date();
+        let tasks = [];
+        let events = [];
+
+        // Initialize calendar when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeCalendar();
+            startRealTimeUpdates();
+        });
+
+        function initializeCalendar() {
+            // Get current project from parent, or default to project 4 (KMJK Group)
+            if (window.parent.currentProject) {
+                currentProject = window.parent.currentProject;
+                document.getElementById('currentProjectName').textContent = currentProject.name;
+            } else {
+                // Default to Elite Service Hub project
+                currentProject = { id: 4, name: 'Elite Service Hub' };
+                document.getElementById('currentProjectName').textContent = currentProject.name;
+            }
+            
+            loadCalendarData();
+            renderCalendar();
+            setupEventListeners();
+        }
+
+        function setupEventListeners() {
+            // Listen for project changes from parent
+            window.addEventListener('message', function(event) {
+                if (event.data.type === 'projectChanged') {
+                    currentProject = event.data.project;
+                    document.getElementById('currentProjectName').textContent = currentProject.name;
+                    loadCalendarData();
+                    renderCalendar();
+                }
+            });
+        }
+
+        async function loadCalendarData() {
+            try {
+                showLoading(true);
+                
+                // Load tasks
+                const tasksResponse = await fetch(`${window.parent.API_BASE_URL}/api/tasks?project_id=${currentProject?.id || ''}`, {
+                    headers: {
+                        'Authorization': `Bearer ${window.parent.getAuthToken()}`
+                    }
+                });
+
+                if (tasksResponse.ok) {
+                    const tasksData = await tasksResponse.json();
+                    tasks = tasksData.tasks || [];
+                }
+
+                // Load calendar events
+                const startDate = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1);
+                const endDate = new Date(currentDate.getFullYear(), currentDate.getMonth() + 1, 0);
+                
+                const eventsResponse = await fetch(`${window.parent.API_BASE_URL}/api/calendar?start_date=${startDate.toISOString()}&end_date=${endDate.toISOString()}&project_id=${currentProject?.id || ''}`, {
+                    headers: {
+                        'Authorization': `Bearer ${window.parent.getAuthToken()}`
+                    }
+                });
+
+                if (eventsResponse.ok) {
+                    const eventsData = await eventsResponse.json();
+                    events = eventsData.events || [];
+                }
+
+            } catch (error) {
+                console.error('Error loading calendar data:', error);
+                showError('Failed to load calendar data');
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        function renderCalendar() {
+            const year = currentDate.getFullYear();
+            const month = currentDate.getMonth();
+            const firstDay = new Date(year, month, 1).getDay();
+            const daysInMonth = new Date(year, month + 1, 0).getDate();
+            const today = new Date();
+            
+            // Update month display
+            const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+                              'July', 'August', 'September', 'October', 'November', 'December'];
+            document.getElementById('currentMonth').textContent = `${monthNames[month]} ${year}`;
+            
+            // Clear calendar grid
+            const grid = document.getElementById('calendarGrid');
+            grid.innerHTML = '';
+            
+            // Add empty cells for days before month starts
+            for (let i = 0; i < firstDay; i++) {
+                const emptyCell = document.createElement('div');
+                emptyCell.className = 'calendar-day empty';
+                grid.appendChild(emptyCell);
+            }
+            
+            // Add days of the month
+            for (let day = 1; day <= daysInMonth; day++) {
+                const dayCell = createCalendarDay(year, month, day, today);
+                grid.appendChild(dayCell);
+            }
+        }
+
+        function createCalendarDay(year, month, day, today) {
+            const dayCell = document.createElement('div');
+            const date = new Date(year, month, day);
+            const dateStr = formatDateString(date);
+            const isToday = date.toDateString() === today.toDateString();
+            const isPast = date < today && !isToday;
+            const isWeekend = date.getDay() === 0 || date.getDay() === 6;
+            
+            dayCell.className = `calendar-day ${isToday ? 'today' : ''} ${isPast ? 'past' : ''} ${isWeekend ? 'weekend' : ''}`;
+            dayCell.dataset.date = dateStr;
+            
+            // Get tasks for this date
+            const dayTasks = getTasksForDate(date);
+            const dayEvents = getEventsForDate(date);
+            
+            dayCell.innerHTML = `
+                <div class="day-number">${day}</div>
+                <div class="day-content">
+                    ${renderTaskIndicators(dayTasks)}
+                    ${renderEventIndicators(dayEvents)}
+                </div>
+            `;
+            
+            // Add click handler
+            dayCell.addEventListener('click', () => selectDate(date, dayTasks, dayEvents));
+            
+            // Add double-click handler for quick task creation
+            dayCell.addEventListener('dblclick', () => {
+                quickAddTask(date);
+            });
+            
+            return dayCell;
+        }
+
+        function renderTaskIndicators(tasks) {
+            if (tasks.length === 0) return '';
+            
+            const maxIndicators = 3;
+            const displayedTasks = tasks.slice(0, maxIndicators);
+            const remainingCount = tasks.length - maxIndicators;
+            
+            let html = '<div class="task-indicators">';
+            
+            displayedTasks.forEach(task => {
+                const priorityClass = `priority-${task.priority}`;
+                const stageClass = `stage-${task.stage}`;
+                html += `<div class="task-indicator ${priorityClass} ${stageClass}" title="${task.title}"></div>`;
+            });
+            
+            if (remainingCount > 0) {
+                html += `<div class="more-tasks">+${remainingCount}</div>`;
+            }
+            
+            html += '</div>';
+            return html;
+        }
+
+        function renderEventIndicators(events) {
+            if (events.length === 0) return '';
+            
+            let html = '<div class="event-indicators">';
+            events.forEach(event => {
+                html += `<div class="event-indicator" title="${event.title}">${event.title.substring(0, 10)}...</div>`;
+            });
+            html += '</div>';
+            return html;
+        }
+
+        function getTasksForDate(date) {
+            const dateStr = formatDateString(date);
+            return tasks.filter(task => {
+                if (!task.due_date) return false;
+                return formatDateString(new Date(task.due_date)) === dateStr;
+            });
+        }
+
+        function getEventsForDate(date) {
+            const dateStr = formatDateString(date);
+            return events.filter(event => {
+                const eventStart = formatDateString(new Date(event.start));
+                const eventEnd = formatDateString(new Date(event.end));
+                return dateStr >= eventStart && dateStr <= eventEnd;
+            });
+        }
+
+        function selectDate(date, tasks, events) {
+            const dateStr = date.toLocaleDateString('en-US', { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            });
+            
+            document.getElementById('selectedDate').textContent = dateStr;
+            
+            const panelContent = document.getElementById('panelContent');
+            
+            if (tasks.length === 0 && events.length === 0) {
+                panelContent.innerHTML = '<p class="no-tasks">No tasks or events for this date</p>';
+            } else {
+                let html = '';
+                
+                if (tasks.length > 0) {
+                    html += '<div class="tasks-section"><h4>Tasks</h4>';
+                    tasks.forEach(task => {
+                        html += createTaskCard(task);
+                    });
+                    html += '</div>';
+                }
+                
+                if (events.length > 0) {
+                    html += '<div class="events-section"><h4>Events</h4>';
+                    events.forEach(event => {
+                        html += createEventCard(event);
+                    });
+                    html += '</div>';
+                }
+                
+                panelContent.innerHTML = html;
+            }
+            
+            document.getElementById('detailsPanel').classList.add('show');
+        }
+
+        function createTaskCard(task) {
+            const priorityColors = {
+                low: '#4caf50',
+                medium: '#ff9800',
+                high: '#f44336',
+                urgent: '#9c27b0'
+            };
+            
+            return `
+                <div class="calendar-task-card priority-${task.priority}" onclick="editTask(${task.id})">
+                    <div class="card-header">
+                        <span class="task-priority" style="background-color: ${priorityColors[task.priority]}"></span>
+                        <span class="task-title">${task.title}</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="task-stage">${task.stage.replace('_', ' ').toUpperCase()}</div>
+                        ${task.assignee ? `
+                            <div class="task-assignee">
+                                <img src="https://picsum.photos/seed/${task.assignee.username}/20/20" alt="${task.assignee.full_name}">
+                                ${task.assignee.full_name}
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+        }
+
+        function createEventCard(event) {
+            const startTime = new Date(event.start).toLocaleTimeString('en-US', { 
+                hour: '2-digit', 
+                minute: '2-digit' 
+            });
+            const endTime = new Date(event.end).toLocaleTimeString('en-US', { 
+                hour: '2-digit', 
+                minute: '2-digit' 
+            });
+            
+            return `
+                <div class="calendar-event-card">
+                    <div class="card-header">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span class="event-title">${event.title}</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="event-time">${startTime} - ${endTime}</div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function closeDetailsPanel() {
+            document.getElementById('detailsPanel').classList.remove('show');
+        }
+
+        function quickAddTask(date) {
+            const dateStr = date.toISOString().slice(0, 16);
+            window.parent.postMessage({
+                type: 'quickAddTask',
+                date: dateStr
+            }, '*');
+        }
+
+        function editTask(taskId) {
+            const task = tasks.find(t => t.id === taskId);
+            if (task) {
+                window.parent.postMessage({
+                    type: 'editTask',
+                    task: task
+                }, '*');
+            }
+        }
+
+        function previousMonth() {
+            currentDate.setMonth(currentDate.getMonth() - 1);
+            loadCalendarData();
+            renderCalendar();
+        }
+
+        function nextMonth() {
+            currentDate.setMonth(currentDate.getMonth() + 1);
+            loadCalendarData();
+            renderCalendar();
+        }
+
+        function currentMonth() {
+            currentDate = new Date();
+            loadCalendarData();
+            renderCalendar();
+        }
+
+        function refreshCalendar() {
+            loadCalendarData();
+            renderCalendar();
+        }
+
+        function formatDateString(date) {
+            return date.toISOString().split('T')[0];
+        }
+
+        function showLoading(show) {
+            window.parent.showLoading(show);
+        }
+
+        function showError(message) {
+            window.parent.showError(message);
+        }
+
+        // Real-time updates
+        function startRealTimeUpdates() {
+            setInterval(() => {
+                if (currentProject) {
+                    loadCalendarData();
+                    renderCalendar();
+                }
+            }, 5000); // Update every 5 seconds
+        }
+    </script>
+</body>
+</html>

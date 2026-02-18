@@ -1,0 +1,16 @@
+[04:30:07][SEG6] ============================================================
+[04:30:07][SEG6] APOLLO PARALLEL — Segment 6/10 | Batch: 20
+[04:30:07][SEG6] ============================================================
+[04:30:07][SEG6] Loaded 785 leads
+[04:30:07][SEG6] Leads in segment 6: 4
+[04:30:07][SEG6] Processing batch of 4
+[04:30:07][SEG6]   [1/4] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[04:30:07][SEG6]     → SKIP: no MX for mobiledetailing.io
+[04:30:07][SEG6]   [2/4] 4 Best Assisted Living Communities in Je → health.usnews.com
+[04:30:07][SEG6]     → SKIP: no MX for health.usnews.com
+[04:30:07][SEG6]   [3/4] Transitional Kitchens Gallery → dreammaker-remodel.com
+[04:30:08][SEG6]     → SKIP: no MX for dreammaker-remodel.com
+[04:30:08][SEG6]   [4/4] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[04:30:08][SEG6]     → SKIP: no MX for concretesciencefl.com
+[04:30:08][SEG6] SEGMENT 6 COMPLETE: 0 guessed, 0 verified
+[04:30:08][SEG6] ============================================================

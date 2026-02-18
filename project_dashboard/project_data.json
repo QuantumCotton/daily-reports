@@ -1,0 +1,196 @@
+{
+  "kanban": {
+    "to_do": [
+      {
+        "id": 1,
+        "task": "Email warm-up setup",
+        "assignee": "Glitch",
+        "priority": "critical",
+        "due": "2026-02-18"
+      },
+      {
+        "id": 2,
+        "task": "Josue's first deal",
+        "assignee": "Glitch + Josue",
+        "priority": "critical",
+        "due": "2026-02-21"
+      },
+      {
+        "id": 3,
+        "task": "Quality scoring implementation",
+        "assignee": "Glitch",
+        "priority": "high",
+        "due": "2026-02-18"
+      },
+      {
+        "id": 4,
+        "task": "Email templates (advisor hooks)",
+        "assignee": "outreach-writer",
+        "priority": "high",
+        "due": "2026-02-18"
+      },
+      {
+        "id": 5,
+        "task": "Payment automation (Stripe)",
+        "assignee": "coding-specialist",
+        "priority": "high",
+        "due": "2026-02-19"
+      },
+      {
+        "id": 6,
+        "task": "Build ESH Mail website",
+        "assignee": "platform-builder",
+        "priority": "high",
+        "due": "2026-02-25"
+      },
+      {
+        "id": 7,
+        "task": "Create 75 domain names for warmup",
+        "assignee": "Glitch",
+        "priority": "high",
+        "due": "2026-02-20"
+      },
+      {
+        "id": 8,
+        "task": "Treasure Coast enrichment (344/500 complete)",
+        "assignee": "lead-scout",
+        "priority": "high",
+        "due": "2026-02-21"
+      },
+      {
+        "id": 13,
+        "task": "Treasure Coast enrichment (3/500 complete - need 497 more)",
+        "assignee": "lead-scout",
+        "priority": "critical",
+        "due": "2026-02-21"
+      }
+    ],
+    "in_progress": [
+      {
+        "id": 9,
+        "task": "Lead generation (400/day goal)",
+        "assignee": "All scrapers",
+        "priority": "medium",
+        "due": "Ongoing"
+      }
+    ],
+    "done": [
+      {
+        "id": 10,
+        "task": "Advisor agents created",
+        "assignee": "Glitch",
+        "priority": "high",
+        "due": "2026-02-16"
+      },
+      {
+        "id": 11,
+        "task": "Advisor strategies documented",
+        "assignee": "All advisors",
+        "priority": "high",
+        "due": "2026-02-16"
+      },
+      {
+        "id": 12,
+        "task": "New scrapers created",
+        "assignee": "Glitch",
+        "priority": "high",
+        "due": "2026-02-16"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2026-02-18",
+      "event": "Email warm-up starts (14 days before March 7)",
+      "phase": "Phase 1"
+    },
+    {
+      "date": "2026-02-21",
+      "event": "Josue's first deal deadline (end of Week 1)",
+      "phase": "Phase 1"
+    },
+    {
+      "date": "2026-03-07",
+      "event": "First email outreach launch",
+      "phase": "Phase 3"
+    },
+    {
+      "date": "2026-03-21",
+      "event": "ESH Mail beta launch",
+      "phase": "Phase 3"
+    },
+    {
+      "date": "2026-04-05",
+      "event": "Scale to 10 contractors",
+      "phase": "Phase 3"
+    },
+    {
+      "date": "2026-05-15",
+      "event": "4 contractors total (90-day target)",
+      "phase": "Phase 4"
+    }
+  ],
+  "mindmap": {
+    "Elite Service Hub": {
+      "Lead Generation": [
+        "treasure_coast_scraper.py",
+        "google_maps_scraper.py",
+        "apartment_scraper.py",
+        "florida_hoa_scraper.py",
+        "property_manager_scraper.py",
+        "Lead Enricher v4",
+        "Apollo Guesser",
+        "Bulk Verifier"
+      ],
+      "ESH Mail Platform": [
+        "Email warm-up (14 days)",
+        "KumoMTA",
+        "Multi-provider SMTP",
+        "Reputation monitoring",
+        "Bad-list protection",
+        "User dashboard",
+        "Payment (Stripe)"
+      ],
+      "Contractor-in-a-Box": [
+        "Website (KMJK template)",
+        "Lead distribution",
+        "Email warming",
+        "Payment automation",
+        "Contractor dashboard"
+      ],
+      "Advisor Team": [
+        "Musk (CEO) - 10x thinking",
+        "Thiel (CMO) - Contrarian strategy",
+        "Carmack (CTO) - Engineering",
+        "Jensen (CRO) - Scalability"
+      ]
+    }
+  },
+  "advisors": {
+    "musk": {
+      "name": "Musk",
+      "role": "CEO",
+      "color": "#e74c3c",
+      "status": "Available"
+    },
+    "thiel": {
+      "name": "Thiel",
+      "role": "CMO",
+      "color": "#3498db",
+      "status": "Available"
+    },
+    "carmack": {
+      "name": "Carmack",
+      "role": "CTO",
+      "color": "#2ecc71",
+      "status": "Available"
+    },
+    "jensen": {
+      "name": "Jensen",
+      "role": "CRO",
+      "color": "#9b59b6",
+      "status": "Available"
+    }
+  },
+  "updated_at": "2026-02-16T04:05:35.049378"
+}

@@ -1,0 +1,20 @@
+[04:30:05][SEG4] ============================================================
+[04:30:05][SEG4] APOLLO PARALLEL — Segment 4/10 | Batch: 20
+[04:30:05][SEG4] ============================================================
+[04:30:05][SEG4] Loaded 785 leads
+[04:30:05][SEG4] Leads in segment 4: 6
+[04:30:05][SEG4] Processing batch of 6
+[04:30:05][SEG4]   [1/6] Quest Property Management Services for Y → questrealestatesolutions.com
+[04:30:05][SEG4]     → SKIP: no MX for questrealestatesolutions.com
+[04:30:05][SEG4]   [2/6] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[04:30:05][SEG4]     → SKIP: no MX for westpalmbeachrenovations.com
+[04:30:06][SEG4]   [3/6] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[04:30:06][SEG4]     → SKIP: no MX for health.usnews.com
+[04:30:06][SEG4]   [4/6] Remodeling Contractor → swfconstruction.com
+[04:30:06][SEG4]     → SKIP: no MX for swfconstruction.com
+[04:30:06][SEG4]   [5/6] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[04:30:06][SEG4]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[04:30:07][SEG4]   [6/6] About Us → islandhousehoa.com
+[04:30:07][SEG4]     → SKIP: no MX for islandhousehoa.com
+[04:30:07][SEG4] SEGMENT 4 COMPLETE: 0 guessed, 0 verified
+[04:30:07][SEG4] ============================================================

@@ -1,0 +1,535 @@
+[04:40:06][SEG1] ============================================================
+[04:40:06][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[04:40:06][SEG1] ============================================================
+[04:40:06][SEG1] Loaded 983 leads
+[04:40:06][SEG1] Leads in segment 1: 167
+[04:40:06][SEG1] Processing batch of 20
+[04:40:06][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[04:40:06][SEG1]     → ✗ REJECTED: rejected
+[04:40:07][SEG1]   [2/20] Port St Lucie Epoxy Pros → info@theepoxypros.com
+[04:40:07][SEG1]     → ✓ VERIFIED
+[04:40:07][SEG1]   [3/20] Gizze Construction Inc → Gizzeconstruction@gmail.com
+[04:40:08][SEG1]     → ✓ VERIFIED
+[04:40:08][SEG1]   [4/20] Apartments for Rent in Fort Pierce  → sales-usa@theblueground.com
+[04:40:09][SEG1]     → ✓ VERIFIED
+[04:40:09][SEG1]   [5/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[04:40:10][SEG1]     → ✗ REJECTED: rejected
+[04:40:10][SEG1]   [6/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[04:40:10][SEG1]     → ✗ REJECTED: rejected
+[04:40:11][SEG1]   [7/20] Vantazma Collision → info@vantazma-car-care.com
+[04:40:11][SEG1]     → ? UNKNOWN: unknown
+[04:40:11][SEG1]   [8/20] Jensen Beach FL → info@dreammaker-stuart.com
+[04:40:12][SEG1]     → ✗ REJECTED: rejected
+[04:40:12][SEG1]   [9/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[04:40:12][SEG1]     → ✗ REJECTED: rejected
+[04:40:13][SEG1]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[04:40:13][SEG1]     → ✗ REJECTED: rejected
+[04:40:13][SEG1]   [11/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[04:40:14][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:14][SEG1]   [12/20] Estate Listings on → spiersrealestate@gmail.com
+[04:40:15][SEG1]     → ✓ VERIFIED
+[04:40:15][SEG1]   [13/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[04:40:15][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[04:40:15][SEG1]   [14/20] Wallace Chevrolet → ewallace@wallacechev.com
+[04:40:16][SEG1]     → ? UNKNOWN: unknown
+[04:40:17][SEG1]   [15/20] Honda Dealership Stuart FL → events@hohmartin.org
+[04:40:17][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:17][SEG1]   [16/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[04:40:18][SEG1]     → ? UNKNOWN: unknown
+[04:40:18][SEG1]   [17/20] Fort Pierce, FL Warehouses for Rent → Pmayorga383@gmail.com
+[04:40:18][SEG1]     → ✓ VERIFIED
+[04:40:19][SEG1]   [18/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[04:40:19][SEG1]     → ✗ REJECTED: rejected
+[04:40:20][SEG1]   [19/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[04:40:20][SEG1]     → ? UNKNOWN: unknown
+[04:40:20][SEG1]   [20/20] Clearshine Detailing: Vehicle Detai → office@reigncitysoftwash.com
+[04:40:20][SEG1]     → ✓ VERIFIED
+[04:40:21][SEG1] Wrote 6 verified emails
+[04:40:21][SEG1] SEGMENT 1 COMPLETE: 6 verified, 7 rejected
+[04:40:21][SEG1] ============================================================
+[05:00:08][SEG1] ============================================================
+[05:00:08][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[05:00:08][SEG1] ============================================================
+[05:00:08][SEG1] Loaded 1253 leads
+[05:00:08][SEG1] Leads in segment 1: 213
+[05:00:08][SEG1] Processing batch of 20
+[05:00:08][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[05:00:08][SEG1]     → ✗ REJECTED: rejected
+[05:00:09][SEG1]   [2/20] Gizze Construction Inc → Gizzeconstruction@gmail.com
+[05:00:09][SEG1]     → ✓ VERIFIED
+[05:00:09][SEG1]   [3/20] Apartments for Rent in Fort Pierce  → sales-usa@theblueground.com
+[05:00:10][SEG1]     → ✓ VERIFIED
+[05:00:10][SEG1]   [4/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[05:00:11][SEG1]     → ✗ REJECTED: rejected
+[05:00:11][SEG1]   [5/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[05:00:12][SEG1]     → ✗ REJECTED: rejected
+[05:00:12][SEG1]   [6/20] Vantazma Collision → info@vantazma-car-care.com
+[05:00:12][SEG1]     → ? UNKNOWN: unknown
+[05:00:13][SEG1]   [7/20] Jensen Beach FL → info@dreammaker-stuart.com
+[05:00:13][SEG1]     → ✗ REJECTED: rejected
+[05:00:13][SEG1]   [8/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[05:00:14][SEG1]     → ✗ REJECTED: rejected
+[05:00:14][SEG1]   [9/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:00:14][SEG1]     → ✗ REJECTED: rejected
+[05:00:15][SEG1]   [10/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[05:00:15][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:15][SEG1]   [11/20] Estate Listings on → spiersrealestate@gmail.com
+[05:00:16][SEG1]     → ✓ VERIFIED
+[05:00:16][SEG1]   [12/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[05:00:16][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[05:00:17][SEG1]   [13/20] Wallace Chevrolet → ewallace@wallacechev.com
+[05:00:17][SEG1]     → ? UNKNOWN: unknown
+[05:00:18][SEG1]   [14/20] Honda Dealership Stuart FL → events@hohmartin.org
+[05:00:18][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:18][SEG1]   [15/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[05:00:19][SEG1]     → ? UNKNOWN: unknown
+[05:00:19][SEG1]   [16/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[05:00:20][SEG1]     → ✗ REJECTED: rejected
+[05:00:20][SEG1]   [17/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:00:20][SEG1]     → ? UNKNOWN: unknown
+[05:00:20][SEG1]   [18/20] Clearshine Detailing: Vehicle Detai → office@reigncitysoftwash.com
+[05:00:21][SEG1]     → ✓ VERIFIED
+[05:00:21][SEG1]   [19/20] Vero Beach Epoxy Floors by CJ Epoxy → info@cjepoxy.com
+[05:00:23][SEG1]     → ✗ REJECTED: rejected
+[05:00:23][SEG1]   [20/20] Epoxy Flooring → info@buciopainting.net
+[05:00:23][SEG1]     → ✗ REJECTED: rejected
+[05:00:24][SEG1] Wrote 4 verified emails
+[05:00:24][SEG1] SEGMENT 1 COMPLETE: 4 verified, 9 rejected
+[05:00:24][SEG1] ============================================================
+[05:20:07][SEG1] ============================================================
+[05:20:07][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[05:20:07][SEG1] ============================================================
+[05:20:07][SEG1] Loaded 2665 leads
+[05:20:07][SEG1] Leads in segment 1: 234
+[05:20:07][SEG1] Processing batch of 20
+[05:20:07][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[05:20:07][SEG1]     → ✗ REJECTED: rejected
+[05:20:07][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[05:20:08][SEG1]     → ✗ REJECTED: rejected
+[05:20:08][SEG1]   [3/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[05:20:09][SEG1]     → ✗ REJECTED: rejected
+[05:20:09][SEG1]   [4/20] Vantazma Collision → info@vantazma-car-care.com
+[05:20:09][SEG1]     → ? UNKNOWN: unknown
+[05:20:10][SEG1]   [5/20] Jensen Beach FL → info@dreammaker-stuart.com
+[05:20:10][SEG1]     → ✗ REJECTED: rejected
+[05:20:10][SEG1]   [6/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[05:20:10][SEG1]     → ✗ REJECTED: rejected
+[05:20:11][SEG1]   [7/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:20:11][SEG1]     → ✗ REJECTED: rejected
+[05:20:12][SEG1]   [8/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[05:20:12][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:20:12][SEG1]   [9/20] Estate Listings on → spiersrealestate@gmail.com
+[05:20:13][SEG1]     → ✓ VERIFIED
+[05:20:13][SEG1]   [10/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[05:20:13][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[05:20:14][SEG1]   [11/20] Wallace Chevrolet → ewallace@wallacechev.com
+[05:20:14][SEG1]     → ? UNKNOWN: unknown
+[05:20:14][SEG1]   [12/20] Honda Dealership Stuart FL → events@hohmartin.org
+[05:20:15][SEG1]     → ? UNKNOWN: unknown
+[05:20:15][SEG1]   [13/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[05:20:16][SEG1]     → ? UNKNOWN: unknown
+[05:20:16][SEG1]   [14/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[05:20:16][SEG1]     → ✗ REJECTED: rejected
+[05:20:17][SEG1]   [15/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:20:17][SEG1]     → ? UNKNOWN: unknown
+[05:20:17][SEG1]   [16/20] Clearshine Detailing: Vehicle Detai → office@reigncitysoftwash.com
+[05:20:17][SEG1]     → ✓ VERIFIED
+[05:20:18][SEG1]   [17/20] Vero Beach Epoxy Floors by CJ Epoxy → info@cjepoxy.com
+[05:20:18][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[05:20:18][SEG1]   [18/20] Epoxy Flooring → info@buciopainting.net
+[05:20:19][SEG1]     → ✗ REJECTED: rejected
+[05:20:19][SEG1]   [19/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[05:20:19][SEG1]     → ? UNKNOWN: unknown
+[05:20:20][SEG1]   [20/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[05:20:20][SEG1]     → ? UNKNOWN: unknown
+[05:20:21][SEG1] Wrote 2 verified emails
+[05:20:21][SEG1] SEGMENT 1 COMPLETE: 2 verified, 8 rejected
+[05:20:21][SEG1] ============================================================
+[05:40:05][SEG1] ============================================================
+[05:40:05][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[05:40:05][SEG1] ============================================================
+[05:40:05][SEG1] Loaded 2665 leads
+[05:40:05][SEG1] Leads in segment 1: 249
+[05:40:05][SEG1] Processing batch of 20
+[05:40:05][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[05:40:05][SEG1]     → ✗ REJECTED: rejected
+[05:40:06][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[05:40:06][SEG1]     → ✗ REJECTED: rejected
+[05:40:06][SEG1]   [3/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[05:40:07][SEG1]     → ✗ REJECTED: rejected
+[05:40:07][SEG1]   [4/20] Vantazma Collision → info@vantazma-car-care.com
+[05:40:07][SEG1]     → ? UNKNOWN: unknown
+[05:40:08][SEG1]   [5/20] Jensen Beach FL → info@dreammaker-stuart.com
+[05:40:08][SEG1]     → ✗ REJECTED: rejected
+[05:40:08][SEG1]   [6/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[05:40:09][SEG1]     → ✗ REJECTED: rejected
+[05:40:09][SEG1]   [7/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:40:10][SEG1]     → ✗ REJECTED: rejected
+[05:40:10][SEG1]   [8/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[05:40:10][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:11][SEG1]   [9/20] Estate Listings on → spiersrealestate@gmail.com
+[05:40:11][SEG1]     → ✓ VERIFIED
+[05:40:12][SEG1]   [10/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[05:40:12][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[05:40:12][SEG1]   [11/20] Wallace Chevrolet → ewallace@wallacechev.com
+[05:40:13][SEG1]     → ? UNKNOWN: unknown
+[05:40:13][SEG1]   [12/20] Honda Dealership Stuart FL → events@hohmartin.org
+[05:40:14][SEG1]     → ? UNKNOWN: unknown
+[05:40:14][SEG1]   [13/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[05:40:14][SEG1]     → ? UNKNOWN: unknown
+[05:40:15][SEG1]   [14/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[05:40:15][SEG1]     → ✗ REJECTED: rejected
+[05:40:16][SEG1]   [15/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:40:16][SEG1]     → ? UNKNOWN: unknown
+[05:40:16][SEG1]   [16/20] Vero Beach Epoxy Floors by CJ Epoxy → info@cjepoxy.com
+[05:40:18][SEG1]     → ✗ REJECTED: rejected
+[05:40:19][SEG1]   [17/20] Epoxy Flooring → info@buciopainting.net
+[05:40:19][SEG1]     → ✗ REJECTED: rejected
+[05:40:19][SEG1]   [18/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[05:40:20][SEG1]     → ? UNKNOWN: unknown
+[05:40:20][SEG1]   [19/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[05:40:20][SEG1]     → ? UNKNOWN: unknown
+[05:40:21][SEG1]   [20/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[05:40:21][SEG1]     → ? UNKNOWN: unknown
+[05:40:21][SEG1] Wrote 1 verified emails
+[05:40:21][SEG1] SEGMENT 1 COMPLETE: 1 verified, 9 rejected
+[05:40:21][SEG1] ============================================================
+[06:00:07][SEG1] ============================================================
+[06:00:07][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[06:00:07][SEG1] ============================================================
+[06:00:07][SEG1] Loaded 2665 leads
+[06:00:07][SEG1] Leads in segment 1: 267
+[06:00:07][SEG1] Processing batch of 20
+[06:00:07][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[06:00:07][SEG1]     → ✗ REJECTED: rejected
+[06:00:08][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[06:00:08][SEG1]     → ✗ REJECTED: rejected
+[06:00:09][SEG1]   [3/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[06:00:09][SEG1]     → ✓ VERIFIED
+[06:00:10][SEG1]   [4/20] Vantazma Collision → info@vantazma-car-care.com
+[06:00:10][SEG1]     → ? UNKNOWN: unknown
+[06:00:10][SEG1]   [5/20] Jensen Beach FL → info@dreammaker-stuart.com
+[06:00:11][SEG1]     → ✗ REJECTED: rejected
+[06:00:11][SEG1]   [6/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[06:00:11][SEG1]     → ✗ REJECTED: rejected
+[06:00:12][SEG1]   [7/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:00:12][SEG1]     → ✗ REJECTED: rejected
+[06:00:12][SEG1]   [8/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[06:00:13][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:13][SEG1]   [9/20] Estate Listings on → spiersrealestate@gmail.com
+[06:00:14][SEG1]     → ✓ VERIFIED
+[06:00:14][SEG1]   [10/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[06:00:14][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[06:00:14][SEG1]   [11/20] Wallace Chevrolet → ewallace@wallacechev.com
+[06:00:15][SEG1]     → ? UNKNOWN: unknown
+[06:00:15][SEG1]   [12/20] Honda Dealership Stuart FL → events@hohmartin.org
+[06:00:16][SEG1]     → ? UNKNOWN: unknown
+[06:00:16][SEG1]   [13/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[06:00:17][SEG1]     → ? UNKNOWN: unknown
+[06:00:17][SEG1]   [14/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[06:00:18][SEG1]     → ✗ REJECTED: rejected
+[06:00:18][SEG1]   [15/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:00:18][SEG1]     → ? UNKNOWN: unknown
+[06:00:18][SEG1]   [16/20] Vero Beach Epoxy Floors by CJ Epoxy → info@cjepoxy.com
+[06:00:20][SEG1]     → ✗ REJECTED: rejected
+[06:00:21][SEG1]   [17/20] Epoxy Flooring → info@buciopainting.net
+[06:00:21][SEG1]     → ✗ REJECTED: rejected
+[06:00:22][SEG1]   [18/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[06:00:22][SEG1]     → ? UNKNOWN: unknown
+[06:00:22][SEG1]   [19/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[06:00:22][SEG1]     → ? UNKNOWN: unknown
+[06:00:23][SEG1]   [20/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:00:23][SEG1]     → ? UNKNOWN: unknown
+[06:00:24][SEG1] Wrote 2 verified emails
+[06:00:24][SEG1] SEGMENT 1 COMPLETE: 2 verified, 8 rejected
+[06:00:24][SEG1] ============================================================
+[06:40:05][SEG1] ============================================================
+[06:40:05][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[06:40:05][SEG1] ============================================================
+[06:40:05][SEG1] Loaded 2665 leads
+[06:40:05][SEG1] Leads in segment 1: 303
+[06:40:05][SEG1] Processing batch of 20
+[06:40:05][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[06:40:05][SEG1]     → ✗ REJECTED: rejected
+[06:40:06][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[06:40:06][SEG1]     → ✗ REJECTED: rejected
+[06:40:07][SEG1]   [3/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[06:40:07][SEG1]     → ✗ REJECTED: rejected
+[06:40:08][SEG1]   [4/20] Vantazma Collision → info@vantazma-car-care.com
+[06:40:08][SEG1]     → ? UNKNOWN: unknown
+[06:40:08][SEG1]   [5/20] Jensen Beach FL → info@dreammaker-stuart.com
+[06:40:08][SEG1]     → ✗ REJECTED: rejected
+[06:40:09][SEG1]   [6/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[06:40:09][SEG1]     → ✗ REJECTED: rejected
+[06:40:09][SEG1]   [7/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:40:10][SEG1]     → ✗ REJECTED: rejected
+[06:40:10][SEG1]   [8/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[06:40:10][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:11][SEG1]   [9/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[06:40:11][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[06:40:11][SEG1]   [10/20] Wallace Chevrolet → ewallace@wallacechev.com
+[06:40:12][SEG1]     → ? UNKNOWN: unknown
+[06:40:12][SEG1]   [11/20] Honda Dealership Stuart FL → events@hohmartin.org
+[06:40:12][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:13][SEG1]   [12/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[06:40:13][SEG1]     → ? UNKNOWN: unknown
+[06:40:13][SEG1]   [13/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[06:40:13][SEG1]     → ✗ REJECTED: rejected
+[06:40:14][SEG1]   [14/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:40:14][SEG1]     → ? UNKNOWN: unknown
+[06:40:14][SEG1]   [15/20] Epoxy Flooring → info@buciopainting.net
+[06:40:15][SEG1]     → ✗ REJECTED: rejected
+[06:40:15][SEG1]   [16/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[06:40:15][SEG1]     → ? UNKNOWN: unknown
+[06:40:15][SEG1]   [17/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[06:40:16][SEG1]     → ? UNKNOWN: unknown
+[06:40:16][SEG1]   [18/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[06:40:16][SEG1]     → ? UNKNOWN: unknown
+[06:40:17][SEG1]   [19/20] The Best Assisted Living Facilities → info@brightenalf.comALF
+[06:40:17][SEG1]     → SKIP: no MX for brightenalf.comALF
+[06:40:17][SEG1]   [20/20] The Gardens of Port St. Lucie Senio → info@sinceriseniorliving.com
+[06:40:17][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[06:40:17][SEG1] SEGMENT 1 COMPLETE: 0 verified, 8 rejected
+[06:40:17][SEG1] ============================================================
+[07:00:07][SEG1] ============================================================
+[07:00:07][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[07:00:07][SEG1] ============================================================
+[07:00:07][SEG1] Loaded 2665 leads
+[07:00:07][SEG1] Leads in segment 1: 315
+[07:00:07][SEG1] Processing batch of 20
+[07:00:07][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[07:00:08][SEG1]     → ✗ REJECTED: rejected
+[07:00:08][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[07:00:09][SEG1]     → ✗ REJECTED: rejected
+[07:00:09][SEG1]   [3/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[07:00:09][SEG1]     → ✗ REJECTED: rejected
+[07:00:10][SEG1]   [4/20] Vantazma Collision → info@vantazma-car-care.com
+[07:00:10][SEG1]     → ? UNKNOWN: unknown
+[07:00:10][SEG1]   [5/20] Jensen Beach FL → info@dreammaker-stuart.com
+[07:00:11][SEG1]     → ✗ REJECTED: rejected
+[07:00:11][SEG1]   [6/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[07:00:11][SEG1]     → ✗ REJECTED: rejected
+[07:00:12][SEG1]   [7/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:00:12][SEG1]     → ✗ REJECTED: rejected
+[07:00:13][SEG1]   [8/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[07:00:13][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:13][SEG1]   [9/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[07:00:13][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[07:00:14][SEG1]   [10/20] Wallace Chevrolet → ewallace@wallacechev.com
+[07:00:14][SEG1]     → ? UNKNOWN: unknown
+[07:00:15][SEG1]   [11/20] Honda Dealership Stuart FL → events@hohmartin.org
+[07:00:15][SEG1]     → ? UNKNOWN: unknown
+[07:00:15][SEG1]   [12/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[07:00:16][SEG1]     → ? UNKNOWN: unknown
+[07:00:16][SEG1]   [13/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[07:00:16][SEG1]     → ✗ REJECTED: rejected
+[07:00:17][SEG1]   [14/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:00:17][SEG1]     → ? UNKNOWN: unknown
+[07:00:17][SEG1]   [15/20] Epoxy Flooring → info@buciopainting.net
+[07:00:18][SEG1]     → ✗ REJECTED: rejected
+[07:00:18][SEG1]   [16/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[07:00:18][SEG1]     → ? UNKNOWN: unknown
+[07:00:19][SEG1]   [17/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[07:00:19][SEG1]     → ? UNKNOWN: unknown
+[07:00:19][SEG1]   [18/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:00:20][SEG1]     → ? UNKNOWN: unknown
+[07:00:20][SEG1]   [19/20] The Best Assisted Living Facilities → info@brightenalf.comALF
+[07:00:20][SEG1]     → SKIP: no MX for brightenalf.comALF
+[07:00:20][SEG1]   [20/20] The Gardens of Port St. Lucie Senio → info@sinceriseniorliving.com
+[07:00:20][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[07:00:21][SEG1] SEGMENT 1 COMPLETE: 0 verified, 8 rejected
+[07:00:21][SEG1] ============================================================
+[07:20:06][SEG1] ============================================================
+[07:20:06][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[07:20:06][SEG1] ============================================================
+[07:20:06][SEG1] Loaded 2665 leads
+[07:20:06][SEG1] Leads in segment 1: 319
+[07:20:06][SEG1] Processing batch of 20
+[07:20:06][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[07:20:06][SEG1]     → ✗ REJECTED: rejected
+[07:20:06][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[07:20:07][SEG1]     → ✗ REJECTED: rejected
+[07:20:07][SEG1]   [3/20] Vantazma Collision → info@vantazma-car-care.com
+[07:20:07][SEG1]     → ? UNKNOWN: unknown
+[07:20:08][SEG1]   [4/20] Jensen Beach FL → info@dreammaker-stuart.com
+[07:20:08][SEG1]     → ✗ REJECTED: rejected
+[07:20:09][SEG1]   [5/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[07:20:09][SEG1]     → ✗ REJECTED: rejected
+[07:20:09][SEG1]   [6/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:20:09][SEG1]     → ✗ REJECTED: rejected
+[07:20:10][SEG1]   [7/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[07:20:10][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:10][SEG1]   [8/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[07:20:10][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[07:20:11][SEG1]   [9/20] Wallace Chevrolet → ewallace@wallacechev.com
+[07:20:11][SEG1]     → ? UNKNOWN: unknown
+[07:20:12][SEG1]   [10/20] Honda Dealership Stuart FL → events@hohmartin.org
+[07:20:12][SEG1]     → ? UNKNOWN: unknown
+[07:20:13][SEG1]   [11/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[07:20:13][SEG1]     → ? UNKNOWN: unknown
+[07:20:13][SEG1]   [12/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[07:20:14][SEG1]     → ✗ REJECTED: rejected
+[07:20:14][SEG1]   [13/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:20:14][SEG1]     → ? UNKNOWN: unknown
+[07:20:15][SEG1]   [14/20] Epoxy Flooring → info@buciopainting.net
+[07:20:15][SEG1]     → ✗ REJECTED: rejected
+[07:20:15][SEG1]   [15/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[07:20:16][SEG1]     → ? UNKNOWN: unknown
+[07:20:16][SEG1]   [16/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[07:20:16][SEG1]     → ? UNKNOWN: unknown
+[07:20:17][SEG1]   [17/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:20:17][SEG1]     → ? UNKNOWN: unknown
+[07:20:17][SEG1]   [18/20] The Best Assisted Living Facilities → info@brightenalf.comALF
+[07:20:17][SEG1]     → SKIP: no MX for brightenalf.comALF
+[07:20:17][SEG1]   [19/20] The Gardens of Port St. Lucie Senio → info@sinceriseniorliving.com
+[07:20:17][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[07:20:18][SEG1]   [20/20] Treasure Coast ALF | Port St. Lucie → info@seniorplacementgroup.com
+[07:20:18][SEG1]     → ✗ REJECTED: rejected
+[07:20:18][SEG1] SEGMENT 1 COMPLETE: 0 verified, 8 rejected
+[07:20:18][SEG1] ============================================================
+[07:40:06][SEG1] ============================================================
+[07:40:06][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[07:40:06][SEG1] ============================================================
+[07:40:06][SEG1] Loaded 2665 leads
+[07:40:06][SEG1] Leads in segment 1: 332
+[07:40:06][SEG1] Processing batch of 20
+[07:40:06][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[07:40:07][SEG1]     → ✗ REJECTED: rejected
+[07:40:07][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[07:40:08][SEG1]     → ✗ REJECTED: rejected
+[07:40:08][SEG1]   [3/20] Vantazma Collision → info@vantazma-car-care.com
+[07:40:08][SEG1]     → ? UNKNOWN: unknown
+[07:40:08][SEG1]   [4/20] Jensen Beach FL → info@dreammaker-stuart.com
+[07:40:09][SEG1]     → ✗ REJECTED: rejected
+[07:40:09][SEG1]   [5/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[07:40:09][SEG1]     → ✗ REJECTED: rejected
+[07:40:10][SEG1]   [6/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:40:10][SEG1]     → ✗ REJECTED: rejected
+[07:40:11][SEG1]   [7/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[07:40:11][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:11][SEG1]   [8/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[07:40:11][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[07:40:12][SEG1]   [9/20] Wallace Chevrolet → ewallace@wallacechev.com
+[07:40:12][SEG1]     → ? UNKNOWN: unknown
+[07:40:12][SEG1]   [10/20] Honda Dealership Stuart FL → events@hohmartin.org
+[07:40:13][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:13][SEG1]   [11/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[07:40:14][SEG1]     → ? UNKNOWN: unknown
+[07:40:14][SEG1]   [12/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[07:40:14][SEG1]     → ✗ REJECTED: rejected
+[07:40:15][SEG1]   [13/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:40:15][SEG1]     → ? UNKNOWN: unknown
+[07:40:15][SEG1]   [14/20] Epoxy Flooring → info@buciopainting.net
+[07:40:16][SEG1]     → ✗ REJECTED: rejected
+[07:40:16][SEG1]   [15/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[07:40:16][SEG1]     → ? UNKNOWN: unknown
+[07:40:16][SEG1]   [16/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[07:40:17][SEG1]     → ? UNKNOWN: unknown
+[07:40:17][SEG1]   [17/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[07:40:18][SEG1]     → ? UNKNOWN: unknown
+[07:40:18][SEG1]   [18/20] The Best Assisted Living Facilities → info@brightenalf.comALF
+[07:40:18][SEG1]     → SKIP: no MX for brightenalf.comALF
+[07:40:18][SEG1]   [19/20] The Gardens of Port St. Lucie Senio → info@sinceriseniorliving.com
+[07:40:18][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[07:40:19][SEG1]   [20/20] Treasure Coast ALF | Port St. Lucie → info@seniorplacementgroup.com
+[07:40:19][SEG1]     → ✗ REJECTED: rejected
+[07:40:20][SEG1] SEGMENT 1 COMPLETE: 0 verified, 8 rejected
+[07:40:20][SEG1] ============================================================
+[08:00:07][SEG1] ============================================================
+[08:00:07][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[08:00:07][SEG1] ============================================================
+[08:00:07][SEG1] Loaded 2665 leads
+[08:00:07][SEG1] Leads in segment 1: 340
+[08:00:07][SEG1] Processing batch of 20
+[08:00:07][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[08:00:07][SEG1]     → ✗ REJECTED: rejected
+[08:00:07][SEG1]   [2/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[08:00:08][SEG1]     → ✗ REJECTED: rejected
+[08:00:08][SEG1]   [3/20] Vantazma Collision → info@vantazma-car-care.com
+[08:00:08][SEG1]     → ? UNKNOWN: unknown
+[08:00:09][SEG1]   [4/20] Jensen Beach FL → info@dreammaker-stuart.com
+[08:00:09][SEG1]     → ✗ REJECTED: rejected
+[08:00:09][SEG1]   [5/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[08:00:09][SEG1]     → ✗ REJECTED: rejected
+[08:00:10][SEG1]   [6/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:00:10][SEG1]     → ✗ REJECTED: rejected
+[08:00:11][SEG1]   [7/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[08:00:11][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:11][SEG1]   [8/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[08:00:11][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[08:00:12][SEG1]   [9/20] Wallace Chevrolet → ewallace@wallacechev.com
+[08:00:12][SEG1]     → ? UNKNOWN: unknown
+[08:00:13][SEG1]   [10/20] Honda Dealership Stuart FL → events@hohmartin.org
+[08:00:13][SEG1]     → ? UNKNOWN: unknown
+[08:00:13][SEG1]   [11/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[08:00:14][SEG1]     → ? UNKNOWN: unknown
+[08:00:14][SEG1]   [12/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[08:00:15][SEG1]     → ✗ REJECTED: rejected
+[08:00:15][SEG1]   [13/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[08:00:15][SEG1]     → ? UNKNOWN: unknown
+[08:00:15][SEG1]   [14/20] Epoxy Flooring → info@buciopainting.net
+[08:00:16][SEG1]     → ✗ REJECTED: rejected
+[08:00:16][SEG1]   [15/20] Wolf's Landscape & Maintenance → info@wolfscuts.com
+[08:00:16][SEG1]     → ? UNKNOWN: unknown
+[08:00:17][SEG1]   [16/20] Beau Rivage Estates HOA → fenglund@bellsouth.net
+[08:00:17][SEG1]     → ? UNKNOWN: unknown
+[08:00:17][SEG1]   [17/20] The Landings of Martin County | HOA → tkryzda@martin.fl.us
+[08:00:18][SEG1]     → ? UNKNOWN: unknown
+[08:00:18][SEG1]   [18/20] The Best Assisted Living Facilities → info@brightenalf.comALF
+[08:00:18][SEG1]     → SKIP: no MX for brightenalf.comALF
+[08:00:18][SEG1]   [19/20] The Gardens of Port St. Lucie Senio → info@sinceriseniorliving.com
+[08:00:18][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[08:00:18][SEG1]   [20/20] Treasure Coast ALF | Port St. Lucie → info@seniorplacementgroup.com
+[08:00:19][SEG1]     → ✗ REJECTED: rejected
+[08:00:19][SEG1] SEGMENT 1 COMPLETE: 0 verified, 8 rejected
+[08:00:19][SEG1] ============================================================
+[08:20:06][SEG1] ============================================================
+[08:20:06][SEG1] SMTP VERIFIER — Segment 1/3 | Batch: 20
+[08:20:06][SEG1] ============================================================
+[08:20:06][SEG1] Treasure Coast leads: 2061
+[08:20:06][SEG1] Loaded 2061 leads
+[08:20:06][SEG1] Leads in segment 1: 184
+[08:20:06][SEG1] Processing batch of 20
+[08:20:06][SEG1]   [1/20] Coastal Management Professionals → Accounting@cpmfl.com
+[08:20:06][SEG1]     → ✗ REJECTED: rejected
+[08:20:07][SEG1]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[08:20:07][SEG1]     → ? UNKNOWN: unknown
+[08:20:08][SEG1]   [3/20] Port St Lucie property management → admin@fsresidential.com/florida/offices/port-st-lucie-property-management/
+[08:20:08][SEG1]     → SKIP: no MX for fsresidential.com/florida/offices/port-st-lucie-property-management/
+[08:20:08][SEG1]   [4/20] Apartments for Rent in Fort Pierce  → sales-usa@theblueground.com
+[08:20:08][SEG1]     → ? UNKNOWN: unknown
+[08:20:09][SEG1]   [5/20] Professional HOA & COA Services in  → esposito@macombgov.org
+[08:20:09][SEG1]     → ✗ REJECTED: rejected
+[08:20:10][SEG1]   [6/20] Martin Property Management, Martin  → info@pa.martin.fl.us
+[08:20:10][SEG1]     → ✗ REJECTED: rejected
+[08:20:10][SEG1]   [7/20] Vantazma Collision → info@vantazma-car-care.com
+[08:20:11][SEG1]     → ? UNKNOWN: unknown
+[08:20:11][SEG1]   [8/20] Jensen Beach FL → info@dreammaker-stuart.com
+[08:20:11][SEG1]     → ✗ REJECTED: rejected
+[08:20:12][SEG1]   [9/20] Stuart, FL Commercial Cleaning and  → info@stuartmartinchamber.org
+[08:20:12][SEG1]     → ✗ REJECTED: rejected
+[08:20:13][SEG1]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:20:13][SEG1]     → ✗ REJECTED: rejected
+[08:20:13][SEG1]   [11/20] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[08:20:13][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:20:14][SEG1]   [12/20] Estate Listings on → spiersrealestate@gmail.com
+[08:20:14][SEG1]     → ✓ VERIFIED
+[08:20:14][SEG1]   [13/20] Treasure Coast Real Estate: Treasur → info@treasurecoastmlssearch.com
+[08:20:15][SEG1]     → ? UNKNOWN: [Errno -2] Name or service not
+[08:20:15][SEG1]   [14/20] Wallace Chevrolet → ewallace@wallacechev.com
+[08:20:16][SEG1]     → ? UNKNOWN: unknown
+[08:20:16][SEG1]   [15/20] Honda Dealership Stuart FL → events@hohmartin.org
+[08:20:16][SEG1]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:20:17][SEG1]   [16/20] Fort Pierce, FL Warehouses for Rent → info@realmo.com
+[08:20:17][SEG1]     → ? UNKNOWN: unknown
+[08:20:18][SEG1]   [17/20] Fort Pierce, FL Warehouses for Rent → Pmayorga383@gmail.com
+[08:20:18][SEG1]     → ✓ VERIFIED
+[08:20:18][SEG1]   [18/20] Jupiter Mobile Detailing → info@jupitermobiledetailing.com
+[08:20:19][SEG1]     → ✗ REJECTED: rejected
+[08:20:19][SEG1]   [19/20] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[08:20:19][SEG1]     → ? UNKNOWN: unknown
+[08:20:19][SEG1]   [20/20] Clearshine Detailing: Vehicle Detai → office@reigncitysoftwash.com
+[08:20:20][SEG1]     → ? UNKNOWN: unknown
+[08:20:20][SEG1] Wrote 2 verified emails
+[08:20:20][SEG1] SEGMENT 1 COMPLETE: 2 verified, 7 rejected
+[08:20:20][SEG1] ============================================================

@@ -1,0 +1,31 @@
+{
+  "workspace_path": "/home/chris/.openclaw/workspace",
+  "backup": {
+    "retention_days": 7,
+    "encryption_key": "CHANGE_THIS_TO_SECURE_KEY_MIN_32_CHARS",
+    "compression_level": 9,
+    "backup_prefix": "crm_db_backup",
+    "temp_dir": "/tmp/db_backup"
+  },
+  "google_drive": {
+    "credentials_file": "/home/chris/.openclaw/workspace/config/gdrive_credentials.json",
+    "folder_id": "",
+    "folder_name": "CRM Database Backups",
+    "auto_create_folder": true
+  },
+  "telegram": {
+    "bot_token": "YOUR_BOT_TOKEN",
+    "chat_id": "YOUR_CHAT_ID",
+    "enable_alerts": true
+  },
+  "logging": {
+    "log_file": "/home/chris/.openclaw/workspace/logs/db_backup.log",
+    "max_log_size_mb": 10,
+    "backup_count": 5
+  },
+  "databases": {
+    "auto_discover": true,
+    "include_patterns": ["*.db", "*.sqlite", "*.sqlite3"],
+    "exclude_paths": [".git", "node_modules", "__pycache__", "venv", ".venv"]
+  }
+}

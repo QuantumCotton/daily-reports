@@ -1,0 +1,216 @@
+[04:27:15] ============================================================
+[04:27:15] LEAD ENRICHER v4 — batch: 100
+[04:27:15] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:27:15] Brave API: OFF (saving money)
+[04:27:15] ============================================================
+[04:27:15] Found 100 leads to process
+[04:27:15]   [1/100] Pompano Beach Emergency Vet
+[04:27:20]     → skip: no_data
+[04:27:20]   [2/100] Flooring Installation in Jupiter, FL
+[04:27:20]     → skip: no_mx:flooringinstallationwellington.com
+[04:27:20]   [3/100] Hospitals in Viet Nam
+[04:27:24]     → skip: no_data
+[04:27:24]   [4/100] Top 10 Fast food restaurants in the Fort Myer
+[04:27:24]     → skip: no_mx:restaurantslistshq.com
+[04:27:24]   [5/100] Moroccan Hammam & Day Spa
+[04:27:27]     [★ FOUND] relax@moroccandayspa.com
+[04:27:27]   [6/100] Sarasota Commercial Roofing & Roof Repair Ser
+[04:27:35]     [~ guess] brad@sutterroofing.com (Brad Sutter)
+[04:27:35]   [7/100] All Service Painting and Construction. All Se
+[04:27:38]     [★ FOUND] aspci@mobilealpaintingandconstruction.com
+[04:27:38]   [8/100] HOME
+[04:27:41]     → skip: no_data
+[04:27:41]   [9/100] Bathroom Remodeler in Baton Rouge, LA
+[04:27:48]     → skip: no_data
+[04:27:49]   [10/100] Sago Coffee
+[04:27:51]     → skip: no_data
+[04:27:51]   [11/100] Veterinary Assistant job in Jupiter at Banfie
+[04:27:55]     → skip: no_data
+[04:27:55]   [12/100] Craft Beer in Kissimmee FL
+[04:27:59]     → skip: no_data
+[04:27:59]   [13/100] Vogel Roofing: #1 Trusted Roofing Contractor 
+[04:28:02]     [✓ SMTP] hannah@vogelroof.com (Hannah Vogel)
+[04:28:02]   [14/100] Home
+[04:28:05]     → skip: no_data
+[04:28:05]   [15/100] Fitness Center
+[04:28:07]     → skip: no_data
+[04:28:07]   [16/100] Contact Mr. Electric of Columbus-Ga
+[04:28:13]     → skip: no_data
+[04:28:13]   [17/100] Contact Italian Tile Imports
+[04:28:24]     → skip: no_data
+[04:28:24]   [18/100] Rental Listings in Silverdale WA
+[04:28:24]     → skip: no_domain
+[04:28:24]   [19/100] New Homes In Port St. Lucie, Florida For Sale
+[04:28:24]     → skip: no_domain
+[04:28:24]   [20/100] Leading Electrician in Deltona, FL
+[04:28:34]     → skip: no_data
+[04:28:35]   [21/100] Impress Flooring
+[04:28:38]     → skip: no_data
+[04:28:39]   [22/100] Fairfield Property Management
+[04:28:41]     → skip: no_data
+[04:28:41]   [23/100] Huntsville (785)
+[04:28:45]     → skip: no_data
+[04:28:45]   [24/100] Fort Myers Kitchen Remodeling Contractor
+[04:28:48]     → skip: no_data
+[04:28:48]   [25/100] Contact
+[04:28:55]     [★ FOUND] wbreazeale@issifl.com
+[04:28:55]   [26/100] Bathroom Remodeling Services | Stuart & Port 
+[04:28:55]     → skip: no_mx:bobbyandbrothershandyman.com
+[04:28:56]   [27/100] General Aviation
+[04:29:05]     [★ FOUND] csr@flynaples.com
+[04:29:05]   [28/100] Fort Myers Warehouses For Rent & Lease
+[04:29:06]     → skip: no_data
+[04:29:07]   [29/100] Fundamental Dental
+[04:29:15]     → skip: no_data
+[04:29:15]   [30/100] Gainz Fit
+[04:29:18]     → skip: no_data
+[04:29:18]   [31/100] TileBar: Online Tile Store
+[04:29:23]     [★ FOUND] njshowroom@tilebar.com
+[04:29:23]   [32/100] Aircraft Maintenance Services in Knoxville, T
+[04:29:27]     → skip: no_data
+[04:29:27]   [33/100] Best Restaurants Near Me
+[04:29:27]     → skip: no_domain
+[04:29:27]   [34/100] Belle Shops Ocean Drive
+[04:29:29]     → skip: no_data
+[04:29:30]   [35/100] Home
+[04:29:30]     → skip: no_mx:independentdentalcare.com
+[04:29:30]   [36/100] Deltona Family YMCA – Volusia-Flagler Family 
+[04:29:36]     → skip: no_data
+[04:29:36]   [37/100] Self Storage Units in Bradenton, FL
+[04:29:45]     → skip: no_data
+[04:29:45]   [38/100] Executive Presidente Hotel in Hialeah
+[04:29:51]     → skip: no_data
+[04:29:51]   [39/100] Urgent & Emergency Vet Jupiter, FL
+[04:30:00]     → skip: no_data
+[04:30:00]   [40/100] Property Management In Jacksonville, FL
+[04:30:06]     → skip: no_data
+[04:30:06]   [41/100] Heating Repair & HVAC Service
+[04:30:12]     → skip: no_data
+[04:30:12]   [42/100] Burial Beer
+[04:30:14]     → skip: no_data
+[04:30:14]   [43/100] Quality Flooring &amp; Installation Across So
+[04:30:20]     → skip: no_data
+[04:30:21]   [44/100] facilities maintenance managers jobs in stuar
+[04:30:21]     → skip: no_data
+[04:30:21]   [45/100] Gutter Cleaning St. Petersburg, Florida
+[04:30:26]     → skip: no_data
+[04:30:26]   [46/100] Hospitals near Fort Pierce, FL
+[04:30:31]     → skip: no_data
+[04:30:31]   [47/100] Tallahassee, FL Cross-Docking
+[04:30:38]     [★ FOUND] quotes@crossdockconnect.com (Jacob Shamblin)
+[04:30:38]   [48/100] Find an HVAC Dealer Near Me in Hollywood, Flo
+[04:30:43]     → skip: no_data
+[04:30:43]   [49/100] Gaston Point Recreation Center & Gym
+[04:30:45]     [★ FOUND] 311@gulfport-ms.gov
+[04:30:45]   [50/100] Vero Beach Epoxy Floors by CJ Epoxy
+[04:30:52]     → skip: no_data
+[04:30:52]   [51/100] Stuart Kitchen Remodeling: Expert Kitchen Rem
+[04:30:54]     → skip: no_data
+[04:30:54]   [52/100] Abel Gutters Service Jupiter Florida
+[04:30:54]     → skip: no_mx:abelgutterservice.com
+[04:30:54]   [53/100] Waterproofing Services In Jupiter Island, FL
+[04:31:00]     [★ FOUND] andy@foxhavenroof.com
+[04:31:00]   [54/100] Jorge Colin Concrete
+[04:31:00]     → skip: no_mx:jorgecolinconcrete.com
+[04:31:00]   [55/100] Clearwater Beach Florida Hotels
+[04:31:04]     → skip: no_data
+[04:31:05]   [56/100] GENERAL Definition & Meaning
+[04:31:07]     → skip: no_data
+[04:31:07]   [57/100] Vero Strength + Conditioning
+[04:31:09]     → skip: no_data
+[04:31:09]   [58/100] KinderCare Daycares & Child Care Centers in F
+[04:31:13]     [★ FOUND] care@kindercare.com
+[04:31:13]   [59/100] Palm Beach Gardens Jobs, Palm Beach Gardens F
+[04:31:29]     → skip: no_data
+[04:31:29]   [60/100] Self Storage Units in Clearwater, FL on 66th 
+[04:31:32]     → skip: no_data
+[04:31:32]   [61/100] Atlantic Coast Honda: Honda Dealership Jackso
+[04:31:32]     → skip: no_mx:atlanticcoasthonda.com
+[04:31:32]   [62/100] Contact Us – The church in Miami
+[04:31:38]     → skip: no_data
+[04:31:38]   [63/100] Contact – Florida Medical Center
+[04:31:38]     → skip: no_mx:floridamedctr.org
+[04:31:38]   [64/100] Contact Koozer Painting
+[04:31:41]     → skip: no_data
+[04:31:41]   [65/100] TECH ANALYSIS: Why Adrian Newey's first Aston
+[04:31:49]     [~ guess] james@formula1.com (James Lowdon)
+[04:31:49]   [66/100] Southern Industries Huntsville AL
+[04:31:54]     [✓ SMTP] jimfelton@southernindustries.com (Jim Felton)
+[04:31:54]   [67/100] Fleet Management and Maintenance Jobs in Flor
+[04:31:56]     → skip: no_data
+[04:31:56]   [68/100] Resort specific column in pandas dataframe
+[04:31:59]     → skip: no_data
+[04:31:59]   [69/100] Memphis Commercial Appeal
+[04:32:01]     → skip: no_data
+[04:32:01]   [70/100] TC3 Church
+[04:32:04]     [★ FOUND] megan@tc3.church
+[04:32:05]   [71/100] AUTO CLUB OF MIAMI
+[04:32:05]     → skip: no_data
+[04:32:05]   [72/100] Country到底有没有地区的意思呢？
+[04:32:09]     [★ FOUND] 2d8d764432cc4f6fb3bc78ab9528299d@crash2.zhihu.com
+[04:32:09]   [73/100] Floridian Kitchens
+[04:32:11]     → skip: no_data
+[04:32:12]   [74/100] Industrial Revolution
+[04:32:12]     → skip: no_mx:britannica.com
+[04:32:12]   [75/100] Sur la Mer Spa
+[04:32:17]     → skip: no_data
+[04:32:17]   [76/100] country是什么意思？
+[04:32:21]     [★ FOUND] 2d8d764432cc4f6fb3bc78ab9528299d@crash2.zhihu.com
+[04:32:21]   [77/100] Invasive Species Brewing
+[04:32:21]     → skip: no_mx:invasivespeciesbrewing.com
+[04:32:21]   [78/100] Palm Coast, FL Coffee Shop & Drive-Thru
+[04:32:27]     [~ guess] scott@ellianos.com (Scott Stewart)
+[04:32:27]   [79/100] Plumbers Pompano Beach
+[04:32:34]     → skip: no_data
+[04:32:34]   [80/100] Property Management In West Palm Beach, FL
+[04:32:39]     → skip: no_data
+[04:32:39]   [81/100] Gutter Installation
+[04:32:44]     → skip: no_data
+[04:32:44]   [82/100] Welcome and Core Beliefs
+[04:32:47]     [★ FOUND] ian@pccvero.org
+[04:32:47]   [83/100] Comfort Beauty Spa
+[04:32:47]     → skip: no_mx:comfortbeautyspa.setmore.com
+[04:32:47]   [84/100] The Landings of Martin County | HOA in Stuart
+[04:32:48]     → skip: no_data
+[04:32:48]   [85/100] Directory
+[04:33:20]     [~ guess] dan@hbbafla.com (Dan Serafini)
+[04:33:20]   [86/100] St. Elizabeth Ann Seton Catholic Church, Port
+[04:33:20]     → skip: no_mx:seascatholicparish.org
+[04:33:20]   [87/100] Contact Us – Coastal Property Management – St
+[04:33:50]     → skip: no_data
+[04:33:50]   [88/100] Expert Flooring Installation Services
+[04:33:51]     → skip: no_data
+[04:33:51]   [89/100] State of the Art Laundry Machines
+[04:33:53]     → skip: no_data
+[04:33:53]   [90/100] COMPANY NAME ADDRESS CITY STATE ZIP CODE PHON
+[04:34:01]     → skip: no_data
+[04:34:01]   [91/100] Bravo Store Near Me
+[04:34:03]     → skip: no_data
+[04:34:03]   [92/100] Café YOU – A Unique Coffee & Food Experience
+[04:34:03]     → skip: no_domain
+[04:34:03]   [93/100] Swamp Head Brewery Gainesville, FL
+[04:34:08]     → skip: no_data
+[04:34:08]   [94/100] Christian Center of Shreveport
+[04:34:10]     → skip: no_data
+[04:34:10]   [95/100] KinderCare Daycares & Child Care Centers in B
+[04:34:13]     [★ FOUND] care@kindercare.com
+[04:34:13]   [96/100] Miami, FL
+[04:34:26]     → skip: no_data
+[04:34:26]   [97/100] Breweries in Hialeah, FL
+[04:34:31]     [~ guess] ray@beermenus.com (Ray Daniels)
+[04:34:31]   [98/100] Aircraft Components Maintenance Service
+[04:34:39]     → skip: no_data
+[04:34:39]   [99/100] Search for Public School Districts
+[04:34:44]     → skip: no_data
+[04:34:44]   [100/100] Architectural Review Committee (ARC) Manager
+[04:34:44]     → skip: no_data
+[04:34:45] 
+============================================================
+[04:34:45] ENRICHMENT COMPLETE
+[04:34:45]   Batch: 21 enriched / 100 processed
+[04:34:45]   Found on site: 14 | Pattern guess: 7
+[04:34:45]   SMTP verified: 2 | Names found: 8
+[04:34:45]   Database: 21236 total, 2986 with email, 238 named contacts
+[04:34:45]   Quality: 2821 personal (94%) / 165 generic
+[04:34:45]   Cost: $0 (zero API calls)
+[04:34:45] ============================================================

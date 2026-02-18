@@ -1,0 +1,9 @@
+{
+  "bot_token": "xoxb-your-slack-bot-token-here",
+  "signing_secret": "your-slack-signing-secret-here",
+  "default_assignee": null,
+  "twitter": {
+    "bearer_token": "your-twitter-bearer-token-here"
+  },
+  "mention_trigger": "@assistant potential video idea"
+}

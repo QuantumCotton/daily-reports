@@ -1,0 +1,12 @@
+[04:30:02][SEG1] ============================================================
+[04:30:02][SEG1] APOLLO PARALLEL — Segment 1/10 | Batch: 20
+[04:30:02][SEG1] ============================================================
+[04:30:02][SEG1] Loaded 785 leads
+[04:30:02][SEG1] Leads in segment 1: 2
+[04:30:02][SEG1] Processing batch of 2
+[04:30:02][SEG1]   [1/2] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[04:30:02][SEG1]     → SKIP: no MX for saintpetersburgconcrete.com
+[04:30:02][SEG1]   [2/2] global-fleet → search.sunbiz.org
+[04:30:02][SEG1]     → SKIP: no MX for search.sunbiz.org
+[04:30:03][SEG1] SEGMENT 1 COMPLETE: 0 guessed, 0 verified
+[04:30:03][SEG1] ============================================================

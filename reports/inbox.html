@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treasure Coast Unified Inbox</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #e0e0e0;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 2px solid #0f3460;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #e94560;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #888;
+            font-size: 1rem;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #0f3460;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #e94560;
+        }
+
+        .stat-label {
+            color: #888;
+            margin-top: 5px;
+        }
+
+        .controls {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        label {
+            color: #aaa;
+            font-weight: 500;
+        }
+
+        select, input {
+            background: #16213e;
+            border: 1px solid #0f3460;
+            color: #e0e0e0;
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-size: 14px;
+            min-width: 200px;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: #e94560;
+        }
+
+        button {
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+
+        button:hover {
+            background: #ff6b6b;
+        }
+
+        button.secondary {
+            background: #0f3460;
+        }
+
+        button.secondary:hover {
+            background: #1a4b7a;
+        }
+
+        .accounts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .account-card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #0f3460;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .account-card:hover {
+            border-color: #e94560;
+            transform: translateY(-2px);
+        }
+
+        .account-card.active {
+            border-color: #e94560;
+            background: rgba(233, 69, 96, 0.1);
+        }
+
+        .account-email {
+            font-weight: 600;
+            margin-bottom: 5px;
+            word-break: break-all;
+        }
+
+        .account-count {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .messages-container {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .message-header {
+            display: grid;
+            grid-template-columns: 200px 1fr 200px 150px 100px;
+            gap: 10px;
+            padding: 15px 20px;
+            background: #0f3460;
+            font-weight: 600;
+            color: #aaa;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .message-row {
+            display: grid;
+            grid-template-columns: 200px 1fr 200px 150px 100px;
+            gap: 10px;
+            padding: 15px 20px;
+            border-bottom: 1px solid #0f3460;
+            cursor: pointer;
+            transition: background 0.2s;
+            align-items: start;
+        }
+
+        .message-row:hover {
+            background: rgba(233, 69, 96, 0.1);
+        }
+
+        .message-row.unread {
+            background: rgba(233, 69, 96, 0.05);
+            border-left: 3px solid #e94560;
+        }
+
+        .message-account {
+            font-size: 0.85rem;
+            color: #e94560;
+            font-weight: 500;
+        }
+
+        .message-subject {
+            font-weight: 500;
+            color: #e0e0e0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .message-from {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .message-date {
+            color: #888;
+            font-size: 0.85rem;
+            text-align: right;
+        }
+
+        .message-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+        }
+
+        .message-actions button {
+            padding: 5px 10px;
+            font-size: 0.8rem;
+        }
+
+        .empty-state {
+            padding: 60px 20px;
+            text-align: center;
+            color: #888;
+        }
+
+        .empty-state-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: #16213e;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            color: #888;
+            font-size: 1.5rem;
+            cursor: pointer;
+            padding: 5px;
+        }
+
+        .modal-close:hover {
+            color: #e94560;
+        }
+
+        .message-detail h2 {
+            color: #e94560;
+            margin-bottom: 10px;
+        }
+
+        .message-detail-header {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #0f3460;
+        }
+
+        .message-detail-label {
+            color: #888;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .message-detail-value {
+            margin-top: 5px;
+            color: #e0e0e0;
+        }
+
+        .message-detail-body {
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 5px;
+            margin-bottom: 20px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .message-detail-body pre {
+            white-space: pre-wrap;
+            font-family: inherit;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .message-header, .message-row {
+                grid-template-columns: 150px 1fr 120px;
+            }
+
+            .message-header > :nth-child(3),
+            .message-header > :nth-child(4),
+            .message-header > :nth-child(5),
+            .message-row > :nth-child(3),
+            .message-row > :nth-child(4),
+            .message-row > :nth-child(5) {
+                display: none;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-left: 5px;
+        }
+
+        .badge-inbox {
+            background: #0f3460;
+            color: #88c0d0;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+        }
+
+        .loading::after {
+            content: "⏳";
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📬 Treasure Coast Unified Inbox</h1>
+            <p class="subtitle">All 10 email accounts • No forwarding • Each warms independently</p>
+        </header>
+
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <div class="stat-value" id="totalMessages">-</div>
+                <div class="stat-label">Total Messages</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="totalAccounts">10</div>
+                <div class="stat-label">Email Accounts</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="selectedAccount">-</div>
+                <div class="stat-label">Selected Account</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="control-group">
+                <label>Filter by Account:</label>
+                <select id="accountFilter">
+                    <option value="all">All Accounts</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label>Search:</label>
+                <input type="text" id="searchInput" placeholder="Search messages...">
+            </div>
+            <button onclick="refreshMessages()">🔄 Refresh</button>
+            <button class="secondary" onclick="selectAllAccounts()">Select All</button>
+            <button class="secondary" onclick="clearSelection()">Clear Selection</button>
+        </div>
+
+        <div class="accounts-grid" id="accountsGrid">
+            <!-- Account cards will be populated here -->
+        </div>
+
+        <div class="messages-container">
+            <div class="message-header">
+                <div>Account</div>
+                <div>Subject</div>
+                <div>From</div>
+                <div>Date</div>
+                <div>Actions</div>
+            </div>
+            <div id="messagesList">
+                <div class="loading">Loading messages...</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="messageModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">×</button>
+            <div id="messageDetail" class="message-detail">
+                <!-- Message details will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // All 10 Treasure Coast email accounts
+        const ALL_ACCOUNTS = [
+            "chris@kmjk.pro",
+            "projects-tc@kmjk.pro",
+            "estimates-tc@kmjk.pro",
+            "site-tc@kmjk.pro",
+            "office-tc@kmjk.pro",
+            "sales-tc@kmjk.pro",
+            "support-tc@kmjk.pro",
+            "billing-tc@kmjk.pro",
+            "info-tc@kmjk.pro",
+            "team-tkmjk.pro"
+        ];
+
+        let allMessages = [];
+        let currentFilter = 'all';
+        let searchQuery = '';
+
+        // Initialize the dashboard
+        async function init() {
+            populateAccountFilter();
+            await fetchMessages();
+            renderAccountsGrid();
+        }
+
+        // Populate account filter dropdown
+        function populateAccountFilter() {
+            const select = document.getElementById('accountFilter');
+            ALL_ACCOUNTS.forEach(account => {
+                const option = document.createElement('option');
+                option.value = account;
+                option.textContent = account;
+                select.appendChild(option);
+            });
+
+            select.addEventListener('change', (e) => {
+                currentFilter = e.target.value;
+                document.getElementById('selectedAccount').textContent = 
+                    currentFilter === 'all' ? 'All' : currentFilter;
+                renderMessages();
+            });
+        }
+
+        // Fetch messages from the API
+        async function fetchMessages() {
+            try {
+                const response = await fetch('/api/inbox');
+                if (!response.ok) throw new Error('Failed to fetch messages');
+                
+                const data = await response.json();
+                allMessages = data.messages || [];
+                
+                updateStats();
+                renderMessages();
+            } catch (error) {
+                console.error('Error fetching messages:', error);
+                document.getElementById('messagesList').innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">❌</div>
+                        <p>Failed to load messages. Please try refreshing.</p>
+                        <button onclick="refreshMessages()" style="margin-top: 20px;">Retry</button>
+                    </div>
+                `;
+            }
+        }
+
+        // Update statistics
+        function updateStats() {
+            document.getElementById('totalMessages').textContent = allMessages.length;
+        }
+
+        // Render accounts grid
+        function renderAccountsGrid() {
+            const grid = document.getElementById('accountsGrid');
+            grid.innerHTML = '';
+
+            ALL_ACCOUNTS.forEach(account => {
+                const count = allMessages.filter(m => m.account_source === account).length;
+                
+                const card = document.createElement('div');
+                card.className = 'account-card';
+                card.onclick = () => selectAccount(account);
+                card.dataset.account = account;
+
+                card.innerHTML = `
+                    <div class="account-email">📧 ${account}</div>
+                    <div class="account-count">${count} messages</div>
+                `;
+
+                grid.appendChild(card);
+            });
+        }
+
+        // Select a specific account
+        function selectAccount(account) {
+            const select = document.getElementById('accountFilter');
+            select.value = account;
+            currentFilter = account;
+            document.getElementById('selectedAccount').textContent = account;
+            renderMessages();
+
+            // Update active state in grid
+            document.querySelectorAll('.account-card').forEach(card => {
+                card.classList.toggle('active', card.dataset.account === account);
+            });
+        }
+
+        // Select all accounts
+        function selectAllAccounts() {
+            const select = document.getElementById('accountFilter');
+            select.value = 'all';
+            currentFilter = 'all';
+            document.getElementById('selectedAccount').textContent = 'All';
+            renderMessages();
+
+            document.querySelectorAll('.account-card').forEach(card => {
+                card.classList.remove('active');
+            });
+        }
+
+        // Clear selection
+        function clearSelection() {
+            selectAllAccounts();
+        }
+
+        // Render messages list
+        function renderMessages() {
+            const container = document.getElementById('messagesList');
+            
+            let filteredMessages = allMessages;
+
+            // Filter by account
+            if (currentFilter !== 'all') {
+                filteredMessages = filteredMessages.filter(m => m.account_source === currentFilter);
+            }
+
+            // Filter by search query
+            if (searchQuery) {
+                const query = searchQuery.toLowerCase();
+                filteredMessages = filteredMessages.filter(m =>
+                    m.subject?.toLowerCase().includes(query) ||
+                    m.from_addr?.toLowerCase().includes(query) ||
+                    m.body_text?.toLowerCase().includes(query)
+                );
+            }
+
+            // Sort by date (newest first)
+            filteredMessages.sort((a, b) => new Date(b.date_received) - new Date(a.date_received));
+
+            if (filteredMessages.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">📭</div>
+                        <p>No messages found</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = filteredMessages.map(msg => `
+                <div class="message-row" onclick="viewMessage(${msg.id})">
+                    <div class="message-account">
+                        ${msg.account_source}
+                    </div>
+                    <div class="message-subject" title="${escapeHtml(msg.subject || '(No subject)')}">
+                        ${escapeHtml(msg.subject || '(No subject)')}
+                    </div>
+                    <div class="message-from">
+                        ${escapeHtml(msg.from_addr || 'Unknown')}
+                    </div>
+                    <div class="message-date">
+                        ${formatDate(msg.date_received)}
+                    </div>
+                    <div class="message-actions" onclick="event.stopPropagation()">
+                        <button class="secondary" onclick="viewMessage(${msg.id})">View</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // View message details
+        async function viewMessage(messageId) {
+            try {
+                const response = await fetch(`/api/inbox/${messageId}`);
+                if (!response.ok) throw new Error('Failed to fetch message');
+                
+                const msg = await response.json();
+                showMessageDetail(msg);
+            } catch (error) {
+                console.error('Error fetching message:', error);
+                alert('Failed to load message details');
+            }
+        }
+
+        // Show message detail modal
+        function showMessageDetail(msg) {
+            const modal = document.getElementById('messageModal');
+            const detail = document.getElementById('messageDetail');
+
+            detail.innerHTML = `
+                <h2>${escapeHtml(msg.subject || '(No subject)')}</h2>
+                
+                <div class="message-detail-header">
+                    <div>
+                        <div class="message-detail-label">From</div>
+                        <div class="message-detail-value">${escapeHtml(msg.from_addr || 'Unknown')}</div>
+                    </div>
+                    <div>
+                        <div class="message-detail-label">Account</div>
+                        <div class="message-detail-value" style="color: #e94560;">${escapeHtml(msg.account_source)}</div>
+                    </div>
+                    <div>
+                        <div class="message-detail-label">To</div>
+                        <div class="message-detail-value">${escapeHtml(msg.to_addr || 'Unknown')}</div>
+                    </div>
+                    <div>
+                        <div class="message-detail-label">Date</div>
+                        <div class="message-detail-value">${formatDate(msg.date_received)}</div>
+                    </div>
+                </div>
+
+                <div class="message-detail-header">
+                    <div>
+                        <div class="message-detail-label">CC</div>
+                        <div class="message-detail-value">${escapeHtml(msg.cc_addr || '-')}</div>
+                    </div>
+                    <div>
+                        <div class="message-detail-label">Folder</div>
+                        <div class="message-detail-value">
+                            ${escapeHtml(msg.folder || 'INBOX')} 
+                            <span class="badge badge-inbox">${msg.folder || 'INBOX'}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="message-detail-label">Body</div>
+                <div class="message-detail-body">
+                    <pre>${escapeHtml(msg.body_text || msg.body_html || '(No body)')}</pre>
+                </div>
+            `;
+
+            modal.classList.add('active');
+        }
+
+        // Close modal
+        function closeModal() {
+            document.getElementById('messageModal').classList.remove('active');
+        }
+
+        // Refresh messages
+        async function refreshMessages() {
+            document.getElementById('messagesList').innerHTML = '<div class="loading">Loading messages...</div>';
+            await fetchMessages();
+            renderAccountsGrid();
+        }
+
+        // Escape HTML to prevent XSS
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Format date for display
+        function formatDate(dateStr) {
+            if (!dateStr) return '-';
+            const date = new Date(dateStr);
+            
+            // If today, show time only
+            const today = new Date();
+            if (date.toDateString() === today.toDateString()) {
+                return date.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+            }
+            
+            // Otherwise, show date and time
+            return date.toLocaleDateString('en-US', { 
+                month: 'short', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // Search input handler
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            searchQuery = e.target.value;
+            renderMessages();
+        });
+
+        // Close modal on escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+
+        // Close modal on backdrop click
+        document.getElementById('messageModal').addEventListener('click', (e) => {
+            if (e.target.id === 'messageModal') closeModal();
+        });
+
+        // Initialize on load
+        init();
+    </script>
+</body>
+</html>

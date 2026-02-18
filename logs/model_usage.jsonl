@@ -1,0 +1,3 @@
+{"timestamp": "2026-02-17T20:17:35.130916+00:00", "provider": "anthropic", "model": "claude-3.5-sonnet-20241022", "input_tokens": 1000, "output_tokens": 500, "total_tokens": 1500, "task_type": "chat", "estimated_cost_usd": 0.0105, "session_id": null, "metadata": {}}
+{"timestamp": "2026-02-17T20:17:35.131617+00:00", "provider": "openai", "model": "gpt-4o", "input_tokens": 2000, "output_tokens": 1000, "total_tokens": 3000, "task_type": "completion", "estimated_cost_usd": 0.025, "session_id": null, "metadata": {}}
+{"timestamp": "2026-02-17T20:17:35.131886+00:00", "provider": "google", "model": "gemini-1.5-flash", "input_tokens": 500, "output_tokens": 250, "total_tokens": 750, "task_type": "chat", "estimated_cost_usd": 0.000112, "session_id": null, "metadata": {}}

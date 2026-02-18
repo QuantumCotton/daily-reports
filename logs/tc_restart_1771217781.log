@@ -1,0 +1,71 @@
+[04:56:21] ============================================================
+[04:56:21] LEAD ENRICHER v4 — batch: 100
+[04:56:21] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:56:21] Brave API: OFF (saving money)
+[04:56:21] ============================================================
+[04:56:21] Found 100 leads to process
+[04:56:21]   [1/100] Welcome To Kitchens By Design of Vero Beach
+[04:56:29]     → skip: no_data
+[04:56:30]   [2/100] Apartments for Rent in Stuart FL - 519 Rental
+[04:56:30]     → skip: no_domain
+[04:56:30]   [3/100] Childcare & Preschool in Stuart, FL
+[04:56:43]     → skip: no_data
+[04:56:43]   [4/100] Martin, FL Property Management Companies
+[04:56:51]     [~ guess] john@campbellpropertymanagement.com (John Uses)
+[04:56:51]   [5/100] Gutter Installation & Repair In Stuart, FL
+[04:56:56]     → skip: no_data
+[04:56:56]   [6/100] Custom Kitchen Design Experts - Stuart Kitche
+[04:56:58]     → skip: no_data
+[04:56:58]   [7/100] palm realty and property management services
+[04:56:59]     → skip: no_mx:rentalsbypalm.com
+[04:56:59]   [8/100] Kitchen Remodeling Design Contractor
+[04:57:07]     → skip: no_data
+[04:57:08]   [9/100] RF Concrete Construction,
+[04:57:08]     → skip: no_mx:treasurecoastba-gzcms.preview.gochambermaster.com
+[04:57:08]   [10/100] Gutter Services
+[04:57:08]     → skip: no_mx:budgetgutters.com
+[04:57:08]   [11/100] Home - Whitemarsh Reserve HOA
+[04:57:52]     [~ guess] lauren@whitemarshreserve.com (Lauren Provenzano)
+[04:57:52]   [12/100] Pet Care
+[04:57:55]     → skip: no_data
+[04:57:55]   [13/100] Stuart Centre
+[04:57:57]     [★ FOUND] dcoppa@konoversouth.com (David Coppa)
+[04:57:57]   [14/100] Warehouses for Lease in Stuart, FL
+[04:58:03]     → skip: no_data
+[04:58:03]   [15/100] Warehouses for Lease in Vero Beach, FL
+[04:58:06]     → skip: no_data
+[04:58:06]   [16/100] Kitchen Bath & Home Design | Remodel: Stuart,
+[04:58:09]     → skip: no_data
+[04:58:09]   [17/100] Credible Auto Spa – Just another WordPress si
+[04:58:09]     → skip: no_data
+[04:58:09]   [18/100] General Contractor | Kirchman Construction Co
+[04:58:12]     [★ FOUND] ronnie@kirchmanconstruction.com
+[04:58:12]   [19/100] Handyman & Home Repair Services in Palm City,
+[04:58:13]     → skip: no_data
+[04:58:14]   [20/100] Find Contractors in Fort Pierce, FL
+[04:58:19]     → skip: no_data
+[04:58:19]   [21/100] Contact The Vero Beach Inn & Suites
+[04:58:26]     → skip: no_data
+[04:58:26]   [22/100] Lio's Quality detailing
+[04:58:26]     → skip: no_mx:liosqualitydetailing.com
+[04:58:26]   [23/100] Best 15 Kitchen & Bathroom Remodelers in Jens
+[04:58:26]     → skip: no_domain
+[04:58:27]   [24/100] Palm City Air Conditioning, AC Repair and Cle
+[04:58:27]     → skip: no_mx:treasurecoastair.com
+[04:58:27]   [25/100] Property Managers in Stuart, FL
+[04:58:27]     → skip: no_domain
+[04:58:27]   [26/100] Staff Directory • Fire Rescue
+[04:58:57]     → skip: no_data
+[04:58:57]   [27/100] Martin County, FL Homes for Sale - The Zecca 
+[04:58:58]     [★ FOUND] christina@thezeccagroup.com (Chris Tina)
+[04:58:58]   [28/100] Fast Food in Fort Pierce, FL at 2524 S Us Hig
+[04:59:01]     → skip: no_data
+[04:59:01]   [29/100] Professional Concrete Floor Coatings Palm Cit
+[05:00:02] FATAL: UNIQUE constraint failed: leads.email, leads.business_name, leads.city
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/lead_enricher_v4.py", line 574, in <module>
+    main()
+  File "/home/chris/.openclaw/bin/lead_enricher_v4.py", line 510, in main
+    conn.execute("""
+sqlite3.IntegrityError: UNIQUE constraint failed: leads.email, leads.business_name, leads.city
+

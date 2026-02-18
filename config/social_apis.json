@@ -1,0 +1,23 @@
+{
+  "youtube": {
+    "api_key": "YOUR_YOUTUBE_API_KEY",
+    "channel_id": "YOUR_CHANNEL_ID"
+  },
+  "instagram": {
+    "access_token": "YOUR_INSTAGRAM_ACCESS_TOKEN",
+    "business_id": "YOUR_INSTAGRAM_BUSINESS_ID"
+  },
+  "twitter": {
+    "bearer_token": "YOUR_TWITTER_BEARER_TOKEN",
+    "user_id": "YOUR_TWITTER_USER_ID",
+    "api_key": "YOUR_TWITTER_API_KEY",
+    "api_secret": "YOUR_TWITTER_API_SECRET",
+    "access_token": "YOUR_TWITTER_ACCESS_TOKEN",
+    "access_secret": "YOUR_TWITTER_ACCESS_SECRET"
+  },
+  "tiktok": {
+    "access_token": "YOUR_TIKTOK_ACCESS_TOKEN",
+    "app_key": "YOUR_TIKTOK_APP_KEY",
+    "app_secret": "YOUR_TIKTOK_APP_SECRET"
+  }
+}

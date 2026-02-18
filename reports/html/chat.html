@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Warzone — Glitch Command</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
+            min-height: 100vh;
+            color: #e4e4e7;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+            max-width: 100%;
+        }
+
+        /* Left Sidebar */
+        .sidebar {
+            width: 260px;
+            background: rgba(15, 15, 26, 0.95);
+            border-right: 1px solid rgba(99, 102, 241, 0.2);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar-header {
+            padding: 16px;
+            background: rgba(99, 102, 241, 0.1);
+            border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .sidebar-header h1 {
+            font-size: 16px;
+            font-weight: 600;
+            color: #a5b4fc;
+        }
+
+        .add-group-btn {
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            background: rgba(99, 102, 241, 0.2);
+            border: 1px solid rgba(99, 102, 241, 0.4);
+            color: #a5b4fc;
+            cursor: pointer;
+            font-size: 18px;
+        }
+
+        .conversation-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px;
+        }
+
+        .conversation-item {
+            padding: 12px;
+            margin-bottom: 4px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .conversation-item:hover {
+            background: rgba(99, 102, 241, 0.1);
+        }
+
+        .conversation-item.active {
+            background: rgba(99, 102, 241, 0.15);
+            border-color: rgba(99, 102, 241, 0.3);
+        }
+
+        .conversation-icon {
+            font-size: 18px;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(99, 102, 241, 0.2);
+            border-radius: 6px;
+        }
+
+        .conversation-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .conversation-title {
+            font-size: 13px;
+            font-weight: 500;
+            color: #e4e4e7;
+        }
+
+        .conversation-members {
+            font-size: 10px;
+            color: #71717a;
+            margin-top: 2px;
+        }
+
+        /* Main Chat */
+        .main-chat {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: rgba(0, 0, 0, 0.3);
+            min-width: 0;
+        }
+
+        .chat-header {
+            padding: 12px 16px;
+            background: rgba(99, 102, 241, 0.1);
+            border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .chat-header-left {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .chat-header-title {
+            font-size: 15px;
+            font-weight: 600;
+        }
+
+        .chat-header-members {
+            font-size: 11px;
+            color: #a1a1aa;
+        }
+
+        .refresh-btn {
+            padding: 6px 12px;
+            border-radius: 6px;
+            background: rgba(99, 102, 241, 0.2);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            color: #a5b4fc;
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: 500;
+        }
+
+        /* Messages */
+        .messages-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .message {
+            display: flex;
+            gap: 8px;
+            max-width: 80%;
+        }
+
+        .message.chris {
+            align-self: flex-end;
+            flex-direction: row-reverse;
+        }
+
+        .message-avatar {
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+
+        .message:not(.chris) .message-avatar {
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+        }
+
+        .message.chris .message-avatar {
+            background: linear-gradient(135deg, #3b82f6, #06b6d4);
+        }
+
+        .message-bubble {
+            padding: 8px 12px;
+            border-radius: 12px;
+            font-size: 13px;
+            line-height: 1.4;
+        }
+
+        .message:not(.chris) .message-bubble {
+            background: rgba(99, 102, 241, 0.15);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .message.chris .message-bubble {
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.3), rgba(6, 182, 212, 0.3));
+            border: 1px solid rgba(59, 130, 246, 0.3);
+        }
+
+        .message-timestamp {
+            font-size: 9px;
+            color: #52525b;
+            margin-top: 2px;
+        }
+
+        .message.chris .message-timestamp {
+            text-align: right;
+        }
+
+        .mention {
+            background: rgba(99, 102, 241, 0.4);
+            color: #c7d2fe;
+            padding: 1px 4px;
+            border-radius: 3px;
+            font-weight: 600;
+        }
+
+        /* Input */
+        .input-container {
+            padding: 12px 16px;
+            background: rgba(0, 0, 0, 0.4);
+            border-top: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 8px;
+            background: rgba(15, 15, 26, 0.8);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 10px;
+            padding: 8px 12px;
+        }
+
+        .input-wrapper:focus-within {
+            border-color: rgba(99, 102, 241, 0.5);
+        }
+
+        .message-input {
+            flex: 1;
+            background: transparent;
+            border: none;
+            outline: none;
+            color: #e4e4e7;
+            font-size: 13px;
+            resize: none;
+            min-height: 18px;
+            max-height: 80px;
+            font-family: inherit;
+        }
+
+        .message-input::placeholder {
+            color: #52525b;
+        }
+
+        .send-btn {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            border: none;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        /* Right Sidebar */
+        .agents-sidebar {
+            width: 180px;
+            background: rgba(15, 15, 26, 0.95);
+            border-left: 1px solid rgba(99, 102, 241, 0.2);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .agents-header {
+            padding: 16px;
+            border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .agents-header h2 {
+            font-size: 13px;
+            font-weight: 600;
+            color: #a5b4fc;
+        }
+
+        .agents-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px;
+        }
+
+        .agent-item {
+            padding: 8px 10px;
+            margin-bottom: 2px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 11px;
+        }
+
+        .agent-item:hover {
+            background: rgba(99, 102, 241, 0.15);
+        }
+
+        .agent-item:active {
+            background: rgba(99, 102, 241, 0.25);
+            transform: scale(0.98);
+        }
+
+        .agent-icon {
+            font-size: 14px;
+        }
+
+        .agent-name {
+            color: #d4d4d8;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: rgba(99, 102, 241, 0.3); border-radius: 2px; }
+
+        /* Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal {
+            background: rgba(15, 15, 26, 0.98);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 12px;
+            padding: 20px;
+            width: 400px;
+            max-width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .modal h2 {
+            font-size: 15px;
+            margin-bottom: 16px;
+            color: #a5b4fc;
+        }
+
+        .modal input {
+            width: 100%;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 6px;
+            color: #e4e4e7;
+            font-size: 13px;
+            margin-bottom: 12px;
+        }
+
+        .modal input:focus {
+            outline: none;
+            border-color: rgba(99, 102, 241, 0.5);
+        }
+
+        .modal-buttons {
+            display: flex;
+            gap: 8px;
+            justify-content: flex-end;
+        }
+
+        .modal-btn {
+            padding: 8px 16px;
+            border-radius: 6px;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .modal-btn.cancel {
+            background: rgba(255, 255, 255, 0.1);
+            color: #a1a1aa;
+        }
+
+        .modal-btn.save {
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            color: white;
+        }
+
+        /* Mobile */
+        @media (max-width: 900px) {
+            .agents-sidebar { display: none; }
+        }
+        @media (max-width: 768px) {
+            .sidebar { width: 220px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Left Sidebar -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>⚔️ Warzone</h1>
+                <button class="add-group-btn" onclick="showAddGroupModal()" title="Add Group">+</button>
+            </div>
+            <div class="conversation-list" id="conversationList"></div>
+        </div>
+
+        <!-- Main Chat -->
+        <div class="main-chat">
+            <div class="chat-header">
+                <div class="chat-header-left">
+                    <div>
+                        <div class="chat-header-title" id="headerTitle">Select a group</div>
+                        <div class="chat-header-members" id="headerMembers"></div>
+                    </div>
+                </div>
+                <button class="refresh-btn" id="refreshBtn" style="display:none" onclick="refreshMessages()">🔄 Refresh</button>
+            </div>
+
+            <div class="messages-container" id="messagesContainer">
+                <div style="text-align: center; color: #52525b; padding: 40px;">
+                    <div style="font-size: 40px; margin-bottom: 12px;">⚔️</div>
+                    <div>Warzone Command</div>
+                </div>
+            </div>
+
+            <div class="input-container" id="inputContainer" style="display: none;">
+                <div class="input-wrapper">
+                    <textarea class="message-input" id="messageInput" placeholder="Type @ to mention..." rows="1"></textarea>
+                    <button class="send-btn" id="sendBtn">➤</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Sidebar -->
+        <div class="agents-sidebar">
+            <div class="agents-header">
+                <h2>👥 Quick Mention</h2>
+            </div>
+            <div class="agents-list" id="agentsList"></div>
+        </div>
+    </div>
+
+    <!-- Add Group Modal -->
+    <div class="modal-overlay" id="addGroupModal">
+        <div class="modal">
+            <h2>Create Group</h2>
+            <input type="text" id="newGroupName" placeholder="Group name">
+            <input type="text" id="newGroupIcon" placeholder="Icon (emoji)">
+            <div class="modal-buttons">
+                <button class="modal-btn cancel" onclick="hideAddGroupModal()">Cancel</button>
+                <button class="modal-btn save" onclick="createGroup()">Create</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = '/api/chat';
+        const AUTH = 'Basic ' + btoa('Chris:Cotton247');
+        
+        let activeGroup = null;
+        let groups = [];
+
+        // All agents - auto-added to every group
+        const DEFAULT_MEMBERS = [
+            'chris', 'glitch', 'carmack', 'musk', 'thiel', 'jensen'
+        ];
+
+        // All agents for mentions
+        const AGENTS = [
+            { id: 'glitch', name: 'GlitchGo', icon: '🤖' },
+            { id: 'carmack', name: 'Carmack', icon: '🎮' },
+            { id: 'musk', name: 'Musk', icon: '🚀' },
+            { id: 'thiel', name: 'Thiel', icon: '💰' },
+            { id: 'jensen', name: 'Jensen', icon: '💚' },
+            { id: 'lead-scout', name: 'Lead Scout', icon: '🎯' },
+            { id: 'outreach-writer', name: 'Outreach', icon: '✉️' },
+            { id: 'strategy-planner', name: 'Strategy', icon: '📊' },
+            { id: 'seo-analyst', name: 'SEO', icon: '🔍' },
+            { id: 'data-analyst', name: 'Data', icon: '📈' },
+            { id: 'quality-control', name: 'QC', icon: '✅' }
+        ];
+
+        // Populate agents list
+        function populateAgents() {
+            const list = document.getElementById('agentsList');
+            list.innerHTML = AGENTS.map(a => `
+                <div class="agent-item" onclick="insertMention('${a.id}')">
+                    <span class="agent-icon">${a.icon}</span>
+                    <span class="agent-name">@${a.id}</span>
+                </div>
+            `).join('');
+        }
+
+        // Insert mention
+        function insertMention(agentId) {
+            const input = document.getElementById('messageInput');
+            const pos = input.selectionStart;
+            const text = input.value;
+            input.value = text.substring(0, pos) + '@' + agentId + ' ' + text.substring(pos);
+            input.focus();
+            const newPos = pos + agentId.length + 2;
+            input.setSelectionRange(newPos, newPos);
+        }
+
+        // Fetch groups
+        async function fetchGroups() {
+            try {
+                const res = await fetch(`${API_BASE}/groups`, { headers: { 'Authorization': AUTH } });
+                const data = await res.json();
+                groups = data.groups || [];
+                renderGroups();
+            } catch (e) {
+                console.error('Error fetching groups:', e);
+            }
+        }
+
+        // Render groups
+        function renderGroups() {
+            const list = document.getElementById('conversationList');
+            list.innerHTML = groups.map(g => `
+                <div class="conversation-item ${activeGroup === g.id ? 'active' : ''}" onclick="selectGroup('${g.id}')">
+                    <div class="conversation-icon">${g.icon}</div>
+                    <div class="conversation-info">
+                        <div class="conversation-title">${g.name}</div>
+                        <div class="conversation-members">${g.members.length} members</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Select group
+        async function selectGroup(groupId) {
+            activeGroup = groupId;
+            const group = groups.find(g => g.id === groupId);
+            
+            document.getElementById('headerTitle').textContent = group.name;
+            document.getElementById('headerMembers').textContent = group.members.length + ' members';
+            document.getElementById('inputContainer').style.display = 'block';
+            document.getElementById('refreshBtn').style.display = 'block';
+            
+            renderGroups();
+            await fetchMessages(groupId);
+        }
+
+        // Fetch messages
+        async function fetchMessages(groupId) {
+            try {
+                const res = await fetch(`${API_BASE}/messages/${groupId}`, { headers: { 'Authorization': AUTH } });
+                const data = await res.json();
+                renderMessages(data.messages || []);
+            } catch (e) {
+                console.error('Error fetching messages:', e);
+            }
+        }
+
+        // Refresh messages
+        async function refreshMessages() {
+            if (activeGroup) {
+                await fetchMessages(activeGroup);
+            }
+        }
+
+        // Render messages
+        function renderMessages(messages) {
+            const container = document.getElementById('messagesContainer');
+            
+            if (messages.length === 0) {
+                container.innerHTML = '<div style="text-align: center; color: #52525b; padding: 40px;"><div style="font-size: 40px; margin-bottom: 12px;">💬</div><div>No messages</div></div>';
+                return;
+            }
+
+            container.innerHTML = messages.map(msg => {
+                let text = msg.text.replace(/\n/g, '<br>');
+                text = text.replace(/@(\w+(?:-\w+)*)/g, '<span class="mention">@$1</span>');
+                
+                const isChris = msg.sender === 'chris';
+                const agent = AGENTS.find(a => a.id === msg.sender);
+                const avatar = isChris ? '👤' : (agent?.icon || '🤖');
+                
+                return `
+                    <div class="message ${isChris ? 'chris' : ''}">
+                        <div class="message-avatar">${avatar}</div>
+                        <div>
+                            <div class="message-bubble">${text}</div>
+                            <div class="message-timestamp">${msg.time}</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            container.scrollTop = container.scrollHeight;
+        }
+
+        // Send message
+        async function sendMessage() {
+            const input = document.getElementById('messageInput');
+            const text = input.value.trim();
+            if (!text || !activeGroup) return;
+
+            try {
+                await fetch(`${API_BASE}/messages/${activeGroup}`, {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': AUTH,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ sender: 'chris', text: text })
+                });
+                input.value = '';
+                await fetchMessages(activeGroup);
+            } catch (e) {
+                console.error('Error sending message:', e);
+            }
+        }
+
+        // Modals
+        function showAddGroupModal() {
+            document.getElementById('addGroupModal').classList.add('active');
+            document.getElementById('newGroupName').value = '';
+            document.getElementById('newGroupIcon').value = '💬';
+            document.getElementById('newGroupName').focus();
+        }
+
+        function hideAddGroupModal() {
+            document.getElementById('addGroupModal').classList.remove('active');
+        }
+
+        async function createGroup() {
+            const name = document.getElementById('newGroupName').value.trim();
+            const icon = document.getElementById('newGroupIcon').value.trim() || '💬';
+            if (!name) return;
+
+            try {
+                await fetch(`${API_BASE}/groups`, {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': AUTH,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        id: name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, ''),
+                        name: name,
+                        icon: icon,
+                        members: DEFAULT_MEMBERS  // AUTO-ADD EVERYONE
+                    })
+                });
+                hideAddGroupModal();
+                await fetchGroups();
+            } catch (e) {
+                console.error('Error creating group:', e);
+            }
+        }
+
+        // Events
+        document.getElementById('sendBtn').addEventListener('click', sendMessage);
+        document.getElementById('messageInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        // Initialize (NO AUTO-REFRESH)
+        populateAgents();
+        fetchGroups();
+    </script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+{
+  "export_date": "2026-02-17T22:43:32.542194",
+  "youtube": [
+    {
+      "date": "2026-02-17",
+      "platform": "youtube",
+      "videos": [
+        {
+          "video_id": "vid001",
+          "title": "Introduction Video",
+          "views": 3926,
+          "watch_time_minutes": 11778,
+          "likes": 196,
+          "comments": 39,
+          "shares": 19,
+          "subscribers_gained": 7
+        },
+        {
+          "video_id": "vid002",
+          "title": "Product Demo",
+          "views": 4460,
+          "watch_time_minutes": 13380,
+          "likes": 223,
+          "comments": 44,
+          "shares": 22,
+          "subscribers_gained": 8
+        },
+        {
+          "video_id": "vid003",
+          "title": "Tutorial Part 1",
+          "views": 2967,
+          "watch_time_minutes": 8901,
+          "likes": 148,
+          "comments": 29,
+          "shares": 14,
+          "subscribers_gained": 5
+        }
+      ],
+      "timestamp": "2026-02-17T22:43:32.528133"
+    }
+  ],
+  "instagram": [
+    {
+      "followers": 5267,
+      "following": 450,
+      "posts": 120,
+      "date": "2026-02-17",
+      "platform": "instagram",
+      "account": {
+        "followers": 5267,
+        "following": 450,
+        "post_count": 120
+      }
+    }
+  ],
+  "twitter": [
+    {
+      "followers": 2767,
+      "following": 800,
+      "tweets": 2500,
+      "date": "2026-02-17",
+      "platform": "twitter",
+      "account": {
+        "followers": 2767,
+        "following": 800,
+        "tweet_count": 2500
+      }
+    }
+  ],
+  "tiktok": [
+    {
+      "followers": 11267,
+      "following": 200,
+      "likes": 50000,
+      "videos": 80,
+      "date": "2026-02-17",
+      "platform": "tiktok",
+      "account": {
+        "followers": 11267,
+        "following": 200,
+        "likes_count": 50000,
+        "video_count": 80
+      }
+    }
+  ]
+}

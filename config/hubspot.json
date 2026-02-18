@@ -1,0 +1,5 @@
+{
+  "api_key": "your_hubspot_api_key_here",
+  "portal_id": "your_portal_id_here",
+  "notes": "Get your API key from https://developers.hubspot.com/docs/api/overview"
+}

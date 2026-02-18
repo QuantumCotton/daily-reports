@@ -1,0 +1,5 @@
+{
+  "access_token": "your-asana-personal-access-token-here",
+  "workspace_gid": "your-asana-workspace-gid",
+  "project_gid": "your-asana-project-gid"
+}

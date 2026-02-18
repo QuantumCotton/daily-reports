@@ -1,0 +1,161 @@
+[2026-02-16 04:24:31] ============================================================
+[2026-02-16 04:24:31] TREASURE COAST LEAD ENRICHER V2 - WEB SEARCH
+[2026-02-16 04:24:31] ============================================================
+[2026-02-16 04:24:50] ============================================================
+[2026-02-16 04:24:50] TREASURE COAST LEAD ENRICHER V2 - WEB SEARCH
+[2026-02-16 04:24:50] ============================================================
+[2026-02-16 04:24:50] Found 25 Treasure Coast leads to process
+[2026-02-16 04:24:50] FATAL: log() missing 1 required positional argument: 'msg'
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enricher_v2.py", line 247, in <module>
+    stats = main()
+            ^^^^^^
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enricher_v2.py", line 137, in main
+    log()
+TypeError: log() missing 1 required positional argument: 'msg'
+
+[2026-02-16 04:24:59] ============================================================
+[2026-02-16 04:24:59] TREASURE COAST LEAD ENRICHER V2 - WEB SEARCH
+[2026-02-16 04:24:59] ============================================================
+[2026-02-16 04:24:59] Found 27 Treasure Coast leads to process
+[2026-02-16 04:24:59] [1/27] General Contractor & Construction - West Palm Beach | Stuart, FL (Stuart)
+[2026-02-16 04:24:59]   Website: http://www.onecallflorida.com/
+[2026-02-16 04:24:59]   Current: NEEDS_ENRICHMENT / info@onecallflorida.com (v=1)
+[2026-02-16 04:25:02]   ❌ No contact info found
+[2026-02-16 04:25:02] FATAL: log() missing 1 required positional argument: 'msg'
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enricher_v2.py", line 245, in <module>
+    stats = main()
+            ^^^^^^
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enricher_v2.py", line 228, in main
+    log()
+TypeError: log() missing 1 required positional argument: 'msg'
+
+[2026-02-16 04:25:21] ============================================================
+[2026-02-16 04:25:21] TREASURE COAST LEAD ENRICHER V2 - WEB SEARCH
+[2026-02-16 04:25:21] ============================================================
+[2026-02-16 04:25:21] Found 26 Treasure Coast leads to process
+[2026-02-16 04:25:21] [1/26] Expert Painter in FL, 32962 (Vero Beach)
+[2026-02-16 04:25:21]   Website: https://rogers-painting.com/
+[2026-02-16 04:25:21]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:24]   ❌ No contact info found
+[2026-02-16 04:25:24] [2/26] Expert Roofing Inspections and Replacement in Stuart, FL (Stuart)
+[2026-02-16 04:25:24]   Website: https://www.levelbestroofing.com/
+[2026-02-16 04:25:24]   Current: NEEDS_ENRICHMENT / info@levelbestroofing.com (v=1)
+[2026-02-16 04:25:27]   ❌ No contact info found
+[2026-02-16 04:25:27] [3/26] Roofers Palm Beach Gardens, FL (Stuart)
+[2026-02-16 04:25:27]   Website: https://www.stuartroofingfl.com/
+[2026-02-16 04:25:27]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:33]   ✓ Name found: Stuart Roofing
+[2026-02-16 04:25:33]   ✅ Database updated
+[2026-02-16 04:25:33] [4/26] Apartments in Port St. Lucie, FL (Port St Lucie)
+[2026-02-16 04:25:33]   Website: https://www.zrsapartments.com/florida/port-st-lucie/
+[2026-02-16 04:25:33]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:37]   ❌ No contact info found
+[2026-02-16 04:25:37] [5/26] The Brennity at Vero Beach Senior Living | Retirement Community (Stuart)
+[2026-02-16 04:25:37]   Website: https://www.brennityverobeach.com/
+[2026-02-16 04:25:37]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:41]   ❌ No contact info found
+[2026-02-16 04:25:41] [6/26] Palm Beach and Martin Counties Property Management (Stuart)
+[2026-02-16 04:25:41]   Website: https://www.homepropertymanagement.com/south-florida-property-management
+[2026-02-16 04:25:41]   Current: NEEDS_ENRICHMENT / info@pa.martin.fl.us (v=0)
+[2026-02-16 04:25:43]   ✓ Name found: and Tenant
+[2026-02-16 04:25:43]   ✅ Database updated
+[2026-02-16 04:25:43] [7/26] Diner (Stuart)
+[2026-02-16 04:25:43]   Website: https://www.citydinerofstuart.com/
+[2026-02-16 04:25:43]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:45]   ✓ Email found: pete@busybeediner.com
+[2026-02-16 04:25:45]   ✓ Name found: Contact Info
+[2026-02-16 04:25:45]   ✅ Database updated
+[2026-02-16 04:25:45] [8/26] Starling Buick GMC Dealership in Stuart, FL (Stuart)
+[2026-02-16 04:25:45]   Website: https://www.starlingbuickgmcstuart.com/
+[2026-02-16 04:25:45]   Current: NEEDS_ENRICHMENT / info@starlingbuickgmcstuart.com (v=0)
+[2026-02-16 04:25:47]   ❌ No contact info found
+[2026-02-16 04:25:47] [9/26] Cheap Storage Units in Vero Beach, FL (from $14) (Vero Beach)
+[2026-02-16 04:25:47]   Website: https://www.extraspace.com/storage/facilities/us/florida/vero_beach/
+[2026-02-16 04:25:47]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:49]   ❌ No contact info found
+[2026-02-16 04:25:49] [10/26] Summit Construction (Vero Beach)
+[2026-02-16 04:25:49]   Website: https://www.summitcm.net/
+[2026-02-16 04:25:49]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:52]   ✓ Email found: chamber@indianriverchamber.com
+[2026-02-16 04:25:52]   ✅ Database updated
+[2026-02-16 04:25:52] [11/26] Gracespring Church Vero Beach, FL (Vero Beach)
+[2026-02-16 04:25:52]   Website: https://www.gracespring.com/
+[2026-02-16 04:25:52]   Current: N/A / N/A (v=0)
+[2026-02-16 04:25:54]   ✓ Name found: our church
+[2026-02-16 04:25:54]   ✅ Database updated
+[2026-02-16 04:25:54] [12/26] Gutter Guards Installation - MR INTEGRITY GUTTERS (Stuart)
+[2026-02-16 04:25:54]   Website: https://mrintegritygutters.com/gutter-guards-installation/
+[2026-02-16 04:25:54]   Current: NEEDS_ENRICHMENT / info@mrintegritygutters.com (v=0)
+[2026-02-16 04:25:57]   ❌ No contact info found
+[2026-02-16 04:25:57] [13/26] Martin County Existing Condo Sales Climb - MIAMI REALTORS® (Stuart)
+[2026-02-16 04:25:57]   Website: https://www.miamirealtors.com/2025/11/20/martin-county-existing-condo-sales-climb/
+[2026-02-16 04:25:57]   Current: NEEDS_ENRICHMENT / info@miamirealtors.com (v=0)
+[2026-02-16 04:25:59]   ❌ No contact info found
+[2026-02-16 04:25:59] [14/26] Stuart Downey Email & Phone Number (Stuart)
+[2026-02-16 04:25:59]   Website: https://rocketreach.co/stuart-downey-email_38478529
+[2026-02-16 04:25:59]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:01]   ✓ Name found: Stuart Downey
+[2026-02-16 04:26:01]   ✅ Database updated
+[2026-02-16 04:26:01] [15/26] Hudson's On The River | Waterfront Dining | Best restaurants in ... (Stuart)
+[2026-02-16 04:26:01]   Website: https://www.hudsonontheriver.com/
+[2026-02-16 04:26:01]   Current: NEEDS_ENRICHMENT / info@hudsonontheriver.com (v=0)
+[2026-02-16 04:26:15]   ❌ No contact info found
+[2026-02-16 04:26:15] [16/26] Order from The Fresh Market at The Fresh Market, Vero Beach, Florida (Vero Beach)
+[2026-02-16 04:26:15]   Website: https://stores.thefreshmarket.com/fl/vero-beach/115
+[2026-02-16 04:26:15]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:17]   ❌ No contact info found
+[2026-02-16 04:26:17] [17/26] St. Mary's Episcopal Church (Stuart)
+[2026-02-16 04:26:17]   Website: https://www.stmarys-stuart.org/
+[2026-02-16 04:26:17]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:19]   ❌ No contact info found
+[2026-02-16 04:26:19] [18/26] Plant Manager Jobs in Vero Beach, FL (Hiring Now!) (Vero Beach)
+[2026-02-16 04:26:19]   Website: https://www.zippia.com/plant-manager-vero-beach-fl-jobs/
+[2026-02-16 04:26:19]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:23]   ✓ Name found: jobs in
+[2026-02-16 04:26:23]   ✅ Database updated
+[2026-02-16 04:26:23] [19/26] Hangars (Stuart)
+[2026-02-16 04:26:23]   Website: https://appjetcenter.com/hangars/
+[2026-02-16 04:26:23]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:31]   ✓ Email found: arizonaglendalehangars@gmail.com
+[2026-02-16 04:26:31]   ✅ Database updated
+[2026-02-16 04:26:31] [20/26] Treasure Coast Investor (Stuart)
+[2026-02-16 04:26:31]   Website: https://www.biggerpockets.com/forums/552/topics/582248-treasure-coast-investor
+[2026-02-16 04:26:31]   Current: NEEDS_ENRICHMENT / info@biggerpockets.com (v=1)
+[2026-02-16 04:26:39]   ✓ Name found: Us Today
+[2026-02-16 04:26:39]   ✅ Database updated
+[2026-02-16 04:26:39] [21/26] Vero Beach Volunteer Fire: Home (Vero Beach)
+[2026-02-16 04:26:39]   Website: https://www.vbfire.com/
+[2026-02-16 04:26:39]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:41]   ❌ No contact info found
+[2026-02-16 04:26:41] [22/26] Installation in Vero Beach, FL from Carpet & Tile Warehouse (Vero Beach)
+[2026-02-16 04:26:41]   Website: https://www.carpetandtilewarehouse.com/installation
+[2026-02-16 04:26:41]   Current: V4_NO_DATA / N/A (v=0)
+[2026-02-16 04:26:44]   ❌ No contact info found
+[2026-02-16 04:26:44] [23/26] Atlantic Aviation (Stuart)
+[2026-02-16 04:26:44]   Website: https://business.stuartmartinchamber.org/members/member/atlantic-aviation-stuart-llc-5018
+[2026-02-16 04:26:44]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:49]   ✓ Email found: chsfrontdesk@atlanticaviation.com
+[2026-02-16 04:26:49]   ✓ Name found: Us Email
+[2026-02-16 04:26:49]   ✅ Database updated
+[2026-02-16 04:26:49] [24/26] Storage Units at 700 Sw Federal Hwy, Stuart, FL (Stuart)
+[2026-02-16 04:26:49]   Website: https://www.cubesmart.com/florida-self-storage/stuart-self-storage/4334.html
+[2026-02-16 04:26:49]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:52]   ❌ No contact info found
+[2026-02-16 04:26:52] [25/26] Vero Beach Electrical Contractors (Vero Beach)
+[2026-02-16 04:26:52]   Website: https://bipelectric.com/vero-beach-electrical-contractor/
+[2026-02-16 04:26:52]   Current: N/A / N/A (v=0)
+[2026-02-16 04:26:54]   ❌ No contact info found
+[2026-02-16 04:26:54] [26/26] Vatland Chrysler Dodge Jeep Ram (Vero Beach)
+[2026-02-16 04:26:54]   Website: https://www.vatlandcdjr.com/
+[2026-02-16 04:26:54]   Current: V4_NO_DATA / N/A (v=0)
+[2026-02-16 04:26:56]   ❌ No contact info found
+[2026-02-16 04:26:56] ============================================================
+[2026-02-16 04:26:56] ENRICHMENT COMPLETE
+[2026-02-16 04:26:56]   Processed: 26
+[2026-02-16 04:26:56]   Found emails: 4
+[2026-02-16 04:26:56]   Found names: 8
+[2026-02-16 04:26:56]   Updated: 10
+[2026-02-16 04:26:56]   Cost: $0 (SearXNG search only)
+[2026-02-16 04:26:56] ============================================================

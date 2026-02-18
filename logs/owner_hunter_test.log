@@ -1,0 +1,7 @@
+[OwnerHunter] Processing 10 leads...
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/bin/owner_hunter.py", line 184, in <module>
+    hunt_owners(batch)
+  File "/home/chris/.openclaw/bin/owner_hunter.py", line 161, in hunt_owners
+    c.execute('UPDATE leads SET contact_name = ? WHERE id = ?', (owner_name, lead_id))
+sqlite3.OperationalError: database is locked

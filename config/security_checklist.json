@@ -1,0 +1,40 @@
+{
+  "codebase_paths": [
+    "~/.openclaw/bin",
+    "~/.openclaw/skills"
+  ],
+  "exclude_patterns": [
+    "*.pyc",
+    "__pycache__",
+    ".git",
+    "node_modules",
+    "*.log",
+    "venv",
+    "env",
+    ".pyc"
+  ],
+  "sensitive_patterns": [
+    "password",
+    "secret",
+    "api_key",
+    "token",
+    "private_key",
+    "credential",
+    "auth",
+    "session",
+    "passwd"
+  ],
+  "severity_thresholds": {
+    "critical": 9,
+    "high": 7,
+    "medium": 5,
+    "low": 3
+  },
+  "telegram_chat_id": "alerts",
+  "analysis_prompts": {
+    "offensive": "You are an offensive security researcher analyzing this code for vulnerabilities. Identify:\n1. Injection points (SQL, command, XSS)\n2. Authentication/authorization flaws\n3. Input validation weaknesses\n4. Cryptographic issues\n5. API security holes\n6. Third-party dependency risks\nBe realistic about exploitability. Return findings in JSON format: {\"findings\": [{\"severity\": 0-10, \"title\": \"\", \"description\": \"\", \"file\": \"\", \"line\": \"\"}]}",
+    "defensive": "You are a defensive security engineer reviewing protections. Assess:\n1. Input sanitization and validation\n2. Authentication and authorization mechanisms\n3. Rate limiting and throttling\n4. Logging and monitoring\n5. Error handling (information disclosure)\n6. Dependency security\nFocus on what's missing or weak. Return findings in JSON format: {\"findings\": [{\"severity\": 0-10, \"title\": \"\", \"description\": \"\", \"file\": \"\", \"line\": \"\"}]}",
+    "privacy": "You are a data privacy specialist. Check:\n1. PII collection and storage\n2. Data encryption at rest and in transit\n3. Data retention policies\n4. Logging sensitive data\n5. Third-party data sharing\n6. Compliance (GDPR, CCPA, etc.)\nIdentify privacy violations and risks. Return findings in JSON format: {\"findings\": [{\"severity\": 0-10, \"title\": \"\", \"description\": \"\", \"file\": \"\", \"line\": \"\"}]}",
+    "operational": "You are a pragmatic security consultant. Evaluate:\n1. Are security measures practical or just theater?\n2. Operational complexity vs security benefit\n3. False positive/negative impact\n4. Implementation friction for developers\n5. Maintainability and updates\n6. Cost-benefit analysis\nBe honest about what's realistic. Return findings in JSON format: {\"findings\": [{\"severity\": 0-10, \"title\": \"\", \"description\": \"\", \"file\": \"\", \"line\": \"\"}]}"
+  }
+}

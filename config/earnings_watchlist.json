@@ -1,0 +1,58 @@
+{
+  "tickers": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "earnings_date": null,
+      "earnings_time": null,
+      "enabled": true
+    }
+  ],
+  "user_settings": {
+    "preview_time": "Sunday 09:00",
+    "report_delay_minutes": 60,
+    "max_takeaways": 3
+  }
+}

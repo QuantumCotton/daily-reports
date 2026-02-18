@@ -1,0 +1,892 @@
+[11:20:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.4 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:30:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (58 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:40:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.2 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:50:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.3 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:00:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (2.9 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:10:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:20:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (68 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:40:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:20:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (109 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:20:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (110 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (112 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:20:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:40:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (112 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:30:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (-1328.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[01:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[01:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[01:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[01:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[01:40:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[01:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[02:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[02:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[02:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[02:30:02] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (112 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[02:40:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[02:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[03:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[03:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[03:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[03:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[03:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[03:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[04:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[04:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[04:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[04:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (112 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[04:40:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[04:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[05:00:03] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[05:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[05:20:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[05:30:03] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[05:40:00] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[05:50:01] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[06:00:03] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[06:10:00] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[06:30:03] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[06:40:00] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[06:50:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[07:00:03] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[07:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[07:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[07:30:03] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[07:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[07:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[08:00:03] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[08:10:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[08:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[08:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (100 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[08:40:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[08:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[09:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[09:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[09:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[09:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[09:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[09:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[10:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[10:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[10:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[10:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (103 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[10:40:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[10:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[11:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (109 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:40:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[12:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:40:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[13:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:30:02] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (110 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:40:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[14:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[15:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:30:01] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (109 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:40:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[16:50:01] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:00:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[17:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:30:02] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (90 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:40:01] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.0 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[18:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:30:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[19:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:30:02] AUTO-MONITOR CHECK
+  ⚠️ lead_enricher_v4.py: STUCK (108 min) — killing & restarting
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:40:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (0.1 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[20:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:40:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[21:50:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:30:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (8.2 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[22:50:01] AUTO-MONITOR CHECK
+  lead_enricher_v4.py: No log file
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:00:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:20:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:30:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:40:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[23:50:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:00:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:10:01] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:20:02] AUTO-MONITOR CHECK
+  ○ lead_enricher_v4.py: Not running
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file
+[00:30:02] AUTO-MONITOR CHECK
+  ✓ lead_enricher_v4.py: Running (-1349.5 min since last log)
+  job_board_scraper.py: No log file
+  craigslist_scraper.py: No log file

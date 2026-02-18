@@ -1,0 +1,216 @@
+[04:35:20] ============================================================
+[04:35:20] LEAD ENRICHER v4 — batch: 100
+[04:35:20] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:35:20] Brave API: OFF (saving money)
+[04:35:20] ============================================================
+[04:35:20] Found 100 leads to process
+[04:35:20]   [1/100] Contact Stuart Wilson, Email: ****@talkingsti
+[04:35:20]     → skip: no_domain
+[04:35:20]   [2/100] Franchisee List
+[04:35:20]     → skip: no_mx:franchiseelist.com
+[04:35:20]   [3/100] Lang Management - Association Management Serv
+[04:35:24]     → skip: no_data
+[04:35:24]   [4/100] 1Fitness
+[04:35:24]     → skip: no_mx:1fitnesstraining.com
+[04:35:24]   [5/100] Drive-Thru Coffee in Fort Pierce, FL
+[04:35:26]     → skip: no_data
+[04:35:26]   [6/100] Relentless Personal Training
+[04:35:28]     → skip: no_data
+[04:35:28]   [7/100] Gutter Guards Installation - MR INTEGRITY GUT
+[04:35:46]     → skip: no_data
+[04:35:46]   [8/100] Oceanfront Vero Beach Hotel
+[04:35:47]     → skip: no_data
+[04:35:47]   [9/100] Our Locations – Treasure Coast Wine, Ale & Sp
+[04:35:47]     → skip: no_mx:tcwineandaletrail.com
+[04:35:47]   [10/100] Vero Beach Epoxy Floors by CJ Epoxy
+[04:35:54]     → skip: no_data
+[04:35:55]   [11/100] Port Saint Lucie Real Estate Investment Club
+[04:36:00]     → skip: no_data
+[04:36:00]   [12/100] DayAway
+[04:36:05]     → skip: no_data
+[04:36:05]   [13/100] Restaurants
+[04:36:15]     → skip: no_data
+[04:36:15]   [14/100] Roland's Electric (772) 696-6236
+[04:36:15]     → skip: no_mx:theverobeachelectrician.com
+[04:36:15]   [15/100] On Tap
+[04:36:30]     → skip: no_data
+[04:36:30]   [16/100] Windward at Taylor Creek Marina
+[04:36:35]     → skip: no_data
+[04:36:35]   [17/100] Contact Us – Epoxy Floor Supply
+[04:36:37]     [★ FOUND] jwatkins@epoxyfloorsupplycompany.com
+[04:36:37]   [18/100] Manufacturing, Production and Wholesale Quick
+[04:36:40]     → skip: no_data
+[04:36:40]   [19/100] Top Stuart, Florida Property Management Compa
+[04:36:45]     → skip: no_data
+[04:36:45]   [20/100] Auto Detailing Vero Beach, FL
+[04:36:53]     → skip: no_data
+[04:36:53]   [21/100] Jupiter Stuart Port St. Lucie Custom Cabinets
+[04:36:55]     → skip: no_data
+[04:36:56]   [22/100] Bayview Construction Services
+[04:37:09]     → skip: no_data
+[04:37:09]   [23/100] Residential Epoxy Flooring Services in Stuart
+[04:37:18]     → skip: no_data
+[04:37:18]   [24/100] 英文里面 house 和 apartment 的区别是什么？ - 知乎
+[04:37:22]     [★ FOUND] jubao@zhihu.com
+[04:37:22]   [25/100] Rain Gutter Installation & Cleaning in Vero B
+[04:37:25]     → skip: no_data
+[04:37:26]   [26/100] Breathe Healthier Air HVAC Services
+[04:37:36]     → skip: no_data
+[04:37:36]   [27/100] Planet Pet Animal Hospital
+[04:37:37]     → skip: no_data
+[04:37:38]   [28/100] Lawn Care and Lawn Maintenance
+[04:37:44]     → skip: no_data
+[04:37:44]   [29/100] Search for Public School Districts
+[04:37:49]     → skip: no_data
+[04:37:49]   [30/100] Custom Cabinet
+[04:37:56]     → skip: no_data
+[04:37:57]   [31/100] Fort Pierce Hotels
+[04:37:58]     → skip: no_data
+[04:37:58]   [32/100] Fresh and Clean Cleaning Service, Stuart, FL 
+[04:37:58]     → skip: no_domain
+[04:37:58]   [33/100] Fort Pierce, FL Commercial Real Estate for Le
+[04:37:58]     → skip: no_data
+[04:37:58]   [34/100] Your Trusted Self-Storage Solution in Fort Pi
+[04:37:58]     → skip: no_mx:storageftpierce.com
+[04:37:59]   [35/100] Marriott Hutchinson Island Beach Resort- Firs
+[04:37:59]     → skip: no_mx:businesstravelnews.com
+[04:37:59]   [36/100] Top Rated Car Wash in Fort Pierce, FL
+[04:38:06]     → skip: no_data
+[04:38:07]   [37/100] Indian River Hospital
+[04:38:07]     → skip: no_mx:my.clevelandclinic.org
+[04:38:07]   [38/100] HOSPITALS/EMERGENCY ROOM Category
+[04:38:10]     → skip: no_data
+[04:38:10]   [39/100] Cabinet Makers Warehouse Supply – Your Source
+[04:38:13]     → skip: no_data
+[04:38:13]   [40/100] GoodLife Fitness Studio
+[04:38:13]     → skip: no_mx:goodlifefitnessvero.com
+[04:38:13]   [41/100] Straticon | South Florida Based Construction 
+[04:38:20]     → skip: no_data
+[04:38:20]   [42/100] Top Dental Care in Stuart
+[04:38:22]     → skip: no_data
+[04:38:23]   [43/100] New Heights Painting.
+[04:38:31]     [★ FOUND] jason@newheightspaintinginc.com
+[04:38:31]   [44/100] ROVB, inc.
+[04:38:38]     → skip: no_data
+[04:38:39]   [45/100] B & S Auto Detailing LLC: Superior Auto Detai
+[04:38:48]     → skip: no_data
+[04:38:48]   [46/100] American Icon Brewery
+[04:39:03]     → skip: no_data
+[04:39:03]   [47/100] Breweries – Treasure Coast Wine, Ale & Spirit
+[04:39:03]     → skip: no_mx:tcwineandaletrail.com
+[04:39:03]   [48/100] Epoxy flooring in Stuart, FL
+[04:39:05]     → skip: no_data
+[04:39:05]   [49/100] Home
+[04:39:08]     → skip: no_data
+[04:39:08]   [50/100] Treasure Coast Commercial Cleaning and Janito
+[04:39:08]     → skip: no_data
+[04:39:09]   [51/100] Industrial For Lease — Kings Highway, Fort Pi
+[04:39:09]     → skip: no_data
+[04:39:09]   [52/100] Station 15
+[04:39:09]     → skip: no_mx:slcfd.com
+[04:39:09]   [53/100] Mulligan's Beach House
+[04:39:31]     [~ guess] george@mulligansbeachhouse.com (George Hart)
+[04:39:32]   [54/100] Collision Body Shop | Wallace Auto Group In S
+[04:39:33]     → skip: no_data
+[04:39:33]   [55/100] Superior Fort Pierce Marine Services
+[04:39:36]     → skip: no_data
+[04:39:36]   [56/100] Company Profile Information Sheet Name Conner
+[04:39:38]     [★ FOUND] imagine@bomanite.com
+[04:39:38]   [57/100] Carter’s Concrete Construction.
+[04:39:40]     → skip: no_data
+[04:39:40]   [58/100] Central-Florida | Specialized Property Manage
+[04:39:40]     → skip: no_mx:specializedpropertymanagementorlando.com
+[04:39:40]   [59/100] Contact Stuart Kelman, Email: ****@hometownrg
+[04:39:40]     → skip: no_domain
+[04:39:40]   [60/100] Dentist in Fort Pierce, FL 34982
+[04:39:40]     → skip: no_mx:apexdentistry.net
+[04:39:41]   [61/100] Restaurant Construction in Jensen Beach, FL
+[04:39:44]     → skip: no_data
+[04:39:45]   [62/100] Contact Us
+[04:40:02]     → skip: no_data
+[04:40:02]   [63/100] Deck and Dock Supplies Fort Pierce, FL
+[04:40:08]     → skip: no_data
+[04:40:08]   [64/100] Hospitals near Stuart, FL - Healthgrades
+[04:40:13]     → skip: no_data
+[04:40:13]   [65/100] Concrete Restoration & Repair Vero Beach
+[04:40:14]     → skip: no_data
+[04:40:14]   [66/100] Top Property Managers in Palm City, Florida 3
+[04:40:18]     → skip: no_data
+[04:40:19]   [67/100] Consulting Team
+[04:40:22]     [~ guess] tom@corporatedining.com (Tom Focuses)
+[04:40:23]   [68/100] Apartments in Stuart, FL
+[04:40:23]     → skip: no_data
+[04:40:23]   [69/100] Top Childcare Providers in Fort Pierce, FL – 
+[04:40:26]     → skip: no_data
+[04:40:26]   [70/100] REAL ESTATE/PROPERTY MANAGEMENT Category
+[04:40:32]     → skip: no_data
+[04:40:32]   [71/100] Shopping and Specialty Retail QuickLink Categ
+[04:40:34]     → skip: no_data
+[04:40:35]   [72/100] Treasure Coast Toyota Of Stuart
+[04:40:35]     → skip: no_data
+[04:40:35]   [73/100] Contact Jeff Clark, Email: j***@cedftlaud.com
+[04:40:35]     → skip: no_domain
+[04:40:35]   [74/100] Welcome to Sunshine Laundry Centers
+[04:40:45]     → skip: no_data
+[04:40:45]   [75/100] Bathroom Remodelers​ Stuart, FL | Adamo Paint
+[04:40:45]     → skip: no_mx:adamopainting.com
+[04:40:45]   [76/100] Kitchen Cabinets
+[04:40:49]     → skip: no_data
+[04:40:49]   [77/100] HOA Management Companies Florida
+[04:40:49]     [★ FOUND] sarah.smith@cmacommunities.com (Sarah Smith)
+[04:40:49]   [78/100] Electricians near Stuart, FL
+[04:40:57]     → skip: no_data
+[04:40:57]   [79/100] Palm City Handyman, The Repair Guy
+[04:40:57]     → skip: no_mx:therepairguyservices.com
+[04:40:57]   [80/100] Stuart MedSpa
+[04:40:58]     → skip: no_data
+[04:40:58]   [81/100] Starling Buick GMC Dealership in Stuart, FL
+[04:40:58]     → skip: no_data
+[04:40:58]   [82/100] Fitness Center
+[04:41:03]     → skip: no_data
+[04:41:03]   [83/100] Maintenance –orate Air.
+[04:41:10]     [★ FOUND] reservation@corporate-air.com
+[04:41:10]   [84/100] Port Saint Lucie, FL New Construction Homes f
+[04:41:10]     → skip: no_domain
+[04:41:10]   [85/100] Property Manager | JBCC HOA
+[04:41:12]     → skip: no_data
+[04:41:12]   [86/100] IAFF Local 2411
+[04:41:44]     → skip: no_data
+[04:41:45]   [87/100] Welcome to Palm Tree Day Spa
+[04:42:03]     → skip: no_data
+[04:42:03]   [88/100] Family Restaurant in Stuart, FL
+[04:42:03]     → skip: no_mx:familyrestaurantstuart.com
+[04:42:03]   [89/100] Contact Stuart Shay, Email: ****@shapesmfg.co
+[04:42:03]     → skip: no_domain
+[04:42:04]   [90/100] Toyota New Vehicle Inventory Search in Fort P
+[04:42:07]     → skip: no_data
+[04:42:07]   [91/100] Find General Contractors in Vero Beach, FL
+[04:42:12]     → skip: no_data
+[04:42:12]   [92/100] Station 7
+[04:42:12]     → skip: no_mx:slcfd.com
+[04:42:12]   [93/100] Jensen Beach Home Renovations | Licensed & In
+[04:42:14]     → skip: no_data
+[04:42:14]   [94/100] Gutter Installation Stuart, FL
+[04:42:24]     → skip: no_data
+[04:42:25]   [95/100] Commercial Cleaning - Eastside Chem-Dry
+[04:42:30]     → skip: no_data
+[04:42:30]   [96/100] Climate Controlled Storage Southwest Vero Bea
+[04:42:31]     → skip: no_data
+[04:42:32]   [97/100] Homeowner & Condo Association Management in O
+[04:42:37]     → skip: no_data
+[04:42:37]   [98/100] Storage Units at 550 Se Harper St, Stuart, FL
+[04:42:38]     → skip: no_data
+[04:42:38]   [99/100] Electrician in Stuart, Florida – Mast Electri
+[04:42:43]     → skip: no_data
+[04:42:43]   [100/100] Contact
+[04:42:46]     → skip: no_data
+[04:42:47] 
+============================================================
+[04:42:47] ENRICHMENT COMPLETE
+[04:42:47]   Batch: 8 enriched / 100 processed
+[04:42:47]   Found on site: 6 | Pattern guess: 2
+[04:42:47]   SMTP verified: 0 | Names found: 3
+[04:42:47]   Database: 21271 total, 3010 with email, 254 named contacts
+[04:42:47]   Quality: 2914 personal (96%) / 96 generic
+[04:42:47]   Cost: $0 (zero API calls)
+[04:42:47] ============================================================

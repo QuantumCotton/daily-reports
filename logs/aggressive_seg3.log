@@ -1,0 +1,16 @@
+[04:30:04][SEG3] ============================================================
+[04:30:04][SEG3] APOLLO PARALLEL — Segment 3/10 | Batch: 20
+[04:30:04][SEG3] ============================================================
+[04:30:04][SEG3] Loaded 785 leads
+[04:30:04][SEG3] Leads in segment 3: 4
+[04:30:04][SEG3] Processing batch of 4
+[04:30:04][SEG3]   [1/4] The Brennity at Tradition Senior Living  → brennitytradition.com
+[04:30:04][SEG3]     → SKIP: no MX for brennitytradition.com
+[04:30:04][SEG3]   [2/4] Jupiter Cove → jupitercove.net
+[04:30:04][SEG3]     → SKIP: no MX for jupitercove.net
+[04:30:05][SEG3]   [3/4] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[04:30:05][SEG3]     → SKIP: no MX for desanctishomes.com
+[04:30:05][SEG3]   [4/4] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[04:30:05][SEG3]     → SKIP: no MX for customgarageworkstx.com
+[04:30:05][SEG3] SEGMENT 3 COMPLETE: 0 guessed, 0 verified
+[04:30:05][SEG3] ============================================================

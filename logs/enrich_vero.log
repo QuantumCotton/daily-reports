@@ -1,0 +1,119 @@
+[04:27:18] ============================================================
+[04:27:18] LEAD ENRICHER v4 — batch: 100
+[04:27:18] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:27:18] Brave API: OFF (saving money)
+[04:27:18] ============================================================
+[04:27:18] Found 100 leads to process
+[04:27:18]   [1/100] Warehouses for Lease in Pompano Beach, FL
+[04:27:20]     → skip: no_data
+[04:27:20]   [2/100] 8 Ways to Renovate a Home
+[04:27:23]     [★ FOUND] stories@wikihow.com
+[04:27:24]   [3/100] Toyota Motor Manufacturing Alabama
+[04:27:54]     [~ guess] emily@pressroom.toyota.com (Emily Hoffman)
+[04:27:55]   [4/100] Home Renovation Specialist in Biloxi, MS
+[04:28:00]     → skip: no_data
+[04:28:01]   [5/100] PCB Assembly & Manufacturing Services in Hunt
+[04:28:12]     → skip: no_data
+[04:28:12]   [6/100] Franchises for Sale in Kissimmee, Florida (20
+[04:28:13]     → skip: no_data
+[04:28:14]   [7/100] Search for Public School Districts
+[04:28:19]     → skip: no_data
+[04:28:19]   [8/100] West Palm Beach Community Association Managem
+[04:28:25]     [~ guess] frank@vestapropertyservices.com (Frank Surface)
+[04:28:25]   [9/100] construction jobs near Port Saint Lucie, FL
+[04:28:25]     → skip: no_domain
+[04:28:26]   [10/100] Palm Coast Home Remodeling & Renovation Contr
+[04:28:36]     [~ guess] dan@aguaconstruction.com (Dan Himself)
+[04:28:36]   [11/100] Techy Cafe Coffee Shop in Pompano Beach FL
+[04:28:37]     [★ FOUND] nicole@techycompany.com (Tim Phelps)
+[04:28:37]   [12/100] Drink Civilized
+[04:28:41]     → skip: no_data
+[04:28:41]   [13/100] Contact Us
+[04:28:41]     → skip: no_mx:astepaboveflooringky.com
+[04:28:41]   [14/100] Orlando, FL – John Young Pkwy
+[04:28:49]     → skip: no_data
+[04:28:49]   [15/100] Fort Pierce, FL Commercial Real Estate for Le
+[04:28:49]     → skip: no_data
+[04:28:49]   [16/100] Jupiter Detail: Car Detailing in Jupiter FL
+[04:28:59]     → skip: no_data
+[04:28:59]   [17/100] Bathroom, Window, and Entry Door Replacement 
+[04:29:09]     → skip: no_data
+[04:29:09]   [18/100] Atrium Health Mercy
+[04:29:15]     [★ FOUND] chfoundation@atriumhealth.org
+[04:29:16]   [19/100] Hardwood Flooring
+[04:29:21]     → skip: no_data
+[04:29:21]   [20/100] Commercial Painting
+[04:29:26]     [~ guess] eric@mcdinespaintingofbrevard.com (Eric Mcdine)
+[04:29:26]   [21/100] Vero Beach Schools: Indian River County Schoo
+[04:29:35]     → skip: no_data
+[04:29:35]   [22/100] South Gate Veterinary Clinic
+[04:29:38]     → skip: no_data
+[04:29:38]   [23/100] Directory of hotel management firms
+[04:29:50]     [~ guess] ralph@wealthmanagement.com (Ralph Haberli)
+[04:29:50]   [24/100] About Emerald Plumbing of Orlando
+[04:29:52]     → skip: no_data
+[04:29:52]   [25/100] Recent Jobs in Florida
+[04:29:52]     → skip: no_data
+[04:29:52]   [26/100] BathMasters, Servicing Pinellas, Hillsborough
+[04:29:52]     → skip: no_mx:bathroomrenovation.com
+[04:29:52]   [27/100] Epoxy Flooring & Polished Concrete Contractor
+[04:30:09]     → skip: no_data
+[04:30:09]   [28/100] Find an HVAC Dealer Near Me in Bradenton, Flo
+[04:30:16]     → skip: no_data
+[04:30:16]   [29/100] Wanted Old Motorcycles ☎️. 1(800)220-9683 www
+[04:30:16]     → skip: no_domain
+[04:30:16]   [30/100] Home
+[04:30:16]     → skip: no_mx:oldkingsdentalcare.com
+[04:30:16]   [31/100] Electrical Services Kissimmee, FL
+[04:30:22]     → skip: no_data
+[04:30:22]   [32/100] construction project manager jobs in jensen b
+[04:30:23]     → skip: no_data
+[04:30:23]   [33/100] Property Management Companies in Port Saint L
+[04:30:23]     → skip: no_domain
+[04:30:23]   [34/100] Summer Program
+[04:30:25]     [★ FOUND] riverside1@kidsworldflorida.com
+[04:30:25]   [35/100] Warehouses
+[04:30:55]     → skip: no_data
+[04:30:55]   [36/100] Enhance Your Space with Premium Flooring in S
+[04:30:55]     → skip: no_mx:thedesign.center
+[04:30:56]   [37/100] The School District of Osceola County, Florid
+[04:30:59]     → skip: no_data
+[04:30:59]   [38/100] Stuart Florida Real Estate | Premier Group at
+[04:31:02]     → skip: no_data
+[04:31:02]   [39/100] Jupiter Plumbing Contractor
+[04:31:11]     [~ guess] kevin@buckeyeplmg.com (Kevin Gillum)
+[04:31:12]   [40/100] Castle Concrete
+[04:31:15]     → skip: no_data
+[04:31:15]   [41/100] Shephard’s Beach Resort
+[04:31:19]     → skip: no_data
+[04:31:19]   [42/100] Stella Tower, Nagpur, Maharashtra, India – e
+[04:31:23]     → skip: no_data
+[04:31:23]   [43/100] Stuart Congregational Church in Stuart, Flori
+[04:31:29]     → skip: no_data
+[04:31:29]   [44/100] Beer Guide: San Francisco, California
+[04:31:33]     → skip: no_data
+[04:31:33]   [45/100] Home
+[04:34:13]     → skip: no_data
+[04:34:13]   [46/100] Sarasota Dentistry: General & Cosmetic Dentis
+[04:34:20]     → skip: no_data
+[04:34:20]   [47/100] Churches in New Haven Connecticut
+[04:34:23]     → skip: no_data
+[04:34:24]   [48/100] CONTACT
+[04:34:25]     → skip: no_data
+[04:34:25]   [49/100] Huntsville Dentists: Pediatric, Family, & Eme
+[04:34:29]     → skip: no_data
+[04:34:30]   [50/100] Homestead Electrician
+[04:34:39]     → skip: no_data
+[04:34:39]   [51/100] Hotels In Stuart Florida
+[04:34:44]     → skip: no_data
+[04:34:44]   [52/100] Home
+[04:34:44]     → skip: no_data
+[04:34:45]   [53/100] Capstone Association Management
+[04:34:45]     → skip: no_mx:hoamanagementcompanies.net
+[04:34:45]   [54/100] 请问美国留学租房house和apartment我应该住哪个？
+[04:34:49]     [★ FOUND] jubao@zhihu.com
+[04:34:49]   [55/100] Warehouses for Sale in Jupiter, FL
+[04:34:50]     → skip: no_data
+[04:34:51]   [56/100] Station 11
+[04:34:51]     → skip: no_mx:slcfd.com
+[04:34:51]   [57/100] Boca Raton Veterinary Clinic Contacts

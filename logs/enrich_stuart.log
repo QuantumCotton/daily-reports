@@ -1,0 +1,195 @@
+[04:26:50] ============================================================
+[04:26:50] LEAD ENRICHER v4 — batch: 100
+[04:26:50] Strategy: Scrape sites directly ($0) → find personal emails → SMTP verify
+[04:26:50] Brave API: OFF (saving money)
+[04:26:50] ============================================================
+[04:26:50] Found 100 leads to process
+[04:26:50]   [1/100] Roofing Contractor Cape Coral, FL
+[04:26:55]     [★ FOUND] dawn@bigriverroofing.com
+[04:26:56]   [2/100] Contact Us
+[04:27:00]     [★ FOUND] gary@palmbeachrestaurantequipment.com
+[04:27:00]   [3/100] Real Property Management Vesta
+[04:27:06]     → skip: no_data
+[04:27:06]   [4/100] GME at HCA Florida St. Petersburg Hospital
+[04:27:06]     → skip: no_mx:hcahealthcaregme.com
+[04:27:06]   [5/100] 26 Best Miami Coffee Shops to Work, Gather an
+[04:27:11]     → skip: no_data
+[04:27:12]   [6/100] Suntec Concrete
+[04:27:16]     [~ guess] kevin@suntecconcrete.com (Kevin Neill)
+[04:27:16]   [7/100] General Contractors in Orlando, FL
+[04:27:23]     → skip: no_data
+[04:27:23]   [8/100] Contact Us — Big Sky Aviation
+[04:27:26]     → skip: no_data
+[04:27:26]   [9/100] Same Day Plumbers for Hialeah
+[04:27:28]     → skip: no_data
+[04:27:28]   [10/100] Meliá Athens
+[04:27:29]     → skip: no_data
+[04:27:29]   [11/100] Dock Levelers in Fort Lauderdale, FL
+[04:27:38]     → skip: no_data
+[04:27:38]   [12/100] First Class: AC Repair Cape Coral FL
+[04:27:38]     → skip: no_mx:firstclassairconditioning.com
+[04:27:38]   [13/100] Nashville Residential Epoxy Flooring
+[04:27:44]     → skip: no_data
+[04:27:44]   [14/100] Pro-Health & Fitness Center
+[04:27:48]     → skip: no_data
+[04:27:48]   [15/100] Restaurant & Food Franchises Opportunities in
+[04:27:49]     → skip: no_data
+[04:27:49]   [16/100] Fast Food in Fort Pierce, FL at 7001 Okeechob
+[04:27:52]     → skip: no_data
+[04:27:52]   [17/100] Clearshine Detailing: Vehicle Detailing Servi
+[04:27:52]     → skip: no_mx:clearshinedetailingfl.net
+[04:27:52]   [18/100] Veterinary Specialty Hospital of Palm Beach G
+[04:27:52]     → skip: no_data
+[04:27:52]   [19/100] Concrete Contractor Services in Hollywood, FL
+[04:27:54]     → skip: no_data
+[04:27:54]   [20/100] Is (being) loaded
+[04:27:55]     → skip: no_mx:ell.stackexchange.com
+[04:27:55]   [21/100] INDUSTRIAL Definition & Meaning
+[04:27:56]     → skip: no_data
+[04:27:57]   [22/100] 99 Stylish Bathroom Ideas
+[04:27:58]     → skip: no_data
+[04:27:58]   [23/100] Super Gutter Clearwater FL
+[04:28:06]     → skip: no_data
+[04:28:06]   [24/100] Bathroom Remodeling Project #712 – Vero Beach
+[04:28:14]     → skip: no_data
+[04:28:14]   [25/100] Loading Dock & Overhead Door in Orlando, FL
+[04:28:18]     [★ FOUND] jason.lucas@duraservcorp.com (Jason Lucas)
+[04:28:19]   [26/100] P. LeBlanc Construction
+[04:28:19]     → skip: no_mx:plcnola.com
+[04:28:19]   [27/100] Jacksonville daycare
+[04:28:23]     → skip: no_data
+[04:28:23]   [28/100] Contact Jeff Dickerson, Email: j***@frontline
+[04:28:23]     → skip: no_domain
+[04:28:24]   [29/100] heavy equipment operator jobs in fort pierce,
+[04:28:24]     → skip: no_data
+[04:28:24]   [30/100] Animal General Hospital: Veterinarian in Colu
+[04:28:32]     → skip: no_data
+[04:28:32]   [31/100] General Aviation
+[04:28:36]     → skip: no_data
+[04:28:36]   [32/100] 492 fleet mechanic jobs in Florida, November 
+[04:28:36]     → skip: no_data
+[04:28:37]   [33/100] Contact Us for Cold Storage and Logistics
+[04:28:40]     → skip: no_data
+[04:28:40]   [34/100] Contact Best Electric of Palm Bay,
+[04:28:43]     → skip: no_data
+[04:28:43]   [35/100] The Hangar
+[04:28:47]     → skip: no_data
+[04:28:47]   [36/100] Restoration Church
+[04:28:54]     → skip: no_data
+[04:28:54]   [37/100] General Contractor
+[04:28:57]     → skip: no_data
+[04:28:57]   [38/100] Licensing (Retail License)
+[04:29:01]     → skip: no_data
+[04:29:01]   [39/100] Mobile Car Wash & Auto Detailing in Boca Rato
+[04:29:01]     → skip: no_mx:onthemovecarwash.com
+[04:29:01]   [40/100] Appalachian Seamless
+[04:29:06]     → skip: no_data
+[04:29:07]   [41/100] The Factory
+[04:29:10]     → skip: no_data
+[04:29:10]   [42/100] Home
+[04:29:15]     → skip: no_data
+[04:29:15]   [43/100] Storage Facility in Palm Coast, FL
+[04:29:23]     → skip: no_data
+[04:29:23]   [44/100] Animal Hospital in Naples, FL
+[04:29:28]     → skip: no_data
+[04:29:29]   [45/100] ADVENTHEALTH KISSIMMEE Facility Profile
+[04:29:31]     → skip: no_data
+[04:29:31]   [46/100] Handyman and home modifications in South Wilm
+[04:29:33]     → skip: no_data
+[04:29:33]   [47/100] Electrician in Lakeland, Plant City and Winte
+[04:29:44]     → skip: no_data
+[04:29:44]   [48/100] Flow Masterz Professional Gutter Installation
+[04:29:44]     → skip: no_mx:fmseamlessgutters.com
+[04:29:44]   [49/100] Airplane
+[04:29:44]     → skip: no_mx:britannica.com
+[04:29:45]   [50/100] Orlando HVAC and Air Conditioning Service
+[04:29:50]     → skip: no_data
+[04:29:50]   [51/100] Savannah Aviation at KSAV
+[04:29:55]     → skip: no_data
+[04:29:55]   [52/100] Enhance Your Space with Premium Flooring in S
+[04:29:55]     → skip: no_mx:thedesign.center
+[04:29:56]   [53/100] Contact Benjamin Hauser, Email: b***@metaltek
+[04:29:56]     → skip: no_domain
+[04:29:56]   [54/100] Marina
+[04:29:59]     → skip: no_data
+[04:29:59]   [55/100] Contact Us for Cold Storage and Logistics
+[04:30:03]     → skip: no_data
+[04:30:03]   [56/100] Quality Inn Gulfport/Airport
+[04:30:06]     → skip: no_data
+[04:30:07]   [57/100] Bathroom Remodeler Service & Tile Installatio
+[04:30:17]     → skip: no_data
+[04:30:17]   [58/100] Customized Cold Storage Solutions
+[04:30:24]     → skip: no_data
+[04:30:24]   [59/100] Keane Landscaping
+[04:30:29]     → skip: no_data
+[04:30:29]   [60/100] Anytime Fitness
+[04:30:31]     → skip: no_data
+[04:30:32]   [61/100] Concrete Contractor in Pompano Beach, FL
+[04:30:42]     → skip: no_data
+[04:30:42]   [62/100] Tallahassee Memorial Hospital
+[04:30:44]     → skip: no_data
+[04:30:44]   [63/100] Licensed Building Contractor
+[04:30:47]     → skip: no_data
+[04:30:47]   [64/100] Blue Bubble Laundry
+[04:30:52]     → skip: no_data
+[04:30:52]   [65/100] 15 Best Commercial Epoxy floor Contractors Au
+[04:30:54]     → skip: no_data
+[04:30:54]   [66/100] Kitchen Leader in Jupiter at CHIPOTLE
+[04:30:56]     → skip: no_data
+[04:30:57]   [67/100] La Florida Coffee & Wine
+[04:31:00]     → skip: no_data
+[04:31:00]   [68/100] F_Existing Industry in Pompano Beach
+[04:31:03]     → skip: no_data
+[04:31:03]   [69/100] Bradenton, FL Commercial Real Estate for Sale
+[04:31:03]     → skip: no_mx:commercial.century21.com
+[04:31:03]   [70/100] HVAC Services in Jupiter, FL
+[04:31:07]     → skip: no_data
+[04:31:08]   [71/100] Mobile Detailing Hollywood, Fl
+[04:31:12]     → skip: no_data
+[04:31:12]   [72/100] Hardwood Floor Installation in Fort Lauderdal
+[04:31:12]     → skip: no_mx:flooring.cbsservicesusa.com
+[04:31:12]   [73/100] Worship
+[04:31:16]     [★ FOUND] lilc@woodmontbaptist.com
+[04:31:16]   [74/100] JRHS
+[04:31:17]     → skip: no_domain
+[04:31:17]   [75/100] Dock & Door
+[04:31:24]     → skip: no_data
+[04:31:24]   [76/100] Locations
+[04:31:31]     → skip: no_data
+[04:31:31]   [77/100] Contact Universal Plumbing Shreveport 318-631
+[04:31:32]     → skip: no_mx:universalplumbingco.com
+[04:31:32]   [78/100] Epoxy Flooring, Residential Epoxy Flooring, N
+[04:31:42]     → skip: no_data
+[04:31:42]   [79/100] Plumb rite
+[04:31:44]     → skip: no_data
+[04:31:44]   [80/100] HVAC Contractor Miami-Dade County, FL
+[04:31:51]     → skip: no_data
+[04:31:51]   [81/100] List of 150 fast food restaurants in Raleigh
+[04:31:52]     → skip: no_mx:restaurantslistshq.com
+[04:31:52]   [82/100] Concrete, Concrete Contractors, Concrete in G
+[04:31:56]     → skip: no_data
+[04:31:57]   [83/100] Your Cox.net email is moving soon to Yahoo Ma
+[04:31:57]     → skip: no_domain
+[04:31:57]   [84/100] HVAC Services Jupiter, FL
+[04:32:05]     → skip: no_data
+[04:32:05]   [85/100] Carwash and Detail Services
+[04:32:05]     → skip: no_data
+[04:32:05]   [86/100] Miami Electrician
+[04:32:07]     [★ FOUND] rodrigo@elekronelectric.com
+[04:32:07]   [87/100] Contact Information
+[04:32:37]     → skip: no_data
+[04:32:38]   [88/100] Publix Delivery or Pickup
+[04:32:38]     → skip: no_data
+[04:32:38]   [89/100] Hardwood Flooring Services in Naples, FL
+[04:32:42]     → skip: no_data
+[04:32:42]   [90/100] Banner Chevrolet
+[04:32:50]     → skip: no_data
+[04:32:50]   [91/100] Find Manufacturing Companies in Daytona Beach
+[04:32:50]     → skip: no_domain
+[04:32:50]   [92/100] Warehousing & Fulfillment Services
+[04:32:53]     → skip: no_data
+[04:32:53]   [93/100] Tampa Laundromat
+[04:32:57]     → skip: no_data
+[04:32:57]   [94/100] Dentist in Pensacola FL
+[04:33:04]     → skip: no_data
+[04:33:04]   [95/100] Church in Stuart, FL

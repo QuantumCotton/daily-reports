@@ -1,0 +1,1059 @@
+[04:30:06][SEG1] ============================================================
+[04:30:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[04:30:06][SEG1] ============================================================
+[04:30:06][SEG1] Loaded 785 leads
+[04:30:06][SEG1] Leads in segment 1: 8
+[04:30:06][SEG1] Processing batch of 8
+[04:30:06][SEG1]   [1/8] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[04:30:06][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[04:30:06][SEG1]   [2/8] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[04:30:06][SEG1]     → SKIP: no MX for mobiledetailing.io
+[04:30:06][SEG1]   [3/8] The Brennity at Tradition Senior Living  → brennitytradition.com
+[04:30:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[04:30:07][SEG1]   [4/8] Detail by Entity Name → search.sunbiz.org
+[04:30:07][SEG1]     → SKIP: no MX for search.sunbiz.org
+[04:30:07][SEG1]   [5/8] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[04:30:07][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[04:30:08][SEG1]   [6/8] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[04:30:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[04:30:08][SEG1]   [7/8] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[04:30:08][SEG1]     → SKIP: no MX for concretesciencefl.com
+[04:30:08][SEG1]   [8/8] Home → sarasotaseamlessgutters.com
+[04:30:08][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[04:30:09][SEG1] SEGMENT 1 COMPLETE: 0 guessed, 0 verified
+[04:30:09][SEG1] ============================================================
+[04:45:06][SEG1] ============================================================
+[04:45:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[04:45:06][SEG1] ============================================================
+[04:45:06][SEG1] Loaded 1020 leads
+[04:45:06][SEG1] Leads in segment 1: 51
+[04:45:06][SEG1] Processing batch of 30
+[04:45:06][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[04:45:06][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[04:45:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[04:45:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[04:45:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[04:45:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[04:45:07][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[04:45:07][SEG1]     → SKIP: no MX for search.sunbiz.org
+[04:45:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[04:45:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[04:45:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[04:45:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[04:45:08][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[04:45:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[04:45:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[04:45:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[04:45:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[04:45:09][SEG1]     → SKIP: no MX for thelucilleapts.com
+[04:45:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[04:45:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[04:45:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[04:45:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[04:45:12][SEG1]   [12/30] Bella Vista Apartments → liveatbellavistapsl.com
+[04:45:13][SEG1]     → info@liveatbellavistapsl.com (generic guess (liveatbellavistapsl.com))
+[04:45:14][SEG1]   [13/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[04:45:14][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[04:45:14][SEG1]   [14/30] Naples Motorsports → naplesmotorsports.com
+[04:45:14][SEG1]     → info@naplesmotorsports.com (SMTP verified at naplesmotorsports.com)
+[04:45:15][SEG1]   [15/30] Naples Property Management Services → naplesfloridarealty.com
+[04:45:16][SEG1]     → info@naplesfloridarealty.com (generic guess (naplesfloridarealty.com))
+[04:45:16][SEG1]   [16/30] Boca Raton Property Management - #1 Sout → properties.rent
+[04:45:17][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[04:45:17][SEG1]   [17/30] Property Management Scottsdale, AZ - Mar → markrent.com
+[04:45:17][SEG1]     → info@markrent.com (generic guess (markrent.com))
+[04:45:18][SEG1]   [18/30] Scottsdale AZ Property Management Expert → markenpropertymanagement.com
+[04:45:18][SEG1]     → info@markenpropertymanagement.com (SMTP verified at markenpropertymanagement.com)
+[04:45:18][SEG1]   [19/30] Property Management | Austin Texas → pmtaustin.com
+[04:45:18][SEG1]     → SKIP: no MX for pmtaustin.com
+[04:45:19][SEG1]   [20/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[04:45:19][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[04:45:19][SEG1]   [21/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[04:45:20][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[04:45:20][SEG1]   [22/30] Jupiter Property Management → mangrovepm.com
+[04:45:22][SEG1]     → admin@mangrovepm.com (SMTP verified at mangrovepm.com)
+[04:45:22][SEG1]   [23/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[04:45:22][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[04:45:22][SEG1]   [24/30] Scottsdale property management → fsresidential.com
+[04:45:24][SEG1]     → info@fsresidential.com (generic guess (fsresidential.com))
+[04:45:24][SEG1]   [25/30] Property Management Scottsdale AZ - Year → leaseaz.com
+[04:45:25][SEG1]     → info@leaseaz.com (generic guess (leaseaz.com))
+[04:45:26][SEG1]   [26/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[04:45:26][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[04:45:26][SEG1]   [27/30] Austin Property Management Company → austin-propertymanagement.com
+[04:45:26][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[04:45:27][SEG1]   [28/30] Austin property management: Serving rent → fsresidential.com
+[04:45:27][SEG1]     → info@fsresidential.com (generic guess (fsresidential.com))
+[04:45:28][SEG1]   [29/30] Nashville Property Management | Nashvill → nashville-property.management
+[04:45:28][SEG1]     → SKIP: no MX for nashville-property.management
+[04:45:28][SEG1]   [30/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[04:45:28][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[04:45:28][SEG1] Wrote 13 guessed emails (5 SMTP verified)
+[04:45:28][SEG1] SEGMENT 1 COMPLETE: 13 guessed, 5 verified
+[04:45:28][SEG1] ============================================================
+[05:00:08][SEG1] ============================================================
+[05:00:08][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[05:00:08][SEG1] ============================================================
+[05:00:08][SEG1] Loaded 1253 leads
+[05:00:08][SEG1] Leads in segment 1: 74
+[05:00:08][SEG1] Processing batch of 30
+[05:00:08][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[05:00:08][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[05:00:08][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[05:00:08][SEG1]     → SKIP: no MX for mobiledetailing.io
+[05:00:08][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[05:00:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[05:00:09][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[05:00:09][SEG1]     → SKIP: no MX for search.sunbiz.org
+[05:00:09][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[05:00:09][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[05:00:10][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[05:00:10][SEG1]     → SKIP: no MX for desanctishomes.com
+[05:00:10][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[05:00:10][SEG1]     → SKIP: no MX for concretesciencefl.com
+[05:00:10][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[05:00:11][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[05:00:11][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[05:00:11][SEG1]     → SKIP: no MX for thelucilleapts.com
+[05:00:11][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[05:00:13][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[05:00:13][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[05:00:13][SEG1]     → SKIP: no MX for altoncentralpark.com
+[05:00:13][SEG1]   [12/30] Bella Vista Apartments → liveatbellavistapsl.com
+[05:00:15][SEG1]     → info@liveatbellavistapsl.com (generic guess (liveatbellavistapsl.com))
+[05:00:15][SEG1]   [13/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[05:00:15][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[05:00:15][SEG1]   [14/30] Boca Raton Property Management - #1 Sout → properties.rent
+[05:00:16][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[05:00:16][SEG1]   [15/30] Property Management Scottsdale, AZ - Mar → markrent.com
+[05:00:17][SEG1]     → sales@markrent.com (SMTP verified at markrent.com)
+[05:00:18][SEG1]   [16/30] Scottsdale AZ Property Management Expert → markenpropertymanagement.com
+[05:00:18][SEG1]     → info@markenpropertymanagement.com (SMTP verified at markenpropertymanagement.com)
+[05:00:19][SEG1]   [17/30] Property Management | Austin Texas → pmtaustin.com
+[05:00:19][SEG1]     → SKIP: no MX for pmtaustin.com
+[05:00:19][SEG1]   [18/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[05:00:19][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[05:00:19][SEG1]   [19/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[05:00:20][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[05:00:21][SEG1]   [20/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[05:00:21][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[05:00:21][SEG1]   [21/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[05:00:21][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[05:00:22][SEG1]   [22/30] Austin Property Management Company → austin-propertymanagement.com
+[05:00:22][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[05:00:22][SEG1]   [23/30] Austin property management: Serving rent → fsresidential.com
+[05:00:23][SEG1]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:00:24][SEG1]   [24/30] Nashville Property Management | Nashvill → nashville-property.management
+[05:00:24][SEG1]     → SKIP: no MX for nashville-property.management
+[05:00:24][SEG1]   [25/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[05:00:24][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[05:00:24][SEG1]   [26/30] Kitchen Restaurant → kitchenwpb.com
+[05:00:25][SEG1]     → SKIP: no MX for kitchenwpb.com
+[05:00:25][SEG1]   [27/30] Your Culinary Place → yourculinaryplace.com
+[05:00:26][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[05:00:26][SEG1]   [28/30] Michael's On East → michaelsontheast.com
+[05:00:26][SEG1]     → SKIP: no MX for michaelsontheast.com
+[05:00:27][SEG1]   [29/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[05:00:27][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[05:00:27][SEG1]   [30/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[05:00:28][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[05:00:28][SEG1] Wrote 10 guessed emails (4 SMTP verified)
+[05:00:28][SEG1] SEGMENT 1 COMPLETE: 10 guessed, 4 verified
+[05:00:28][SEG1] ============================================================
+[05:15:06][SEG1] ============================================================
+[05:15:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[05:15:06][SEG1] ============================================================
+[05:15:06][SEG1] Loaded 2665 leads
+[05:15:06][SEG1] Leads in segment 1: 471
+[05:15:06][SEG1] Processing batch of 30
+[05:15:06][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[05:15:06][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[05:15:06][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[05:15:06][SEG1]     → SKIP: no MX for mobiledetailing.io
+[05:15:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[05:15:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[05:15:07][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[05:15:07][SEG1]     → SKIP: no MX for search.sunbiz.org
+[05:15:07][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[05:15:07][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[05:15:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[05:15:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[05:15:08][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[05:15:08][SEG1]     → SKIP: no MX for concretesciencefl.com
+[05:15:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[05:15:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[05:15:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[05:15:09][SEG1]     → SKIP: no MX for thelucilleapts.com
+[05:15:09][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[05:15:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[05:15:11][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[05:15:11][SEG1]     → SKIP: no MX for altoncentralpark.com
+[05:15:11][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[05:15:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[05:15:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[05:15:12][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[05:15:13][SEG1]   [14/30] Property Management Scottsdale, AZ - Mar → markrent.com
+[05:15:14][SEG1]     → sales@markrent.com (SMTP verified at markrent.com)
+[05:15:14][SEG1]   [15/30] Scottsdale AZ Property Management Expert → markenpropertymanagement.com
+[05:15:15][SEG1]     → info@markenpropertymanagement.com (SMTP verified at markenpropertymanagement.com)
+[05:15:15][SEG1]   [16/30] Property Management | Austin Texas → pmtaustin.com
+[05:15:15][SEG1]     → SKIP: no MX for pmtaustin.com
+[05:15:15][SEG1]   [17/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[05:15:15][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[05:15:16][SEG1]   [18/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[05:15:17][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[05:15:17][SEG1]   [19/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[05:15:18][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[05:15:18][SEG1]   [20/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[05:15:18][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[05:15:18][SEG1]   [21/30] Austin Property Management Company → austin-propertymanagement.com
+[05:15:18][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[05:15:19][SEG1]   [22/30] Austin property management: Serving rent → fsresidential.com
+[05:15:20][SEG1]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:15:20][SEG1]   [23/30] Nashville Property Management | Nashvill → nashville-property.management
+[05:15:20][SEG1]     → SKIP: no MX for nashville-property.management
+[05:15:20][SEG1]   [24/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[05:15:21][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[05:15:21][SEG1]   [25/30] Kitchen Restaurant → kitchenwpb.com
+[05:15:21][SEG1]     → SKIP: no MX for kitchenwpb.com
+[05:15:21][SEG1]   [26/30] Your Culinary Place → yourculinaryplace.com
+[05:15:22][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[05:15:23][SEG1]   [27/30] Michael's On East → michaelsontheast.com
+[05:15:23][SEG1]     → SKIP: no MX for michaelsontheast.com
+[05:15:23][SEG1]   [28/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[05:15:23][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[05:15:23][SEG1]   [29/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[05:15:25][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[05:15:25][SEG1]   [30/30] South Florida Realty Management → floridapm.net
+[05:15:26][SEG1]     → info@floridapm.net (SMTP verified at floridapm.net)
+[05:15:26][SEG1] Wrote 10 guessed emails (5 SMTP verified)
+[05:15:26][SEG1] SEGMENT 1 COMPLETE: 10 guessed, 5 verified
+[05:15:26][SEG1] ============================================================
+[05:30:07][SEG1] ============================================================
+[05:30:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[05:30:07][SEG1] ============================================================
+[05:30:07][SEG1] Loaded 2665 leads
+[05:30:07][SEG1] Leads in segment 1: 452
+[05:30:07][SEG1] Processing batch of 30
+[05:30:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[05:30:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[05:30:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[05:30:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[05:30:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[05:30:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[05:30:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[05:30:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[05:30:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[05:30:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[05:30:09][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[05:30:09][SEG1]     → SKIP: no MX for desanctishomes.com
+[05:30:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[05:30:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[05:30:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[05:30:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[05:30:10][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[05:30:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[05:30:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[05:30:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[05:30:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[05:30:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[05:30:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[05:30:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[05:30:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[05:30:13][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[05:30:13][SEG1]   [14/30] Property Management Scottsdale, AZ - Mar → markrent.com
+[05:30:14][SEG1]     → sales@markrent.com (SMTP verified at markrent.com)
+[05:30:14][SEG1]   [15/30] Property Management | Austin Texas → pmtaustin.com
+[05:30:14][SEG1]     → SKIP: no MX for pmtaustin.com
+[05:30:15][SEG1]   [16/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[05:30:15][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[05:30:15][SEG1]   [17/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[05:30:17][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[05:30:17][SEG1]   [18/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[05:30:17][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[05:30:17][SEG1]   [19/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[05:30:18][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[05:30:18][SEG1]   [20/30] Austin Property Management Company → austin-propertymanagement.com
+[05:30:18][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[05:30:18][SEG1]   [21/30] Austin property management: Serving rent → fsresidential.com
+[05:30:19][SEG1]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:30:20][SEG1]   [22/30] Nashville Property Management | Nashvill → nashville-property.management
+[05:30:20][SEG1]     → SKIP: no MX for nashville-property.management
+[05:30:20][SEG1]   [23/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[05:30:20][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[05:30:20][SEG1]   [24/30] Kitchen Restaurant → kitchenwpb.com
+[05:30:20][SEG1]     → SKIP: no MX for kitchenwpb.com
+[05:30:21][SEG1]   [25/30] Your Culinary Place → yourculinaryplace.com
+[05:30:22][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[05:30:22][SEG1]   [26/30] Michael's On East → michaelsontheast.com
+[05:30:22][SEG1]     → SKIP: no MX for michaelsontheast.com
+[05:30:23][SEG1]   [27/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[05:30:23][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[05:30:23][SEG1]   [28/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[05:30:24][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[05:30:24][SEG1]   [29/30] South Florida Realty Management → floridapm.net
+[05:30:24][SEG1]     → info@floridapm.net (SMTP verified at floridapm.net)
+[05:30:25][SEG1]   [30/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[05:30:25][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[05:30:26][SEG1] Wrote 10 guessed emails (4 SMTP verified)
+[05:30:26][SEG1] SEGMENT 1 COMPLETE: 10 guessed, 4 verified
+[05:30:26][SEG1] ============================================================
+[05:45:06][SEG1] ============================================================
+[05:45:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[05:45:06][SEG1] ============================================================
+[05:45:06][SEG1] Loaded 2665 leads
+[05:45:07][SEG1] Leads in segment 1: 432
+[05:45:07][SEG1] Processing batch of 30
+[05:45:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[05:45:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[05:45:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[05:45:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[05:45:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[05:45:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[05:45:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[05:45:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[05:45:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[05:45:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[05:45:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[05:45:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[05:45:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[05:45:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[05:45:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[05:45:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[05:45:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[05:45:09][SEG1]     → SKIP: no MX for thelucilleapts.com
+[05:45:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[05:45:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[05:45:11][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[05:45:11][SEG1]     → SKIP: no MX for altoncentralpark.com
+[05:45:11][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[05:45:11][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[05:45:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[05:45:12][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[05:45:12][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[05:45:12][SEG1]     → SKIP: no MX for pmtaustin.com
+[05:45:13][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[05:45:13][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[05:45:13][SEG1]   [16/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[05:45:14][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[05:45:14][SEG1]   [17/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[05:45:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[05:45:15][SEG1]   [18/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[05:45:15][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[05:45:15][SEG1]   [19/30] Austin Property Management Company → austin-propertymanagement.com
+[05:45:15][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[05:45:16][SEG1]   [20/30] Nashville Property Management | Nashvill → nashville-property.management
+[05:45:16][SEG1]     → SKIP: no MX for nashville-property.management
+[05:45:16][SEG1]   [21/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[05:45:16][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[05:45:16][SEG1]   [22/30] Kitchen Restaurant → kitchenwpb.com
+[05:45:16][SEG1]     → SKIP: no MX for kitchenwpb.com
+[05:45:17][SEG1]   [23/30] Your Culinary Place → yourculinaryplace.com
+[05:45:18][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[05:45:18][SEG1]   [24/30] Michael's On East → michaelsontheast.com
+[05:45:18][SEG1]     → SKIP: no MX for michaelsontheast.com
+[05:45:19][SEG1]   [25/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[05:45:19][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[05:45:19][SEG1]   [26/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[05:45:19][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[05:45:20][SEG1]   [27/30] South Florida Realty Management → floridapm.net
+[05:45:20][SEG1]     → info@floridapm.net (SMTP verified at floridapm.net)
+[05:45:21][SEG1]   [28/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[05:45:21][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[05:45:22][SEG1]   [29/30] AutoZone Port St Lucie FL → autozone.com
+[05:45:24][SEG1]     → info@autozone.com (generic guess (autozone.com))
+[05:45:24][SEG1]   [30/30] Del-Air → delair.com
+[05:45:38][SEG1]     → info@delair.com (generic guess (delair.com))
+[05:45:38][SEG1] Wrote 10 guessed emails (3 SMTP verified)
+[05:45:38][SEG1] SEGMENT 1 COMPLETE: 10 guessed, 3 verified
+[05:45:38][SEG1] ============================================================
+[06:00:07][SEG1] ============================================================
+[06:00:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[06:00:07][SEG1] ============================================================
+[06:00:07][SEG1] Loaded 2665 leads
+[06:00:07][SEG1] Leads in segment 1: 411
+[06:00:07][SEG1] Processing batch of 30
+[06:00:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[06:00:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[06:00:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[06:00:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[06:00:08][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[06:00:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[06:00:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[06:00:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[06:00:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[06:00:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[06:00:09][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[06:00:09][SEG1]     → SKIP: no MX for desanctishomes.com
+[06:00:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[06:00:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[06:00:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[06:00:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[06:00:10][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[06:00:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[06:00:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[06:00:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[06:00:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[06:00:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[06:00:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[06:00:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[06:00:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[06:00:13][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[06:00:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[06:00:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[06:00:13][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[06:00:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[06:00:14][SEG1]   [16/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[06:00:16][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[06:00:16][SEG1]   [17/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[06:00:16][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[06:00:16][SEG1]   [18/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[06:00:17][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[06:00:17][SEG1]   [19/30] Austin Property Management Company → austin-propertymanagement.com
+[06:00:17][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[06:00:17][SEG1]   [20/30] Nashville Property Management | Nashvill → nashville-property.management
+[06:00:17][SEG1]     → SKIP: no MX for nashville-property.management
+[06:00:18][SEG1]   [21/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[06:00:18][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[06:00:18][SEG1]   [22/30] Kitchen Restaurant → kitchenwpb.com
+[06:00:18][SEG1]     → SKIP: no MX for kitchenwpb.com
+[06:00:18][SEG1]   [23/30] Your Culinary Place → yourculinaryplace.com
+[06:00:20][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[06:00:20][SEG1]   [24/30] Michael's On East → michaelsontheast.com
+[06:00:20][SEG1]     → SKIP: no MX for michaelsontheast.com
+[06:00:20][SEG1]   [25/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[06:00:20][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[06:00:21][SEG1]   [26/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[06:00:21][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[06:00:22][SEG1]   [27/30] South Florida Realty Management → floridapm.net
+[06:00:22][SEG1]     → info@floridapm.net (SMTP verified at floridapm.net)
+[06:00:23][SEG1]   [28/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[06:00:24][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[06:00:24][SEG1]   [29/30] AutoZone Port St Lucie FL → autozone.com
+[06:00:27][SEG1]     → info@autozone.com (generic guess (autozone.com))
+[06:00:27][SEG1]   [30/30] Del-Air → delair.com
+[06:00:36][SEG1]     → info@delair.com (generic guess (delair.com))
+[06:00:36][SEG1] Wrote 10 guessed emails (3 SMTP verified)
+[06:00:36][SEG1] SEGMENT 1 COMPLETE: 10 guessed, 3 verified
+[06:00:36][SEG1] ============================================================
+[06:15:06][SEG1] ============================================================
+[06:15:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[06:15:06][SEG1] ============================================================
+[06:15:06][SEG1] Loaded 2665 leads
+[06:15:06][SEG1] Leads in segment 1: 395
+[06:15:06][SEG1] Processing batch of 30
+[06:15:06][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[06:15:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[06:15:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[06:15:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[06:15:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[06:15:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[06:15:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[06:15:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[06:15:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[06:15:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[06:15:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[06:15:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[06:15:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[06:15:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[06:15:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[06:15:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[06:15:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[06:15:09][SEG1]     → SKIP: no MX for thelucilleapts.com
+[06:15:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[06:15:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[06:15:11][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[06:15:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[06:15:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[06:15:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[06:15:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[06:15:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[06:15:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[06:15:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[06:15:13][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[06:15:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[06:15:14][SEG1]   [16/30] Property Management Sarasota FL - Profes → stringermanagement.com
+[06:15:15][SEG1]     → info@stringermanagement.com (generic guess (stringermanagement.com))
+[06:15:15][SEG1]   [17/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[06:15:16][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[06:15:16][SEG1]   [18/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[06:15:17][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[06:15:17][SEG1]   [19/30] Austin Property Management Company → austin-propertymanagement.com
+[06:15:17][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[06:15:18][SEG1]   [20/30] Nashville Property Management | Nashvill → nashville-property.management
+[06:15:18][SEG1]     → SKIP: no MX for nashville-property.management
+[06:15:18][SEG1]   [21/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[06:15:18][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[06:15:18][SEG1]   [22/30] Kitchen Restaurant → kitchenwpb.com
+[06:15:18][SEG1]     → SKIP: no MX for kitchenwpb.com
+[06:15:19][SEG1]   [23/30] Your Culinary Place → yourculinaryplace.com
+[06:15:20][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[06:15:20][SEG1]   [24/30] Michael's On East → michaelsontheast.com
+[06:15:20][SEG1]     → SKIP: no MX for michaelsontheast.com
+[06:15:21][SEG1]   [25/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[06:15:21][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[06:15:21][SEG1]   [26/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[06:15:22][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[06:15:22][SEG1]   [27/30] South Florida Realty Management → floridapm.net
+[06:15:23][SEG1]     → contact@floridapm.net (SMTP verified at floridapm.net)
+[06:15:23][SEG1]   [28/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[06:15:24][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[06:15:24][SEG1]   [29/30] AutoZone Port St Lucie FL → autozone.com
+[06:15:27][SEG1]     → info@autozone.com (generic guess (autozone.com))
+[06:15:27][SEG1]   [30/30] Del-Air → delair.com
+[06:15:40][SEG1]     → info@delair.com (generic guess (delair.com))
+[06:15:40][SEG1] Wrote 10 guessed emails (2 SMTP verified)
+[06:15:40][SEG1] SEGMENT 1 COMPLETE: 10 guessed, 2 verified
+[06:15:40][SEG1] ============================================================
+[06:30:08][SEG1] ============================================================
+[06:30:08][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[06:30:08][SEG1] ============================================================
+[06:30:08][SEG1] Loaded 2665 leads
+[06:30:08][SEG1] Leads in segment 1: 376
+[06:30:08][SEG1] Processing batch of 30
+[06:30:08][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[06:30:08][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[06:30:08][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[06:30:09][SEG1]     → SKIP: no MX for mobiledetailing.io
+[06:30:09][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[06:30:09][SEG1]     → SKIP: no MX for brennitytradition.com
+[06:30:09][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[06:30:09][SEG1]     → SKIP: no MX for search.sunbiz.org
+[06:30:10][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[06:30:10][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[06:30:10][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[06:30:10][SEG1]     → SKIP: no MX for desanctishomes.com
+[06:30:10][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[06:30:11][SEG1]     → SKIP: no MX for concretesciencefl.com
+[06:30:11][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[06:30:11][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[06:30:11][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[06:30:11][SEG1]     → SKIP: no MX for thelucilleapts.com
+[06:30:12][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[06:30:13][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[06:30:13][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[06:30:13][SEG1]     → SKIP: no MX for altoncentralpark.com
+[06:30:14][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[06:30:14][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[06:30:14][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[06:30:15][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[06:30:15][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[06:30:15][SEG1]     → SKIP: no MX for pmtaustin.com
+[06:30:15][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[06:30:15][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[06:30:16][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[06:30:16][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[06:30:16][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[06:30:17][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[06:30:18][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[06:30:18][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[06:30:18][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[06:30:18][SEG1]     → SKIP: no MX for nashville-property.management
+[06:30:18][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[06:30:18][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[06:30:19][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[06:30:19][SEG1]     → SKIP: no MX for kitchenwpb.com
+[06:30:19][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[06:30:20][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[06:30:21][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[06:30:21][SEG1]     → SKIP: no MX for michaelsontheast.com
+[06:30:21][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[06:30:21][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[06:30:21][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[06:30:22][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[06:30:22][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[06:30:23][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[06:30:23][SEG1]   [27/30] Del-Air → delair.com
+[06:30:45][SEG1]     → info@delair.com (generic guess (delair.com))
+[06:30:45][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[06:30:45][SEG1]     → SKIP: no MX for jensenbeachac.com
+[06:30:45][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[06:30:45][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[06:30:46][SEG1]   [30/30] Lawn Doctor - Stuart → lawndoctor.com
+[06:30:46][SEG1]     → info@lawndoctor.com (generic guess (lawndoctor.com))
+[06:30:47][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[06:30:47][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[06:30:47][SEG1] ============================================================
+[06:45:07][SEG1] ============================================================
+[06:45:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[06:45:07][SEG1] ============================================================
+[06:45:07][SEG1] Loaded 2665 leads
+[06:45:07][SEG1] Leads in segment 1: 359
+[06:45:07][SEG1] Processing batch of 30
+[06:45:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[06:45:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[06:45:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[06:45:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[06:45:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[06:45:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[06:45:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[06:45:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[06:45:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[06:45:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[06:45:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[06:45:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[06:45:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[06:45:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[06:45:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[06:45:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[06:45:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[06:45:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[06:45:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[06:45:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[06:45:11][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[06:45:11][SEG1]     → SKIP: no MX for altoncentralpark.com
+[06:45:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[06:45:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[06:45:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[06:45:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[06:45:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[06:45:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[06:45:14][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[06:45:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[06:45:14][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[06:45:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[06:45:14][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[06:45:16][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[06:45:16][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[06:45:16][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[06:45:16][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[06:45:16][SEG1]     → SKIP: no MX for nashville-property.management
+[06:45:17][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[06:45:17][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[06:45:17][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[06:45:17][SEG1]     → SKIP: no MX for kitchenwpb.com
+[06:45:17][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[06:45:18][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[06:45:19][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[06:45:19][SEG1]     → SKIP: no MX for michaelsontheast.com
+[06:45:19][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[06:45:19][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[06:45:19][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[06:45:20][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[06:45:21][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[06:45:21][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[06:45:22][SEG1]   [27/30] Del-Air → delair.com
+[06:45:22][SEG1]     → info@delair.com (generic guess (delair.com))
+[06:45:23][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[06:45:23][SEG1]     → SKIP: no MX for jensenbeachac.com
+[06:45:23][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[06:45:23][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[06:45:23][SEG1]   [30/30] Lawn Doctor - Stuart → lawndoctor.com
+[06:45:24][SEG1]     → info@lawndoctor.com (generic guess (lawndoctor.com))
+[06:45:25][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[06:45:25][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[06:45:25][SEG1] ============================================================
+[07:00:07][SEG1] ============================================================
+[07:00:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[07:00:07][SEG1] ============================================================
+[07:00:07][SEG1] Loaded 2665 leads
+[07:00:07][SEG1] Leads in segment 1: 341
+[07:00:07][SEG1] Processing batch of 30
+[07:00:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[07:00:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[07:00:08][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[07:00:08][SEG1]     → SKIP: no MX for mobiledetailing.io
+[07:00:08][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[07:00:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[07:00:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[07:00:09][SEG1]     → SKIP: no MX for search.sunbiz.org
+[07:00:09][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[07:00:09][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[07:00:09][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[07:00:09][SEG1]     → SKIP: no MX for desanctishomes.com
+[07:00:10][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[07:00:10][SEG1]     → SKIP: no MX for concretesciencefl.com
+[07:00:10][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[07:00:10][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[07:00:10][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[07:00:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[07:00:11][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[07:00:12][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[07:00:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[07:00:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[07:00:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[07:00:13][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[07:00:13][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[07:00:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[07:00:14][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[07:00:14][SEG1]     → SKIP: no MX for pmtaustin.com
+[07:00:14][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[07:00:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[07:00:14][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[07:00:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[07:00:15][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[07:00:16][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[07:00:16][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[07:00:16][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[07:00:17][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[07:00:17][SEG1]     → SKIP: no MX for nashville-property.management
+[07:00:17][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[07:00:17][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[07:00:17][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[07:00:17][SEG1]     → SKIP: no MX for kitchenwpb.com
+[07:00:18][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[07:00:19][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[07:00:19][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[07:00:19][SEG1]     → SKIP: no MX for michaelsontheast.com
+[07:00:20][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[07:00:20][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[07:00:20][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[07:00:20][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[07:00:21][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[07:00:22][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[07:00:22][SEG1]   [27/30] Del-Air → delair.com
+[07:00:39][SEG1]     → info@delair.com (generic guess (delair.com))
+[07:00:40][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[07:00:40][SEG1]     → SKIP: no MX for jensenbeachac.com
+[07:00:40][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[07:00:40][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[07:00:40][SEG1]   [30/30] Lawn Doctor - Stuart → lawndoctor.com
+[07:00:42][SEG1]     → info@lawndoctor.com (generic guess (lawndoctor.com))
+[07:00:42][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[07:00:42][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[07:00:42][SEG1] ============================================================
+[07:15:06][SEG1] ============================================================
+[07:15:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[07:15:06][SEG1] ============================================================
+[07:15:06][SEG1] Loaded 2665 leads
+[07:15:06][SEG1] Leads in segment 1: 327
+[07:15:06][SEG1] Processing batch of 30
+[07:15:06][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[07:15:06][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[07:15:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[07:15:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[07:15:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[07:15:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[07:15:07][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[07:15:07][SEG1]     → SKIP: no MX for search.sunbiz.org
+[07:15:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[07:15:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[07:15:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[07:15:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[07:15:08][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[07:15:08][SEG1]     → SKIP: no MX for concretesciencefl.com
+[07:15:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[07:15:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[07:15:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[07:15:09][SEG1]     → SKIP: no MX for thelucilleapts.com
+[07:15:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[07:15:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[07:15:11][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[07:15:11][SEG1]     → SKIP: no MX for altoncentralpark.com
+[07:15:11][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[07:15:11][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[07:15:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[07:15:12][SEG1]     → info@properties.rent (SMTP verified at properties.rent)
+[07:15:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[07:15:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[07:15:13][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[07:15:13][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[07:15:13][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[07:15:13][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[07:15:14][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[07:15:14][SEG1]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[07:15:14][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[07:15:14][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[07:15:15][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[07:15:15][SEG1]     → SKIP: no MX for nashville-property.management
+[07:15:15][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[07:15:15][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[07:15:15][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[07:15:15][SEG1]     → SKIP: no MX for kitchenwpb.com
+[07:15:16][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[07:15:17][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[07:15:17][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[07:15:17][SEG1]     → SKIP: no MX for michaelsontheast.com
+[07:15:18][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[07:15:18][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[07:15:18][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[07:15:20][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[07:15:20][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[07:15:21][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[07:15:22][SEG1]   [27/30] Del-Air → delair.com
+[07:15:43][SEG1]     → info@delair.com (generic guess (delair.com))
+[07:15:44][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[07:15:44][SEG1]     → SKIP: no MX for jensenbeachac.com
+[07:15:44][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[07:15:44][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[07:15:44][SEG1]   [30/30] Lawn Doctor - Stuart → lawndoctor.com
+[07:15:45][SEG1]     → info@lawndoctor.com (generic guess (lawndoctor.com))
+[07:15:46][SEG1] Wrote 8 guessed emails (2 SMTP verified)
+[07:15:46][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 2 verified
+[07:15:46][SEG1] ============================================================
+[07:30:07][SEG1] ============================================================
+[07:30:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[07:30:07][SEG1] ============================================================
+[07:30:07][SEG1] Loaded 2665 leads
+[07:30:07][SEG1] Leads in segment 1: 309
+[07:30:07][SEG1] Processing batch of 30
+[07:30:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[07:30:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[07:30:08][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[07:30:08][SEG1]     → SKIP: no MX for mobiledetailing.io
+[07:30:08][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[07:30:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[07:30:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[07:30:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[07:30:09][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[07:30:09][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[07:30:09][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[07:30:09][SEG1]     → SKIP: no MX for desanctishomes.com
+[07:30:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[07:30:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[07:30:10][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[07:30:10][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[07:30:10][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[07:30:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[07:30:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[07:30:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[07:30:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[07:30:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[07:30:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[07:30:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[07:30:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[07:30:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[07:30:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[07:30:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[07:30:14][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[07:30:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[07:30:14][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[07:30:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[07:30:14][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[07:30:16][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[07:30:16][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[07:30:16][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[07:30:17][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[07:30:17][SEG1]     → SKIP: no MX for nashville-property.management
+[07:30:17][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[07:30:17][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[07:30:17][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[07:30:17][SEG1]     → SKIP: no MX for kitchenwpb.com
+[07:30:18][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[07:30:19][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[07:30:19][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[07:30:19][SEG1]     → SKIP: no MX for michaelsontheast.com
+[07:30:19][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[07:30:19][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[07:30:20][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[07:30:21][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[07:30:21][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[07:30:22][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[07:30:22][SEG1]   [27/30] Del-Air → delair.com
+[07:30:44][SEG1]     → info@delair.com (generic guess (delair.com))
+[07:30:44][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[07:30:44][SEG1]     → SKIP: no MX for jensenbeachac.com
+[07:30:45][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[07:30:45][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[07:30:45][SEG1]   [30/30] Lawn Doctor - Stuart → lawndoctor.com
+[07:30:46][SEG1]     → info@lawndoctor.com (generic guess (lawndoctor.com))
+[07:30:46][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[07:30:46][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[07:30:46][SEG1] ============================================================
+[07:45:06][SEG1] ============================================================
+[07:45:06][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[07:45:06][SEG1] ============================================================
+[07:45:06][SEG1] Loaded 2665 leads
+[07:45:06][SEG1] Leads in segment 1: 298
+[07:45:06][SEG1] Processing batch of 30
+[07:45:06][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[07:45:06][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[07:45:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[07:45:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[07:45:07][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[07:45:07][SEG1]     → SKIP: no MX for brennitytradition.com
+[07:45:07][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[07:45:07][SEG1]     → SKIP: no MX for search.sunbiz.org
+[07:45:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[07:45:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[07:45:08][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[07:45:08][SEG1]     → SKIP: no MX for desanctishomes.com
+[07:45:08][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[07:45:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[07:45:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[07:45:09][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[07:45:09][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[07:45:09][SEG1]     → SKIP: no MX for thelucilleapts.com
+[07:45:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[07:45:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[07:45:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[07:45:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[07:45:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[07:45:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[07:45:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[07:45:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[07:45:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[07:45:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[07:45:14][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[07:45:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[07:45:14][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[07:45:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[07:45:14][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[07:45:16][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[07:45:16][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[07:45:16][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[07:45:16][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[07:45:17][SEG1]     → SKIP: no MX for nashville-property.management
+[07:45:17][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[07:45:17][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[07:45:17][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[07:45:17][SEG1]     → SKIP: no MX for kitchenwpb.com
+[07:45:18][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[07:45:19][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[07:45:19][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[07:45:19][SEG1]     → SKIP: no MX for michaelsontheast.com
+[07:45:19][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[07:45:19][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[07:45:20][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[07:45:21][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[07:45:22][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[07:45:22][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[07:45:23][SEG1]   [27/30] Del-Air → delair.com
+[07:45:44][SEG1]     → info@delair.com (generic guess (delair.com))
+[07:45:45][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[07:45:45][SEG1]     → SKIP: no MX for jensenbeachac.com
+[07:45:45][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[07:45:45][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[07:45:45][SEG1]   [30/30] Lawn Doctor - Stuart → lawndoctor.com
+[07:45:46][SEG1]     → info@lawndoctor.com (generic guess (lawndoctor.com))
+[07:45:47][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[07:45:47][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[07:45:47][SEG1] ============================================================
+[08:00:07][SEG1] ============================================================
+[08:00:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[08:00:07][SEG1] ============================================================
+[08:00:07][SEG1] Loaded 2665 leads
+[08:00:07][SEG1] Leads in segment 1: 276
+[08:00:07][SEG1] Processing batch of 30
+[08:00:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[08:00:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[08:00:07][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[08:00:07][SEG1]     → SKIP: no MX for mobiledetailing.io
+[08:00:08][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[08:00:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[08:00:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[08:00:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[08:00:08][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[08:00:08][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[08:00:09][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[08:00:09][SEG1]     → SKIP: no MX for desanctishomes.com
+[08:00:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[08:00:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[08:00:09][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[08:00:10][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[08:00:10][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[08:00:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[08:00:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[08:00:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[08:00:12][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[08:00:12][SEG1]     → SKIP: no MX for altoncentralpark.com
+[08:00:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[08:00:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[08:00:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[08:00:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[08:00:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[08:00:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[08:00:14][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[08:00:14][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[08:00:14][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[08:00:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[08:00:14][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[08:00:16][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[08:00:16][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[08:00:16][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[08:00:16][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[08:00:16][SEG1]     → SKIP: no MX for nashville-property.management
+[08:00:17][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[08:00:17][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[08:00:17][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[08:00:17][SEG1]     → SKIP: no MX for kitchenwpb.com
+[08:00:17][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[08:00:19][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[08:00:19][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[08:00:19][SEG1]     → SKIP: no MX for michaelsontheast.com
+[08:00:19][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[08:00:19][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[08:00:20][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[08:00:20][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[08:00:21][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[08:00:22][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[08:00:22][SEG1]   [27/30] Del-Air → delair.com
+[08:00:35][SEG1]     → info@delair.com (generic guess (delair.com))
+[08:00:36][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[08:00:36][SEG1]     → SKIP: no MX for jensenbeachac.com
+[08:00:36][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[08:00:36][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[08:00:36][SEG1]   [30/30] Baker Tree Service - Stuart → bakertreeservice.com
+[08:00:36][SEG1]     → info@bakertreeservice.com (generic guess (bakertreeservice.com))
+[08:00:37][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[08:00:37][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[08:00:37][SEG1] ============================================================
+[08:15:07][SEG1] ============================================================
+[08:15:07][SEG1] APOLLO PARALLEL — Segment 1/3 | Batch: 30
+[08:15:07][SEG1] ============================================================
+[08:15:07][SEG1] Loaded 2665 leads
+[08:15:07][SEG1] Leads in segment 1: 261
+[08:15:07][SEG1] Processing batch of 30
+[08:15:07][SEG1]   [1/30] Kitchen, Flooring & Bathroom Remodeling  → libertykitchendesign.com
+[08:15:07][SEG1]     → SKIP: no MX for libertykitchendesign.com
+[08:15:08][SEG1]   [2/30] Mobile Detailing Services in West Palm B → mobiledetailing.io
+[08:15:08][SEG1]     → SKIP: no MX for mobiledetailing.io
+[08:15:08][SEG1]   [3/30] The Brennity at Tradition Senior Living  → brennitytradition.com
+[08:15:08][SEG1]     → SKIP: no MX for brennitytradition.com
+[08:15:08][SEG1]   [4/30] Detail by Entity Name → search.sunbiz.org
+[08:15:08][SEG1]     → SKIP: no MX for search.sunbiz.org
+[08:15:09][SEG1]   [5/30] Kitchen & Bath Bonita Springs → prestigemarbleanddesigns.com
+[08:15:09][SEG1]     → SKIP: no MX for prestigemarbleanddesigns.com
+[08:15:09][SEG1]   [6/30] Best Kitchen Remodeling Services in Boni → desanctishomes.com
+[08:15:09][SEG1]     → SKIP: no MX for desanctishomes.com
+[08:15:09][SEG1]   [7/30] Best Concrete Coating Services In Bonita → concretesciencefl.com
+[08:15:09][SEG1]     → SKIP: no MX for concretesciencefl.com
+[08:15:10][SEG1]   [8/30] Home → sarasotaseamlessgutters.com
+[08:15:10][SEG1]     → SKIP: no MX for sarasotaseamlessgutters.com
+[08:15:10][SEG1]   [9/30] The Lucille Apartments → thelucilleapts.com
+[08:15:10][SEG1]     → SKIP: no MX for thelucilleapts.com
+[08:15:10][SEG1]   [10/30] Heritage Bay Apartments → heritagebayapts.com
+[08:15:11][SEG1]     → info@heritagebayapts.com (generic guess (heritagebayapts.com))
+[08:15:11][SEG1]   [11/30] Alton Central Park → altoncentralpark.com
+[08:15:11][SEG1]     → SKIP: no MX for altoncentralpark.com
+[08:15:12][SEG1]   [12/30] Braman BMW of Jupiter → bramanbmwjupiter.com
+[08:15:12][SEG1]     → SKIP: no MX for bramanbmwjupiter.com
+[08:15:12][SEG1]   [13/30] Boca Raton Property Management - #1 Sout → properties.rent
+[08:15:13][SEG1]     → contact@properties.rent (SMTP verified at properties.rent)
+[08:15:13][SEG1]   [14/30] Property Management | Austin Texas → pmtaustin.com
+[08:15:13][SEG1]     → SKIP: no MX for pmtaustin.com
+[08:15:13][SEG1]   [15/30] Dayan Property Management: Boca Raton Pr → dayanpropertymanagement.com
+[08:15:13][SEG1]     → SKIP: no MX for dayanpropertymanagement.com
+[08:15:14][SEG1]   [16/30] Scottsdale Property Management | Long &  → scottsdalepropmanagement.com
+[08:15:14][SEG1]     → SKIP: no MX for scottsdalepropmanagement.com
+[08:15:14][SEG1]   [17/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[08:15:15][SEG1]     → info@keyrenteraustin.com (generic guess (keyrenteraustin.com))
+[08:15:15][SEG1]   [18/30] Austin Property Management Company → austin-propertymanagement.com
+[08:15:16][SEG1]     → SKIP: no MX for austin-propertymanagement.com
+[08:15:16][SEG1]   [19/30] Nashville Property Management | Nashvill → nashville-property.management
+[08:15:16][SEG1]     → SKIP: no MX for nashville-property.management
+[08:15:16][SEG1]   [20/30] Nashville Property Management | GreenTre → nashvillepropertymanager.com
+[08:15:16][SEG1]     → SKIP: no MX for nashvillepropertymanager.com
+[08:15:17][SEG1]   [21/30] Kitchen Restaurant → kitchenwpb.com
+[08:15:17][SEG1]     → SKIP: no MX for kitchenwpb.com
+[08:15:17][SEG1]   [22/30] Your Culinary Place → yourculinaryplace.com
+[08:15:18][SEG1]     → info@yourculinaryplace.com (generic guess (yourculinaryplace.com))
+[08:15:18][SEG1]   [23/30] Michael's On East → michaelsontheast.com
+[08:15:18][SEG1]     → SKIP: no MX for michaelsontheast.com
+[08:15:19][SEG1]   [24/30] Joey's Kitchen & Catering → joeyskitchenfoodtruck.com
+[08:15:19][SEG1]     → SKIP: no MX for joeyskitchenfoodtruck.com
+[08:15:19][SEG1]   [25/30] Watson Realty Corp Jensen Beach → watsonrealtycorp.com
+[08:15:19][SEG1]     → info@watsonrealtycorp.com (generic guess (watsonrealtycorp.com))
+[08:15:20][SEG1]   [26/30] NAPA Salerno Auto Parts Stuart FL → napaonline.com
+[08:15:21][SEG1]     → info@napaonline.com (generic guess (napaonline.com))
+[08:15:21][SEG1]   [27/30] Del-Air → delair.com
+[08:15:35][SEG1]     → info@delair.com (generic guess (delair.com))
+[08:15:35][SEG1]   [28/30] Jensen Beach Air & Heat LLC → jensenbeachac.com
+[08:15:35][SEG1]     → SKIP: no MX for jensenbeachac.com
+[08:15:35][SEG1]   [29/30] True Temp → truetempairconditioning.com
+[08:15:35][SEG1]     → SKIP: no MX for truetempairconditioning.com
+[08:15:36][SEG1]   [30/30] Baker Tree Service - Stuart → bakertreeservice.com
+[08:15:36][SEG1]     → info@bakertreeservice.com (generic guess (bakertreeservice.com))
+[08:15:36][SEG1] Wrote 8 guessed emails (1 SMTP verified)
+[08:15:36][SEG1] SEGMENT 1 COMPLETE: 8 guessed, 1 verified
+[08:15:36][SEG1] ============================================================

@@ -1,0 +1,444 @@
+# Email Aliases for kmjk.pro
+# Generated: 2026-02-16
+# Total: 360 email aliases (9 per metro × 40 metros)
+# Plus 1 owner email: chris@kmjk.pro
+
+# Metro: Tri-State Area (NY-NJ-CT) (tri)
+projects-tri@kmjk.pro
+estimates-tri@kmjk.pro
+site-tri@kmjk.pro
+office-tri@kmjk.pro
+sales-tri@kmjk.pro
+support-tri@kmjk.pro
+billing-tri@kmjk.pro
+info-tri@kmjk.pro
+team-tri@kmjk.pro
+
+# Metro: San Francisco Bay Area (ba)
+projects-ba@kmjk.pro
+estimates-ba@kmjk.pro
+site-ba@kmjk.pro
+office-ba@kmjk.pro
+sales-ba@kmjk.pro
+support-ba@kmjk.pro
+billing-ba@kmjk.pro
+info-ba@kmjk.pro
+team-ba@kmjk.pro
+
+# Metro: Philadelphia Metro (phl)
+projects-phl@kmjk.pro
+estimates-phl@kmjk.pro
+site-phl@kmjk.pro
+office-phl@kmjk.pro
+sales-phl@kmjk.pro
+support-phl@kmjk.pro
+billing-phl@kmjk.pro
+info-phl@kmjk.pro
+team-phl@kmjk.pro
+
+# Metro: Chicago Metro (chi)
+projects-chi@kmjk.pro
+estimates-chi@kmjk.pro
+site-chi@kmjk.pro
+office-chi@kmjk.pro
+sales-chi@kmjk.pro
+support-chi@kmjk.pro
+billing-chi@kmjk.pro
+info-chi@kmjk.pro
+team-chi@kmjk.pro
+
+# Metro: Washington D.C. Metro (dc)
+projects-dc@kmjk.pro
+estimates-dc@kmjk.pro
+site-dc@kmjk.pro
+office-dc@kmjk.pro
+sales-dc@kmjk.pro
+support-dc@kmjk.pro
+billing-dc@kmjk.pro
+info-dc@kmjk.pro
+team-dc@kmjk.pro
+
+# Metro: Los Angeles Metro (la)
+projects-la@kmjk.pro
+estimates-la@kmjk.pro
+site-la@kmjk.pro
+office-la@kmjk.pro
+sales-la@kmjk.pro
+support-la@kmjk.pro
+billing-la@kmjk.pro
+info-la@kmjk.pro
+team-la@kmjk.pro
+
+# Metro: Boston Metro (bos)
+projects-bos@kmjk.pro
+estimates-bos@kmjk.pro
+site-bos@kmjk.pro
+office-bos@kmjk.pro
+sales-bos@kmjk.pro
+support-bos@kmjk.pro
+billing-bos@kmjk.pro
+info-bos@kmjk.pro
+team-bos@kmjk.pro
+
+# Metro: Kansas City Metro (kc)
+projects-kc@kmjk.pro
+estimates-kc@kmjk.pro
+site-kc@kmjk.pro
+office-kc@kmjk.pro
+sales-kc@kmjk.pro
+support-kc@kmjk.pro
+billing-kc@kmjk.pro
+info-kc@kmjk.pro
+team-kc@kmjk.pro
+
+# Metro: Dallas-Fort Worth Metro (dfw)
+projects-dfw@kmjk.pro
+estimates-dfw@kmjk.pro
+site-dfw@kmjk.pro
+office-dfw@kmjk.pro
+sales-dfw@kmjk.pro
+support-dfw@kmjk.pro
+billing-dfw@kmjk.pro
+info-dfw@kmjk.pro
+team-dfw@kmjk.pro
+
+# Metro: Houston Metro (hou)
+projects-hou@kmjk.pro
+estimates-hou@kmjk.pro
+site-hou@kmjk.pro
+office-hou@kmjk.pro
+sales-hou@kmjk.pro
+support-hou@kmjk.pro
+billing-hou@kmjk.pro
+info-hou@kmjk.pro
+team-hou@kmjk.pro
+
+# Metro: Wichita Metro (wic)
+projects-wic@kmjk.pro
+estimates-wic@kmjk.pro
+site-wic@kmjk.pro
+office-wic@kmjk.pro
+sales-wic@kmjk.pro
+support-wic@kmjk.pro
+billing-wic@kmjk.pro
+info-wic@kmjk.pro
+team-wic@kmjk.pro
+
+# Metro: Seattle Metro (sea)
+projects-sea@kmjk.pro
+estimates-sea@kmjk.pro
+site-sea@kmjk.pro
+office-sea@kmjk.pro
+sales-sea@kmjk.pro
+support-sea@kmjk.pro
+billing-sea@kmjk.pro
+info-sea@kmjk.pro
+team-sea@kmjk.pro
+
+# Metro: Detroit Metro (det)
+projects-det@kmjk.pro
+estimates-det@kmjk.pro
+site-det@kmjk.pro
+office-det@kmjk.pro
+sales-det@kmjk.pro
+support-det@kmjk.pro
+billing-det@kmjk.pro
+info-det@kmjk.pro
+team-det@kmjk.pro
+
+# Metro: Atlanta Metro (atl)
+projects-atl@kmjk.pro
+estimates-atl@kmjk.pro
+site-atl@kmjk.pro
+office-atl@kmjk.pro
+sales-atl@kmjk.pro
+support-atl@kmjk.pro
+billing-atl@kmjk.pro
+info-atl@kmjk.pro
+team-atl@kmjk.pro
+
+# Metro: Anchorage Metro (anc)
+projects-anc@kmjk.pro
+estimates-anc@kmjk.pro
+site-anc@kmjk.pro
+office-anc@kmjk.pro
+sales-anc@kmjk.pro
+support-anc@kmjk.pro
+billing-anc@kmjk.pro
+info-anc@kmjk.pro
+team-anc@kmjk.pro
+
+# Metro: Memphis Metro (mem)
+projects-mem@kmjk.pro
+estimates-mem@kmjk.pro
+site-mem@kmjk.pro
+office-mem@kmjk.pro
+sales-mem@kmjk.pro
+support-mem@kmjk.pro
+billing-mem@kmjk.pro
+info-mem@kmjk.pro
+team-mem@kmjk.pro
+
+# Metro: Denver Metro (den)
+projects-den@kmjk.pro
+estimates-den@kmjk.pro
+site-den@kmjk.pro
+office-den@kmjk.pro
+sales-den@kmjk.pro
+support-den@kmjk.pro
+billing-den@kmjk.pro
+info-den@kmjk.pro
+team-den@kmjk.pro
+
+# Metro: Des Moines Metro (dsm)
+projects-dsm@kmjk.pro
+estimates-dsm@kmjk.pro
+site-dsm@kmjk.pro
+office-dsm@kmjk.pro
+sales-dsm@kmjk.pro
+support-dsm@kmjk.pro
+billing-dsm@kmjk.pro
+info-dsm@kmjk.pro
+team-dsm@kmjk.pro
+
+# Metro: Oklahoma City Metro (okc)
+projects-okc@kmjk.pro
+estimates-okc@kmjk.pro
+site-okc@kmjk.pro
+office-okc@kmjk.pro
+sales-okc@kmjk.pro
+support-okc@kmjk.pro
+billing-okc@kmjk.pro
+info-okc@kmjk.pro
+team-okc@kmjk.pro
+
+# Metro: Phoenix Metro (phx)
+projects-phx@kmjk.pro
+estimates-phx@kmjk.pro
+site-phx@kmjk.pro
+office-phx@kmjk.pro
+sales-phx@kmjk.pro
+support-phx@kmjk.pro
+billing-phx@kmjk.pro
+info-phx@kmjk.pro
+team-phx@kmjk.pro
+
+# Metro: Raleigh-Durham Metro (rdu)
+projects-rdu@kmjk.pro
+estimates-rdu@kmjk.pro
+site-rdu@kmjk.pro
+office-rdu@kmjk.pro
+sales-rdu@kmjk.pro
+support-rdu@kmjk.pro
+billing-rdu@kmjk.pro
+info-rdu@kmjk.pro
+team-rdu@kmjk.pro
+
+# Metro: Jackson Metro (jax)
+projects-jax@kmjk.pro
+estimates-jax@kmjk.pro
+site-jax@kmjk.pro
+office-jax@kmjk.pro
+sales-jax@kmjk.pro
+support-jax@kmjk.pro
+billing-jax@kmjk.pro
+info-jax@kmjk.pro
+team-jax@kmjk.pro
+
+# Metro: Manchester-Nashua Metro (mht)
+projects-mht@kmjk.pro
+estimates-mht@kmjk.pro
+site-mht@kmjk.pro
+office-mht@kmjk.pro
+sales-mht@kmjk.pro
+support-mht@kmjk.pro
+billing-mht@kmjk.pro
+info-mht@kmjk.pro
+team-mht@kmjk.pro
+
+# Metro: Indianapolis Metro (ind)
+projects-ind@kmjk.pro
+estimates-ind@kmjk.pro
+site-ind@kmjk.pro
+office-ind@kmjk.pro
+sales-ind@kmjk.pro
+support-ind@kmjk.pro
+billing-ind@kmjk.pro
+info-ind@kmjk.pro
+team-ind@kmjk.pro
+
+# Metro: Nashville Metro (bna)
+projects-bna@kmjk.pro
+estimates-bna@kmjk.pro
+site-bna@kmjk.pro
+office-bna@kmjk.pro
+sales-bna@kmjk.pro
+support-bna@kmjk.pro
+billing-bna@kmjk.pro
+info-bna@kmjk.pro
+team-bna@kmjk.pro
+
+# Metro: Cleveland-Akron Metro (cle)
+projects-cle@kmjk.pro
+estimates-cle@kmjk.pro
+site-cle@kmjk.pro
+office-cle@kmjk.pro
+sales-cle@kmjk.pro
+support-cle@kmjk.pro
+billing-cle@kmjk.pro
+info-cle@kmjk.pro
+team-cle@kmjk.pro
+
+# Metro: Columbus Metro (cmh)
+projects-cmh@kmjk.pro
+estimates-cmh@kmjk.pro
+site-cmh@kmjk.pro
+office-cmh@kmjk.pro
+sales-cmh@kmjk.pro
+billing-cmh@kmjk.pro
+support-cmh@kmjk.pro
+info-cmh@kmjk.pro
+team-cmh@kmjk.pro
+
+# Metro: Lexington Metro (lex)
+projects-lex@kmjk.pro
+estimates-lex@kmjk.pro
+site-lex@kmjk.pro
+office-lex@kmjk.pro
+sales-lex@kmjk.pro
+support-lex@kmjk.pro
+billing-lex@kmjk.pro
+info-lex@kmjk.pro
+team-lex@kmjk.pro
+
+# Metro: Salt Lake City Metro (slc)
+projects-slc@kmjk.pro
+estimates-slc@kmjk.pro
+site-slc@kmjk.pro
+office-slc@kmjk.pro
+sales-slc@kmjk.pro
+support-slc@kmjk.pro
+billing-slc@kmjk.pro
+info-slc@kmjk.pro
+team-slc@kmjk.pro
+
+# Metro: Louisville Metro (lou)
+projects-lou@kmjk.pro
+estimates-lou@kmjk.pro
+site-lou@kmjk.pro
+office-lou@kmjk.pro
+sales-lou@kmjk.pro
+support-lou@kmjk.pro
+billing-lou@kmjk.pro
+info-lou@kmjk.pro
+team-lou@kmjk.pro
+
+# Metro: Fort Wayne Metro (fwa)
+projects-fwa@kmjk.pro
+estimates-fwa@kmjk.pro
+site-fwa@kmjk.pro
+office-fwa@kmjk.pro
+sales-fwa@kmjk.pro
+support-fwa@kmjk.pro
+billing-fwa@kmjk.pro
+info-fwa@kmjk.pro
+team-fwa@kmjk.pro
+
+# Metro: Honolulu Metro (hnl)
+projects-hnl@kmjk.pro
+estimates-hnl@kmjk.pro
+site-hnl@kmjk.pro
+office-hnl@kmjk.pro
+sales-hnl@kmjk.pro
+support-hnl@kmjk.pro
+billing-hnl@kmjk.pro
+info-hnl@kmjk.pro
+team-hnl@kmjk.pro
+
+# Metro: Albuquerque Metro (abq)
+projects-abq@kmjk.pro
+estimates-abq@kmjk.pro
+site-abq@kmjk.pro
+office-abq@kmjk.pro
+sales-abq@kmjk.pro
+support-abq@kmjk.pro
+billing-abq@kmjk.pro
+info-abq@kmjk.pro
+team-abq@kmjk.pro
+
+# Metro: Providence Metro (pvd)
+projects-pvd@kmjk.pro
+estimates-pvd@kmjk.pro
+site-pvd@kmjk.pro
+office-pvd@kmjk.pro
+sales-pvd@kmjk.pro
+support-pvd@kmjk.pro
+billing-pvd@kmjk.pro
+info-pvd@kmjk.pro
+team-pvd@kmjk.pro
+
+# Metro: Las Vegas Metro (las)
+projects-las@kmjk.pro
+estimates-las@kmjk.pro
+site-las@kmjk.pro
+office-las@kmjk.pro
+sales-las@kmjk.pro
+support-las@kmjk.pro
+billing-las@kmjk.pro
+info-las@kmjk.pro
+team-las@kmjk.pro
+
+# Metro: Portland Metro (OR) (pdx)
+projects-pdx@kmjk.pro
+estimates-pdx@kmjk.pro
+site-pdx@kmjk.pro
+office-pdx@kmjk.pro
+sales-pdx@kmjk.pro
+support-pdx@kmjk.pro
+billing-pdx@kmjk.pro
+info-pdx@kmjk.pro
+team-pdx@kmjk.pro
+
+# Metro: Charlotte Metro (clt)
+projects-clt@kmjk.pro
+estimates-clt@kmjk.pro
+site-clt@kmjk.pro
+office-clt@kmjk.pro
+sales-clt@kmjk.pro
+support-clt@kmjk.pro
+billing-clt@kmjk.pro
+info-clt@kmjk.pro
+team-clt@kmjk.pro
+
+# Metro: Milwaukee Metro (mke)
+projects-mke@kmjk.pro
+estimates-mke@kmjk.pro
+site-mke@kmjk.pro
+office-mke@kmjk.pro
+sales-mke@kmjk.pro
+support-mke@kmjk.pro
+billing-mke@kmjk.pro
+info-mke@kmjk.pro
+team-mke@kmjk.pro
+
+# Metro: Portland Metro (ME) (pwm)
+projects-pwm@kmjk.pro
+estimates-pwm@kmjk.pro
+site-pwm@kmjk.pro
+office-pwm@kmjk.pro
+sales-pwm@kmjk.pro
+support-pwm@kmjk.pro
+billing-pwm@kmjk.pro
+info-pwm@kmjk.pro
+team-pwm@kmjk.pro
+
+# Metro: Madison Metro (msn)
+projects-msn@kmjk.pro
+estimates-msn@kmjk.pro
+site-msn@kmjk.pro
+office-msn@kmjk.pro
+sales-msn@kmjk.pro
+support-msn@kmjk.pro
+billing-msn@kmjk.pro
+info-msn@kmjk.pro
+team-msn@kmjk.pro

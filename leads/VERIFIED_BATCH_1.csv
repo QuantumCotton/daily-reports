@@ -1,0 +1,938 @@
+ID,Company,Name,Email,Phone,City,State,Has Email?,Has Name?,Has Position?,Has Contact?,Status,DB_Verified
+1,Property Boss LLC,,Staff@propertybossllc.com,(772) 621-2273,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+2,Coastal Management Professionals,,Accounting@cpmfl.com,561-310-9672,Stuart,FL,No,No,Yes,Yes,NO_EMAIL,0
+3,South Florida Realty Management,NEEDS_ENRICHMENT,property.manager@floridapm.net/,,Stuart,FL,No,No,Yes,Yes,NO_EMAIL,1
+4,JC Epoxy Coatings,,randerson3222@yahoo.com,(954) 994-8204,Port St. Lucie,FL,Yes,No,No,Yes,NO_NAME,0
+5,Port St Lucie Epoxy Pros,NEEDS_ENRICHMENT,support@epoxyportstlucie.com/,772-918-9687,Port St. Lucie,FL,No,No,Yes,Yes,NO_EMAIL,0
+6,Choice Epoxy Coatings,NEEDS_ENRICHMENT,support@choiceepoxycoatings.com/,,Treasure Coast,FL,No,No,Yes,Yes,NO_EMAIL,0
+7,Maaco Auto Body & Painting Stuart,,stuartflmaaco@bellsouth.net,1204650995,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+8,Gizze Construction Inc,,Gizzeconstruction@gmail.com,772-333-5655,Port St Lucie,FL,Yes,No,No,Yes,NO_NAME,0
+9,Floridian Kitchens,NEEDS_ENRICHMENT,chef@floridiankitchens.com/,(772) 324-0998,Stuart,FL,Yes,No,Yes,Yes,NO_NAME,0
+10,Garcia & Sons Construction LLC,NEEDS_ENRICHMENT,operations@garciaandsonsconstruct.com/solutions/kitchen-remodelers-in-treasure-coast/,,Treasure Coast,FL,No,No,Yes,Yes,NO_EMAIL,0
+11,Port St Lucie property management,NEEDS_ENRICHMENT,admin@fsresidential.com/florida/offices/port-st-lucie-property-management/,,Port St Lucie,FL,No,No,Yes,Yes,NO_EMAIL,1
+12,Florida Property Management Agency,NEEDS_ENRICHMENT,property.manager@mgtspec.com/,,Port St Lucie,FL,No,No,Yes,Yes,NO_EMAIL,1
+13,Real Property Management Dynamic,NEEDS_ENRICHMENT,support@rpmdynamic.com/,,Port St Lucie,FL,No,No,Yes,Yes,NO_EMAIL,1
+14,"Best Property Management Companies in Port St. Lucie, FL",NEEDS_ENRICHMENT,info@expertise.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+15,Quest Property Management Services for Your Home,,,(772) 785-8884,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+16,Property Management,NEEDS_ENRICHMENT,info@nex-genpartners.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+17,Apartments for Rent in Fort Pierce FL,,sales-usa@theblueground.com,972 289 8633,Fort Pierce,FL,Yes,No,No,Yes,NO_NAME,0
+18,"Apartments for Rent in Fort Pierce, FL",,sales-usa@theblueground.com,972 289 8633,Fort Pierce,FL,Yes,No,No,Yes,NO_NAME,0
+19,Apartments for Rent in 34947,,pinecreekvillage@liveamc.com,(772) 667-5247,Fort Pierce,FL,Yes,No,No,Yes,NO_NAME,0
+20,Apartments for Rent in Fort Pierce FL with Utilities Included,,,4220639471,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+21,Signature Property Management,,Ira@signaturepropertymgmt.com,772) 219-4474,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+22,"Martin, FL Property Management Companies",NEEDS_ENRICHMENT,info@pamartinfl.gov,(772) 631-6450,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+23,Professional HOA & COA Services in Martin County,,esposito@macombgov.org,1016146955,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+24,Coastal Property Management – Stuart & Jupiter – Condominium ...,,susan.palmieri@cpmfl.com,772-600-8900,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+25,Palm Beach and Martin Counties Property Management,NEEDS_ENRICHMENT,info@pa.martin.fl.us,(772) 288-5608,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+26,"Martin Property Management, Martin Property ...",NEEDS_ENRICHMENT,info@pa.martin.fl.us,781.532.8250,Stuart,FL,No,No,Yes,Yes,NO_EMAIL,0
+27,Properties & Communities,,kevin@stewartteam.com,(248) 759-5474,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+28,St. Lucie and Martin County Property Management Agency,NEEDS_ENRICHMENT,info@mgtspec.com,(877) 665-5505,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+29,"Best Auto Body Shops near Port Saint Lucie, FL",NEEDS_ENRICHMENT,admin@carwise.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+30,Auto Body Shop,NEEDS_ENRICHMENT,info@jhcc.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+31,Classic Collision Port Saint Lucie,NEEDS_ENRICHMENT,contact@classiccollision.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+32,Port St Lucie FL Auto Body Repair,NEEDS_ENRICHMENT,info@gerbercollision.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+33,Collision Repair in Port St Lucie,NEEDS_ENRICHMENT,info@crashchampions.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+34,"Auto Body Shop near Port Saint Lucie, FL 34952",NEEDS_ENRICHMENT,admin@carwise.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+35,Vantazma Collision,NEEDS_ENRICHMENT,info@vantazma-car-care.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+36,Auto Body Services,NEEDS_ENRICHMENT,info@allroadsrepair.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+37,"Get Kitchen Remodeling in Jensen Beach, FL",NEEDS_ENRICHMENT,info@jupiterkitchenrenovation.com,,Jensen Beach,FL,No,No,Yes,Yes,NO_EMAIL,0
+38,Cooke Construction,NEEDS_ENRICHMENT,info@cookeconstructioninc.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+39,Remodeling Contractor: Island Kitchen & Bath,NEEDS_ENRICHMENT,info@ikbconstruction.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+40,Kitchen Remodeling,NEEDS_ENRICHMENT,info@sweetgc.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+41,Jensen Beach FL,NEEDS_ENRICHMENT,info@dreammaker-stuart.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+42,Home Services at Jensen Beach #221,,cgallant@floridaelkscts.org,(844) 476-2140,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+43,"Best 15 Kitchen & Bathroom Remodelers in Jensen Beach, FL",NEEDS_ENRICHMENT,info@houzz.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+44,"Restaurant Construction in Jensen Beach, FL",NEEDS_ENRICHMENT,info@aegenconstruction.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+45,Trusted Cleaning Company in Stuart FL,,ncsnatyka@gmail.com,772-220-7915,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+46,"Commercial Cleaning Services in Stuart, Florida",NEEDS_ENRICHMENT,office@customcleaningtc.com,561-935-8549,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+47,"Stuart, FL Commercial Cleaning and Janitorial Services",NEEDS_ENRICHMENT,info@stuartmartinchamber.org,772-220-7915,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+48,"Cleaning Services Stuart, Jensen Beach FL 772-205-3994",NEEDS_ENRICHMENT,info@dustintimecleaning.com,772-205-3994,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+49,"Fresh and Clean Cleaning Service, Stuart, FL 34997, US",NEEDS_ENRICHMENT,info@cleanandfreshcleaning.com,786-920-2105,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+50,"Commercial Cleaning Services in Stuart, FL",NEEDS_ENRICHMENT,office@customcleaningtc.com,772-287-1088,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+51,Florida Investment Properties,,nabertke@gmail.com,(772) 763-8506,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+52,Treasure Coast Real Estate,,John@tccommercialre.com,(772) 288-0632,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+53,Treasure Coast Realty Group,,Meluke@treasurecoastrg.com,(772) 288-0632,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+54,Excellent Investment,NEEDS_ENRICHMENT,sales@stewartsresort.com,1514742893,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+55,RE/MAX Gold,,Meconnormckinney.re@gmail.com,973-508-9425,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+56,Estate Listings on,,spiersrealestate@gmail.com,(868) 622-2685,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+57,Luxury Homes of the Treasure Coast,,Kevin@TradewindRe.com,800-274-6637,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+58,Treasure Coast Fl. Real Estate Articles,,John@tccommericalre.com,(772) 288-0632,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+59,Treasure Coast Real Estate: Treasure Coast Homes for Sale,NEEDS_ENRICHMENT,info@treasurecoastmlssearch.com,1000570592,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+60,"Top Rated Car Dealerships near Stuart, FL",,,772-872-0501,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+61,New & Used Cars For Sale,NEEDS_ENRICHMENT,info@wallaceautogroup.com,772.218.7007,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+62,Wallace Chevrolet,,ewallace@wallacechev.com,772-286-0155,Stuart,FL,Yes,No,Yes,Yes,NO_NAME,0
+63,"All Dealers in Stuart, FL 34997",NEEDS_ENRICHMENT,sales@jldauto.net,(772) 288-2099,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+64,"Starling Buick GMC Dealership in Stuart, FL",NEEDS_ENRICHMENT,info@starlingbuickgmcstuart.com,(772) 210-0299,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+65,Honda Dealership Stuart FL,,events@hohmartin.org,(772) 286-4673,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+66,Treasure Coast Toyota Of Stuart,NEEDS_ENRICHMENT,info@treasurecoasttoyotaofstuart.com,(772) 283-8300,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+67,"Wallace Chrysler, Jeep, Dodge, Ram & Wagoneer Dealership In ...",,users@wallaceautogroup.net,772-291-5172,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+68,Fort Pierce Warehouses For Rent & Lease,NEEDS_ENRICHMENT,sales@loopnet.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,1
+69,Fort Pierce Industrial Space For Rent,NEEDS_ENRICHMENT,info@crexi.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,1
+70,Fort Pierce Industrial and Warehouse Space For Rent,NEEDS_ENRICHMENT,info@showcase.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,1
+71,"Fort Pierce, FL Warehouses for Rent & Lease",NEEDS_ENRICHMENT,info@realmo.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+72,"Fort Pierce, FL Industrial & Warehouse Spaces for Rent",NEEDS_ENRICHMENT,info@propertyshark.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+73,"Fort Pierce, FL Industrial & Warehouse Space for Rent",NEEDS_ENRICHMENT,info@commercialsearch.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+74,"Fort Pierce, FL Warehouses for Rent",V4_NO_DATA,Pmayorga383@gmail.com,(786) 366-3966,Fort Pierce,FL,Yes,No,No,Yes,NO_NAME,0
+75,"2700 Industrial Ave 2 , Fort Pierce, FL 34946",NEEDS_ENRICHMENT,info@warehousespaces.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+76,"Industrial Warehouse/Flex Space, Fort Pierce, FL for lease",NEEDS_ENRICHMENT,info@slccommercial.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,1
+77,Jupiter Mobile Detailing,NEEDS_ENRICHMENT,info@jupitermobiledetailing.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+78,Fleet services,NEEDS_ENRICHMENT,info@gruntservices.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+79,Jupiter Detail: Car Detailing in Jupiter FL,NEEDS_ENRICHMENT,info@jupiterdetail.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+80,Fleet Washing Jupiter FL,NEEDS_ENRICHMENT,info@danryanspressurecleaning.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+81,Tru Mobile Detailing,,,561-453-5181,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+82,"Car Detailing Jupiter, FL",,officialluxautocare@gmail.com,(772) 304-4919,Jupiter,FL,Yes,No,No,Yes,NO_NAME,0
+83,"Clearshine Detailing: Vehicle Detailing Services Jupiter, FL",NEEDS_ENRICHMENT,office@reigncitysoftwash.com,(772) 304-4919,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+84,"Premium Car Detailing in Jupiter, FL",,beyondlimitspb@gmail.com,(561)460-3337,Jupiter,FL,Yes,No,No,Yes,NO_NAME,0
+85,"Jupiter, FL",NEEDS_ENRICHMENT,Hello@friendsofjupiterbeach.org,561-746-5134,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+86,Vero Beach Epoxy Floors by CJ Epoxy,NEEDS_ENRICHMENT,info@cjepoxy.com,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,0
+87,Garage Floor Coating: Professional Epoxy Flooring,,Floorcoatingpro@gmail.com,(772) 205-4627,Vero Beach,FL,Yes,No,No,Yes,NO_NAME,0
+88,ABOUT US,NEEDS_ENRICHMENT,info@rtiepoxyfloors.com,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,0
+89,Epoxy Flooring,NEEDS_ENRICHMENT,info@buciopainting.net,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,0
+90,"Best 15 Flooring Companies & Installers in Vero Beach, FL",NEEDS_ENRICHMENT,info@houzz.com,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,1
+91,Epoxy Garage Flooring Solutions in Vero Beach,NEEDS_ENRICHMENT,info@enhanceyourgarage.com,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,1
+92,Modern Concrete Floor Coatings Vero Beach FL,NEEDS_ENRICHMENT,info@customsurfacellc.com,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,1
+93,"Our Experienced Handyman Palm City, FL",NEEDS_ENRICHMENT,info@tamcare.com,3459463101,Palm City,FL,No,No,Yes,Yes,NO_EMAIL,0
+94,Palm City Handyman Service,,tchomecarerepair@gmail.com,3459463101,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+95,"Handyman & Home Repair Services in Palm City, FL",,tchomecarerepair@gmail.com,(772) 882-5798,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+96,Martin County,,eciampi@martin.fl.us,(772) 403-1064,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+97,Lawn Care and Lawn Maintenance,,Contractors@BelmontProviderNetwork.com,(772) 263-1656,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+98,Wolf's Landscape & Maintenance,NEEDS_ENRICHMENT,info@wolfscuts.com,1000636144,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+99,Martin County Condo & Homeowners Association Attorneys,V4_NO_DATA,jeanette.m.lugo@gmail.com,(772) 293-0352,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+100,Martin Downs Property Owners Association: Home,NEEDS_ENRICHMENT,reception@mdpoa.org,(772) 283-4746,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+101,Beau Rivage Estates HOA,,fenglund@bellsouth.net,1313679510,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+102,Martin Meadows | Home Owners Association – MMHOA,NEEDS_ENRICHMENT,admin@martinmeadows.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+103,Circle Bay Yacht Club,,,772.287.0990,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+104,"The Landings of Martin County | HOA in Stuart, FL",,tkryzda@martin.fl.us,(772) 288-5939,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+105,Master Association - Welcome to Hammock Creek,,Master.HammockCreek@gmail.com,772-334-8900,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+106,Community Association - Reblawpa,,sap@reblawpa.com,(772) 287-8045,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+107,Boca Raton Kitchen Remodeling by Boca Kitchens & Baths,NEEDS_ENRICHMENT,info@bocakitchens.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+108,Kitchen Renovations Perfected | Remodeling Contractor,NEEDS_ENRICHMENT,info@kitchenrenovationsperfected.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+109,"Kitchen Remodeling in Boca Raton, FL",NEEDS_ENRICHMENT,info@grmkb.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+110,"Professional Remodeling Contractor In Boca Raton, FL | CabinetIQ",NEEDS_ENRICHMENT,info@cabinetiq.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+111,"West Boca Raton Custom Cabinets, Refacing & Remodeling",NEEDS_ENRICHMENT,info@kitchentuneup.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+112,"Treasure Coast, FL - TourSeniorLiving.org",,,(772) 732-1223,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+113,"The Best Assisted Living Facilities in Port St. Lucie, FL",NEEDS_ENRICHMENT,info@brightenalf.comALF,772-237-5165,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+114,Treasure Coast Senior Living Communities,V4_NO_DATA,faithmarie@tc-seniorliving.com,(954) 549-7566,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+115,JD Treasure Coast ALF in Florida - Oasis Senior Advisors,,jlibratore@youroasisadvisor.com,(772) 214-0806,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+116,The Gardens of Port St. Lucie Senior Living,NEEDS_ENRICHMENT,info@sinceriseniorliving.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+117,Castlewood Assisted Living Residence,,brittanyf.cal@outlook.com,(605) 793-2234,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+118,"jd treasure coast assisted living facility, llc - Florida Health Finder",NEEDS_ENRICHMENT,info@quality.healthfinder.fl.gov,(646) 823-7554,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+119,"Treasure Coast ALF | Port St. Lucie, Florida Senior Living Community",NEEDS_ENRICHMENT,info@seniorplacementgroup.com,(561) 510-8367,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+120,"10 Best Assisted Living Facilities in St Lucie County, FL",NEEDS_ENRICHMENT,info@aplaceformom.com,(772) 207-7622,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+121,Independent Living - CarePatrol of The Treasure Coast,,lvelez@carepatrol.com,(321) 273-2424,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+122,"RENOVA - Kitchen, Bath Remodeling Contractors in Delray Beach ...",NEEDS_ENRICHMENT,info@letrenova.com,,Delray Beach,FL,No,No,No,Yes,NO_EMAIL,1
+123,Kitchen and Bath remodeling Delray Beach contractors BBB A+,NEEDS_ENRICHMENT,info@wymanbuilders.com,,Delray Beach,FL,No,No,No,Yes,NO_EMAIL,1
+124,"Delray Beach Kitchen, Bathroom & Home Remodeling",NEEDS_ENRICHMENT,info@bocakitchens.com,,Delray Beach,FL,No,No,No,Yes,NO_EMAIL,1
+125,Custom Kitchen and Bathroom Remodeling in Delray Beach,,elliott@kitchenrp.com,(954) 564-1611,Delray Beach,FL,Yes,No,No,Yes,NO_NAME,0
+126,Delray Beach Kitchen Remodeling Services | JR Stone Design,NEEDS_ENRICHMENT,info@jrstonedesign.net,,Delray Beach,FL,No,No,No,Yes,NO_EMAIL,0
+127,"Home Remodeling & General Contractor in Delray Beach, & Boca ...",NEEDS_ENRICHMENT,info@kmr-gc.com,,Delray Beach,FL,No,No,No,Yes,NO_EMAIL,0
+128,"Kitchen, Flooring & Bathroom Remodeling | Liberty Kitchen Design ...",,,561.865.5659,Delray Beach,FL,No,No,No,Yes,NO_EMAIL,0
+129,Premium Concrete Floor Coatings Services Stuart FL 2026,NEEDS_ENRICHMENT,info@customsurfacellc.com,844-844-4164,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+130,Epoxy Garage Floor Solutions in Stuart,NEEDS_ENRICHMENT,info@enhanceyourgarage.com,772.779.3799,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+131,"Garage Floor Installations in Stuart, FL – 10X Better",,tlosee@certapro.com,844-844-4164,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+132,Jupiter Custom Garage Floor Coatings & Cabinets | GarageExperts®,NEEDS_ENRICHMENT,info@garageexperts.com,(772) 222-6280,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+133,Top Flooring Alternatives to Epoxy in Stuart - Floortek Coatings,NEEDS_ENRICHMENT,info@floortekcoatings.com,(561) 565-0336,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+134,Sewalls Point Property Management | South Florida Realty ...,,mbuo1989@bellsouth.net,(772) 287-2455,Sewall's Point,FL,Yes,No,No,Yes,NO_NAME,0
+135,"Luxury Airbnb Property Management in Sewall's Point, FL | Five Star ...",NEEDS_ENRICHMENT,contact@luxurylodgingstr.com,1414656042,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+136,"REALTORS® & real estate agents in Sewall's Point, FL",,AlexanderHaighRealtor@Gmail.com,772-240-0997,Sewall's Point,FL,Yes,No,No,Yes,NO_NAME,0
+137,"Kathi Lundstrom, Real Estate Agent - Illustrated Properties",,kathione@bellsouth.net,772-631-2370,Sewall's Point,FL,Yes,No,No,Yes,NO_NAME,0
+138,Florida Commercial Real Estate Company: HOME,,cpelaez@commercialrealestatellc.com,772.221.1118,Sewall's Point,FL,Yes,No,No,Yes,NO_NAME,0
+139,Stuart Florida Real Estate | Premier Group at ONE Sotheby's ...,NEEDS_ENRICHMENT,info@premierrealtygroup.com,772.337.8250,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,1
+140,About Us - Management Specialists Port St Lucie FL,NEEDS_ENRICHMENT,info@mgtspec.com,(877) 665-5505,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+141,We Acquired R. Russell Properties!,,mcoady@brickpoint.com,1768212691,Sewall's Point,FL,Yes,No,No,Yes,NO_NAME,0
+142,Palm City Garage Floor Coatings | GarageExperts®,NEEDS_ENRICHMENT,sales@comercrossgarage.com,(772) 222-6280,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+143,"Professional Garage Floors in Palm City, FL - Floortek Coatings",,customsurfacesolutionsllc@gmail.com,772-448-1968,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+144,Professional Concrete Floor Coatings Palm City FL | Call Us!,,customsurfacesolutionsllc@gmail.com,561-905-0148,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+145,"Metallic Epoxy Flooring Experts in Palm City, Florida",NEEDS_ENRICHMENT,info@superiorfloorcoating.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+146,"flooring contractors in palm city, fl",NEEDS_ENRICHMENT,info@astonstuart.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+147,"Concrete Flooring Installation in Palm City, FL",NEEDS_ENRICHMENT,info@palmcityconcrete.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+148,General Contractor Boca Raton | Miller Construction Company,NEEDS_ENRICHMENT,info@millerconstruction.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+149,General Contractor Services in Boca Raton - Garzone Construction,NEEDS_ENRICHMENT,info@garzoneconstruction.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+150,General Building Contractor Boca Raton FL - KMR Enterprises,NEEDS_ENRICHMENT,info@kmr-gc.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+151,THE 10 BEST Restaurants in Stuart (Updated February 2026),NEEDS_ENRICHMENT,sales@tripadvisor.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+152,Dining - Historic Downtown Stuart,NEEDS_ENRICHMENT,info@downtownstuartflorida.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+153,"The 10 Best Restaurants Near Me in Stuart, FL | OpenTable",NEEDS_ENRICHMENT,info@opentable.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+154,"Home - BOATHOUSE - Fish restaurant in Stuart, FL",NEEDS_ENRICHMENT,info@stuartboathouse.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+155,The Sailor's Return Restaurant in Stuart Florida (772) 872-7250,NEEDS_ENRICHMENT,info@thesailorsreturn.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+156,"Stuart Fish Grill - Stuart, FL",NEEDS_ENRICHMENT,info@stuartfishgrill.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+157,"The Black Marlin | Bar & Restaurant in Historic Stuart, Florida",NEEDS_ENRICHMENT,contact@theblackmarlin.net,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+158,Hudson's On The River | Waterfront Dining | Best restaurants in ...,NEEDS_ENRICHMENT,info@hudsonontheriver.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+159,"New Construction Homes for Sale in Port St. Lucie, FL | Realtor.com®",,,(866) 833-3715,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+160,"New Construction Homes in Port Saint Lucie, FL | 87 Communities",NEEDS_ENRICHMENT,info@newhomesource.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+161,"Port Saint Lucie, FL New Construction Homes For Sale - 763 Listings",,,3290987704,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+162,"New Homes In Port St. Lucie, Florida For Sale",NEEDS_ENRICHMENT,info@ryanhomes.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+163,"Port Saint Lucie, FL New Construction Homes for Sale",NEEDS_ENRICHMENT,info@homes.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+164,"New homes for sale & real estate in Port St. Lucie, FL - Redfin",,,844-759-7732,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+165,"Port St. Lucie, FL New Homes For Sale by Lennar",NEEDS_ENRICHMENT,info@lennar.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+166,New Homes Port St. Lucie | Maronda Homes,NEEDS_ENRICHMENT,info@marondahomes.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+167,Gutter Installation & Downspout Services | Gutter Guy Inc.,NEEDS_ENRICHMENT,info@gutterguyofflorida.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+168,Jensen Beach FL Seamless Gutter Services by Gutter Hawk,NEEDS_ENRICHMENT,info@gutterhawks.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+169,"Gutter Installation in Jensen Beach, FL, 34957 - Lowe's",,DLBlanton@bellsouth.net,(772) 692-7745,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+170,Jensen Seamless Gutters,,gutterguy@gutterguyfl.com,772-334-3139,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+171,"Gutter Installation Jensen Beach, FL – Veteran Owned – Stateline ...",NEEDS_ENRICHMENT,sales@statelinegutters.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+172,"Seamless Gutters | Jensen Beach, FL",,gutterguy@gutterguyfl.com,772-334-3139,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+173,Jensen Beach Seamless Gutters,,gutterguy@gutterguyfl.com,772-334-3139,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+174,Jensen Beach Kitchen and Bath Remodeling,NEEDS_ENRICHMENT,info@jensenbeachkitchenandbath.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+175,GLS Remodeling | Kitchen & Bathroom Remodeling | Martin & St ...,NEEDS_ENRICHMENT,info@glsremodeling.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+176,"Victory Kitchen & Bath | Remodeling, Cabinetry, Countertops & more",NEEDS_ENRICHMENT,info@victorykb.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+177,General Contractor Jensen Beach Florida Sweet Industries,NEEDS_ENRICHMENT,info@sweetgc.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+178,Martin North Hospital | Cleveland Clinic,,roiwestonfl@ccf.org,(772) 287-5200,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+179,"Hospitals near Stuart, FL - Healthgrades",NEEDS_ENRICHMENT,admin@healthgrades.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+180,Martin North Hospital | Cleveland Clinic Florida,,PHPPRcontactus@providence.org,(772) 287-5200,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+181,HCA Florida Stuart Emergency,NEEDS_ENRICHMENT,info@stuartmartinchamber.org,(772) 203-8015,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+182,HOSPITALS/EMERGENCY ROOM Category | Stuart Martin County ...,NEEDS_ENRICHMENT,info@business.stuartmartinchamber.org,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+183,"Cleveland Clinic Martin Health-Stuart in Stuart, FL - Health US News",,singhr@ccf.org,(772) 223-2300,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+184,"Martin Memorial Hospital South, Stuart, FL - WellMed",NEEDS_ENRICHMENT,info@doctors.wellmedhealthcare.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+185,Cleveland Clinic Martin North Hospital - Medicare,,PHPPRcontactus@providence.org,772.287.5200,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+186,"Top-rated Handyman in Stuart, FL",NEEDS_ENRICHMENT,info@mrhandyman.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+187,Handyman Services in Stuart FL | Home & Beyond,NEEDS_ENRICHMENT,info@homeandbeyondfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+188,"Handyman & Home Repair Services in Stuart, FL",NEEDS_ENRICHMENT,info@acehandymanservices.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+189,Stuart Pressure Washing & Handyman LLC: Expert Pressure ...,NEEDS_ENRICHMENT,info@pressurewashingandhandyman.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+190,"Bathroom Remodeling in Boca Raton, Florida - KBC General Services",,,754-289-0824,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+191,Boca Raton Luxury Bathroom Overhaul - RENOVA,NEEDS_ENRICHMENT,info@letrenova.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+192,Ocean Remodeling | Home Remodeling Contractors Boca Raton FL,NEEDS_ENRICHMENT,info@oceanremodeling.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+193,"Everlast Bathrooms in Boca Raton, FL",NEEDS_ENRICHMENT,hello@everlastbathrooms.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+194,"Luxury Bathroom Remodeling & Renovation Services Boca Raton, FL",NEEDS_ENRICHMENT,info@uemiccontracting.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+195,Treasure Coast Auto Spa: Treasure Coast Auto Detailing,,ceramicprotcas@treasurecoastautospa.com,(772) 204-1286,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+196,MDS Auto Detailing,NEEDS_ENRICHMENT,info@mdsautodetailing.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+197,Doctor Detail of the Treasure Coast: Auto Detailing,NEEDS_ENRICHMENT,info@ddoftc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+198,Lio's Quality detailing,,liosqdllc@gmail.com,(772) 348-9559,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+199,Florida Finest Detailing: Home,,ffdetailing77@gmail.com,772-377-0077,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+200,"Ceramic Coating Experts | Best Auto Detailing in Port St Lucie, Fort ...",,showtimedetailing28@gmail.com,2006217259,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+201,Lion Heartz Detailing: Mobile Auto Detailing Services,,,(772)-480-4133,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+202,Booking - Showtime Detailing,NEEDS_ENRICHMENT,info@showtimedetailing.org,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+203,HOME - DA Detailing - PSL,NEEDS_ENRICHMENT,info@dadetailingpsl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+204,Full Service Catering | Treasure Coast | Home,NEEDS_ENRICHMENT,info@snlevents.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+205,"Catering services along the Treasure Coast, FL - Corporate Caterers",NEEDS_ENRICHMENT,info@corporatecaterers.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+206,True Roots Catering | Vero Beach | Stuart | Palm Beach,NEEDS_ENRICHMENT,info@truerootscatering.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+207,"Catering Revolution: Catering Services in Stuart, FL",NEEDS_ENRICHMENT,info@cateringrevolution.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+208,Premier Catering Services in Fort Pierce | Shelly's Bistro,NEEDS_ENRICHMENT,info@shellyzbistro.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+209,CT Catering,NEEDS_ENRICHMENT,info@cheftablecatering.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+210,"Caterer Service in Treasure Coast, FL | Corporate Caterers - Menu",,joe.stellato@gmail.com,772 286-0877,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+211,"Purple Olive: Catering Service | Saint Augustine, FL",,purpleolive2004@gmail.com,(904) 461-1250,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+212,Investment properties Martin County FL - Landmark Realty,NEEDS_ENRICHMENT,info@landmarkinvestmentsflorida.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+213,CRA Investment Program | Martin County Florida,NEEDS_ENRICHMENT,info@martin.fl.us,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+214,"Martin County, FL commercial real estate for sale - Realmo",NEEDS_ENRICHMENT,info@realmo.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+215,Martin County Existing Condo Sales Climb - MIAMI REALTORS®,NEEDS_ENRICHMENT,info@miamirealtors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+216,"Martin County, FL Homes for Sale - The Zecca Group",NEEDS_ENRICHMENT,info@thezeccagroup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+217,Martin County Real Estate Market Update – September 2025,NEEDS_ENRICHMENT,info@echofineproperties.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+218,Restaurants In Jensen Beach Florida | Discover Martin County,NEEDS_ENRICHMENT,info@discovermartin.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+219,"The 10 Best Restaurants Near Me in Jensen Beach, FL | OpenTable",NEEDS_ENRICHMENT,info@opentable.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+220,"The Nest | American Restaurant in Jensen Beach, FL",NEEDS_ENRICHMENT,info@nestontheriver.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+221,Where to eat? Downtown Jensen Beach teems with restaurants,NEEDS_ENRICHMENT,info@tcpalm.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+222,Mulligan's Beach House,NEEDS_ENRICHMENT,info@mulligansbeachhouse.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+223,Restaurants Jensen Beach | Seafood Restaurant Jensen Beach,NEEDS_ENRICHMENT,info@conchyjoes.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+224,Crawdaddy - Jensen Beach,NEEDS_ENRICHMENT,info@crawdaddysjensenbeach.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+225,"The Best Restaurants in Jensen Beach, Florida - Trip Canvas - AAA",,takotikijensenbeach@gmail.com,(772) 208-5554,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+226,Office Cleaning in Stuart FL | Serving Treasure Coast,NEEDS_ENRICHMENT,info@customcleaningtc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+227,"Snap Clean: Cleaning Services in Treasure Coast, FL",NEEDS_ENRICHMENT,hello@snapcleanservices.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+228,Commercial Cleaning Services in Palm Beach and Treasure Coast,NEEDS_ENRICHMENT,info@vanguardcleaning.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+229,Janitorial Services - FREEDOM COAST CLEANING SERVICES ...,NEEDS_ENRICHMENT,info@freedomcoastcleaningservices.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+230,Treasure Coast Commercial Cleaning and Janitorial Services,NEEDS_ENRICHMENT,info@cleanproservicesllc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+231,Office Cleaning Services in South Florida,NEEDS_ENRICHMENT,info@akbuildingservices.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+232,Top Treasure Coast Cleaning Company 360 Cleaning Solutions LLC,NEEDS_ENRICHMENT,info@treasurecoastcleaningsolutions.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+233,Reliable Cleaning Services Of Treasure Coast LLC - Home,NEEDS_ENRICHMENT,info@rcsoftreasurecoast.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+234,"Best Epoxy & Garage Floor Company Austin, TX",NEEDS_ENRICHMENT,info@garageup.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+235,Epoxy Floors Austin TX with ATX Epoxy Flooring | Garage ...,NEEDS_ENRICHMENT,info@atxepoxyfloors.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,0
+236,"15 Best Commercial Epoxy floor Contractors Austin, TX - Downtobid",NEEDS_ENRICHMENT,info@downtobid.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+237,Epoxy Garage Flooring Contractor in Texas - Zion Outdoors,NEEDS_ENRICHMENT,info@zionoutdoors.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,0
+238,Texas Tough Tops Epoxy Flooring,NEEDS_ENRICHMENT,info@texastoughtops.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,0
+239,"HOA Management Companies in Port St. Lucie, Florida",NEEDS_ENRICHMENT,info@hoamanagement.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+240,Watson Association Management - HOA & Property Management,,paminfo@watsonrealtycorp.com,772-871-0004,Port St Lucie,FL,Yes,No,No,Yes,NO_NAME,0
+241,Keystone Property Management Group,NEEDS_ENRICHMENT,info@kpmgcommunitycare.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+242,Divine Association Management LLC: Community Association | Florida,NEEDS_ENRICHMENT,info@divineassociations.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+243,Vesta Property Services – Florida HOA & Community Association ...,NEEDS_ENRICHMENT,info@vestapropertyservices.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+244,Lang Management - Association Management Services,NEEDS_ENRICHMENT,info@langmgmt.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+245,Port St. Lucie Property Management,NEEDS_ENRICHMENT,info@campbellpropertymanagement.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+246,"General Contractor | Kirchman Construction Co. | Stuart, FL",NEEDS_ENRICHMENT,info@kirchmanconstruction.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+247,MEL-RY Construction Commercial & Residential Builders in Stuart FL,NEEDS_ENRICHMENT,info@mel-ry.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+248,Bayview Construction Services,NEEDS_ENRICHMENT,info@bayviewconstruction.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+249,West Building Contractors | Stuart FL Construction Experts,NEEDS_ENRICHMENT,info@westbuildingcontractors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+250,Crosby's Construction LLC: Home,NEEDS_ENRICHMENT,info@crosbysconstructionfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+251,"Masterpiece Builders | Custom Home Builder Martin County, FL",NEEDS_ENRICHMENT,info@masterpiecebuilders.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+252,Straticon | South Florida Based Construction Management Company,NEEDS_ENRICHMENT,info@straticon.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+253,Commercial Cleaning - Eastside Chem-Dry,NEEDS_ENRICHMENT,contact@eastsidechemdry.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+254,General Cleaning and Janitorial Services - Servpro,NEEDS_ENRICHMENT,info@servpro.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+255,Top 5 Renovation Contractors in Palm Beach County,,,(561)570-8484,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+256,Home Remodeling & Renovation Contractors - Greenview,V4_NO_DATA,info@greenviewrenovation.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,1
+257,"Professional Home Remodeling in West Palm Beach, FL by Renuity",NEEDS_ENRICHMENT,info@renuityhome.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,1
+258,General Renovation Contractor West Palm Beach - Gentile,NEEDS_ENRICHMENT,info@gentilellc.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+259,"Apartments for Rent in Fort Pierce, FL - Homes.com",NEEDS_ENRICHMENT,info@homes.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,1
+260,"Apartments for Rent in Fort Pierce, FL - New Listings Daily",NEEDS_ENRICHMENT,info@rentcafe.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+261,B & S Auto Detailing LLC: Superior Auto Detailing Services in Stuart ...,NEEDS_ENRICHMENT,info@bnsautodetailing.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+262,"Mobile Car Detailing in Stuart, FL | AIRLITE",NEEDS_ENRICHMENT,info@airliteautodetailing.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+263,"Cameruski's Auto Detailing: Ceramic Coating & Detailing in Stuart, FL",NEEDS_ENRICHMENT,info@camskisdetailing.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+264,"B&B Mobile Detailing - Stuart - Book Online - Prices, Reviews, Photos",NEEDS_ENRICHMENT,info@booksy.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+265,Stuart mobile detailing - JonathanDetail,NEEDS_ENRICHMENT,info@jonathandetailstuartflorida.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+266,Service Areas | Mobile Detailing in Martin County & Surrounding ...,NEEDS_ENRICHMENT,info@harvsdetails.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+267,MonkMobileDetailing: HOME,,monkmobiledetailing@gmail.com,(772) 202-8871,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+268,Tony's Showroom Finish Detailing: Top Car Detailing Services in ...,,Stuart@auto-genie.co.uk,(772) 882-5877,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+269,"Top Stuart, Florida Property Management Companies | APM",NEEDS_ENRICHMENT,info@allpropertymanagement.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+270,"24 Best Property Manager Companies in Stuart, FL - KeyCrew",NEEDS_ENRICHMENT,contact@keycrew.co,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+271,Real Property Management Sailfish Coast - Stuart FL Property ...,NEEDS_ENRICHMENT,info@rpmsailfishcoast.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+272,"Top Property Management Companies in Stuart, FL | Birdeye",NEEDS_ENRICHMENT,info@reviews.birdeye.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+273,"Vacation Rental & Airbnb Management in Stuart, FL",NEEDS_ENRICHMENT,info@hometeamluxuryrentals.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+274,"Gutter Guard Installation Stuart, FL | Roof & Leaf Protection",NEEDS_ENRICHMENT,info@gutterbro.team,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+275,"15 Best Gutter Companies in Stuart, FL (2025 Reviews) - EcoWatch",NEEDS_ENRICHMENT,info@ecowatch.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+276,"Port St. Lucie, Fort Pierce, Florida Ridge & Stuart, FL",JUNK_DOMAIN,rideslc@stlucieco.gov,772-462-1778,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+277,"Gutter Installation Stuart, Florida - Code Red Roofers",NEEDS_ENRICHMENT,info@coderedroofers.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+278,GUTTER/INSTALL/CLEANING/LEAF GUARDS Category | Stuart ...,NEEDS_ENRICHMENT,support@leaffilter.com,800-726-7703,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+279,"10 Best Gutter Guard Companies in Stuart, FL - Today's Homeowner",NEEDS_ENRICHMENT,info@todayshomeowner.com,,Stuart,FL,No,No,Yes,Yes,NO_EMAIL,0
+280,"Gutter Installation & Repair In Stuart, FL - Walsh Roofing",NEEDS_ENRICHMENT,info@walshroofing.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+281,Mobile Car Detailing West Palm Beach | PDS®,NEEDS_ENRICHMENT,info@professionaldetailingservice.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,1
+282,Car Detailing West Palm Beach- Beyond Limits of Palm Beach,,billy@armorworks.studio,(561) 589-5640,West Palm Beach,FL,Yes,No,No,Yes,NO_NAME,0
+283,AJ Pro Mobile Detailing | Car detailing service in Palm Beach ...,NEEDS_ENRICHMENT,info@ajpromobiledetailing.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+284,"Mobile Detailing in West Palm Beach, FL | Xtra Mile Details",,xtramiledetails@gmail.com,(561)-345-8312,West Palm Beach,FL,Yes,No,No,Yes,NO_NAME,0
+285,Mobile Car Detailing West Palm Beach FL | WPB Car Wash,NEEDS_ENRICHMENT,info@wpbcarwash.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+286,Best Auto Detailing Services in West Palm Beach FL | Call Us!,NEEDS_ENRICHMENT,info@totaltitandetailing.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+287,"Mobile Detailing Services in West Palm Beach, FL, United States",,,561-377-6700,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+288,Esteban Brother's Mobile Car Wash,,estebanbrotherscarwash@gmail.com,(561) 971-5349,West Palm Beach,FL,Yes,No,No,Yes,NO_NAME,0
+289,Serving Stuart with over 40 years of experience,NEEDS_ENRICHMENT,info@americaspridehandyman.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+290,Scm Handyman Services,NEEDS_ENRICHMENT,info@scm-handyman-services.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+291,Naples Kitchen and Bath Remodeling Contractors Naples: Home,NEEDS_ENRICHMENT,info@napleskb.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+292,KGT Remodeling Home Remodeling Naples Florida,NEEDS_ENRICHMENT,info@kgtremodeling.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+293,"Dreamworks Kitchen & Bath - Home Renovations in Naples, FL",NEEDS_ENRICHMENT,info@dreamworkskb.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+294,Kitchen Remodeling Contractors - Naples - BCB Homes,NEEDS_ENRICHMENT,info@bcbhomes.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+295,AFK Naples: Naples Kitchen and Bathroom Remodeling,NEEDS_ENRICHMENT,info@afknaples.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+296,Hammer and Hand - Naples Home Building and Remodeling,NEEDS_ENRICHMENT,info@hammerandhandcompany.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+297,Gold Coast Renovation: Home,NEEDS_ENRICHMENT,info@goldcoastrenovation.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+298,Palm City Property Management,NEEDS_ENRICHMENT,info@homepropertymanagement.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+299,Palm City Property Management | RPM Sailfish Coast,NEEDS_ENRICHMENT,info@rpmsailfishcoast.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+300,Property Management - J Conroy Construction,NEEDS_ENRICHMENT,info@jconroyconstruction.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+301,"Top Palm City, Florida Property Management Companies | APM",NEEDS_ENRICHMENT,info@allpropertymanagement.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+302,palm realty and property management services,,office.prpm@gmail.com,941-661-2019,Palm City,FL,No,No,Yes,Yes,NO_EMAIL,0
+303,KWPMC – Premier Property Management in Florida,NEEDS_ENRICHMENT,info@kwpmc.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+304,Palm City Property Management | South Florida Realty Management,NEEDS_ENRICHMENT,info@floridapm.net,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+305,Charlotte's largest general contractors - The Business Journals,NEEDS_ENRICHMENT,info@bizjournals.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+306,"Luxury Home Builders & Remodeling | Charlotte, NC Contractors",NEEDS_ENRICHMENT,info@watershedbuilders.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+307,"Commercial General Contractor | Charlotte, NC",NEEDS_ENRICHMENT,info@marandbuilders.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,0
+308,The Best Residential General Contractors in Charlotte,V4_NO_DATA,info@charlottearchitects.org,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+309,Charlotte - Messer Construction Co.,NEEDS_ENRICHMENT,admin@messer.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+310,The Best General Contractors in Charlotte,NEEDS_ENRICHMENT,info@generalcontractors.org,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+311,"Best Roofers in Stuart, FL | GAF Roofing Contractors",NEEDS_ENRICHMENT,info@gaf.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+312,"10 Best Roofers in Stuart, FL 2026 - Porch",,,(772) 280-1498,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+313,"The Metal Roof Experts | Top Roofing Company in Stuart, FL",NEEDS_ENRICHMENT,info@themetalroofexperts.net,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+314,"JT Roofing, Inc – Stuart Florida Roofing Specialists",NEEDS_ENRICHMENT,info@jtroofinginc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+315,"Roofing Company Stuart, FL | Ryan Holmes Contracting, Inc.",NEEDS_ENRICHMENT,info@ryanholmescontracting.net,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+316,"Metal Roofing Contractor | Stuart, FL - Leo Roofing & Construction",,resume@leorc.com,(561) 861-3991,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+317,"Warehouses for Lease in Stuart, FL | Crexi",NEEDS_ENRICHMENT,info@crexi.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+318,Stuart Industrial and Warehouse Space For Rent & Lease - Showcase,NEEDS_ENRICHMENT,info@showcase.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+319,"Stuart, FL Industrial & Warehouse Spaces for Rent - PropertyShark",NEEDS_ENRICHMENT,info@propertyshark.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+320,"Stuart, FL Industrial & Warehouse Space for Rent - CommercialSearch",NEEDS_ENRICHMENT,info@commercialsearch.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+321,"Martin County, FL Warehouses for Rent & Lease | Realmo",NEEDS_ENRICHMENT,info@realmo.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+322,"Stuart, FL Industrial & Warehouse Spaces for Rent - Commercial Cafe",NEEDS_ENRICHMENT,info@commercialcafe.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+323,Commercial Industrial Space,NEEDS_ENRICHMENT,info@treasurecoastcommercialrealestate.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+324,"Stuart, FL Industrial Space For Lease - CityFeet",NEEDS_ENRICHMENT,info@cityfeet.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+325,"House Cleaning Services in Stuart , FL 34997",NEEDS_ENRICHMENT,info@cleaningsvcstuartfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+326,Home Cleaning Services,NEEDS_ENRICHMENT,info@keimys.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+327,"Olaf's Window Cleaning: Stuart, FL Window Cleaning Services",NEEDS_ENRICHMENT,info@olafswindowcleaning.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+328,Treasure Coast Life Real Estate Professionals,NEEDS_ENRICHMENT,info@treasurecoastlife.net,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+329,Treasure Coast Realtors | Homes & Real Estate in Florida,,themazurssell@aol.com,(772) 286-1900,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+330,"Investment Properties for Sale in Port St Lucie, Florida | 476+ Listings",NEEDS_ENRICHMENT,info@houzeo.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+331,Jensen Beach Property Management,NEEDS_ENRICHMENT,info@homepropertymanagement.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+332,"Top Jensen Beach, Florida Property Management Companies | APM",NEEDS_ENRICHMENT,info@allpropertymanagement.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+333,Jensen Beach Property Management | RPM Sailfish Coast,NEEDS_ENRICHMENT,info@rpmsailfishcoast.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+334,Property Manager | JBCC HOA,NEEDS_ENRICHMENT,info@jbcchoa.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+335,Property Management - Beach Front Mann Realty,,sean@beachfrontrealty.net,800-247-4862,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+336,TC Rentals & Property Management: Home,,rentals@tcpropt.com,(772) 225-6742,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+337,Epoxy Floor Installation | XPS | Martin County,NEEDS_ENRICHMENT,Info@SuperiorFloorCoating.com,772-773-1609,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+338,"Bathroom Remodeling | Stuart, FL",,isaac@tileanddecorusa.com,(772)-946-1986,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+339,Home | Kitchen and Bath Remodel from Stuart KBF,NEEDS_ENRICHMENT,info@stuartkitchenbathandflooring.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+340,"Kitchen Bath & Home Design | Remodel: Stuart, Florida",NEEDS_ENRICHMENT,info@kitchenbathandhomedesign.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+341,"Bathroom Remodeling in Stuart, FL from Agler Kitchen, Bath & Floors",NEEDS_ENRICHMENT,info@aglerinteriors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+342,"East Coast Kitchen & Bath | Remodeling Services | Stuart, FL",NEEDS_ENRICHMENT,info@eastcoastkitchenandbath.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+343,"Bathroom Remodeling Services | Stuart & Port St. Lucie, FL",,isaac@tileanddecorusa.com,(772) 453-0909,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+344,Bathroom Remodeling - Retrofits And Renovations,NEEDS_ENRICHMENT,info@retrofitsandrenovations.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+345,Home Remodeler | DreamMaker Bath & Kitchen of SE Florida | Stuart,NEEDS_ENRICHMENT,info@dreammaker-stuart.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+346,"Apartments for Rent in Stuart, FL - Homes.com",NEEDS_ENRICHMENT,info@homes.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+347,"Stuart, FL Apartments for Rent - 579 Rentals - HotPads",NEEDS_ENRICHMENT,info@hotpads.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+348,"Apartments for Rent in Stuart, FL - New Listings Daily - RentCafe",NEEDS_ENRICHMENT,info@rentcafe.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+349,St Lucie Property Management: Port St. Lucie Property Management ...,NEEDS_ENRICHMENT,info@stluciepropertymanagement.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+350,Port St. Lucie Property Management | SLW & Tradition,NEEDS_ENRICHMENT,info@ubarrealty.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+351,"Choice Properties | Property management | Port Saint Lucie, FL, USA",NEEDS_ENRICHMENT,info@choicepropertiespsl.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+352,Kitchen Renovations Port Royal - Naples - BCB Homes,NEEDS_ENRICHMENT,info@bcbhomes.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+353,"Full Home Remodel Fort Myers, Naples & Marco Island | Kitchen ...",NEEDS_ENRICHMENT,info@cornerstonebuildersswfl.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+354,Floors Coating Service Stuart | 10x Better Epoxy - Floortek Coatings,NEEDS_ENRICHMENT,info@floortekcoatings.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+355,Residential Epoxy Flooring Services in Stuart Florida,NEEDS_ENRICHMENT,info@superiorfloorcoating.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+356,Walter M White General Contractor Stuart Fl,NEEDS_ENRICHMENT,info@generalcontractorstuartfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+357,Gutter Guards Installation - MR INTEGRITY GUTTERS,NEEDS_ENRICHMENT,info@mrintegritygutters.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+358,Seamless Gutter Services in Stuart Florida - Gutter Hawk,NEEDS_ENRICHMENT,info@gutterhawks.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+359,"About TK Gutters | Martin County, FL",NEEDS_ENRICHMENT,info@tkgutters.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+360,"Super Gutters in Stuart, FL - Sanders Screening & Repair",NEEDS_ENRICHMENT,info@sandersscreeningfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+361,RESTAURANTS Category | Stuart Martin County Chamber of ...,SCRAPED_NO_NAME,info@business.stuartmartinchamber.org,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+362,23 Fun Family Restaurants in Stuart + Martin County,NEEDS_ENRICHMENT,info@treasurecoastmom.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+363,69 Best Casual Restaurants in Stuart | OpenTable,NEEDS_ENRICHMENT,info@opentable.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+364,Property Management Treasure Coast - Home,,TreasureCoast@itrip.net,(772) 486-1035,Jensen Beach,FL,Yes,No,No,Yes,NO_NAME,0
+365,Stuart Apartments - PMC Property Group,NEEDS_ENRICHMENT,info@pmcpropertygroup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+366,Hooks Construction,NEEDS_ENRICHMENT,info@hooksconstruction.net,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+367,Ferreira Construction: Homepage,NEEDS_ENRICHMENT,info@ferreiraconstruction.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+368,New & Used Cars For Sale | Wallace Auto Group | Stuart & Ft. Pierce,NEEDS_ENRICHMENT,info@wallaceautogroup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+369,"Victory Auto Store: Used Car Dealership in Stuart, FL",V4_NO_DATA,info@victoryautostore.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+370,"Car Dealerships in Stuart, FL 34997 - Kelley Blue Book",NEEDS_ENRICHMENT,sales@jldauto.net,772-283-6000,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+371,Starling Buick GMC Stuart Named Best Car Dealer in Stuart for 2025,NEEDS_ENRICHMENT,info@starlingbuickgmcstuart.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+372,"Wallace Chevrolet - Chevrolet Dealership In Stuart, FL",NEEDS_ENRICHMENT,info@wallacechevrolet.com,,Stuart,FL,No,No,Yes,Yes,NO_EMAIL,0
+373,"Encompass Health Rehabilitation Hospital, an affiliate of Martin Health",NEEDS_ENRICHMENT,info@encompasshealth.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+374,Cleveland Clinic Martin North Hospital (100044) - Free Profile,NEEDS_ENRICHMENT,sales@ahd.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+375,"Cleveland Clinic Martin North Hospital - Stuart, FL - Castle Connolly",NEEDS_ENRICHMENT,info@castleconnolly.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+376,Luxury Estate and Home Property Management | South Florida ...,NEEDS_ENRICHMENT,info@ihemfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+377,Evergreen Property Owners Association: Home,NEEDS_ENRICHMENT,info@evergreenpoa.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+378,"Jupiter Stuart Port St. Lucie Custom Cabinets, Refacing & Remodeling",NEEDS_ENRICHMENT,info@kitchentuneup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+379,RDI Kitchens - Home Remodeling | Stuart FL,NEEDS_ENRICHMENT,info@rdikitchens.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+380,Kitchen Remodeling in Stuart FL - Home & Beyond Services,NEEDS_ENRICHMENT,info@homeandbeyondfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+381,"Outdoor Kitchen Design Services In Stuart, Fl - Island Living & Patio",NEEDS_ENRICHMENT,info@islandlivingpatio.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+382,Stuart Kitchen Remodeling: Expert Kitchen Remodeling in Stuart,NEEDS_ENRICHMENT,info@stuartkitchenremodeling.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+383,"The Estates at Stuart in Stuart, FL | PMC Property Group Apartments",NEEDS_ENRICHMENT,info@pmcpropertygroup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+385,RV detail stuart florida - JonathanDetail - Stuart car detailing,NEEDS_ENRICHMENT,info@jonathandetailstuartflorida.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+386,Car Detailing in Stuart FL | Mobile Car Detailing - National Detail Pros,NEEDS_ENRICHMENT,info@nationaldetailpros.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+387,St. Lucie/Treasure Coast Chapter - Florida Assisted Living Association,NEEDS_ENRICHMENT,info@fala.org,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+388,"Top Property Managers in Palm City, FL - PropertyManagement.com",NEEDS_ENRICHMENT,info@propertymanagement.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+389,"Top Property Managers in Palm City, Florida 34990",NEEDS_ENRICHMENT,info@propertymanagement.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+390,"Property Management Companies Near Me in Palm City, Florida",,office.prpm@gmail.com,941-661-2019,Palm City,FL,No,No,Yes,Yes,NO_EMAIL,0
+391,ROSSMAN REALTY PROPERTY MANAGEMENT,NEEDS_ENRICHMENT,info@rossmanrentals.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+392,Central-Florida | Specialized Property Management Orlando,NEEDS_ENRICHMENT,info@thepropertymanagementspecialist.com,407-682-3355,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+393,"Lakeside Property Management, LLC: HOA Community ...",NEEDS_ENRICHMENT,info@lakesidepmgt.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+394,"ROSSMAN: Vacation Rental Management, Cape Coral, Fort Myers ...",NEEDS_ENRICHMENT,Frontdesk@RossmanRealty.com,(239) 542-2084,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+395,"Jon F. Swift General Contractors Sarasota, FL Over 40 years of ...",NEEDS_ENRICHMENT,info@jonfswiftinc.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+396,"Edgewater Contractors | Sarasota, FL",NEEDS_ENRICHMENT,info@edgewatercontractors.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+397,"Construction Contractors - Sarasota, FL - Howell Construction",NEEDS_ENRICHMENT,info@howellconstruction.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,1
+398,Perrone Construction: Sarasota Custom Home Builders,NEEDS_ENRICHMENT,admin@perroneconstruction.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,1
+399,Roberts Brothers Construction: Home,NEEDS_ENRICHMENT,info@robertsbros.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,1
+400,"Firmo Construction: Construction Management - Sarasota, FL",NEEDS_ENRICHMENT,info@firmoconstruction.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,1
+401,Team Parks: Home,NEEDS_ENRICHMENT,admin@teamparksinc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+402,Dynamic Brothers Detailing: Car Detailing West Palm Beach ...,NEEDS_ENRICHMENT,info@dynamicbrothersdetailing.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+403,Home - Wax On Wheels : Wax On Wheels,NEEDS_ENRICHMENT,info@waxonwheels.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,1
+404,"Specialty Coatings: Epoxy Flooring Contractors Nashville, Shot ...",NEEDS_ENRICHMENT,info@specialtycoat.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,0
+405,Best Epoxy And Polished Concrete Contractor In Nashville (615 ...,NEEDS_ENRICHMENT,info@epoxyfloornashville.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,1
+406,"Epoxy Flooring in Nashville West, TN | MACH ONE",NEEDS_ENRICHMENT,info@mach1epoxy.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,1
+407,Epoxy Floor Coatings in Nashville | Licensed Contractor,NEEDS_ENRICHMENT,info@iasolutions.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,0
+408,"Epoxy Depot Nashville | Decorative Concrete Sales, Service ...",NEEDS_ENRICHMENT,info@epoxydepotnashville.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,1
+409,"Stronger Than Epoxy, One Day Flooring Contractors Nashville, TN",NEEDS_ENRICHMENT,info@maverickcctn.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,0
+410,"Find Flooring Contractors in Nashville, TN - Procore",NEEDS_ENRICHMENT,info@procore.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,0
+411,"UB Kitchens: Kitchen Design In Austin, TX - Austin Kitchen ...",NEEDS_ENRICHMENT,info@ubkitchens.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+412,"The Best Kitchen & Bath Remodeling Company in Austin, TX ...",NEEDS_ENRICHMENT,info@cabinetto.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+413,"Kitchen Remodeling Services - Austin, TX - J. Angelo Design Build",NEEDS_ENRICHMENT,info@jangelodesignbuild.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,0
+414,"Custom Kitchen Remodeling, Home Remodeling Company | Kitchen ...",NEEDS_ENRICHMENT,info@kitchencentral.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+415,"Together Design & Build: Home Remodeling In Austin & Dallas, TX",NEEDS_ENRICHMENT,info@togetherdesignbuild.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+416,Quality Renovations: Home Renovation Contractor Austin TX | Bath ...,NEEDS_ENRICHMENT,info@qualityrenovations.org,,Austin,TX,No,No,No,Yes,NO_EMAIL,0
+417,REAL ESTATE/PROPERTY MANAGEMENT Category | Stuart Martin ...,NEEDS_ENRICHMENT,info@business.stuartmartinchamber.org,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+418,"MEYERS GROUP – Meyers Group, founded by respected real ...",NEEDS_ENRICHMENT,info@meyersgroup.net,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+419,Best assisted living communities in Treasure Coast | SENIORS.FYI,NEEDS_ENRICHMENT,info@seniors.fyi,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+420,Senior Living options in Treasure Coast | Oasis Senior Advisors,NEEDS_ENRICHMENT,info@oasissenioradvisors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+421,Assisted Living - CarePatrol of The Treasure Coast,NEEDS_ENRICHMENT,info@carepatrol.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+422,"14 Assisted Living Facilities in Vero Beach, FL (with Reviews)",NEEDS_ENRICHMENT,info@seniorhomes.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+423,Scottsdale Kitchen Remodeling - Kitchen Renovation AZ,NEEDS_ENRICHMENT,info@livingwithlolo.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,1
+424,"9 Best Remodelers in Scottsdale, Arizona - MGD Builders",NEEDS_ENRICHMENT,info@mgdbuildersaz.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,1
+425,Luxury Home Remodeling General Contractor in Scottsdale,NEEDS_ENRICHMENT,info@ardanconstruction.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,0
+426,"Kitchen Design Showroom in Scottsdale, AZ",NEEDS_ENRICHMENT,info@huntskitchendesigns.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,1
+427,Kitchen Remodeling in Scottsdale | Rosie Right,NEEDS_ENRICHMENT,info@rosieright.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,1
+428,Remodeling Contractor Jensen Beach | Island Kitchen & Bath,NEEDS_ENRICHMENT,info@ikbconstruction.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+429,"Kitchen & Bathroom Remodeling in Jensen Beach, FL",NEEDS_ENRICHMENT,info@glsremodeling.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+430,"Nex-Gen Partners Property Management | Port St. Lucie, FL ...",NEEDS_ENRICHMENT,info@nex-genpartners.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+431,"Agler Kitchen, Bath & Floors: Flooring store in Stuart, FL",NEEDS_ENRICHMENT,info@aglerinteriors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+432,"Top 10 General Contractors in Charlotte, NC (with Photos) | BuildZoom",NEEDS_ENRICHMENT,info@buildzoom.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+433,Best Restaurants in Stuart Florida,NEEDS_ENRICHMENT,info@stuartfishgrill.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+434,"La Grande Martier | Low-Country Cuisine in Stuart, FL",NEEDS_ENRICHMENT,info@grandemartier.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+435,"General Contractor & Construction - West Palm Beach | Stuart, FL",NEEDS_ENRICHMENT,info@onecallflorida.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+436,"Professional Roofing of Stuart, FL",NEEDS_ENRICHMENT,info@professionalroofinginc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+437,"#1 Roofing Company In Stuart, FL | Top-Notch Roofer",NEEDS_ENRICHMENT,info@foxhavenroof.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+438,Jensen Beach Property Management - Snowbird Caretaker Services,NEEDS_ENRICHMENT,info@snowbirdcaretakers.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+439,Vacation Home Property Management Services | Hutchinson Island ...,NEEDS_ENRICHMENT,info@nettlesislandrental.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+440,Best General Contractors in Sarasota | Edgewater Contracors,NEEDS_ENRICHMENT,info@edgewatercontractors.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+441,"Gulfside Contractors: Home Remodeling & Repair - Sarasota, FL",NEEDS_ENRICHMENT,info@gulfsidecontractors.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,1
+442,Sarasota Commercial Construction Company | Halfacre Construction,NEEDS_ENRICHMENT,info@halfacreconstruction.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+443,"Charlotte remodeling, additions & general contractor",NEEDS_ENRICHMENT,info@finelineconstruction.net,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,0
+444,Hopedale Builders: Charlotte Home Remodeling Contractor,NEEDS_ENRICHMENT,info@hopedalebuilders.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,0
+446,"The 10 Best Mobile Auto Detailing in Stuart, FL - PreferredMechanic",NEEDS_ENRICHMENT,info@preferredmechanic.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+447,Epoxy Floors - Boca Raton Epoxy Flooring | Epoxy Floor Contractors,NEEDS_ENRICHMENT,info@epoxybocaraton.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+448,"Epoxy Flooring in Boca Raton, FL | Garage Flooring Experts",NEEDS_ENRICHMENT,info@apexflooringllc.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+449,Satin Finish Concrete – Florida's leading epoxy flooring contractors,NEEDS_ENRICHMENT,info@satinfinishconcrete.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+450,"Epoxy Floors in Boca Raton, FL - Atrium Painting",NEEDS_ENRICHMENT,info@atriumpaint.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+451,Penntek Polyurea & Epoxy Floor Contractors Near Boca Raton Florida,NEEDS_ENRICHMENT,info@penntekcoatings.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+452,"Best Auto Body Shops near Stuart, FL - Carwise.com",NEEDS_ENRICHMENT,admin@carwise.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+453,Collision Body Shop | Wallace Auto Group In Stuart,NEEDS_ENRICHMENT,info@wallaceautogroup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+454,Auto Repair in Stuart | Caliber Collision,NEEDS_ENRICHMENT,admin@caliber.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+455,"The 10 Best Auto Body Repair in Stuart, FL - PreferredMechanic",NEEDS_ENRICHMENT,info@preferredmechanic.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+456,"Kia Collision Body Shop In Stuart, FL - Wallace Kia",NEEDS_ENRICHMENT,info@wallacekiaofstuart.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+457,"Certified Collision Experts in Stuart, FL, 34994 | Auto Body Shops",NEEDS_ENRICHMENT,admin@carwise.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+458,"5 Best Kitchen Remodels In Austin, Texas | Revent Builds",NEEDS_ENRICHMENT,info@reventbuilds.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+459,The Best Kitchen Remodelers in Austin,NEEDS_ENRICHMENT,info@austinarchitects.org,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+460,Featured Treasure Coast Realty Group Property Listings | Crexi.com,NEEDS_ENRICHMENT,info@crexi.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+461,Treasure Island Beachfront Investment Properties,NEEDS_ENRICHMENT,info@mygulfcoastproperty.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+464,"Wallace Chrysler, Jeep, Dodge, Ram & Wagoneer Dealership In ...",NEEDS_ENRICHMENT,info@wallacecjd.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+465,Caine and Company,NEEDS_ENRICHMENT,info@caineandcompany.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,0
+466,"Epoxy Flooring in Boca Raton, Florida",NEEDS_ENRICHMENT,info@fortlauderdaleepoxy.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+467,CFREIA,NEEDS_ENRICHMENT,info@cfreia.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+468,Best Realtor & Brokerage for Real Estate Investors on the Treasure ...,NEEDS_ENRICHMENT,info@echofineproperties.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+469,Treasure Coast Real Estate Investors Association - Meetup,NEEDS_ENRICHMENT,sales@meetup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+470,Treasure Coast Investor - BiggerPockets,NEEDS_ENRICHMENT,info@biggerpockets.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+471,Our Agents | The Brokerage Treasure Coast,NEEDS_ENRICHMENT,info@thebrokeragetc.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+472,Real Treasure Coast Real Estate Blog,NEEDS_ENRICHMENT,info@realtreasurecoast.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+473,Florida's Treasure Coast Offers Natural Allure for Investors in ...,NEEDS_ENRICHMENT,info@circlesquaredalts.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+474,10 Amazing Bars and Restaurants in Martin County You Have to Try,NEEDS_ENRICHMENT,info@emilyluxton.co.uk,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+475,Waterfront Stuart,,waterfront@sandcrg.com,(772) 288-1881,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+476,Floridian Management Group: Florida Property Management,NEEDS_ENRICHMENT,info@floridianmanagement.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+478,"The Best Construction Companies in Charlotte, North Carolina",NEEDS_ENRICHMENT,info@charlottearchitects.org,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+479,General Contractors / Remodelers - NARI Charlotte,NEEDS_ENRICHMENT,info@naricharlotte.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+480,D Brown General Contractors of Naples | Luxury Custom Home ...,NEEDS_ENRICHMENT,info@dbrowngc.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+481,Kitchen Remodeling Naples FL | Contractor - Goyal Development,NEEDS_ENRICHMENT,info@goyaldevelopment.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+482,"Kitchen Remodeling Naples, FL | Marco Island, FL",NEEDS_ENRICHMENT,sales@executivecustombuilders.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+483,"ATX Kitchen Remodeling: Kitchen Remodeling Austin, TX",NEEDS_ENRICHMENT,info@atxkitchenremodeling.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+484,"Apartments For Rent in Stuart, FL",NEEDS_ENRICHMENT,info@rent.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+485,"Best Tech Coatings | #1 Epoxy Flooring Company in Nashville, TN",NEEDS_ENRICHMENT,info@besttechcoatings.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,1
+486,Epoxy Flooring Nashville - Professional Installation,NEEDS_ENRICHMENT,info@sundeknashville.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,0
+487,Music City Epoxy Coatings for Garage Floors Nashville TN | Garage ...,NEEDS_ENRICHMENT,info@musiccityepoxy.com,,Nashville,TN,No,No,No,Yes,NO_EMAIL,0
+488,"Epoxy Flooring Palm City, FL | Durable Concrete Solutions",,abdeali@chemsandcoatings.com,6479782153,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+489,"Superior Floor Coatings, LLC.: Home",NEEDS_ENRICHMENT,info@superiorfloorcoating.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+490,Palm City | Ox Floors,NEEDS_ENRICHMENT,admin@oxfloors.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+491,BMA Property Management | Trusted Florida Rental Experts,NEEDS_ENRICHMENT,info@bmapropertymanagement.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,0
+492,Luxury Kitchen Remodeling | Scottsdale AZ - Trinity Homes AZ,NEEDS_ENRICHMENT,info@trinityhomesaz.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,0
+493,55+ Active Adult Communities in Treasure Coast - Del Webb,NEEDS_ENRICHMENT,info@delwebb.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+494,Custom Kitchen Design Experts - Stuart Kitchen Remodeling,NEEDS_ENRICHMENT,info@stuartkitchenremodeling.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+495,The Real Estate Leaders of the Treasure Coast of FL,NEEDS_ENRICHMENT,info@stuartmartinchamber.org,772-288-1111,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+496,"Investment Property for Sale in Port St. Lucie, FL - Mashvisor",NEEDS_ENRICHMENT,info@mashvisor.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+497,"Serving Jensen beach, FL - Prestige Remodeling Contractors LLC",V4_NO_DATA,Info@prc-experts.con,(561) 563-5444,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+498,Port Saint Lucie Property Management Companies,NEEDS_ENRICHMENT,sales@managemyproperty.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+499,"Garage Floor Coatings in Boca Raton, FL | Epoxy Alternative",NEEDS_ENRICHMENT,info@lifetimegreencoatings.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+500,Home & Beyond Services: Residential & Commercial Renovations,NEEDS_ENRICHMENT,info@homeandbeyondfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+503,"Extreme Performace | Stuart, FL Automotive Customization Shop",NEEDS_ENRICHMENT,info@extremeperformance.biz,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+504,"Gutter Guard Installation in Stuart, FL - Costs 01 / 2026 - homeyou",NEEDS_ENRICHMENT,contact@homeyou.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+505,Gutter Contractor | The Brothers that just do Gutters,,will@viralbitespos.com,1670199459,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+506,"Rain Gutter Guards & Downspout Extensions Port St Lucie, PSL ...",NEEDS_ENRICHMENT,info@gutterguyofflorida.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+507,"Expert Roofing Inspections and Replacement in Stuart, FL",NEEDS_ENRICHMENT,info@levelbestroofing.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+508,General Epoxy and Epoxy Flooring in Boca Raton - Atrium Painting,NEEDS_ENRICHMENT,info@atriumpaint.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+509,Where to Find Epoxy Flooring Specialists in Boca Raton - FixApply,NEEDS_ENRICHMENT,info@fixapply.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+512,"Commercial Cleaning Jobs, Employment in Stuart, FL - Indeed",,,321-306-0622,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+516,Yoder Homes: Expert Custom & Semi-Custom Home Builder ...,NEEDS_ENRICHMENT,contact@yoder-homes.com,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,1
+517,Mobile Car Detailing in Palm Beach | Premium Service by Your ...,NEEDS_ENRICHMENT,info@detailingpalmbeach.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+519,Watson Property Management,V4_NO_DATA,info@watsonrent.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+521,QC General Contractors – Charlotte's Best Remodeler & Custom ...,NEEDS_ENRICHMENT,info@qcgeneralcontractors.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+522,"Home Remodeling Jensen Beach, FL | db Home Improvements",NEEDS_ENRICHMENT,info@dbhiproducts.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+523,Treasure Property Group. Real Estate Services in Florida,NEEDS_ENRICHMENT,info@treasurepropertygroup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+524,The Brennity at Tradition Senior Living | Retirement Community,,,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+525,"3 Best Assisted Living Communities in Fort Pierce South, Florida",,,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+526,The Brennity at Vero Beach Senior Living | Retirement Community,,,(772) 299-7900,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+527,Gutter Installation Services by Gutter Hawk,NEEDS_ENRICHMENT,info@gutterhawks.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+528,"Gutter Installation Stuart, FL – Veteran Owned – Stateline Gutters ...",NEEDS_ENRICHMENT,sales@statelinegutters.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+530,"Property Management Jobs, Employment in Stuart, FL | Indeed",,,6880420380,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+531,Home - Whitemarsh Reserve HOA,NEEDS_ENRICHMENT,info@whitemarshreserve.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+532,"Kitchen Remodeling Services in Stuart, FL",NEEDS_ENRICHMENT,info@garciaandsonsconstruct.com,772.283.8912,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+533,Kitchen remodeling services in Stuart - Local General Contractor,NEEDS_ENRICHMENT,info@garciaandsonsconstruct.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+534,"Grand Oaks of Jensen Beach, Florida | Assisted Living and Memory ...",NEEDS_ENRICHMENT,info@grandoaksjensenbeach.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+536,Classic Collision Treasure Coast,NEEDS_ENRICHMENT,contact@classiccollision.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+537,"3776 SE Dixie Hwy Stuart, FL 34997",NEEDS_ENRICHMENT,info@autodentrepair.co,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+539,Industrial Warehouse Space,NEEDS_ENRICHMENT,info@treasurecoastcommercialrealestate.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+544,"Property Managers in Port Saint Lucie, FL",,Choicepropertiesrentals@gmail.com,772-871-2727,Port St Lucie,FL,Yes,No,No,Yes,NO_NAME,0
+545,"Property Management Companies in Port Saint Lucie, FL",,Choicepropertiesrentals@gmail.com,772-871-2727,Port St Lucie,FL,Yes,No,No,Yes,NO_NAME,0
+546,Nex-Gen Partners Property Management,NEEDS_ENRICHMENT,info@nex-genpartners.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+547,"Apartments in Port St. Lucie, FL",,,(772) 667-5390,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+548,Rental Listings in Fort Pierce FL,,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+549,Cheap Apartments for Rent in Fort Pierce FL,,sales-usa@theblueground.com,972 289 8633,Fort Pierce,FL,Yes,No,No,Yes,NO_NAME,0
+550,REAL ESTATE/PROPERTY MANAGEMENT Category,NEEDS_ENRICHMENT,info@business.stuartmartinchamber.org,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+551,Ecosystem Restoration and Management,NEEDS_ENRICHMENT,info@martin.fl.us,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+552,"Best 15 Kitchen Remodelers in Jensen Beach, FL",NEEDS_ENRICHMENT,info@houzz.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+553,Commercial Cleaning,NEEDS_ENRICHMENT,contact@eastsidechemdry.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+554,Treasure Coast Real Estate Investors Association,NEEDS_ENRICHMENT,sales@meetup.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+555,Treasure Coast Investor,NEEDS_ENRICHMENT,info@biggerpockets.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+556,Port Saint Lucie Real Estate Investment Club,NEEDS_ENRICHMENT,info@freedommentor.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+557,"INFINITI Stuart: Infiniti Dealership in Stuart, FL",NEEDS_ENRICHMENT,info@infinitistuart.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+558,"Industrial For Lease — Kings Highway, Fort Pierce, FL 34945",NEEDS_ENRICHMENT,info@colliers.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+559,Commercial Fleet Detailing,,estebanbrotherscarwash@gmail.com,772-249-9595,Jupiter,FL,Yes,No,No,Yes,NO_NAME,0
+560,"Epoxy Flooring in Vero Beach, FL",NEEDS_ENRICHMENT,contact@homeyou.com,,Vero Beach,FL,No,No,No,Yes,NO_EMAIL,1
+561,"Palm City Handyman, The Repair Guy",,therepairguyjake@gmail.com,(772) 279-4277,Palm City,FL,Yes,No,No,Yes,NO_NAME,0
+562,"Palm City, FL Commercial Maintenance Services",NEEDS_ENRICHMENT,info@brightview.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+563,"Epoxy Garage Floor Contractor in Boca Raton, Fl",NEEDS_ENRICHMENT,info@americasindustrialcoatings.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,1
+565,"Palm Tree Auto Sales: Used Car Dealer in Stuart, Florida",,,(772) 288-2099,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+567,"Car Team USA: Used Car Dealer in Stuart, FL",NEEDS_ENRICHMENT,info@carteamusa.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+568,"SPF Epoxy: Epoxy Flooring Palm Beach & St. Lucie County, FL",NEEDS_ENRICHMENT,sales@spfepoxy.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+571,Property Management: Palm Beach Gardens - FirstService Residential,NEEDS_ENRICHMENT,info@fsresidential.com,,Palm City,FL,No,No,No,Yes,NO_EMAIL,1
+575,Kitchen Remodeling Services In Jensen Beach - Coastal Flooring,NEEDS_ENRICHMENT,info@coastalflooring.net,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+576,Jensen Beach Home Renovations | Licensed & Insured,NEEDS_ENRICHMENT,info@homeandbeyondfl.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+582,Bathroom Remodeling in Stuart FL - Home & Beyond Services,NEEDS_ENRICHMENT,info@homeandbeyondfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+583,"Bathroom Remodeling Contractor | Stuart, FL | Bobby & Brothers ...",,,(772) 453-0909,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+584,Stuart Bathroom Contractors - DreamMaker Bath & Kitchen,NEEDS_ENRICHMENT,info@dreammaker-stuart.com,(561) 459-1004,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+585,"Bathroom Remodelers​ Stuart, FL | Adamo Painting",,davidadamo779@gmail.com,(862) 344-4286,Stuart,FL,Yes,No,No,Yes,NO_NAME,0
+589,"Professional Remodeling Contractor In Scottsdale, AZ | CabinetIQ",NEEDS_ENRICHMENT,info@cabinetiq.com,,Scottsdale,AZ,No,No,No,Yes,NO_EMAIL,1
+590,"20 Best Kitchen Remodeling Contractors in FL (2026), Naples 34102",NEEDS_ENRICHMENT,contact@homeyou.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+594,Expert Construction Project Management Firm Stuart FL,NEEDS_ENRICHMENT,info@jkellyadvisors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+595,"Find Small Business (SBE) Contractors in Stuart, FL - Procore",NEEDS_ENRICHMENT,info@procore.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+596,NAI Southcoast | Commercial Real Estate Services,NEEDS_ENRICHMENT,info@naisouthcoast.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+597,Mobile Car Detailing in West Palm Beach,NEEDS_ENRICHMENT,info@m4autodetail.com,,West Palm Beach,FL,No,No,No,Yes,NO_EMAIL,0
+599,Coastal Management Professionals: Trusted Property Management ...,,zachary@coastalrepros.com,561-310-9672,Palm City,FL,Yes,No,Yes,Yes,NO_NAME,0
+600,Kitchen Contractor Austin | Luxe Kitchen & Bathrooms,NEEDS_ENRICHMENT,info@luxekitchenbath.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+603,Revent's Kitchen Gallery | Austin Luxury Kitchen Remodel,NEEDS_ENRICHMENT,info@reventbuilds.com,,Austin,TX,No,No,No,Yes,NO_EMAIL,1
+605,Stuart's Top Car Detailing | Get Your Price Instantly - Panda Hub,NEEDS_ENRICHMENT,info@pandahub.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+606,"14 Assisted Living Facilities in Martin County, FL (with Reviews)",NEEDS_ENRICHMENT,info@seniorhomes.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+607,"4 Best Assisted Living Communities in Jensen Beach, Florida - Health",,,3493467007,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+608,"Treasure Coast - 2025 Pricing, Photos, Reviews in Port St. Lucie, FL",NEEDS_ENRICHMENT,info@assistedlivingcenter.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+610,"Custom Auto Center in Stuart, FL, 34994 | Auto Body Shops",NEEDS_ENRICHMENT,admin@carwise.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+613,Stuart Industrial Space For Rent | Commercial Leasing | Crexi.com,NEEDS_ENRICHMENT,info@crexi.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+614,"The 10 Best General Contractors in Charlotte, NC (2026) - HomeGuide",NEEDS_ENRICHMENT,info@homeguide.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+615,CONTACT US | mysite - Jensen Beach Club,NEEDS_ENRICHMENT,info@jensenbeachclub.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+622,"ReVision Design | Home Remodeling in Charlotte, NC",NEEDS_ENRICHMENT,info@revisioncharlotte.com,,Charlotte,NC,No,No,No,Yes,NO_EMAIL,1
+623,Expert Kitchen Remodeling in Stuart,NEEDS_ENRICHMENT,info@stuartkitchenremodeling.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+624,Home,NEEDS_ENRICHMENT,info@stuartkitchenbathandflooring.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+625,"Stuart, Florida",NEEDS_ENRICHMENT,info@kitchenbathandhomedesign.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+626,Kitchen Renovation Company,NEEDS_ENRICHMENT,info@islandhomesfl.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+627,Transitional Kitchens Gallery,,,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+628,"Flooring store in Stuart, FL",NEEDS_ENRICHMENT,info@aglerinteriors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+629,"Kitchen Remodeling in Stuart, FL from Agler Kitchen, Bath & Floors",NEEDS_ENRICHMENT,info@aglerinteriors.com,,Stuart,FL,No,No,No,Yes,NO_EMAIL,1
+630,Stuart Kitchen Contractors,,,,Stuart,FL,No,No,No,Yes,NO_EMAIL,0
+631,"Jensen Beach Club Assoc, 4500 NE Ocean Blvd, Jensen Beach, FL 34957, US",,,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+632,Jensen Beach Club Condos For Sale,NEEDS_ENRICHMENT,info@zfc.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+633,"Jensen Beach Club, Hutchinson Island, FL Condos For Sale",NEEDS_ENRICHMENT,info@amprorealty.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+634,CONTACT US,NEEDS_ENRICHMENT,info@jensenbeachclub.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+635,Home,NEEDS_ENRICHMENT,info@jbcchoa.com,,Jensen Beach,FL,No,No,Yes,Yes,NO_EMAIL,0
+636,Islandia II Condominium,NEEDS_ENRICHMENT,info@islandiatwo.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+637,Jensen Beach Club Hutchinson Island 6 Homes for Sale,NEEDS_ENRICHMENT,info@echofineproperties.com,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,0
+638,The Princess Condominium,NEEDS_ENRICHMENT,info@princesscondo.net,,Jensen Beach,FL,No,No,No,Yes,NO_EMAIL,1
+639,Jensen Beach Club,NEEDS_ENRICHMENT,info@jensenbeachclub.com,,Jensen Beach,FL,No,No,Yes,Yes,NO_EMAIL,0
+640,Lake Forest Park,NEEDS_ENRICHMENT,info@lakeforestparksl.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+641,"Best Assisted Living Facilities in Fort Pierce, FL",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+642,"14 Assisted Living Facilities in Fort Pierce, FL (with Reviews)",NEEDS_ENRICHMENT,info@seniorhomes.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+643,The Manor of Fort Pierce,NEEDS_ENRICHMENT,info@themanoroffortpierce.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+644,"The Best Assisted Living Facilities in Fort Pierce, FL",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+645,Senior Living Apartments for Rent in Fort Pierce FL,,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+646,Home,NEEDS_ENRICHMENT,info@thelynmooreatlawnwood.seniorlivingnearme.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+647,"25 Senior Living Communities in FORT PIERCE, FL",NEEDS_ENRICHMENT,info@seniorguidance.org,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+648,"Senior Living Facilities in Fort Pierce, FL",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+649,"17 Senior Living Communities in Fort Pierce,FL",NEEDS_ENRICHMENT,info@seniorhousingnet.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+650,"Jupiter Harbour Condominium Association, Inc.",NEEDS_ENRICHMENT,info@jupiterharbour.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+651,Jupiter Bay Condominium Association,,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+652,Home,NEEDS_ENRICHMENT,info@jupiterlakesvillas.org,,Jupiter,FL,No,No,Yes,Yes,NO_EMAIL,0
+653,DBPR,NEEDS_ENRICHMENT,info@myfloridalicense.com,,Jupiter,FL,No,No,Yes,Yes,NO_EMAIL,0
+654,Jupiter Cove,,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+655,353 S Us Highway 1 D209 Jupiter 33477,NEEDS_ENRICHMENT,info@jupiterflhomesonline.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+656,Detail by Entity Name,,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+657,"Jupiter Bay East Condo Assoc, 353 S US Highway 1, Apt D105, Jupiter, FL 33477, US",,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+658,"Jupiter Bay 1 Condo Associates, 275 Palm Ave, Apt D105, Jupiter, FL 33477, US",,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+659,"Alpharetta, GA Industrial Properties for Sale",NEEDS_ENRICHMENT,sales@loopnet.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,1
+660,Noah Industrial LLC,NEEDS_ENRICHMENT,info@noahindustrial.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,0
+661,"1150 Alpha Dr, Alpharetta, GA 30004",NEEDS_ENRICHMENT,sales@loopnet.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,1
+662,"8280 Industrial Pl, Alpharetta, GA 30004",V4_NO_DATA,info@crexi.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,1
+663,"4040 Nine McFarland Dr, Alpharetta, GA 30004",NEEDS_ENRICHMENT,info@cityfeet.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,1
+664,"Alpharetta City, GA Industrial & Warehouse Spaces for Rent",NEEDS_ENRICHMENT,info@propertyshark.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,0
+665,"Industrial Steel Buildings in Alpharetta, GA",NEEDS_ENRICHMENT,info@daytonbarns.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,1
+666,"Commercial Construction in Alpharetta, GA",NEEDS_ENRICHMENT,info@pencorconstruction.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,0
+667,"Alpharetta, GA Industrial Space for Lease",NEEDS_ENRICHMENT,sales@loopnet.com,,Alpharetta,GA,No,No,No,Yes,NO_EMAIL,1
+668,Kitchen & Bath Bonita Springs,,,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+669,"Kitchen Remodeling Contractors Bonita Springs, Naples FL",NEEDS_ENRICHMENT,info@optionsforyourhome.net,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+670,Home,NEEDS_ENRICHMENT,info@gmbswfl.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+671,Kitchen & Bathroom Remodeling by Cutting Edge,NEEDS_ENRICHMENT,info@cuttingedgebuilds.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+672,"Plan Your New Kitchen Remodeling in Bonita Springs, FL",NEEDS_ENRICHMENT,info@crbenge.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+673,"Large & Small Kitchen Remodeling Contractors Bonita Springs, FL",NEEDS_ENRICHMENT,info@kitchensolvers.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+674,"Best Kitchen Remodeling Services in Bonita Springs, FL: DeSanctis Homes",,,,Bonita Springs,FL,No,No,Yes,Yes,NO_EMAIL,0
+675,Remodeling Contractor,,,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+676,Kitchen Remodeling,NEEDS_ENRICHMENT,info@pocchiconstruction.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+677,"Best Concrete Coating Services In Bonita Springs, FL",,,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+678,General Concrete Services,NEEDS_ENRICHMENT,info@csibonita.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+679,Epoxy Flooring Bonita Springs FL,NEEDS_ENRICHMENT,info@surfacemastersflorida.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+680,Concrete Solutions and Innovations,NEEDS_ENRICHMENT,info@concretenetwork.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+681,"Epoxy Garage Floor Coating Services in Bonita Springs, FL",,,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+682,Castle Concrete,NEEDS_ENRICHMENT,info@castleconcretefl.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+683,Concrete Coating Services in Bonita Springs FL,NEEDS_ENRICHMENT,info@macksconcretecoating.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+684,Yoder Aluminum Gutters,NEEDS_ENRICHMENT,info@yoderaluminum.com,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+685,Gutter Contractor,,,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+686,Bradenton Seamless Gutters & Protection,NEEDS_ENRICHMENT,info@absolutealuminum.com,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+687,Client Challenge,NEEDS_ENRICHMENT,info@seamlessflow.net,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+688,Gutter Installation Tampa,,,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+689,Home,,,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+690,"RAIN TO SHINE SEAMLESS GUTTERS & IRRIGATION systems LOCATED IN PALMETTO, FL",NEEDS_ENRICHMENT,info@raintoshine.com,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+691,Gutter Solutions,V4_NO_DATA,info@guttersolutionsfl.com,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+692,Garage floor coating Frisco TX,NEEDS_ENRICHMENT,hello@mygaragefloors.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,1
+693,Frisco Garage Floor Coatings,NEEDS_ENRICHMENT,info@dfwclassiccoatings.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,1
+694,"Frisco, TX Professional Garage Floor Coating",,,,Frisco,TX,No,No,No,Yes,NO_EMAIL,0
+695,"Your Local Contractor & Expert for Epoxy Floors in Frisco, Texas",Mark King,mark@artisangaragefloors.com,,Frisco,TX,Yes,Yes,Yes,Yes,VERIFIED,1
+696,Durable Garage Floor Coating,NEEDS_ENRICHMENT,info@garageforce.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,1
+697,Garage Floor Coating & Storage Solutions,NEEDS_ENRICHMENT,sales@hellogarage.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,1
+698,Garage Floor Coatings Frisco,NEEDS_ENRICHMENT,info@fhgarage.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,0
+699,Professional Garage Floor Coatings,NEEDS_ENRICHMENT,info@fullarmourcoatings.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,0
+700,"Floor Coatings Contractor in Frisco, TX",NEEDS_ENRICHMENT,info@guardiangarage.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,1
+701,Garage Floor Coatings in Frisco TX,NEEDS_ENRICHMENT,sales@garagefloorcoating.com,,Frisco,TX,No,No,No,Yes,NO_EMAIL,1
+702,"High Point of Fort Pierce Condominium Section II Association, Inc.",NEEDS_ENRICHMENT,info@highpoint2fortpierce.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+703,"High Point of Fort Pierce Condominium Section III Association, Inc.",NEEDS_ENRICHMENT,info@highpoint3fortpierce.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+704,"High Point Condominium of Fort Pierce Section One Inc. – Fort Pierce, FL",NEEDS_ENRICHMENT,info@highpoint1fortpierce.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+705,About Us,,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+706,Hemingway Condominium Association,,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+707,"About Hemingway Condominium Association, Fort Pierce FL",NEEDS_ENRICHMENT,info@homes.com,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,1
+708,"Atrium on the Ocean Condo Association Inc, 2900 N Highway A1A, Fort Pierce, FL 34949, US",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+709,The Brennity at Tradition Senior Living,,,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+710,55+ Community in Port St. Lucie,NEEDS_ENRICHMENT,info@encoreattradition.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+711,Home,NEEDS_ENRICHMENT,hello@avivaportstlucie.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+712,Harbor Place at Port St. Lucie,NEEDS_ENRICHMENT,info@centurypa.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+713,"The Best Assisted Living Facilities in Port St. Lucie, FL",V4_NO_DATA,,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+714,Port St. Lucie Luxury Assisted Living,NEEDS_ENRICHMENT,admin@watercrestseniorliving.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+715,Assisted Living Facility in Port St. Lucie,NEEDS_ENRICHMENT,info@colliersassistedliving.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+716,The Palms of St. Lucie West,NEEDS_ENRICHMENT,info@fivestarseniorliving.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+717,Sinceri Senior Living – The Gardens of Port St. Lucie,NEEDS_ENRICHMENT,info@sinceriseniorliving.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+718,"55+ Communities in Port St. Lucie and Fort Pierce, Florida",NEEDS_ENRICHMENT,info@spanishlakes.com,,Port St Lucie,FL,No,No,No,Yes,NO_EMAIL,1
+719,Sewell Fleet Management,NEEDS_ENRICHMENT,sales@sewellfleetmanagement.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,1
+720,Fleet Management from Sewell Auto Group,NEEDS_ENRICHMENT,info@fleet.teamsewell.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+721,Fleet Washing and Heavy Equipment: A-1 Cleaning Concepts,NEEDS_ENRICHMENT,info@pressurecleaningfl.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+722,SAFER Web,NEEDS_ENRICHMENT,info@safer.fmcsa.dot.gov,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+723,Florida Fleet Management Services,NEEDS_ENRICHMENT,info@efleets.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,1
+724,"Town of Sewall's Point, Florida",NEEDS_ENRICHMENT,info@sewallspoint.org,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+725,Introducing Sewell Government Fleet Solutions,NEEDS_ENRICHMENT,admin@teamsewell.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,1
+726,"Fleet Management Services, Tracking, and Vehicle Leasing",NEEDS_ENRICHMENT,info@efleets.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,1
+727,Fleet Management – Florida's Turnpike,NEEDS_ENRICHMENT,info@floridasturnpike.com,,Sewall's Point,FL,No,No,No,Yes,NO_EMAIL,0
+728,Tampa Fleet Management Services,NEEDS_ENRICHMENT,info@efleets.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+729,Fleet Management & Mobility Solutions,NEEDS_ENRICHMENT,info@wheels.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+730,"Fleet Service In Naples, FL",NEEDS_ENRICHMENT,info@dealerschoiceautorepair.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+731,Red Zone Fleet Services,NEEDS_ENRICHMENT,info@web.napleschamber.org,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+732,Collier Fleet Management,NEEDS_ENRICHMENT,info@government-county.org,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+733,Element Fleet Management,NEEDS_ENRICHMENT,info@elementfleet.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+734,Fleet Services Naples,NEEDS_ENRICHMENT,info@therockfleetmgmt.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,1
+735,Fleet Management Services & Solutions,NEEDS_ENRICHMENT,info@holman.com,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+736,Expert Concrete Contractors in St. Petersburg,NEEDS_ENRICHMENT,info@coteconcretecontractors.com,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,0
+737,Professional Concrete Services,NEEDS_ENRICHMENT,info@professionalconcreteservicesinc.com,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,0
+738,Concrete Contractor,,,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,0
+739,"Find Concrete Contractors in St Petersburg, FL",NEEDS_ENRICHMENT,info@procore.com,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,0
+740,"Concrete Contractor Business St Petersburg, FL",NEEDS_ENRICHMENT,info@lowcostconcretellc.com,,St Petersburg,FL,No,No,Yes,Yes,NO_EMAIL,0
+741,Custom Epoxy Floors And Polished Concrete In St. Petersburg,NEEDS_ENRICHMENT,info@paradigmconcretefl.com,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,0
+742,Expert Concrete Contractors in St Petersburg,,,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,0
+743,St. Petersburg FL Concrete Contractors,NEEDS_ENRICHMENT,info@networx.com,,St Petersburg,FL,No,No,No,Yes,NO_EMAIL,1
+744,66 Best Casual Restaurants in Bonita Springs,NEEDS_ENRICHMENT,info@opentable.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+745,THE 10 BEST Restaurants in Bonita Springs (Updated February 2026),NEEDS_ENRICHMENT,sales@tripadvisor.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+746,Roy’s Restaurant Locations – Bonita Springs Restaurant,NEEDS_ENRICHMENT,info@roysrestaurant.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+747,Doc's Beach House,NEEDS_ENRICHMENT,info@docsbeachhouse.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+748,The 13 Best Restaurants in Bonita Springs,NEEDS_ENRICHMENT,info@visitnaplesfl.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+749,Bonita Springs Restaurants 2025,V4_NO_DATA,info@sizzledining.org,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+750,Molino's Ristorante,,,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+751,Restaurants Near Bonita Springs FL,NEEDS_ENRICHMENT,info@trianonbonitabay.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+752,"Guanabanas- Waterfront Restaurant & Bar in Jupiter, Florida",NEEDS_ENRICHMENT,info@guanabanas.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,1
+753,THE 10 BEST Restaurants in Jupiter (Updated February 2026),NEEDS_ENRICHMENT,sales@tripadvisor.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,1
+754,r/JupiterFL on Reddit: Best restaurants?,NEEDS_ENRICHMENT,info@reddit.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,1
+755,Beacon,NEEDS_ENRICHMENT,info@thebeaconjupiter.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,1
+756,Premier Fine Dining,NEEDS_ENRICHMENT,info@thejupitergrill.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,1
+757,"7 Amazing Restaurants in Jupiter, Florida",NEEDS_ENRICHMENT,info@guidedbydestiny.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+758,Bistro Jupiter,NEEDS_ENRICHMENT,info@thebistrojupiter.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+759,Food & Drinks,NEEDS_ENRICHMENT,info@luckyshuckjupiter.com,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,1
+760,"Raleigh, NC Construction Companies",NEEDS_ENRICHMENT,info@web.raleighchamber.org,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,0
+761,"Construction Contractors in Raleigh, NC",NEEDS_ENRICHMENT,info@llconstructiongroup-nc.com,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,0
+762,L&L Construction Group,NEEDS_ENRICHMENT,info@llconstructiongroup-nc.com,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,0
+763,"Learn About 15 Construction Companies in Raleigh, NC",,,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,0
+764,Raleigh,NEEDS_ENRICHMENT,admin@messer.com,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,1
+765,Top Construction Companies in Raleigh,NEEDS_ENRICHMENT,admin@glassdoor.com,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,1
+766,"Commercial Construction Firms in Raleigh, NC",NEEDS_ENRICHMENT,info@clearlyrated.com,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,1
+767,ARCO Raleigh-Durham,NEEDS_ENRICHMENT,info@arcodb.com,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,1
+768,"Certified Concrete Construction, 8700 Fleet Service Dr, Raleigh, NC 27617, US",,,,Raleigh,NC,No,No,No,Yes,NO_EMAIL,0
+769,Fleet Management & Mobility Solutions,NEEDS_ENRICHMENT,info@wheels.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+770,Florida Fleet Management Services,SCRAPED_NO_NAME,info@efleets.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+771,Element Fleet Management,NEEDS_ENRICHMENT,info@elementfleet.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+772,global-fleet,,,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+773,Fleet Management – Florida's Turnpike,NEEDS_ENRICHMENT,info@floridasturnpike.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+774,Government Fleet Maintenance,NEEDS_ENRICHMENT,info@vectorfleet.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+775,"79 fleet manager Jobs in Florida, February 2026",NEEDS_ENRICHMENT,admin@glassdoor.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+776,Fleet Management Services & Solutions,NEEDS_ENRICHMENT,info@holman.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+777,Fleet Management / Fleet Management and Federal Property Assistance / Business Operations,NEEDS_ENRICHMENT,info@dms.myflorida.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+778,Industrial Architecture,NEEDS_ENRICHMENT,info@sfarchitectureinc.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+779,Industrial,NEEDS_ENRICHMENT,info@ipcnaples.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+780,The Bonita Foundry,NEEDS_ENRICHMENT,info@swfl.life,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+781,"Bonita Springs, FL",NEEDS_ENRICHMENT,info@gatorgypsum.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+782,"Bonita Springs, FL Industrial Properties for Sale",NEEDS_ENRICHMENT,sales@loopnet.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+783,"28292 Industrial Rd, Bonita Springs, FL 34135",NEEDS_ENRICHMENT,sales@loopnet.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+784,"Bonita Springs, FL Commercial Real Estate Properties for Sale",NEEDS_ENRICHMENT,sales@loopnet.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,1
+785,Master Builders Contracting LLC,NEEDS_ENRICHMENT,info@masterbuilders239.com,,Bonita Springs,FL,No,No,No,Yes,NO_EMAIL,0
+786,"Franchise Opportunities Near You Daytona Beach, Florida",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+787,Contact,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+788,RESTAURANT DEPOT,,,(386) 287-5967,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+789,"Businesses For Sale in Daytona Beach, FL",,,,Daytona Beach,FL,No,No,Yes,Yes,NO_EMAIL,0
+790,"Popular St. Augustine diner launches franchise program, sets sights on Daytona Beach",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+791,Metro Diner Daytona Beach,,,904-758-3323,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+792,Jimmy John's Gourmet Sandwiches,,,(386) 323-9828,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+793,"Sunbelt Business Brokers Daytona Beach, FL",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+794,"Restaurants and Food Businesses For Sale in Daytona Beach, FL",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+795,"Franchises for Sale in Daytona Beach, Florida (2026)",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+796,"Flooring Installation in Deltona, FL",,,386-244-0696,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+797,"Flooring installation in Deltona, FL, 2170 Howland Boulevard",,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+798,Flooring Installation in Deltona FL,,,386-244-1580,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+799,"Flooring Store in Deltona, FL",,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+800,50Floor,,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+801,"Flooring DeBary, FL",,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+802,Loading Docks,,,321.303.4505,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+803,"Marine Construction Daytona, Ormond, New Smyrna",,,(386) 777-7440,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+804,"Daytona Beach Shores Seawalls, Boat Docks & Marine ...",V4_NO_DATA,,(386) 777-7440,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+805,Dock Levelers,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+806,Yard Ramps,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+807,"Cross Dock Rentals facilities in Daytona Beach Shores, FL",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+808,Contact and Estimates,,daytonadock@gmail.com,(386)255-7909,Daytona Beach,FL,Yes,No,Yes,Yes,NO_NAME,0
+809,Volusia County Marine Construction,,,(386) 777-7440,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+810,"Daytona Beach, FL",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+811,"Cubeworks Warehouse Daytona Beach Shores, US",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+812,"Painting Contractors Jacksonville, FL",,,(904) 507-5700,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+813,Painting Contractor,NEEDS_ENRICHMENT,info@thomasppw.com,904-300-9380,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+814,Jacksonville's Best Painters & Painting Contractors,,,(904) 615-6599,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+815,Painters in Jacksonville,,,(904) 842-4422,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+816,"House Painters in Jacksonville, FL",V4_NO_DATA,,904-406-1147,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+817,Jacksonville FL,,Dave@premiumpainters.com,561-632-7499,Jacksonville,FL,Yes,No,No,Yes,NO_NAME,0
+818,Painting,,,(904) 801-9214,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+819,"Exterior House Painting Jacksonville, FL",,,(904) 507-5700,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+820,Painting Work,,,904-420-7753,Jacksonville,FL,No,No,No,Yes,NO_EMAIL,0
+821,"St. Johns Painting,",,,,Jacksonville,FL,No,No,Yes,Yes,NO_EMAIL,0
+822,Residential & Commercial Flooring Contractors,,,(727) 474-7730,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+823,Flooring Installation & Carpeting Installation at Able Builders Clearwater,V4_NO_DATA,,(866) 331-3770,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+824,"Hardwood Flooring in Clearwater, FL",,,(727) 444-0019,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+825,Wood Flooring Installation Clearwater FL,,,(727) 390-0665,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+826,"Affordable Flooring Solutions in Clearwater, FL",,,(727) 518-9122,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+827,Clearwater Florida Hardwood Floor Installation,,,(727) 390-0665,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+828,"Hardwood Flooring Clearwater Beach, FL",,,(855) 631-2059,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+829,Contact Us,V4_NO_DATA,,,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+830,"Floor Installation in Clearwater / Spring Hill, FL",,,,Clearwater,FL,No,No,No,Yes,NO_EMAIL,0
+831,Hardwood Flooring Specialists,,,,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+832,"Flooring Installation in Cape Coral, FL",,,(239) 489-0018,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+833,Expert Flooring Installations,,,,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+834,"Flooring Store in Cape Coral, FL",,,,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+835,"Retail Flooring, Window Fashions, and Wall Coverings",,,,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+836,Cape Coral Flooring Installation,,,,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+837,Smart Floors USA: Flooring Stores & Installation in SW Florida,,,(239) 500-1234,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+838,Smart Floors USA,,,(239) 291-0580,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+839,"Flooring store in Cape Coral, FL",,,,Cape Coral,FL,No,No,No,Yes,NO_EMAIL,0
+840,Custom Cabinets Shop Doral,,,305-342-5869,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+841,Custom Cabinets,NEEDS_ENRICHMENT,info@primexcabinetry.com,(305) 563-6360,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+842,"Primex Cabinetry — Custom Kitchens & Cabinets in Miami, FL",NEEDS_ENRICHMENT,info@primexcabinetry.com,(305) 563-6360,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+843,Kitchen Cabinet Refacing,,,(305) 770-1618,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+844,Wholesale Cabinetry in Miami,NEEDS_ENRICHMENT,info@stoneintl.net,(786) 930-4722,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+845,"Kitchen Cabinet Makers in Miami, FL",,,(888) 209-5240,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+846,hbimperialwoodworks.com,,,,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+847,Miami Custom Kitchen Cabinets Designers,,,(786) 634-5544,Miami,FL,No,No,No,Yes,NO_EMAIL,0
+848,Contact Us,,,,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+849,Search for Public School Districts,,,(239)334-1102,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+850,Home,,,(239) 561-0060,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+851,Our District,,,(239) 334-2167,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+852,Fort Myers Academy,,Kelly.Pierce@rop.com,(239)215-4700,Fort Myers,FL,Yes,No,Yes,Yes,NO_NAME,0
+854,Contact,,,,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+855,Lee County School District,,,(239) 334-1102,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+856,Directions to School District of Lee County,,,,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+857,Medical Center of Deltona,,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+858,UF Health Surgical Specialists – Medical Center of Deltona,,,(386) 457-6384,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+859,Halifax Health UF Health Medical Center Of Deltona Hospital OverView In Hospitals,,,386-425-6000,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+860,halifax health uf health medical center of deltona,,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+861,Deltona Medical Facilities,,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+862,Hospitals,,,386-736-2700,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+863,Deltona » Innovacare Health,,,(386) 320-9990,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+864,"Hospitals near Deltona, FL",,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+865,Halifax Health UF Health,,,,Deltona,FL,No,No,Yes,Yes,NO_EMAIL,0
+866,UF Health,,,,Deltona,FL,No,No,No,Yes,NO_EMAIL,0
+867,Find Your Fire Stations – Orlando Professional Firefighters,,,(407)383-2642,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+868,Fire Station Map – Orange County Fire Fighters Association,,,407-389-2057,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+869,Fire Stations,,,,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+870,Orlando Fire Department,,,,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+871,Fire Station Locations,V4_NO_DATA,,,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+872,Fire and EMS station information for City of Orlando Florida,,,,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+873,Fire Station 56,,,,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+874,Fire Station 11 – The Beast of the East,,,,Orlando,FL,No,No,No,Yes,NO_EMAIL,0
+876,Fort Myers Family Dentist,,,(239) 201-2564,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+877,Home,,IndependentDentalCare@gmail.com,(239) 437 8900,Fort Myers,FL,Yes,No,No,Yes,NO_NAME,0
+878,Local Dentist Office in Fort Myers FL,,,239-236-2103,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+880,"Dentist in Fort Myers, FL",,,239-936-7400,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+881,Fort Myers Dentist,,,(239) 236-4475,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+883,FORT MYERS DENTIST,,,(239) 454-1150,Fort Myers,FL,No,No,No,Yes,NO_EMAIL,0
+885,"Veterinarian in Sarasota, FL",,,941) 216-7886,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+886,"Veterinarians Sarasota, FL",,,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+887,Fruitville Veterinary Clinic – Fruitville Veterinary Clinic,,fvc719@gmail.com,(941)-371-4426,Sarasota,FL,Yes,No,No,Yes,NO_NAME,0
+889,Home,,,941-955-0136,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+890,"High-Quality Vet Hospital in Sarasota, FL",,,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+891,Animal Clinic of the Humane Society of Sarasota County,,,941.922.0880,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+892,Clark Road Animal Clinic,,,,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+893,Veterinary Specialists in Sarasota,NEEDS_ENRICHMENT,info@vscsarasota.com,941.893.1500,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+894,Animal Hospital Near Me 32433,,,(941) 377-3031,Sarasota,FL,No,No,No,Yes,NO_EMAIL,0
+895,Contact Us,,,407.982.8648,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+896,"Search Verified People by Job Title, Industry & Region",,,,Kissimmee,FL,No,No,Yes,Yes,NO_EMAIL,0
+897,Shopping & Specialty Retail QuickLink Category,,,(786) 963-5024,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+898,The Loop – Experience The Loop,,,,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+899,"$15-$27/hr Retail Store Manager Jobs in Kissimmee, FL",,,,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+900,"Retail Store Manager Jobs, Employment in Kissimmee, FL",,,,Kissimmee,FL,No,No,Yes,Yes,NO_EMAIL,0
+901,Buy a Florida Orlando Kissimmee Supermarket,,,,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+902,Kissimmee Shopping & Restaurants,,,,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+903,"The Crosslands Shopping Center in Kissimmee, FL",,,,Kissimmee,FL,No,No,No,Yes,NO_EMAIL,0
+905,"St Lucie Public Schools – Each child, every day",,,,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+906,Contact Us – St Lucie Public Schools,,,(772) 429-3600,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+907,St Lucie,,,,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+908,Executive Offices and Departments – St Lucie Public Schools,,,,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+909,Human Resources – St Lucie Public Schools,,EMP-GRV@stlucieschools.org,(772) 429-7508,Port St. Lucie,FL,Yes,No,Yes,Yes,NO_NAME,0
+910,Facilities and Maintenance – St Lucie Public Schools,,,,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+911,St. Lucie,,,7724293925,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+912,Education,V4_NO_DATA,,,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+913,School Profile – St Lucie Public Schools,,,(772) 460-3050,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+914,School District of St Lucie County,,,,Port St. Lucie,FL,No,No,No,Yes,NO_EMAIL,0
+915,"Top companies in Jupiter, Florida",,,,Jupiter,FL,No,No,Yes,Yes,NO_EMAIL,0
+916,Condustrial,,,(561) 427-0422,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+917,"Jupiter, FL",,,561-741-2601,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+918,"Jupiter, FL Staffing Agency",,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+919,Departments,,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+920,Human Resources,,,,Jupiter,FL,No,No,No,Yes,NO_EMAIL,0
+921,Town Directory • Town Manager,,,,Jupiter,FL,No,No,Yes,Yes,NO_EMAIL,0
+922,Staff Directory • Utilities Water Plant,,,,Jupiter,FL,No,No,Yes,Yes,NO_EMAIL,0
+923,Town Directory • Engineering,,,,Jupiter,FL,No,No,Yes,Yes,NO_EMAIL,0
+924,ECO General Contractors Boca Raton FL,NEEDS_ENRICHMENT,info@ecogeneralcontractors.com,561-693-2274,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+925,Boca Raton GENERAL CONTRACTORS,NEEDS_ENRICHMENT,info@bocachamber.com,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+926,"General Contractor in Boca Raton, Fl",,,(561) 586-5655,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+927,"Licensed Remodeling & Renovation Boca Raton, FL",NEEDS_ENRICHMENT,info@UEMICcontracting.com,954-816-6405,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+928,"Simplified General Contractors in Boca Raton, Florida",,TH@SimplifiedGC.com,561-403-4243,Boca Raton,FL,Yes,No,No,Yes,NO_NAME,0
+929,Top General Contractor in FL – DB General Contractor,,,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+930,"Full-Service General Contractor in Boca Raton, Delray Beach, Lake Worth",,,,Boca Raton,FL,No,No,No,Yes,NO_EMAIL,0
+931,Best Restaurants,,dean@meandeanslocalkitchen.com,941-251-5435,Bradenton,FL,Yes,No,No,Yes,NO_NAME,0
+932,Contact,NEEDS_ENRICHMENT,info@lucky-frog.com,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+933,"Contact Chef Gaetano, Ortygia Restaurant, Bradenton FL",,Guy@OrtygiaRestaurant.com,941-704-6818,Bradenton,FL,Yes,No,No,Yes,NO_NAME,0
+934,Restaurant — Linger Lodge,,restaurant@lingerlodge.com,(941) 755 2757,Bradenton,FL,Yes,No,No,Yes,NO_NAME,0
+935,"Best American restaurant in Bradenton, FL",,,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+936,Michael John's Restaurant,John Johnson,john@michaeljohnsrestaurant.com,,Bradenton,FL,Yes,Yes,Yes,Yes,VERIFIED,0
+937,Mattison's,,mattisons_marketing@mattisons.com,,Bradenton,FL,Yes,No,Yes,Yes,NO_NAME,0
+938,City of Bradenton,,,(941) 932-9400,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+939,Bradenton Riverwalk,,,,Bradenton,FL,No,No,No,Yes,NO_EMAIL,0
+940,Contact,JUNK_DOMAIN,CRA@bradentonfl.gov,941-932-9439,Bradenton,FL,Yes,No,No,Yes,NO_NAME,0
+941,"FL Tile Roofing Installation, Repair & Maintenance",,,(386) 767-1886,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+942,Tile-It Industries,,,(386) 257-6688,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+945,"Flooring Store servicing Daytona Beach, FL",,,(386) 255-5151,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+946,Tile Works,,,(386) 248-1115,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+947,"Tile Roofing Daytona Beach, FL",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+948,Tile Roofing System,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+949,Happy Garden Cafe,,,(772) 241 9260,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+950,"Contact Over 450,000 Franchisees Across 30 Industries",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+951,"Fast Food in Fort Pierce, FL at 2524 S Us Highway 1",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+952,"KFC® at 405 South Fourth Street in Fort Pierce, FL",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+953,"KFC® at 2801 Reynolds Drive in Fort Pierce, FL",V4_NO_DATA,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+954,"Fast Food in Fort Pierce, FL at 7001 Okeechobee Road",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+955,"Fast Food in Fort Pierce, FL at 1612 Delaware Avenue",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+956,"Fast Food in Fort Pierce, FL at 615 N Us Highway 1",,,,Fort Pierce,FL,No,No,No,Yes,NO_EMAIL,0
+957,"Naples Property Management, HOA, Condominium, Association Management",,,877-988-3782,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+958,Homeowner Association Management in Naples,,,800.932.6636,Naples,FL,No,No,Yes,Yes,NO_EMAIL,0
+959,Community Association Management,,,239-649-5526,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+960,home,,,(239) 514-1199,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+961,HOA & Condominium Management,,,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+962,Naples Reserve,JUNK_DOMAIN,Tyler.Naufel@fsresidential.com,844-235-7778,Naples,FL,Yes,No,Yes,Yes,NO_NAME,0
+963,Seacrest Southwest Property Management,,,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+964,Moore Property Management,,,,Naples,FL,No,No,Yes,Yes,NO_EMAIL,0
+965,"Ability Management,.",,,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+966,Community Association Management in Southwest Florida,,,,Naples,FL,No,No,No,Yes,NO_EMAIL,0
+967,"(Painters Palm Bay, FL): (Interior Exterior House Painting Contractor)",,,(321) 254-8879,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+968,Quality Palm Beach Painting & Remodeling,,,(561) 945-8083,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+969,Interior Painting,,emcdine@icloud.com,321-403-7775,Palm Bay,FL,Yes,No,No,Yes,NO_NAME,0
+970,Palm Bay Painting Services,V4_NO_DATA,,,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+971,"Residential Painting Contractors in Palm Bay, Fl",,,,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+972,"Professional Painting Services in Palm Bay, FL",,,,Palm Bay,FL,No,No,Yes,Yes,NO_EMAIL,0
+973,"Best Commercial Painting Contractors in Palm Bay, FL",,,,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+974,Quality Designs Painting,,,,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+975,Fresh Coat Painters of Palm Bay,,,,Palm Bay,FL,No,No,No,Yes,NO_EMAIL,0
+976,Hialeah,,InfoRemodelingServices@Gmail.com,,Hialeah,FL,Yes,No,No,Yes,NO_NAME,0
+978,Hialeah FL Bathroom Remodel,,,866-296-7207,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+979,Bathroom Remodeling in Hialeah,,,,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+980,Hialeah Bathroom Remodeling,,,,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+981,Bathroom Renovation Experts,,,,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+982,Bathroom,,,,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+983,"The 10 Best Bathroom Remodelers in Hialeah, FL (2025)",V4_NO_DATA,,,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+984,Hialeah Home Remodeling,,,,Hialeah,FL,No,No,No,Yes,NO_EMAIL,0
+986,"Daytona Realty and Property Management,",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+987,"Residential & Commercial Space For Lease near Daytona Beach, FL",,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+988,Home,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+989,"Daytona Beach, FL Property Management",,,,Daytona Beach,FL,No,No,Yes,Yes,NO_EMAIL,0
+990,Daytona Beach Property Management,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+991,DAYTONA PROPERTY MANAGEMENT,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+992,Daytona Beach Shores Property Management,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+993,Daytona Beach property management,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+994,"Daytona Beach Property Management, Daytona Beach Property Managers, Daytona Beach Property Managemen",,,,Daytona Beach,FL,No,No,Yes,Yes,NO_EMAIL,0
+995,Real Property Management Volusia-Flagler,,,,Daytona Beach,FL,No,No,No,Yes,NO_EMAIL,0
+996,Property Management » myHomeSpot.com,,,,Pensacola,FL,No,No,No,Yes,NO_EMAIL,0
+997,Etheridge Propert Management,,,,Pensacola,FL,No,No,Yes,Yes,NO_EMAIL,0
+998,Home,,,(850) 407-8122,Pensacola,FL,No,No,Yes,Yes,NO_EMAIL,0
+999,"Pensacola, FL HOA Management Companies",,,,Pensacola,FL,No,No,Yes,Yes,NO_EMAIL,0
+1000,Pensacola HOA Management,,,,Pensacola,FL,No,No,Yes,Yes,NO_EMAIL,0

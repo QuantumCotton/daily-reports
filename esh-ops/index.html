@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESH Operations Hub</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-left">
+                <h1 class="logo">
+                    <i class="fas fa-cube"></i>
+                    ESH Operations Hub
+                </h1>
+            </div>
+            <div class="header-center">
+                <div class="project-selector">
+                    <select id="projectSelect" class="project-dropdown">
+                        <option value="">Select Project...</option>
+                    </select>
+                </div>
+            </div>
+            <div class="header-right">
+                <button class="notification-btn">
+                    <i class="fas fa-bell"></i>
+                    <span class="notification-badge">3</span>
+                </button>
+                <div class="user-profile">
+                    <img src="https://picsum.photos/seed/user/40/40" alt="User" class="user-avatar">
+                    <span class="user-name">Chris</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="main-layout">
+            <!-- Main Content Area -->
+            <main class="main-content">
+                <!-- View Tabs -->
+                <div class="view-tabs">
+                    <button class="tab-btn active" data-view="kanban">
+                        <i class="fas fa-columns"></i>
+                        Kanban Board
+                    </button>
+                    <button class="tab-btn" data-view="calendar">
+                        <i class="fas fa-calendar"></i>
+                        Calendar
+                    </button>
+                    <button class="tab-btn" data-view="timeline">
+                        <i class="fas fa-gantt-chart"></i>
+                        Timeline
+                    </button>
+                </div>
+
+                <!-- Tab Contents -->
+                <div id="kanban" class="tab-content active">
+                    <iframe src="kanban.html" class="view-frame"></iframe>
+                </div>
+                <div id="calendar" class="tab-content">
+                    <iframe src="calendar.html" class="view-frame"></iframe>
+                </div>
+                <div id="timeline" class="tab-content">
+                    <iframe src="timeline.html" class="view-frame"></iframe>
+                </div>
+            </main>
+
+            <!-- War Zone Chat Sidebar -->
+            <aside class="chat-sidebar">
+                <div class="chat-header">
+                    <h3>
+                        <i class="fas fa-comments"></i>
+                        War Zone Chat
+                    </h3>
+                    <button class="chat-toggle-btn">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+                <div class="chat-container">
+                    <div class="messages-container" id="messagesContainer">
+                        <div class="message system">
+                            <div class="message-content">
+                                Welcome to ESH Operations Hub! Start collaborating with your team.
+                            </div>
+                            <div class="message-time">Just now</div>
+                        </div>
+                    </div>
+                    <div class="message-input-container">
+                        <input type="text" id="messageInput" class="message-input" placeholder="Type your message...">
+                        <button id="sendMessage" class="send-btn">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <!-- Task Modal (Hidden by default) -->
+        <div id="taskModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modalTitle">Create New Task</h2>
+                    <button class="close-btn" onclick="closeTaskModal()">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <form id="taskForm" class="task-form">
+                    <div class="form-group">
+                        <label for="taskTitle">Task Title *</label>
+                        <input type="text" id="taskTitle" name="title" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="taskDescription">Description</label>
+                        <textarea id="taskDescription" name="description" rows="3"></textarea>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="taskAssignee">Assignee</label>
+                            <select id="taskAssignee" name="assignee_id">
+                                <option value="">Unassigned</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="taskPriority">Priority</label>
+                            <select id="taskPriority" name="priority">
+                                <option value="low">Low</option>
+                                <option value="medium" selected>Medium</option>
+                                <option value="high">High</option>
+                                <option value="urgent">Urgent</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="taskStage">Stage</label>
+                            <select id="taskStage" name="stage">
+                                <option value="backlog">Backlog</option>
+                                <option value="planning">Planning</option>
+                                <option value="in_progress">In Progress</option>
+                                <option value="review">Review</option>
+                                <option value="done">Done</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="taskDueDate">Due Date</label>
+                            <input type="datetime-local" id="taskDueDate" name="due_date">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="taskEstimatedHours">Estimated Hours</label>
+                        <input type="number" id="taskEstimatedHours" name="estimated_hours" step="0.5" min="0">
+                    </div>
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary" onclick="closeTaskModal()">Cancel</button>
+                        <button type="submit" class="btn btn-primary">Save Task</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Loading Overlay -->
+        <div id="loadingOverlay" class="loading-overlay" style="display: none;">
+            <div class="spinner"></div>
+            <p>Loading...</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

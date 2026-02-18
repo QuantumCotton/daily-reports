@@ -1,0 +1,534 @@
+[04:40:01][SEG0] ============================================================
+[04:40:01][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[04:40:01][SEG0] ============================================================
+[04:40:01][SEG0] Loaded 983 leads
+[04:40:01][SEG0] Leads in segment 0: 158
+[04:40:01][SEG0] Processing batch of 20
+[04:40:01][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[04:40:01][SEG0]     → ? UNKNOWN: unknown
+[04:40:02][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[04:40:02][SEG0]     → ? UNKNOWN: unknown
+[04:40:03][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[04:40:03][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:03][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[04:40:04][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:04][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[04:40:04][SEG0]     → ✗ REJECTED: rejected
+[04:40:05][SEG0]   [6/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[04:40:05][SEG0]     → ✗ REJECTED: rejected
+[04:40:06][SEG0]   [7/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[04:40:06][SEG0]     → ✗ REJECTED: rejected
+[04:40:07][SEG0]   [8/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[04:40:07][SEG0]     → ✗ REJECTED: rejected
+[04:40:08][SEG0]   [9/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[04:40:09][SEG0]     → ? UNKNOWN: unknown
+[04:40:09][SEG0]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[04:40:09][SEG0]     → ✗ REJECTED: rejected
+[04:40:10][SEG0]   [11/20] Treasure Coast Real Estate → John@tccommercialre.com
+[04:40:10][SEG0]     → ✗ REJECTED: rejected
+[04:40:10][SEG0]   [12/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[04:40:11][SEG0]     → ✗ REJECTED: rejected
+[04:40:11][SEG0]   [13/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[04:40:11][SEG0]     → SKIP: no MX for tccommericalre.com
+[04:40:11][SEG0]   [14/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[04:40:11][SEG0]     → ✗ REJECTED: rejected
+[04:40:12][SEG0]   [15/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[04:40:12][SEG0]     → ✗ REJECTED: rejected
+[04:40:13][SEG0]   [16/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[04:40:13][SEG0]     → ? UNKNOWN: unknown
+[04:40:13][SEG0]   [17/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[04:40:21][SEG0]     → ? UNKNOWN: timed out
+[04:40:22][SEG0]   [18/20] Car Detailing Jupiter, FL → officialluxautocare@gmail.com
+[04:40:22][SEG0]     → ✓ VERIFIED
+[04:40:22][SEG0]   [19/20] Jupiter, FL → Hello@friendsofjupiterbeach.org
+[04:40:23][SEG0]     → ✓ VERIFIED
+[04:40:23][SEG0]   [20/20] ABOUT US → info@rtiepoxyfloors.com
+[04:40:23][SEG0]     → ? UNKNOWN: unknown
+[04:40:24][SEG0] Wrote 2 verified emails
+[04:40:24][SEG0] SEGMENT 0 COMPLETE: 2 verified, 9 rejected
+[04:40:24][SEG0] ============================================================
+[05:00:03][SEG0] ============================================================
+[05:00:03][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[05:00:03][SEG0] ============================================================
+[05:00:04][SEG0] Loaded 1253 leads
+[05:00:04][SEG0] Leads in segment 0: 204
+[05:00:04][SEG0] Processing batch of 20
+[05:00:04][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:00:04][SEG0]     → ? UNKNOWN: unknown
+[05:00:05][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[05:00:05][SEG0]     → ? UNKNOWN: unknown
+[05:00:05][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:00:06][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:06][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[05:00:07][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:07][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[05:00:07][SEG0]     → ✗ REJECTED: rejected
+[05:00:08][SEG0]   [6/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[05:00:08][SEG0]     → ✗ REJECTED: rejected
+[05:00:09][SEG0]   [7/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[05:00:09][SEG0]     → ✗ REJECTED: rejected
+[05:00:10][SEG0]   [8/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[05:00:10][SEG0]     → ✗ REJECTED: rejected
+[05:00:10][SEG0]   [9/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[05:00:13][SEG0]     → ? UNKNOWN: unknown
+[05:00:13][SEG0]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:00:13][SEG0]     → ✗ REJECTED: rejected
+[05:00:14][SEG0]   [11/20] Treasure Coast Real Estate → John@tccommercialre.com
+[05:00:14][SEG0]     → ✗ REJECTED: rejected
+[05:00:14][SEG0]   [12/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[05:00:15][SEG0]     → ✗ REJECTED: rejected
+[05:00:15][SEG0]   [13/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[05:00:15][SEG0]     → SKIP: no MX for tccommericalre.com
+[05:00:15][SEG0]   [14/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:00:15][SEG0]     → ✗ REJECTED: rejected
+[05:00:16][SEG0]   [15/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[05:00:16][SEG0]     → ✗ REJECTED: rejected
+[05:00:17][SEG0]   [16/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[05:00:17][SEG0]     → ? UNKNOWN: unknown
+[05:00:17][SEG0]   [17/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[05:00:25][SEG0]     → ? UNKNOWN: timed out
+[05:00:26][SEG0]   [18/20] Car Detailing Jupiter, FL → officialluxautocare@gmail.com
+[05:00:26][SEG0]     → ✓ VERIFIED
+[05:00:27][SEG0]   [19/20] ABOUT US → info@rtiepoxyfloors.com
+[05:00:27][SEG0]     → ? UNKNOWN: unknown
+[05:00:27][SEG0]   [20/20] Lawn Care and Lawn Maintenance → Contractors@BelmontProviderNetwork.com
+[05:00:27][SEG0]     → ✓ VERIFIED
+[05:00:28][SEG0] Wrote 2 verified emails
+[05:00:28][SEG0] SEGMENT 0 COMPLETE: 2 verified, 9 rejected
+[05:00:28][SEG0] ============================================================
+[05:20:02][SEG0] ============================================================
+[05:20:02][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[05:20:02][SEG0] ============================================================
+[05:20:02][SEG0] Loaded 2665 leads
+[05:20:02][SEG0] Leads in segment 0: 236
+[05:20:02][SEG0] Processing batch of 20
+[05:20:02][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:20:02][SEG0]     → ? UNKNOWN: unknown
+[05:20:02][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[05:20:03][SEG0]     → ? UNKNOWN: unknown
+[05:20:03][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:20:03][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:20:04][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[05:20:04][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:20:04][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[05:20:05][SEG0]     → ✗ REJECTED: rejected
+[05:20:05][SEG0]   [6/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[05:20:06][SEG0]     → ✗ REJECTED: rejected
+[05:20:06][SEG0]   [7/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[05:20:06][SEG0]     → ✗ REJECTED: rejected
+[05:20:07][SEG0]   [8/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[05:20:07][SEG0]     → ✗ REJECTED: rejected
+[05:20:08][SEG0]   [9/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[05:20:09][SEG0]     → ? UNKNOWN: unknown
+[05:20:09][SEG0]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:20:10][SEG0]     → ✗ REJECTED: rejected
+[05:20:10][SEG0]   [11/20] Treasure Coast Real Estate → John@tccommercialre.com
+[05:20:10][SEG0]     → ✗ REJECTED: rejected
+[05:20:11][SEG0]   [12/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[05:20:11][SEG0]     → ✗ REJECTED: rejected
+[05:20:12][SEG0]   [13/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[05:20:12][SEG0]     → SKIP: no MX for tccommericalre.com
+[05:20:12][SEG0]   [14/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:20:12][SEG0]     → ✗ REJECTED: rejected
+[05:20:12][SEG0]   [15/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[05:20:13][SEG0]     → ✗ REJECTED: rejected
+[05:20:13][SEG0]   [16/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[05:20:13][SEG0]     → ? UNKNOWN: unknown
+[05:20:14][SEG0]   [17/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[05:20:22][SEG0]     → ? UNKNOWN: timed out
+[05:20:22][SEG0]   [18/20] Car Detailing Jupiter, FL → officialluxautocare@gmail.com
+[05:20:23][SEG0]     → ✓ VERIFIED
+[05:20:23][SEG0]   [19/20] ABOUT US → info@rtiepoxyfloors.com
+[05:20:23][SEG0]     → ? UNKNOWN: unknown
+[05:20:24][SEG0]   [20/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:20:24][SEG0]     → ✗ REJECTED: rejected
+[05:20:24][SEG0] Wrote 1 verified emails
+[05:20:24][SEG0] SEGMENT 0 COMPLETE: 1 verified, 10 rejected
+[05:20:24][SEG0] ============================================================
+[05:40:00][SEG0] ============================================================
+[05:40:00][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[05:40:00][SEG0] ============================================================
+[05:40:00][SEG0] Loaded 2665 leads
+[05:40:00][SEG0] Leads in segment 0: 250
+[05:40:00][SEG0] Processing batch of 20
+[05:40:00][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[05:40:00][SEG0]     → ? UNKNOWN: unknown
+[05:40:01][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[05:40:01][SEG0]     → ? UNKNOWN: unknown
+[05:40:02][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:40:02][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:02][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[05:40:02][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:03][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[05:40:03][SEG0]     → ✗ REJECTED: rejected
+[05:40:04][SEG0]   [6/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[05:40:04][SEG0]     → ✗ REJECTED: rejected
+[05:40:05][SEG0]   [7/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[05:40:05][SEG0]     → ✗ REJECTED: rejected
+[05:40:05][SEG0]   [8/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[05:40:06][SEG0]     → ✗ REJECTED: rejected
+[05:40:06][SEG0]   [9/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[05:40:07][SEG0]     → ? UNKNOWN: unknown
+[05:40:08][SEG0]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:40:08][SEG0]     → ✗ REJECTED: rejected
+[05:40:09][SEG0]   [11/20] Treasure Coast Real Estate → John@tccommercialre.com
+[05:40:09][SEG0]     → ✗ REJECTED: rejected
+[05:40:09][SEG0]   [12/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[05:40:10][SEG0]     → ✗ REJECTED: rejected
+[05:40:10][SEG0]   [13/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[05:40:10][SEG0]     → SKIP: no MX for tccommericalre.com
+[05:40:10][SEG0]   [14/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[05:40:10][SEG0]     → ✗ REJECTED: rejected
+[05:40:11][SEG0]   [15/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[05:40:11][SEG0]     → ✗ REJECTED: rejected
+[05:40:11][SEG0]   [16/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[05:40:11][SEG0]     → ? UNKNOWN: unknown
+[05:40:12][SEG0]   [17/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[05:40:20][SEG0]     → ? UNKNOWN: timed out
+[05:40:20][SEG0]   [18/20] ABOUT US → info@rtiepoxyfloors.com
+[05:40:21][SEG0]     → ? UNKNOWN: unknown
+[05:40:21][SEG0]   [19/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:40:21][SEG0]     → ✗ REJECTED: rejected
+[05:40:22][SEG0]   [20/20] Community Association - Reblawpa → jee@reblawpa.com
+[05:40:22][SEG0]     → ✗ REJECTED: rejected
+[05:40:22][SEG0] SEGMENT 0 COMPLETE: 0 verified, 11 rejected
+[05:40:22][SEG0] ============================================================
+[06:00:03][SEG0] ============================================================
+[06:00:03][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[06:00:03][SEG0] ============================================================
+[06:00:03][SEG0] Loaded 2665 leads
+[06:00:03][SEG0] Leads in segment 0: 267
+[06:00:03][SEG0] Processing batch of 20
+[06:00:03][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:00:03][SEG0]     → ? UNKNOWN: unknown
+[06:00:04][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[06:00:04][SEG0]     → ? UNKNOWN: unknown
+[06:00:05][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:00:05][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:05][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[06:00:06][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:06][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[06:00:06][SEG0]     → ✗ REJECTED: rejected
+[06:00:07][SEG0]   [6/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[06:00:07][SEG0]     → ✗ REJECTED: rejected
+[06:00:07][SEG0]   [7/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[06:00:08][SEG0]     → ? UNKNOWN: [Errno 111] Connection refused
+[06:00:08][SEG0]   [8/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[06:00:08][SEG0]     → ✗ REJECTED: rejected
+[06:00:09][SEG0]   [9/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[06:00:10][SEG0]     → ? UNKNOWN: unknown
+[06:00:10][SEG0]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:00:11][SEG0]     → ✗ REJECTED: rejected
+[06:00:11][SEG0]   [11/20] Treasure Coast Real Estate → John@tccommercialre.com
+[06:00:12][SEG0]     → ✗ REJECTED: rejected
+[06:00:12][SEG0]   [12/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[06:00:12][SEG0]     → ✗ REJECTED: rejected
+[06:00:13][SEG0]   [13/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[06:00:13][SEG0]     → SKIP: no MX for tccommericalre.com
+[06:00:13][SEG0]   [14/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:00:13][SEG0]     → ✗ REJECTED: rejected
+[06:00:14][SEG0]   [15/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[06:00:14][SEG0]     → ✗ REJECTED: rejected
+[06:00:14][SEG0]   [16/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[06:00:14][SEG0]     → ? UNKNOWN: unknown
+[06:00:15][SEG0]   [17/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[06:00:23][SEG0]     → ? UNKNOWN: timed out
+[06:00:23][SEG0]   [18/20] ABOUT US → info@rtiepoxyfloors.com
+[06:00:23][SEG0]     → ? UNKNOWN: unknown
+[06:00:24][SEG0]   [19/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:00:24][SEG0]     → ✗ REJECTED: rejected
+[06:00:25][SEG0]   [20/20] Community Association - Reblawpa → jee@reblawpa.com
+[06:00:25][SEG0]     → ✗ REJECTED: rejected
+[06:00:26][SEG0] SEGMENT 0 COMPLETE: 0 verified, 10 rejected
+[06:00:26][SEG0] ============================================================
+[06:40:00][SEG0] ============================================================
+[06:40:00][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[06:40:00][SEG0] ============================================================
+[06:40:00][SEG0] Loaded 2665 leads
+[06:40:00][SEG0] Leads in segment 0: 299
+[06:40:00][SEG0] Processing batch of 20
+[06:40:00][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[06:40:01][SEG0]     → ? UNKNOWN: unknown
+[06:40:01][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[06:40:01][SEG0]     → ? UNKNOWN: unknown
+[06:40:02][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:40:02][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:02][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[06:40:02][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:03][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[06:40:03][SEG0]     → ✗ REJECTED: rejected
+[06:40:04][SEG0]   [6/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[06:40:04][SEG0]     → ✗ REJECTED: rejected
+[06:40:05][SEG0]   [7/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[06:40:05][SEG0]     → ✗ REJECTED: rejected
+[06:40:06][SEG0]   [8/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[06:40:06][SEG0]     → ✗ REJECTED: rejected
+[06:40:06][SEG0]   [9/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[06:40:07][SEG0]     → ? UNKNOWN: unknown
+[06:40:08][SEG0]   [10/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:40:08][SEG0]     → ✗ REJECTED: rejected
+[06:40:08][SEG0]   [11/20] Treasure Coast Real Estate → John@tccommercialre.com
+[06:40:09][SEG0]     → ✗ REJECTED: rejected
+[06:40:09][SEG0]   [12/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[06:40:09][SEG0]     → ✗ REJECTED: rejected
+[06:40:10][SEG0]   [13/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[06:40:10][SEG0]     → SKIP: no MX for tccommericalre.com
+[06:40:10][SEG0]   [14/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[06:40:10][SEG0]     → ✗ REJECTED: rejected
+[06:40:10][SEG0]   [15/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[06:40:11][SEG0]     → ✗ REJECTED: rejected
+[06:40:11][SEG0]   [16/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[06:40:12][SEG0]     → ? UNKNOWN: unknown
+[06:40:12][SEG0]   [17/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[06:40:20][SEG0]     → ? UNKNOWN: timed out
+[06:40:20][SEG0]   [18/20] ABOUT US → info@rtiepoxyfloors.com
+[06:40:21][SEG0]     → ? UNKNOWN: unknown
+[06:40:21][SEG0]   [19/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:40:21][SEG0]     → ✗ REJECTED: rejected
+[06:40:22][SEG0]   [20/20] Community Association - Reblawpa → jee@reblawpa.com
+[06:40:22][SEG0]     → ✗ REJECTED: rejected
+[06:40:22][SEG0] SEGMENT 0 COMPLETE: 0 verified, 11 rejected
+[06:40:22][SEG0] ============================================================
+[07:00:03][SEG0] ============================================================
+[07:00:03][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[07:00:03][SEG0] ============================================================
+[07:00:04][SEG0] Loaded 2665 leads
+[07:00:04][SEG0] Leads in segment 0: 304
+[07:00:04][SEG0] Processing batch of 20
+[07:00:04][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:00:04][SEG0]     → ? UNKNOWN: unknown
+[07:00:05][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[07:00:05][SEG0]     → ? UNKNOWN: unknown
+[07:00:05][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:00:06][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:06][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[07:00:06][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:07][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[07:00:07][SEG0]     → ✗ REJECTED: rejected
+[07:00:07][SEG0]   [6/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[07:00:08][SEG0]     → ✓ VERIFIED
+[07:00:08][SEG0]   [7/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[07:00:09][SEG0]     → ✗ REJECTED: rejected
+[07:00:09][SEG0]   [8/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[07:00:10][SEG0]     → ? UNKNOWN: unknown
+[07:00:11][SEG0]   [9/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:00:11][SEG0]     → ✗ REJECTED: rejected
+[07:00:12][SEG0]   [10/20] Treasure Coast Real Estate → John@tccommercialre.com
+[07:00:12][SEG0]     → ✗ REJECTED: rejected
+[07:00:12][SEG0]   [11/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[07:00:13][SEG0]     → ✗ REJECTED: rejected
+[07:00:13][SEG0]   [12/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[07:00:13][SEG0]     → SKIP: no MX for tccommericalre.com
+[07:00:13][SEG0]   [13/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:00:14][SEG0]     → ✗ REJECTED: rejected
+[07:00:14][SEG0]   [14/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[07:00:14][SEG0]     → ✗ REJECTED: rejected
+[07:00:15][SEG0]   [15/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[07:00:15][SEG0]     → ? UNKNOWN: unknown
+[07:00:16][SEG0]   [16/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[07:00:24][SEG0]     → ? UNKNOWN: timed out
+[07:00:24][SEG0]   [17/20] ABOUT US → info@rtiepoxyfloors.com
+[07:00:24][SEG0]     → ? UNKNOWN: unknown
+[07:00:25][SEG0]   [18/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:00:25][SEG0]     → ✗ REJECTED: rejected
+[07:00:25][SEG0]   [19/20] Community Association - Reblawpa → jee@reblawpa.com
+[07:00:26][SEG0]     → ✗ REJECTED: rejected
+[07:00:26][SEG0]   [20/20] Kitchen Remodeling in Boca Raton, F → info@grmkb.com
+[07:00:26][SEG0]     → ✗ REJECTED: rejected
+[07:00:27][SEG0] Wrote 1 verified emails
+[07:00:27][SEG0] SEGMENT 0 COMPLETE: 1 verified, 10 rejected
+[07:00:27][SEG0] ============================================================
+[07:20:01][SEG0] ============================================================
+[07:20:01][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[07:20:01][SEG0] ============================================================
+[07:20:01][SEG0] Loaded 2665 leads
+[07:20:01][SEG0] Leads in segment 0: 317
+[07:20:01][SEG0] Processing batch of 20
+[07:20:01][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:20:02][SEG0]     → ? UNKNOWN: unknown
+[07:20:02][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[07:20:02][SEG0]     → ? UNKNOWN: unknown
+[07:20:03][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:20:03][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:03][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[07:20:04][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:04][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[07:20:04][SEG0]     → ✗ REJECTED: rejected
+[07:20:05][SEG0]   [6/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[07:20:05][SEG0]     → ✗ REJECTED: rejected
+[07:20:06][SEG0]   [7/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[07:20:06][SEG0]     → ✗ REJECTED: rejected
+[07:20:07][SEG0]   [8/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[07:20:08][SEG0]     → ? UNKNOWN: unknown
+[07:20:08][SEG0]   [9/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:20:08][SEG0]     → ✗ REJECTED: rejected
+[07:20:09][SEG0]   [10/20] Treasure Coast Real Estate → John@tccommercialre.com
+[07:20:09][SEG0]     → ✗ REJECTED: rejected
+[07:20:09][SEG0]   [11/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[07:20:10][SEG0]     → ✗ REJECTED: rejected
+[07:20:10][SEG0]   [12/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[07:20:10][SEG0]     → SKIP: no MX for tccommericalre.com
+[07:20:10][SEG0]   [13/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:20:10][SEG0]     → ✗ REJECTED: rejected
+[07:20:11][SEG0]   [14/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[07:20:11][SEG0]     → ✗ REJECTED: rejected
+[07:20:12][SEG0]   [15/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[07:20:12][SEG0]     → ? UNKNOWN: unknown
+[07:20:12][SEG0]   [16/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[07:20:21][SEG0]     → ? UNKNOWN: timed out
+[07:20:21][SEG0]   [17/20] ABOUT US → info@rtiepoxyfloors.com
+[07:20:21][SEG0]     → ? UNKNOWN: unknown
+[07:20:22][SEG0]   [18/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:20:22][SEG0]     → ✗ REJECTED: rejected
+[07:20:22][SEG0]   [19/20] Community Association - Reblawpa → jee@reblawpa.com
+[07:20:23][SEG0]     → ✗ REJECTED: rejected
+[07:20:23][SEG0]   [20/20] Kitchen Remodeling in Boca Raton, F → info@grmkb.com
+[07:20:23][SEG0]     → ✗ REJECTED: rejected
+[07:20:24][SEG0] SEGMENT 0 COMPLETE: 0 verified, 11 rejected
+[07:20:24][SEG0] ============================================================
+[07:40:01][SEG0] ============================================================
+[07:40:01][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[07:40:01][SEG0] ============================================================
+[07:40:01][SEG0] Loaded 2665 leads
+[07:40:01][SEG0] Leads in segment 0: 330
+[07:40:01][SEG0] Processing batch of 20
+[07:40:01][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[07:40:02][SEG0]     → ? UNKNOWN: unknown
+[07:40:02][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[07:40:08][SEG0]     → ? UNKNOWN: unknown
+[07:40:08][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:40:08][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:09][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[07:40:09][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:09][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[07:40:10][SEG0]     → ✗ REJECTED: rejected
+[07:40:10][SEG0]   [6/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[07:40:11][SEG0]     → ✗ REJECTED: rejected
+[07:40:11][SEG0]   [7/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[07:40:12][SEG0]     → ✗ REJECTED: rejected
+[07:40:12][SEG0]   [8/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[07:40:17][SEG0]     → SKIP: no MX for jupiterkitchenrenovation.com
+[07:40:17][SEG0]   [9/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:40:17][SEG0]     → ✗ REJECTED: rejected
+[07:40:18][SEG0]   [10/20] Treasure Coast Real Estate → John@tccommercialre.com
+[07:40:18][SEG0]     → ✗ REJECTED: rejected
+[07:40:18][SEG0]   [11/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[07:40:19][SEG0]     → ✗ REJECTED: rejected
+[07:40:19][SEG0]   [12/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[07:40:19][SEG0]     → SKIP: no MX for tccommericalre.com
+[07:40:19][SEG0]   [13/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[07:40:19][SEG0]     → ✗ REJECTED: rejected
+[07:40:20][SEG0]   [14/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[07:40:20][SEG0]     → ✗ REJECTED: rejected
+[07:40:21][SEG0]   [15/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[07:40:21][SEG0]     → ? UNKNOWN: unknown
+[07:40:22][SEG0]   [16/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[07:40:30][SEG0]     → ? UNKNOWN: timed out
+[07:40:30][SEG0]   [17/20] ABOUT US → info@rtiepoxyfloors.com
+[07:40:35][SEG0]     → ? UNKNOWN: unknown
+[07:40:36][SEG0]   [18/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:40:36][SEG0]     → ✗ REJECTED: rejected
+[07:40:36][SEG0]   [19/20] Community Association - Reblawpa → jee@reblawpa.com
+[07:40:37][SEG0]     → ✗ REJECTED: rejected
+[07:40:37][SEG0]   [20/20] Kitchen Remodeling in Boca Raton, F → info@grmkb.com
+[07:40:38][SEG0]     → ✗ REJECTED: rejected
+[07:40:38][SEG0] SEGMENT 0 COMPLETE: 0 verified, 11 rejected
+[07:40:38][SEG0] ============================================================
+[08:00:03][SEG0] ============================================================
+[08:00:03][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[08:00:03][SEG0] ============================================================
+[08:00:03][SEG0] Loaded 2665 leads
+[08:00:03][SEG0] Leads in segment 0: 345
+[08:00:03][SEG0] Processing batch of 20
+[08:00:03][SEG0]   [1/20] JC Epoxy Coatings → randerson3222@yahoo.com
+[08:00:04][SEG0]     → ? UNKNOWN: unknown
+[08:00:04][SEG0]   [2/20] Maaco Auto Body & Painting Stuart → stuartflmaaco@bellsouth.net
+[08:00:04][SEG0]     → ? UNKNOWN: unknown
+[08:00:04][SEG0]   [3/20] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[08:00:05][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:05][SEG0]   [4/20] Property Management → info@nex-genpartners.com
+[08:00:05][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:06][SEG0]   [5/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[08:00:06][SEG0]     → ✗ REJECTED: rejected
+[08:00:07][SEG0]   [6/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[08:00:07][SEG0]     → ✗ REJECTED: rejected
+[08:00:07][SEG0]   [7/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[08:00:08][SEG0]     → ✗ REJECTED: rejected
+[08:00:08][SEG0]   [8/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[08:00:09][SEG0]     → ? UNKNOWN: unknown
+[08:00:10][SEG0]   [9/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:00:10][SEG0]     → ✗ REJECTED: rejected
+[08:00:10][SEG0]   [10/20] Treasure Coast Real Estate → John@tccommercialre.com
+[08:00:10][SEG0]     → ✗ REJECTED: rejected
+[08:00:11][SEG0]   [11/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[08:00:11][SEG0]     → ✗ REJECTED: rejected
+[08:00:11][SEG0]   [12/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[08:00:12][SEG0]     → SKIP: no MX for tccommericalre.com
+[08:00:12][SEG0]   [13/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[08:00:12][SEG0]     → ✗ REJECTED: rejected
+[08:00:12][SEG0]   [14/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[08:00:13][SEG0]     → ✗ REJECTED: rejected
+[08:00:13][SEG0]   [15/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[08:00:13][SEG0]     → ? UNKNOWN: unknown
+[08:00:14][SEG0]   [16/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[08:00:22][SEG0]     → ? UNKNOWN: timed out
+[08:00:22][SEG0]   [17/20] ABOUT US → info@rtiepoxyfloors.com
+[08:00:23][SEG0]     → ? UNKNOWN: unknown
+[08:00:23][SEG0]   [18/20] Martin Downs Property Owners Associ → reception@mdpoa.org
+[08:00:23][SEG0]     → ✗ REJECTED: rejected
+[08:00:24][SEG0]   [19/20] Community Association - Reblawpa → jee@reblawpa.com
+[08:00:29][SEG0]     → SKIP: no MX for reblawpa.com
+[08:00:29][SEG0]   [20/20] Kitchen Remodeling in Boca Raton, F → info@grmkb.com
+[08:00:29][SEG0]     → ✗ REJECTED: rejected
+[08:00:29][SEG0] SEGMENT 0 COMPLETE: 0 verified, 10 rejected
+[08:00:29][SEG0] ============================================================
+[08:20:01][SEG0] ============================================================
+[08:20:01][SEG0] SMTP VERIFIER — Segment 0/3 | Batch: 20
+[08:20:01][SEG0] ============================================================
+[08:20:01][SEG0] Treasure Coast leads: 2061
+[08:20:01][SEG0] Loaded 2061 leads
+[08:20:01][SEG0] Leads in segment 0: 164
+[08:20:01][SEG0] Processing batch of 20
+[08:20:01][SEG0]   [1/20] Property Boss LLC → Staff@propertybossllc.com
+[08:20:02][SEG0]     → ? UNKNOWN: unknown
+[08:20:02][SEG0]   [2/20] Port St Lucie Epoxy Pros → support@epoxyportstlucie.com/
+[08:20:02][SEG0]     → SKIP: no MX for epoxyportstlucie.com/
+[08:20:02][SEG0]   [3/20] Floridian Kitchens → chef@floridiankitchens.com/
+[08:20:02][SEG0]     → SKIP: no MX for floridiankitchens.com/
+[08:20:02][SEG0]   [4/20] Real Property Management Dynamic → support@rpmdynamic.com/
+[08:20:02][SEG0]     → SKIP: no MX for rpmdynamic.com/
+[08:20:02][SEG0]   [5/20] Property Management → info@nex-genpartners.com
+[08:20:02][SEG0]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:20:03][SEG0]   [6/20] Apartments for Rent in 34947 → pinecreekvillage@liveamc.com
+[08:20:03][SEG0]     → ✗ REJECTED: rejected
+[08:20:04][SEG0]   [7/20] Martin, FL Property Management Comp → info@pamartinfl.gov
+[08:20:04][SEG0]     → ✗ REJECTED: rejected
+[08:20:05][SEG0]   [8/20] Palm Beach and Martin Counties Prop → info@pa.martin.fl.us
+[08:20:05][SEG0]     → ✗ REJECTED: rejected
+[08:20:06][SEG0]   [9/20] St. Lucie and Martin County Propert → info@mgtspec.com
+[08:20:06][SEG0]     → ✗ REJECTED: rejected
+[08:20:06][SEG0]   [10/20] Get Kitchen Remodeling in Jensen Be → info@jupiterkitchenrenovation.com
+[08:20:08][SEG0]     → ? UNKNOWN: unknown
+[08:20:08][SEG0]   [11/20] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:20:08][SEG0]     → ✗ REJECTED: rejected
+[08:20:09][SEG0]   [12/20] Fresh and Clean Cleaning Service, S → info@cleanandfreshcleaning.com
+[08:20:09][SEG0]     → ? UNKNOWN: unknown
+[08:20:09][SEG0]   [13/20] Treasure Coast Real Estate → John@tccommercialre.com
+[08:20:09][SEG0]     → ✗ REJECTED: rejected
+[08:20:10][SEG0]   [14/20] RE/MAX Gold → Meconnormckinney.re@gmail.com
+[08:20:10][SEG0]     → ✗ REJECTED: rejected
+[08:20:10][SEG0]   [15/20] Treasure Coast Fl. Real Estate Arti → John@tccommericalre.com
+[08:20:10][SEG0]     → SKIP: no MX for tccommericalre.com
+[08:20:10][SEG0]   [16/20] Starling Buick GMC Dealership in St → info@starlingbuickgmcstuart.com
+[08:20:11][SEG0]     → ✗ REJECTED: rejected
+[08:20:11][SEG0]   [17/20] Wallace Chrysler, Jeep, Dodge, Ram  → users@wallaceautogroup.net
+[08:20:11][SEG0]     → ✗ REJECTED: rejected
+[08:20:12][SEG0]   [18/20] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[08:20:12][SEG0]     → ? UNKNOWN: unknown
+[08:20:12][SEG0]   [19/20] Jupiter Detail: Car Detailing in Ju → info@jupiterdetail.com
+[08:20:20][SEG0]     → ? UNKNOWN: timed out
+[08:20:21][SEG0]   [20/20] Car Detailing Jupiter, FL → officialluxautocare@gmail.com
+[08:20:21][SEG0]     → ✓ VERIFIED
+[08:20:22][SEG0] Wrote 1 verified emails
+[08:20:22][SEG0] SEGMENT 0 COMPLETE: 1 verified, 9 rejected
+[08:20:22][SEG0] ============================================================

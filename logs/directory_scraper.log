@@ -162,3 +162,665 @@ Directory Scraper — 2026-02-14 17:00 — $0 cost
     bbb/property management: 0 found, 0 new
 
  Total: 0 new leads (FREE)
+2026-02-15 01:03:26,541 INFO yelp Palm Beach Gardens FL 'property management': 0 found, 0 new
+2026-02-15 01:06:49,284 INFO yelp Palm Beach Gardens FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 01:10:33,594 INFO yelp Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-15 01:13:45,941 INFO yelp Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 01:17:37,701 INFO yellowpages Palm Beach Gardens FL 'property management': 0 found, 0 new
+2026-02-15 01:20:30,513 INFO yellowpages Palm Beach Gardens FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 01:23:46,743 INFO yellowpages Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-15 01:27:35,635 INFO yellowpages Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 01:27:55,758 INFO bbb Palm Beach Gardens FL 'property management': 0 found, 0 new
+2026-02-15 01:28:02,580 INFO bbb Palm Beach Gardens FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 01:28:12,500 INFO bbb Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-15 01:28:18,931 INFO bbb Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 01:32:05,771 INFO yelp Port St Lucie FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 01:36:06,351 INFO yelp Port St Lucie FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 01:38:53,724 INFO yelp Port St Lucie FL 'roofing contractor': 0 found, 0 new
+2026-02-15 01:43:02,558 INFO yelp Port St Lucie FL 'gutter cleaning': 0 found, 0 new
+2026-02-15 01:46:15,300 INFO yellowpages Port St Lucie FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 01:49:24,670 INFO yellowpages Port St Lucie FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 01:52:11,821 INFO yellowpages Port St Lucie FL 'roofing contractor': 0 found, 0 new
+2026-02-15 01:55:20,326 INFO yellowpages Port St Lucie FL 'gutter cleaning': 0 found, 0 new
+2026-02-15 01:55:40,624 INFO bbb Port St Lucie FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 01:55:51,064 INFO bbb Port St Lucie FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 01:56:02,209 INFO bbb Port St Lucie FL 'roofing contractor': 0 found, 0 new
+2026-02-15 01:56:12,034 INFO bbb Port St Lucie FL 'gutter cleaning': 0 found, 0 new
+2026-02-15 02:00:21,522 INFO yelp Vero Beach FL 'property management': 0 found, 0 new
+2026-02-15 02:03:41,985 INFO yelp Vero Beach FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 02:06:55,242 INFO yelp Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-15 02:10:36,942 INFO yelp Vero Beach FL 'flooring installation': 0 found, 0 new
+2026-02-15 02:14:26,554 INFO yellowpages Vero Beach FL 'property management': 0 found, 0 new
+2026-02-15 02:17:35,961 INFO yellowpages Vero Beach FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 02:21:11,832 INFO yellowpages Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-15 02:23:53,206 INFO yellowpages Vero Beach FL 'flooring installation': 0 found, 0 new
+2026-02-15 02:24:15,046 INFO bbb Vero Beach FL 'property management': 0 found, 0 new
+2026-02-15 02:24:26,920 INFO bbb Vero Beach FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 02:24:37,923 INFO bbb Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-15 02:24:43,499 INFO bbb Vero Beach FL 'flooring installation': 0 found, 0 new
+Directory Scraper — 2026-02-15 01:00 — $0 cost
+
+  [Palm Beach Gardens FL]
+    yelp/property management: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+
+  [Port St Lucie FL]
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+
+  [Vero Beach FL]
+    yelp/property management: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/flooring installation: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-15 09:03:01,314 INFO yelp Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 09:06:29,440 INFO yelp Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 09:10:40,450 INFO yelp Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+2026-02-15 09:14:42,195 INFO yelp Palm Beach Gardens FL 'general contractor': 0 found, 0 new
+2026-02-15 09:18:08,295 INFO yellowpages Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 09:21:05,896 INFO yellowpages Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 09:24:48,851 INFO yellowpages Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+2026-02-15 09:28:06,026 INFO yellowpages Palm Beach Gardens FL 'general contractor': 0 found, 0 new
+2026-02-15 09:28:35,514 INFO bbb Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 09:28:45,479 INFO bbb Palm Beach Gardens FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 09:28:54,099 INFO bbb Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+2026-02-15 09:29:02,033 INFO bbb Palm Beach Gardens FL 'general contractor': 0 found, 0 new
+2026-02-15 09:33:02,494 INFO yelp Sailfish Point FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 09:35:33,323 INFO yelp Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-15 09:38:33,964 INFO yelp Sailfish Point FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 09:42:09,186 INFO yelp Sailfish Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 09:46:16,779 INFO yellowpages Sailfish Point FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 09:49:59,875 INFO yellowpages Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-15 09:54:06,528 INFO yellowpages Sailfish Point FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 09:58:34,021 INFO yellowpages Sailfish Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 09:58:59,916 INFO bbb Sailfish Point FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 09:59:11,845 INFO bbb Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-15 09:59:21,006 INFO bbb Sailfish Point FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 09:59:27,164 INFO bbb Sailfish Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-15 10:03:32,333 INFO yelp Hobe Sound FL 'mobile detailing': 0 found, 0 new
+2026-02-15 10:06:55,735 INFO yelp Hobe Sound FL 'property management': 0 found, 0 new
+2026-02-15 10:10:27,765 INFO yelp Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 10:13:41,184 INFO yelp Hobe Sound FL 'general contractor': 0 found, 0 new
+2026-02-15 10:17:07,595 INFO yellowpages Hobe Sound FL 'mobile detailing': 0 found, 0 new
+2026-02-15 10:20:12,983 INFO yellowpages Hobe Sound FL 'property management': 0 found, 0 new
+2026-02-15 10:23:49,722 INFO yellowpages Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 10:27:12,921 INFO yellowpages Hobe Sound FL 'general contractor': 0 found, 0 new
+2026-02-15 10:27:35,721 INFO bbb Hobe Sound FL 'mobile detailing': 0 found, 0 new
+2026-02-15 10:27:43,107 INFO bbb Hobe Sound FL 'property management': 0 found, 0 new
+2026-02-15 10:27:55,114 INFO bbb Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 10:28:02,913 INFO bbb Hobe Sound FL 'general contractor': 0 found, 0 new
+Directory Scraper — 2026-02-15 09:00 — $0 cost
+
+  [Palm Beach Gardens FL]
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+
+  [Sailfish Point FL]
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+
+  [Hobe Sound FL]
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-15 17:03:02,034 INFO yelp Tequesta FL 'roofing contractor': 0 found, 0 new
+2026-02-15 17:06:22,082 INFO yelp Tequesta FL 'pressure washing': 0 found, 0 new
+2026-02-15 17:09:34,197 INFO yelp Tequesta FL 'general contractor': 0 found, 0 new
+2026-02-15 17:12:38,720 INFO yelp Tequesta FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 17:15:39,945 INFO yellowpages Tequesta FL 'roofing contractor': 0 found, 0 new
+2026-02-15 17:19:21,920 INFO yellowpages Tequesta FL 'pressure washing': 0 found, 0 new
+2026-02-15 17:22:39,654 INFO yellowpages Tequesta FL 'general contractor': 0 found, 0 new
+2026-02-15 17:25:38,278 INFO yellowpages Tequesta FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 17:26:07,498 INFO bbb Tequesta FL 'roofing contractor': 0 found, 0 new
+2026-02-15 17:26:13,360 INFO bbb Tequesta FL 'pressure washing': 0 found, 0 new
+2026-02-15 17:26:21,259 INFO bbb Tequesta FL 'general contractor': 0 found, 0 new
+2026-02-15 17:26:27,613 INFO bbb Tequesta FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 17:30:40,431 INFO yelp Sailfish Point FL 'flooring installation': 0 found, 0 new
+2026-02-15 17:34:03,381 INFO yelp Sailfish Point FL 'property management': 0 found, 0 new
+2026-02-15 17:37:04,225 INFO yelp Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-15 17:40:22,192 INFO yelp Sailfish Point FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 17:44:25,175 INFO yellowpages Sailfish Point FL 'flooring installation': 0 found, 0 new
+2026-02-15 17:47:09,276 INFO yellowpages Sailfish Point FL 'property management': 0 found, 0 new
+2026-02-15 17:49:59,901 INFO yellowpages Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-15 17:53:45,554 INFO yellowpages Sailfish Point FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 17:54:08,970 INFO bbb Sailfish Point FL 'flooring installation': 0 found, 0 new
+2026-02-15 17:54:18,462 INFO bbb Sailfish Point FL 'property management': 0 found, 0 new
+2026-02-15 17:54:24,433 INFO bbb Sailfish Point FL 'general contractor': 0 found, 0 new
+2026-02-15 17:54:33,365 INFO bbb Sailfish Point FL 'kitchen remodeling': 0 found, 0 new
+2026-02-15 17:58:01,959 INFO yelp Palm Beach Gardens FL 'painting contractor': 0 found, 0 new
+2026-02-15 18:01:25,155 INFO yelp Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-15 18:04:26,676 INFO yelp Palm Beach Gardens FL 'gutter cleaning': 0 found, 0 new
+2026-02-15 18:07:32,065 INFO yelp Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 18:11:04,244 INFO yellowpages Palm Beach Gardens FL 'painting contractor': 0 found, 0 new
+2026-02-15 18:14:41,050 INFO yellowpages Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-15 18:17:10,760 INFO yellowpages Palm Beach Gardens FL 'gutter cleaning': 0 found, 0 new
+2026-02-15 18:20:55,041 INFO yellowpages Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-15 18:21:21,929 INFO bbb Palm Beach Gardens FL 'painting contractor': 0 found, 0 new
+2026-02-15 18:21:34,190 INFO bbb Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-15 18:21:41,048 INFO bbb Palm Beach Gardens FL 'gutter cleaning': 0 found, 0 new
+2026-02-15 18:21:48,146 INFO bbb Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+Directory Scraper — 2026-02-15 17:00 — $0 cost
+
+  [Tequesta FL]
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+
+  [Sailfish Point FL]
+    yelp/flooring installation: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+
+  [Palm Beach Gardens FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-16 01:03:43,781 INFO yelp Tequesta FL 'general contractor': 0 found, 0 new
+2026-02-16 01:06:44,799 INFO yelp Tequesta FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 01:09:28,436 INFO yelp Tequesta FL 'property management': 0 found, 0 new
+2026-02-16 01:12:17,424 INFO yelp Tequesta FL 'handyman': 0 found, 0 new
+2026-02-16 01:16:24,407 INFO yellowpages Tequesta FL 'general contractor': 0 found, 0 new
+2026-02-16 01:19:27,696 INFO yellowpages Tequesta FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 01:22:40,340 INFO yellowpages Tequesta FL 'property management': 0 found, 0 new
+2026-02-16 01:26:15,261 INFO yellowpages Tequesta FL 'handyman': 0 found, 0 new
+2026-02-16 01:26:41,033 INFO bbb Tequesta FL 'general contractor': 0 found, 0 new
+2026-02-16 01:26:48,917 INFO bbb Tequesta FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 01:27:00,934 INFO bbb Tequesta FL 'property management': 0 found, 0 new
+2026-02-16 01:27:06,838 INFO bbb Tequesta FL 'handyman': 0 found, 0 new
+2026-02-16 01:30:48,411 INFO yelp Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-16 01:34:10,540 INFO yelp Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+2026-02-16 01:37:40,071 INFO yelp Palm Beach Gardens FL 'gutter cleaning': 0 found, 0 new
+2026-02-16 01:40:32,990 INFO yelp Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 01:44:04,248 INFO yellowpages Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-16 01:48:21,871 INFO yellowpages Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+2026-02-16 01:52:04,793 INFO yellowpages Palm Beach Gardens FL 'gutter cleaning': 0 found, 0 new
+2026-02-16 01:55:13,437 INFO yellowpages Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 01:55:31,646 INFO bbb Palm Beach Gardens FL 'pressure washing': 0 found, 0 new
+2026-02-16 01:55:42,972 INFO bbb Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+2026-02-16 01:55:54,762 INFO bbb Palm Beach Gardens FL 'gutter cleaning': 0 found, 0 new
+2026-02-16 01:56:00,305 INFO bbb Palm Beach Gardens FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 02:00:11,912 INFO yelp Hutchinson Island FL 'painting contractor': 0 found, 0 new
+2026-02-16 02:04:03,972 INFO yelp Hutchinson Island FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 02:08:04,335 INFO yelp Hutchinson Island FL 'handyman': 0 found, 0 new
+2026-02-16 02:11:39,595 INFO yelp Hutchinson Island FL 'general contractor': 0 found, 0 new
+2026-02-16 02:14:53,619 INFO yellowpages Hutchinson Island FL 'painting contractor': 0 found, 0 new
+2026-02-16 02:18:11,959 INFO yellowpages Hutchinson Island FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 02:21:00,440 INFO yellowpages Hutchinson Island FL 'handyman': 0 found, 0 new
+2026-02-16 02:23:59,107 INFO yellowpages Hutchinson Island FL 'general contractor': 0 found, 0 new
+2026-02-16 02:24:21,221 INFO bbb Hutchinson Island FL 'painting contractor': 0 found, 0 new
+2026-02-16 02:24:28,345 INFO bbb Hutchinson Island FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 02:24:35,924 INFO bbb Hutchinson Island FL 'handyman': 0 found, 0 new
+2026-02-16 02:24:48,259 INFO bbb Hutchinson Island FL 'general contractor': 0 found, 0 new
+Directory Scraper — 2026-02-16 01:00 — $0 cost
+
+  [Tequesta FL]
+    yelp/general contractor: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+
+  [Palm Beach Gardens FL]
+    yelp/pressure washing: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+
+  [Hutchinson Island FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/general contractor: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/general contractor: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/general contractor: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-16 09:03:15,128 INFO yelp Hobe Sound FL 'handyman': 0 found, 0 new
+2026-02-16 09:05:39,060 INFO yelp Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 09:08:56,978 INFO yelp Hobe Sound FL 'painting contractor': 0 found, 0 new
+2026-02-16 09:11:39,401 INFO yelp Hobe Sound FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 09:15:09,769 INFO yellowpages Hobe Sound FL 'handyman': 0 found, 0 new
+2026-02-16 09:19:06,889 INFO yellowpages Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 09:22:12,082 INFO yellowpages Hobe Sound FL 'painting contractor': 0 found, 0 new
+2026-02-16 09:25:36,119 INFO yellowpages Hobe Sound FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 09:25:58,221 INFO bbb Hobe Sound FL 'handyman': 0 found, 0 new
+2026-02-16 09:26:05,642 INFO bbb Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 09:26:17,731 INFO bbb Hobe Sound FL 'painting contractor': 0 found, 0 new
+2026-02-16 09:26:27,286 INFO bbb Hobe Sound FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 09:30:27,419 INFO yelp Palm Beach Gardens FL 'mobile detailing': 0 found, 0 new
+Killed
+2026-02-16 17:03:27,443 INFO yelp Tequesta FL 'property management': 0 found, 0 new
+2026-02-16 17:07:27,513 INFO yelp Tequesta FL 'roofing contractor': 0 found, 0 new
+2026-02-16 17:10:54,784 INFO yelp Tequesta FL 'mobile detailing': 0 found, 0 new
+2026-02-16 17:14:29,276 INFO yelp Tequesta FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 17:17:46,090 INFO yellowpages Tequesta FL 'property management': 0 found, 0 new
+2026-02-16 17:20:14,311 INFO yellowpages Tequesta FL 'roofing contractor': 0 found, 0 new
+2026-02-16 17:24:24,467 INFO yellowpages Tequesta FL 'mobile detailing': 0 found, 0 new
+2026-02-16 17:28:31,179 INFO yellowpages Tequesta FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 17:28:51,381 INFO bbb Tequesta FL 'property management': 0 found, 0 new
+2026-02-16 17:28:57,349 INFO bbb Tequesta FL 'roofing contractor': 0 found, 0 new
+2026-02-16 17:29:06,736 INFO bbb Tequesta FL 'mobile detailing': 0 found, 0 new
+2026-02-16 17:29:16,955 INFO bbb Tequesta FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 17:33:26,122 INFO yelp Fort Pierce FL 'bathroom remodeling': 0 found, 0 new
+2026-02-16 17:37:10,450 INFO yelp Fort Pierce FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 17:40:48,585 INFO yelp Fort Pierce FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 17:44:14,587 INFO yelp Fort Pierce FL 'gutter cleaning': 0 found, 0 new
+2026-02-16 17:47:43,094 INFO yellowpages Fort Pierce FL 'bathroom remodeling': 0 found, 0 new
+2026-02-16 17:51:24,154 INFO yellowpages Fort Pierce FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 17:55:34,796 INFO yellowpages Fort Pierce FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 17:58:19,993 INFO yellowpages Fort Pierce FL 'gutter cleaning': 0 found, 0 new
+2026-02-16 17:58:40,134 INFO bbb Fort Pierce FL 'bathroom remodeling': 0 found, 0 new
+2026-02-16 17:58:49,551 INFO bbb Fort Pierce FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 17:58:56,137 INFO bbb Fort Pierce FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 17:59:03,312 INFO bbb Fort Pierce FL 'gutter cleaning': 0 found, 0 new
+2026-02-16 18:04:04,167 INFO yelp Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 18:07:41,304 INFO yelp Hobe Sound FL 'property management': 0 found, 0 new
+2026-02-16 18:11:14,659 INFO yelp Hobe Sound FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 18:14:22,135 INFO yelp Hobe Sound FL 'pressure washing': 0 found, 0 new
+2026-02-16 18:18:20,070 INFO yellowpages Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 18:21:25,327 INFO yellowpages Hobe Sound FL 'property management': 0 found, 0 new
+2026-02-16 18:25:03,756 INFO yellowpages Hobe Sound FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 18:28:19,103 INFO yellowpages Hobe Sound FL 'pressure washing': 0 found, 0 new
+2026-02-16 18:28:45,351 INFO bbb Hobe Sound FL 'epoxy flooring': 0 found, 0 new
+2026-02-16 18:28:52,123 INFO bbb Hobe Sound FL 'property management': 0 found, 0 new
+2026-02-16 18:29:03,278 INFO bbb Hobe Sound FL 'kitchen remodeling': 0 found, 0 new
+2026-02-16 18:29:09,403 INFO bbb Hobe Sound FL 'pressure washing': 0 found, 0 new
+Directory Scraper — 2026-02-16 17:00 — $0 cost
+
+  [Tequesta FL]
+    yelp/property management: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+
+  [Fort Pierce FL]
+    yelp/bathroom remodeling: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+
+  [Hobe Sound FL]
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-17 01:03:16,484 INFO yelp Jupiter FL 'flooring installation': 0 found, 0 new
+2026-02-17 01:06:52,756 INFO yelp Jupiter FL 'handyman': 0 found, 0 new
+2026-02-17 01:10:11,129 INFO yelp Jupiter FL 'mobile detailing': 0 found, 0 new
+2026-02-17 01:13:43,996 INFO yelp Jupiter FL 'property management': 0 found, 0 new
+2026-02-17 01:17:35,175 INFO yellowpages Jupiter FL 'flooring installation': 0 found, 0 new
+2026-02-17 01:20:04,932 INFO yellowpages Jupiter FL 'handyman': 0 found, 0 new
+2026-02-17 01:23:30,814 INFO yellowpages Jupiter FL 'mobile detailing': 0 found, 0 new
+2026-02-17 01:26:58,540 INFO yellowpages Jupiter FL 'property management': 0 found, 0 new
+2026-02-17 01:27:21,515 INFO bbb Jupiter FL 'flooring installation': 0 found, 0 new
+2026-02-17 01:27:33,649 INFO bbb Jupiter FL 'handyman': 0 found, 0 new
+2026-02-17 01:27:42,783 INFO bbb Jupiter FL 'mobile detailing': 0 found, 0 new
+2026-02-17 01:27:55,410 INFO bbb Jupiter FL 'property management': 0 found, 0 new
+2026-02-17 01:31:52,438 INFO yelp Vero Beach FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 01:34:35,936 INFO yelp Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-17 01:38:26,773 INFO yelp Vero Beach FL 'handyman': 0 found, 0 new
+2026-02-17 01:42:17,280 INFO yelp Vero Beach FL 'painting contractor': 0 found, 0 new
+2026-02-17 01:46:03,595 INFO yellowpages Vero Beach FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 01:48:56,167 INFO yellowpages Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-17 01:52:30,628 INFO yellowpages Vero Beach FL 'handyman': 0 found, 0 new
+2026-02-17 01:55:49,367 INFO yellowpages Vero Beach FL 'painting contractor': 0 found, 0 new
+2026-02-17 01:56:17,265 INFO bbb Vero Beach FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 01:56:29,323 INFO bbb Vero Beach FL 'mobile detailing': 0 found, 0 new
+2026-02-17 01:56:35,392 INFO bbb Vero Beach FL 'handyman': 0 found, 0 new
+2026-02-17 01:56:47,076 INFO bbb Vero Beach FL 'painting contractor': 0 found, 0 new
+2026-02-17 02:00:44,123 INFO yelp Hobe Sound FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 02:04:08,554 INFO yelp Hobe Sound FL 'roofing contractor': 0 found, 0 new
+2026-02-17 02:07:59,726 INFO yelp Hobe Sound FL 'handyman': 0 found, 0 new
+2026-02-17 02:11:18,702 INFO yelp Hobe Sound FL 'pressure washing': 0 found, 0 new
+2026-02-17 02:15:14,517 INFO yellowpages Hobe Sound FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 02:18:35,590 INFO yellowpages Hobe Sound FL 'roofing contractor': 0 found, 0 new
+2026-02-17 02:21:58,054 INFO yellowpages Hobe Sound FL 'handyman': 0 found, 0 new
+2026-02-17 02:24:57,530 INFO yellowpages Hobe Sound FL 'pressure washing': 0 found, 0 new
+2026-02-17 02:25:20,827 INFO bbb Hobe Sound FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 02:25:30,015 INFO bbb Hobe Sound FL 'roofing contractor': 0 found, 0 new
+2026-02-17 02:25:35,613 INFO bbb Hobe Sound FL 'handyman': 0 found, 0 new
+2026-02-17 02:25:43,603 INFO bbb Hobe Sound FL 'pressure washing': 0 found, 0 new
+Directory Scraper — 2026-02-17 01:00 — $0 cost
+
+  [Jupiter FL]
+    yelp/flooring installation: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+
+  [Vero Beach FL]
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/mobile detailing: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/painting contractor: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/mobile detailing: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/mobile detailing: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+
+  [Hobe Sound FL]
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-17 09:03:08,438 INFO yelp Palm City FL 'flooring installation': 0 found, 0 new
+2026-02-17 09:06:36,884 INFO yelp Palm City FL 'roofing contractor': 0 found, 0 new
+2026-02-17 09:09:32,314 INFO yelp Palm City FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 09:13:22,432 INFO yelp Palm City FL 'pressure washing': 0 found, 0 new
+2026-02-17 09:16:24,231 INFO yellowpages Palm City FL 'flooring installation': 0 found, 0 new
+2026-02-17 09:19:51,116 INFO yellowpages Palm City FL 'roofing contractor': 0 found, 0 new
+2026-02-17 09:23:36,394 INFO yellowpages Palm City FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 09:26:48,185 INFO yellowpages Palm City FL 'pressure washing': 0 found, 0 new
+2026-02-17 09:27:18,832 INFO bbb Palm City FL 'flooring installation': 0 found, 0 new
+2026-02-17 09:27:24,636 INFO bbb Palm City FL 'roofing contractor': 0 found, 0 new
+2026-02-17 09:27:33,653 INFO bbb Palm City FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 09:27:39,788 INFO bbb Palm City FL 'pressure washing': 0 found, 0 new
+2026-02-17 09:31:15,400 INFO yelp Fort Pierce FL 'property management': 0 found, 0 new
+2026-02-17 09:35:06,903 INFO yelp Fort Pierce FL 'handyman': 0 found, 0 new
+2026-02-17 09:38:26,372 INFO yelp Fort Pierce FL 'flooring installation': 0 found, 0 new
+2026-02-17 09:41:33,249 INFO yelp Fort Pierce FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 09:45:09,265 INFO yellowpages Fort Pierce FL 'property management': 0 found, 0 new
+2026-02-17 09:48:10,366 INFO yellowpages Fort Pierce FL 'handyman': 0 found, 0 new
+2026-02-17 09:51:33,679 INFO yellowpages Fort Pierce FL 'flooring installation': 0 found, 0 new
+2026-02-17 09:55:01,832 INFO yellowpages Fort Pierce FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 09:55:22,787 INFO bbb Fort Pierce FL 'property management': 0 found, 0 new
+2026-02-17 09:55:30,080 INFO bbb Fort Pierce FL 'handyman': 0 found, 0 new
+2026-02-17 09:55:40,589 INFO bbb Fort Pierce FL 'flooring installation': 0 found, 0 new
+2026-02-17 09:55:46,955 INFO bbb Fort Pierce FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 09:59:31,148 INFO yelp Jensen Beach FL 'flooring installation': 0 found, 0 new
+2026-02-17 10:02:19,831 INFO yelp Jensen Beach FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 10:06:10,548 INFO yelp Jensen Beach FL 'roofing contractor': 0 found, 0 new
+2026-02-17 10:10:03,502 INFO yelp Jensen Beach FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 10:13:30,990 INFO yellowpages Jensen Beach FL 'flooring installation': 0 found, 0 new
+2026-02-17 10:16:58,911 INFO yellowpages Jensen Beach FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 10:20:46,680 INFO yellowpages Jensen Beach FL 'roofing contractor': 0 found, 0 new
+2026-02-17 10:23:23,838 INFO yellowpages Jensen Beach FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 10:23:51,522 INFO bbb Jensen Beach FL 'flooring installation': 0 found, 0 new
+2026-02-17 10:24:03,838 INFO bbb Jensen Beach FL 'epoxy flooring': 0 found, 0 new
+2026-02-17 10:24:12,597 INFO bbb Jensen Beach FL 'roofing contractor': 0 found, 0 new
+2026-02-17 10:24:20,276 INFO bbb Jensen Beach FL 'gutter cleaning': 0 found, 0 new
+Directory Scraper — 2026-02-17 09:00 — $0 cost
+
+  [Palm City FL]
+    yelp/flooring installation: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/pressure washing: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+
+  [Fort Pierce FL]
+    yelp/property management: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yelp/flooring installation: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+
+  [Jensen Beach FL]
+    yelp/flooring installation: 0 found, 0 new
+    yelp/epoxy flooring: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yellowpages/flooring installation: 0 found, 0 new
+    yellowpages/epoxy flooring: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    bbb/flooring installation: 0 found, 0 new
+    bbb/epoxy flooring: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+
+ Total: 0 new leads (FREE)
+2026-02-17 17:03:00,535 INFO yelp Tradition FL 'pressure washing': 0 found, 0 new
+2026-02-17 17:06:23,859 INFO yelp Tradition FL 'bathroom remodeling': 0 found, 0 new
+2026-02-17 17:09:51,958 INFO yelp Tradition FL 'kitchen remodeling': 0 found, 0 new
+2026-02-17 17:13:05,624 INFO yelp Tradition FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 17:17:15,743 INFO yellowpages Tradition FL 'pressure washing': 0 found, 0 new
+2026-02-17 17:20:51,241 INFO yellowpages Tradition FL 'bathroom remodeling': 0 found, 0 new
+2026-02-17 17:24:26,919 INFO yellowpages Tradition FL 'kitchen remodeling': 0 found, 0 new
+2026-02-17 17:27:49,948 INFO yellowpages Tradition FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 17:28:21,368 INFO bbb Tradition FL 'pressure washing': 0 found, 0 new
+2026-02-17 17:28:33,839 INFO bbb Tradition FL 'bathroom remodeling': 0 found, 0 new
+2026-02-17 17:28:40,204 INFO bbb Tradition FL 'kitchen remodeling': 0 found, 0 new
+2026-02-17 17:28:49,101 INFO bbb Tradition FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 17:33:00,951 INFO yelp Jupiter FL 'painting contractor': 0 found, 0 new
+2026-02-17 17:36:34,075 INFO yelp Jupiter FL 'property management': 0 found, 0 new
+2026-02-17 17:40:42,730 INFO yelp Jupiter FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 17:44:24,071 INFO yelp Jupiter FL 'kitchen remodeling': 0 found, 0 new
+2026-02-17 17:48:03,995 INFO yellowpages Jupiter FL 'painting contractor': 0 found, 0 new
+2026-02-17 17:51:16,995 INFO yellowpages Jupiter FL 'property management': 0 found, 0 new
+2026-02-17 17:55:33,651 INFO yellowpages Jupiter FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 17:58:27,196 INFO yellowpages Jupiter FL 'kitchen remodeling': 0 found, 0 new
+2026-02-17 17:58:53,072 INFO bbb Jupiter FL 'painting contractor': 0 found, 0 new
+2026-02-17 17:58:59,826 INFO bbb Jupiter FL 'property management': 0 found, 0 new
+2026-02-17 17:59:08,450 INFO bbb Jupiter FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 17:59:15,460 INFO bbb Jupiter FL 'kitchen remodeling': 0 found, 0 new
+2026-02-17 18:03:46,078 INFO yelp Sewalls Point FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 18:07:35,176 INFO yelp Sewalls Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-17 18:09:55,314 INFO yelp Sewalls Point FL 'roofing contractor': 0 found, 0 new
+2026-02-17 18:13:32,263 INFO yelp Sewalls Point FL 'handyman': 0 found, 0 new
+2026-02-17 18:17:18,440 INFO yellowpages Sewalls Point FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 18:21:24,059 INFO yellowpages Sewalls Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-17 18:24:29,715 INFO yellowpages Sewalls Point FL 'roofing contractor': 0 found, 0 new
+2026-02-17 18:27:17,627 INFO yellowpages Sewalls Point FL 'handyman': 0 found, 0 new
+2026-02-17 18:27:42,187 INFO bbb Sewalls Point FL 'gutter cleaning': 0 found, 0 new
+2026-02-17 18:27:48,163 INFO bbb Sewalls Point FL 'bathroom remodeling': 0 found, 0 new
+2026-02-17 18:27:59,413 INFO bbb Sewalls Point FL 'roofing contractor': 0 found, 0 new
+2026-02-17 18:28:04,852 INFO bbb Sewalls Point FL 'handyman': 0 found, 0 new
+Directory Scraper — 2026-02-17 17:00 — $0 cost
+
+  [Tradition FL]
+    yelp/pressure washing: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yellowpages/pressure washing: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    bbb/pressure washing: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+
+  [Jupiter FL]
+    yelp/painting contractor: 0 found, 0 new
+    yelp/property management: 0 found, 0 new
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/kitchen remodeling: 0 found, 0 new
+    yellowpages/painting contractor: 0 found, 0 new
+    yellowpages/property management: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/kitchen remodeling: 0 found, 0 new
+    bbb/painting contractor: 0 found, 0 new
+    bbb/property management: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/kitchen remodeling: 0 found, 0 new
+
+  [Sewalls Point FL]
+    yelp/gutter cleaning: 0 found, 0 new
+    yelp/bathroom remodeling: 0 found, 0 new
+    yelp/roofing contractor: 0 found, 0 new
+    yelp/handyman: 0 found, 0 new
+    yellowpages/gutter cleaning: 0 found, 0 new
+    yellowpages/bathroom remodeling: 0 found, 0 new
+    yellowpages/roofing contractor: 0 found, 0 new
+    yellowpages/handyman: 0 found, 0 new
+    bbb/gutter cleaning: 0 found, 0 new
+    bbb/bathroom remodeling: 0 found, 0 new
+    bbb/roofing contractor: 0 found, 0 new
+    bbb/handyman: 0 found, 0 new
+
+ Total: 0 new leads (FREE)

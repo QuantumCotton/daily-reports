@@ -1,0 +1,17 @@
+[2026-02-16 04:30:52] ============================================================
+[2026-02-16 04:30:52] TREASURE COAST LEAD ENRICHMENT BLITZ
+[2026-02-16 04:30:52] ============================================================
+[2026-02-16 04:30:52] Goal: 497 more complete leads by Feb 21
+[2026-02-16 04:30:52] ============================================================
+[2026-02-16 04:30:52] PHASE 1: Finding names for leads with personal emails
+[2026-02-16 04:30:52] ------------------------------------------------------------
+[2026-02-16 04:30:52] FATAL: no such function: is_generic_email
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enrichment_blitz.py", line 357, in <module>
+    stats = main()
+            ^^^^^^
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enrichment_blitz.py", line 219, in main
+    leads_with_email = conn.execute(f"""
+                       ^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such function: is_generic_email
+

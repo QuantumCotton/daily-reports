@@ -1,0 +1,1073 @@
+[04:30:11][SEG2] ============================================================
+[04:30:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[04:30:11][SEG2] ============================================================
+[04:30:11][SEG2] Loaded 785 leads
+[04:30:11][SEG2] Leads in segment 2: 15
+[04:30:11][SEG2] Processing batch of 15
+[04:30:11][SEG2]   [1/15] Quest Property Management Services for Y → questrealestatesolutions.com
+[04:30:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[04:30:11][SEG2]   [2/15] Tru Mobile Detailing → trumobiledetailing.com
+[04:30:11][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[04:30:11][SEG2]   [3/15] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[04:30:11][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[04:30:12][SEG2]   [4/15] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[04:30:12][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[04:30:12][SEG2]   [5/15] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[04:30:12][SEG2]     → SKIP: no MX for health.usnews.com
+[04:30:12][SEG2]   [6/15] Transitional Kitchens Gallery → dreammaker-remodel.com
+[04:30:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[04:30:13][SEG2]   [7/15] Stuart Kitchen Contractors → dreammaker-remodel.com
+[04:30:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[04:30:13][SEG2]   [8/15] Senior Living Facilities in Fort Pierce, → ourparents.com
+[04:30:13][SEG2]     → SKIP: no MX for ourparents.com
+[04:30:14][SEG2]   [9/15] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[04:30:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[04:30:14][SEG2]   [10/15] Jupiter Cove → jupitercove.net
+[04:30:14][SEG2]     → SKIP: no MX for jupitercove.net
+[04:30:14][SEG2]   [11/15] Remodeling Contractor → swfconstruction.com
+[04:30:14][SEG2]     → SKIP: no MX for swfconstruction.com
+[04:30:15][SEG2]   [12/15] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[04:30:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[04:30:15][SEG2]   [13/15] About Us → islandhousehoa.com
+[04:30:15][SEG2]     → SKIP: no MX for islandhousehoa.com
+[04:30:15][SEG2]   [14/15] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[04:30:15][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[04:30:16][SEG2]   [15/15] Molino's Ristorante → molinosrestaurant.com
+[04:30:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[04:30:16][SEG2] SEGMENT 2 COMPLETE: 0 guessed, 0 verified
+[04:30:16][SEG2] ============================================================
+[04:45:11][SEG2] ============================================================
+[04:45:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[04:45:11][SEG2] ============================================================
+[04:45:11][SEG2] Loaded 1042 leads
+[04:45:11][SEG2] Leads in segment 2: 60
+[04:45:11][SEG2] Processing batch of 30
+[04:45:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[04:45:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[04:45:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[04:45:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[04:45:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[04:45:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[04:45:12][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[04:45:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[04:45:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[04:45:13][SEG2]     → SKIP: no MX for health.usnews.com
+[04:45:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[04:45:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[04:45:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[04:45:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[04:45:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[04:45:14][SEG2]     → SKIP: no MX for ourparents.com
+[04:45:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[04:45:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[04:45:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[04:45:15][SEG2]     → SKIP: no MX for jupitercove.net
+[04:45:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[04:45:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[04:45:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[04:45:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[04:45:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[04:45:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[04:45:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[04:45:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[04:45:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[04:45:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[04:45:17][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[04:45:17][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[04:45:18][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[04:45:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[04:45:18][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[04:45:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[04:45:18][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[04:45:18][SEG2]     → SKIP: no MX for legendspointe.com
+[04:45:19][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[04:45:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[04:45:19][SEG2]   [21/30] Rick Hendrick Chevrolet Naples → rickhendrickchevynaples.com
+[04:45:19][SEG2]     → info@rickhendrickchevynaples.com (generic guess (rickhendrickchevynaples.com))
+[04:45:20][SEG2]   [22/30] Naples Most Trusted Property Management  → guardianpropertymanagement.net
+[04:45:20][SEG2]     → info@guardianpropertymanagement.net (SMTP verified at guardianpropertymanagement.net)
+[04:45:21][SEG2]   [23/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[04:45:21][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[04:45:21][SEG2]   [24/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[04:45:22][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[04:45:22][SEG2]   [25/30] Property Management Austin TX - Top Rate → keyrenteraustin.com
+[04:45:23][SEG2]     → info@keyrenteraustin.com (SMTP verified at keyrenteraustin.com)
+[04:45:23][SEG2]   [26/30] Nashville Property Management | TCS Mana → tcsmgt.com
+[04:45:23][SEG2]     → info@tcsmgt.com (SMTP verified at tcsmgt.com)
+[04:45:24][SEG2]   [27/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[04:45:24][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[04:45:25][SEG2]   [28/30] Ryntal Property Management: Property Man → ryntal.com
+[04:45:26][SEG2]     → info@ryntal.com (generic guess (ryntal.com))
+[04:45:26][SEG2]   [29/30] Property Management Scottsdale AZ - Reli → keyrenterpremier.com
+[04:45:26][SEG2]     → info@keyrenterpremier.com (SMTP verified at keyrenterpremier.com)
+[04:45:27][SEG2]   [30/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[04:45:27][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[04:45:27][SEG2] Wrote 9 guessed emails (4 SMTP verified)
+[04:45:27][SEG2] SEGMENT 2 COMPLETE: 9 guessed, 4 verified
+[04:45:27][SEG2] ============================================================
+[05:00:12][SEG2] ============================================================
+[05:00:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[05:00:12][SEG2] ============================================================
+[05:00:12][SEG2] Loaded 1253 leads
+[05:00:12][SEG2] Leads in segment 2: 76
+[05:00:12][SEG2] Processing batch of 30
+[05:00:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[05:00:13][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[05:00:13][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[05:00:13][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[05:00:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[05:00:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[05:00:14][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[05:00:14][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[05:00:14][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[05:00:14][SEG2]     → SKIP: no MX for health.usnews.com
+[05:00:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[05:00:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:00:15][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[05:00:15][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:00:15][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[05:00:15][SEG2]     → SKIP: no MX for ourparents.com
+[05:00:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[05:00:16][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[05:00:16][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[05:00:16][SEG2]     → SKIP: no MX for jupitercove.net
+[05:00:16][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[05:00:16][SEG2]     → SKIP: no MX for swfconstruction.com
+[05:00:17][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[05:00:17][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[05:00:17][SEG2]   [13/30] About Us → islandhousehoa.com
+[05:00:17][SEG2]     → SKIP: no MX for islandhousehoa.com
+[05:00:17][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[05:00:17][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[05:00:18][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[05:00:18][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[05:00:18][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[05:00:19][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[05:00:19][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[05:00:19][SEG2]     → SKIP: no MX for thelucieattradition.com
+[05:00:20][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[05:00:20][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[05:00:20][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[05:00:20][SEG2]     → SKIP: no MX for legendspointe.com
+[05:00:20][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[05:00:20][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[05:00:21][SEG2]   [21/30] Naples Most Trusted Property Management  → guardianpropertymanagement.net
+[05:00:21][SEG2]     → info@guardianpropertymanagement.net (SMTP verified at guardianpropertymanagement.net)
+[05:00:21][SEG2]   [22/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[05:00:21][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[05:00:22][SEG2]   [23/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[05:00:23][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[05:00:24][SEG2]   [24/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[05:00:24][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[05:00:25][SEG2]   [25/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[05:00:25][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[05:00:25][SEG2]   [26/30] PMI Austin: Austin Property Management → pmiaustin.net
+[05:00:25][SEG2]     → info@pmiaustin.net (SMTP verified at pmiaustin.net)
+[05:00:26][SEG2]   [27/30] Nashville Property Management | TCS Mana → tcsmgt.com
+[05:00:26][SEG2]     → info@tcsmgt.com (SMTP verified at tcsmgt.com)
+[05:00:26][SEG2]   [28/30] Top Property Managers in Nashville, Tenn → propertymanagement.com
+[05:00:27][SEG2]     → info@propertymanagement.com (SMTP verified at propertymanagement.com)
+[05:00:27][SEG2]   [29/30] Charlotte Property Management: PM Servic → charlottepm.com
+[05:00:27][SEG2]     → SKIP: no MX for charlottepm.com
+[05:00:27][SEG2]   [30/30] The Jupiter Grill → thejupitergrill.com
+[05:00:28][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[05:00:28][SEG2] Wrote 8 guessed emails (4 SMTP verified)
+[05:00:28][SEG2] SEGMENT 2 COMPLETE: 8 guessed, 4 verified
+[05:00:28][SEG2] ============================================================
+[05:15:11][SEG2] ============================================================
+[05:15:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[05:15:11][SEG2] ============================================================
+[05:15:11][SEG2] Loaded 2665 leads
+[05:15:11][SEG2] Leads in segment 2: 468
+[05:15:11][SEG2] Processing batch of 30
+[05:15:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[05:15:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[05:15:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[05:15:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[05:15:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[05:15:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[05:15:12][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[05:15:12][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[05:15:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[05:15:13][SEG2]     → SKIP: no MX for health.usnews.com
+[05:15:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[05:15:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:15:13][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[05:15:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:15:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[05:15:14][SEG2]     → SKIP: no MX for ourparents.com
+[05:15:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[05:15:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[05:15:14][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[05:15:14][SEG2]     → SKIP: no MX for jupitercove.net
+[05:15:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[05:15:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[05:15:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[05:15:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[05:15:15][SEG2]   [13/30] About Us → islandhousehoa.com
+[05:15:15][SEG2]     → SKIP: no MX for islandhousehoa.com
+[05:15:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[05:15:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[05:15:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[05:15:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[05:15:16][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[05:15:17][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[05:15:17][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[05:15:17][SEG2]     → SKIP: no MX for thelucieattradition.com
+[05:15:18][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[05:15:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[05:15:18][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[05:15:18][SEG2]     → SKIP: no MX for legendspointe.com
+[05:15:19][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[05:15:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[05:15:19][SEG2]   [21/30] Naples Most Trusted Property Management  → guardianpropertymanagement.net
+[05:15:19][SEG2]     → info@guardianpropertymanagement.net (SMTP verified at guardianpropertymanagement.net)
+[05:15:19][SEG2]   [22/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[05:15:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[05:15:20][SEG2]   [23/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[05:15:21][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[05:15:21][SEG2]   [24/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[05:15:22][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[05:15:22][SEG2]   [25/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[05:15:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[05:15:23][SEG2]   [26/30] PMI Austin: Austin Property Management → pmiaustin.net
+[05:15:23][SEG2]     → info@pmiaustin.net (SMTP verified at pmiaustin.net)
+[05:15:23][SEG2]   [27/30] Charlotte Property Management: PM Servic → charlottepm.com
+[05:15:23][SEG2]     → SKIP: no MX for charlottepm.com
+[05:15:24][SEG2]   [28/30] The Jupiter Grill → thejupitergrill.com
+[05:15:25][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[05:15:26][SEG2]   [29/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[05:15:26][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[05:15:26][SEG2]   [30/30] Jensen Beach Realty → jensenbeachrealty.com
+[05:15:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[05:15:26][SEG2] Wrote 6 guessed emails (2 SMTP verified)
+[05:15:26][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 2 verified
+[05:15:26][SEG2] ============================================================
+[05:30:12][SEG2] ============================================================
+[05:30:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[05:30:12][SEG2] ============================================================
+[05:30:12][SEG2] Loaded 2665 leads
+[05:30:12][SEG2] Leads in segment 2: 447
+[05:30:12][SEG2] Processing batch of 30
+[05:30:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[05:30:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[05:30:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[05:30:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[05:30:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[05:30:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[05:30:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[05:30:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[05:30:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[05:30:13][SEG2]     → SKIP: no MX for health.usnews.com
+[05:30:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[05:30:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:30:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[05:30:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:30:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[05:30:14][SEG2]     → SKIP: no MX for ourparents.com
+[05:30:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[05:30:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[05:30:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[05:30:15][SEG2]     → SKIP: no MX for jupitercove.net
+[05:30:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[05:30:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[05:30:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[05:30:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[05:30:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[05:30:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[05:30:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[05:30:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[05:30:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[05:30:17][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[05:30:17][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[05:30:18][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[05:30:18][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[05:30:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[05:30:18][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[05:30:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[05:30:19][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[05:30:19][SEG2]     → SKIP: no MX for legendspointe.com
+[05:30:19][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[05:30:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[05:30:19][SEG2]   [21/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[05:30:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[05:30:20][SEG2]   [22/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[05:30:21][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[05:30:22][SEG2]   [23/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[05:30:22][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[05:30:23][SEG2]   [24/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[05:30:23][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[05:30:23][SEG2]   [25/30] PMI Austin: Austin Property Management → pmiaustin.net
+[05:30:23][SEG2]     → info@pmiaustin.net (SMTP verified at pmiaustin.net)
+[05:30:23][SEG2]   [26/30] Charlotte Property Management: PM Servic → charlottepm.com
+[05:30:24][SEG2]     → SKIP: no MX for charlottepm.com
+[05:30:24][SEG2]   [27/30] The Jupiter Grill → thejupitergrill.com
+[05:30:25][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[05:30:26][SEG2]   [28/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[05:30:26][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[05:30:26][SEG2]   [29/30] Jensen Beach Realty → jensenbeachrealty.com
+[05:30:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[05:30:26][SEG2]   [30/30] Home Property Management → homepropertymanagement.com
+[05:30:27][SEG2]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[05:30:27][SEG2] Wrote 6 guessed emails (2 SMTP verified)
+[05:30:27][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 2 verified
+[05:30:27][SEG2] ============================================================
+[05:45:11][SEG2] ============================================================
+[05:45:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[05:45:11][SEG2] ============================================================
+[05:45:11][SEG2] Loaded 2665 leads
+[05:45:11][SEG2] Leads in segment 2: 424
+[05:45:11][SEG2] Processing batch of 30
+[05:45:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[05:45:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[05:45:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[05:45:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[05:45:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[05:45:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[05:45:12][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[05:45:12][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[05:45:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[05:45:13][SEG2]     → SKIP: no MX for health.usnews.com
+[05:45:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[05:45:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:45:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[05:45:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[05:45:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[05:45:14][SEG2]     → SKIP: no MX for ourparents.com
+[05:45:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[05:45:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[05:45:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[05:45:15][SEG2]     → SKIP: no MX for jupitercove.net
+[05:45:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[05:45:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[05:45:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[05:45:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[05:45:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[05:45:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[05:45:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[05:45:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[05:45:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[05:45:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[05:45:17][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[05:45:17][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[05:45:18][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[05:45:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[05:45:18][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[05:45:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[05:45:18][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[05:45:18][SEG2]     → SKIP: no MX for legendspointe.com
+[05:45:19][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[05:45:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[05:45:19][SEG2]   [21/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[05:45:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[05:45:19][SEG2]   [22/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[05:45:20][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[05:45:20][SEG2]   [23/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[05:45:21][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[05:45:21][SEG2]   [24/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[05:45:21][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[05:45:22][SEG2]   [25/30] PMI Austin: Austin Property Management → pmiaustin.net
+[05:45:22][SEG2]     → info@pmiaustin.net (SMTP verified at pmiaustin.net)
+[05:45:22][SEG2]   [26/30] Charlotte Property Management: PM Servic → charlottepm.com
+[05:45:22][SEG2]     → SKIP: no MX for charlottepm.com
+[05:45:23][SEG2]   [27/30] The Jupiter Grill → thejupitergrill.com
+[05:45:24][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[05:45:24][SEG2]   [28/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[05:45:24][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[05:45:25][SEG2]   [29/30] Jensen Beach Realty → jensenbeachrealty.com
+[05:45:25][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[05:45:25][SEG2]   [30/30] NAPA Auto Parts Stuart FL → napaonline.com
+[05:45:26][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[05:45:27][SEG2] Wrote 6 guessed emails (1 SMTP verified)
+[05:45:27][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 1 verified
+[05:45:27][SEG2] ============================================================
+[06:00:12][SEG2] ============================================================
+[06:00:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[06:00:12][SEG2] ============================================================
+[06:00:12][SEG2] Loaded 2665 leads
+[06:00:12][SEG2] Leads in segment 2: 399
+[06:00:12][SEG2] Processing batch of 30
+[06:00:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[06:00:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[06:00:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[06:00:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[06:00:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[06:00:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[06:00:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[06:00:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[06:00:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[06:00:13][SEG2]     → SKIP: no MX for health.usnews.com
+[06:00:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[06:00:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:00:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[06:00:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:00:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[06:00:14][SEG2]     → SKIP: no MX for ourparents.com
+[06:00:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[06:00:15][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[06:00:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[06:00:15][SEG2]     → SKIP: no MX for jupitercove.net
+[06:00:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[06:00:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[06:00:16][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[06:00:16][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[06:00:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[06:00:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[06:00:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[06:00:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[06:00:17][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[06:00:17][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[06:00:17][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[06:00:18][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[06:00:18][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[06:00:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[06:00:19][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[06:00:19][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[06:00:19][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[06:00:19][SEG2]     → SKIP: no MX for legendspointe.com
+[06:00:19][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[06:00:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[06:00:20][SEG2]   [21/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[06:00:20][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[06:00:20][SEG2]   [22/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[06:00:21][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[06:00:21][SEG2]   [23/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[06:00:22][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[06:00:22][SEG2]   [24/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[06:00:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[06:00:23][SEG2]   [25/30] PMI Austin: Austin Property Management → pmiaustin.net
+[06:00:23][SEG2]     → info@pmiaustin.net (SMTP verified at pmiaustin.net)
+[06:00:23][SEG2]   [26/30] Charlotte Property Management: PM Servic → charlottepm.com
+[06:00:23][SEG2]     → SKIP: no MX for charlottepm.com
+[06:00:24][SEG2]   [27/30] The Jupiter Grill → thejupitergrill.com
+[06:00:25][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[06:00:25][SEG2]   [28/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[06:00:25][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[06:00:26][SEG2]   [29/30] Jensen Beach Realty → jensenbeachrealty.com
+[06:00:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[06:00:26][SEG2]   [30/30] NAPA Auto Parts Stuart FL → napaonline.com
+[06:00:28][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[06:00:28][SEG2] Wrote 6 guessed emails (1 SMTP verified)
+[06:00:28][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 1 verified
+[06:00:28][SEG2] ============================================================
+[06:15:11][SEG2] ============================================================
+[06:15:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[06:15:11][SEG2] ============================================================
+[06:15:11][SEG2] Loaded 2665 leads
+[06:15:11][SEG2] Leads in segment 2: 383
+[06:15:11][SEG2] Processing batch of 30
+[06:15:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[06:15:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[06:15:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[06:15:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[06:15:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[06:15:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[06:15:12][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[06:15:12][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[06:15:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[06:15:13][SEG2]     → SKIP: no MX for health.usnews.com
+[06:15:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[06:15:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:15:13][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[06:15:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:15:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[06:15:14][SEG2]     → SKIP: no MX for ourparents.com
+[06:15:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[06:15:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[06:15:14][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[06:15:15][SEG2]     → SKIP: no MX for jupitercove.net
+[06:15:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[06:15:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[06:15:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[06:15:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[06:15:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[06:15:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[06:15:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[06:15:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[06:15:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[06:15:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[06:15:17][SEG2]   [16/30] Stuart Pointe Apartments → stuartpointe.com
+[06:15:17][SEG2]     → info@stuartpointe.com (generic guess (stuartpointe.com))
+[06:15:18][SEG2]   [17/30] Lucie at Tradition → thelucieattradition.com
+[06:15:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[06:15:18][SEG2]   [18/30] 10X Port St Lucie → 10xportstlucie.com
+[06:15:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[06:15:18][SEG2]   [19/30] Legends Pointe → legendspointe.com
+[06:15:19][SEG2]     → SKIP: no MX for legendspointe.com
+[06:15:19][SEG2]   [20/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[06:15:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[06:15:19][SEG2]   [21/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[06:15:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[06:15:20][SEG2]   [22/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[06:15:21][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[06:15:21][SEG2]   [23/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[06:15:22][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[06:15:22][SEG2]   [24/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[06:15:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[06:15:22][SEG2]   [25/30] PMI Austin: Austin Property Management → pmiaustin.net
+[06:15:24][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[06:15:24][SEG2]   [26/30] Charlotte Property Management: PM Servic → charlottepm.com
+[06:15:24][SEG2]     → SKIP: no MX for charlottepm.com
+[06:15:25][SEG2]   [27/30] The Jupiter Grill → thejupitergrill.com
+[06:15:26][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[06:15:26][SEG2]   [28/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[06:15:26][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[06:15:27][SEG2]   [29/30] Jensen Beach Realty → jensenbeachrealty.com
+[06:15:27][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[06:15:27][SEG2]   [30/30] NAPA Auto Parts Stuart FL → napaonline.com
+[06:15:28][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[06:15:29][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[06:15:29][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[06:15:29][SEG2] ============================================================
+[06:30:12][SEG2] ============================================================
+[06:30:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[06:30:12][SEG2] ============================================================
+[06:30:12][SEG2] Loaded 2665 leads
+[06:30:12][SEG2] Leads in segment 2: 364
+[06:30:12][SEG2] Processing batch of 30
+[06:30:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[06:30:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[06:30:13][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[06:30:13][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[06:30:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[06:30:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[06:30:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[06:30:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[06:30:14][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[06:30:14][SEG2]     → SKIP: no MX for health.usnews.com
+[06:30:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[06:30:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:30:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[06:30:15][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:30:15][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[06:30:15][SEG2]     → SKIP: no MX for ourparents.com
+[06:30:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[06:30:15][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[06:30:16][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[06:30:16][SEG2]     → SKIP: no MX for jupitercove.net
+[06:30:16][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[06:30:16][SEG2]     → SKIP: no MX for swfconstruction.com
+[06:30:16][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[06:30:16][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[06:30:17][SEG2]   [13/30] About Us → islandhousehoa.com
+[06:30:17][SEG2]     → SKIP: no MX for islandhousehoa.com
+[06:30:17][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[06:30:17][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[06:30:17][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[06:30:17][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[06:30:18][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[06:30:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[06:30:18][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[06:30:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[06:30:18][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[06:30:18][SEG2]     → SKIP: no MX for legendspointe.com
+[06:30:19][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[06:30:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[06:30:19][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[06:30:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[06:30:19][SEG2]   [21/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[06:30:21][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[06:30:21][SEG2]   [22/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[06:30:22][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[06:30:22][SEG2]   [23/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[06:30:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[06:30:23][SEG2]   [24/30] PMI Austin: Austin Property Management → pmiaustin.net
+[06:30:24][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[06:30:24][SEG2]   [25/30] Charlotte Property Management: PM Servic → charlottepm.com
+[06:30:24][SEG2]     → SKIP: no MX for charlottepm.com
+[06:30:24][SEG2]   [26/30] The Jupiter Grill → thejupitergrill.com
+[06:30:25][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[06:30:26][SEG2]   [27/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[06:30:26][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[06:30:26][SEG2]   [28/30] Jensen Beach Realty → jensenbeachrealty.com
+[06:30:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[06:30:26][SEG2]   [29/30] NAPA Auto Parts Stuart FL → napaonline.com
+[06:30:28][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[06:30:28][SEG2]   [30/30] A/C Care Heat & Air → accareheatair.com
+[06:30:29][SEG2]     → info@accareheatair.com (generic guess (accareheatair.com))
+[06:30:29][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[06:30:29][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[06:30:29][SEG2] ============================================================
+[06:45:11][SEG2] ============================================================
+[06:45:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[06:45:11][SEG2] ============================================================
+[06:45:11][SEG2] Loaded 2665 leads
+[06:45:11][SEG2] Leads in segment 2: 350
+[06:45:11][SEG2] Processing batch of 30
+[06:45:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[06:45:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[06:45:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[06:45:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[06:45:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[06:45:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[06:45:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[06:45:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[06:45:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[06:45:13][SEG2]     → SKIP: no MX for health.usnews.com
+[06:45:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[06:45:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:45:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[06:45:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[06:45:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[06:45:14][SEG2]     → SKIP: no MX for ourparents.com
+[06:45:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[06:45:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[06:45:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[06:45:15][SEG2]     → SKIP: no MX for jupitercove.net
+[06:45:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[06:45:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[06:45:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[06:45:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[06:45:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[06:45:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[06:45:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[06:45:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[06:45:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[06:45:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[06:45:17][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[06:45:17][SEG2]     → SKIP: no MX for thelucieattradition.com
+[06:45:17][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[06:45:17][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[06:45:17][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[06:45:18][SEG2]     → SKIP: no MX for legendspointe.com
+[06:45:18][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[06:45:18][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[06:45:18][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[06:45:18][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[06:45:19][SEG2]   [21/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[06:45:20][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[06:45:21][SEG2]   [22/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[06:45:21][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[06:45:22][SEG2]   [23/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[06:45:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[06:45:22][SEG2]   [24/30] PMI Austin: Austin Property Management → pmiaustin.net
+[06:45:23][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[06:45:23][SEG2]   [25/30] Charlotte Property Management: PM Servic → charlottepm.com
+[06:45:23][SEG2]     → SKIP: no MX for charlottepm.com
+[06:45:24][SEG2]   [26/30] The Jupiter Grill → thejupitergrill.com
+[06:45:25][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[06:45:25][SEG2]   [27/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[06:45:25][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[06:45:26][SEG2]   [28/30] Jensen Beach Realty → jensenbeachrealty.com
+[06:45:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[06:45:26][SEG2]   [29/30] NAPA Auto Parts Stuart FL → napaonline.com
+[06:45:27][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[06:45:28][SEG2]   [30/30] A/C Care Heat & Air → accareheatair.com
+[06:45:29][SEG2]     → info@accareheatair.com (generic guess (accareheatair.com))
+[06:45:29][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[06:45:29][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[06:45:29][SEG2] ============================================================
+[07:00:12][SEG2] ============================================================
+[07:00:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[07:00:12][SEG2] ============================================================
+[07:00:12][SEG2] Loaded 2665 leads
+[07:00:12][SEG2] Leads in segment 2: 338
+[07:00:12][SEG2] Processing batch of 30
+[07:00:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[07:00:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[07:00:13][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[07:00:13][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[07:00:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[07:00:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[07:00:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[07:00:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[07:00:14][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[07:00:14][SEG2]     → SKIP: no MX for health.usnews.com
+[07:00:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[07:00:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:00:15][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[07:00:15][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:00:15][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[07:00:15][SEG2]     → SKIP: no MX for ourparents.com
+[07:00:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[07:00:15][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[07:00:16][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[07:00:16][SEG2]     → SKIP: no MX for jupitercove.net
+[07:00:16][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[07:00:16][SEG2]     → SKIP: no MX for swfconstruction.com
+[07:00:16][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[07:00:16][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[07:00:17][SEG2]   [13/30] About Us → islandhousehoa.com
+[07:00:17][SEG2]     → SKIP: no MX for islandhousehoa.com
+[07:00:17][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[07:00:17][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[07:00:18][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[07:00:18][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[07:00:18][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[07:00:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[07:00:18][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[07:00:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[07:00:19][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[07:00:19][SEG2]     → SKIP: no MX for legendspointe.com
+[07:00:19][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[07:00:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[07:00:19][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[07:00:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[07:00:20][SEG2]   [21/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[07:00:21][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[07:00:21][SEG2]   [22/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[07:00:22][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[07:00:22][SEG2]   [23/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[07:00:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[07:00:23][SEG2]   [24/30] PMI Austin: Austin Property Management → pmiaustin.net
+[07:00:23][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[07:00:24][SEG2]   [25/30] Charlotte Property Management: PM Servic → charlottepm.com
+[07:00:24][SEG2]     → SKIP: no MX for charlottepm.com
+[07:00:24][SEG2]   [26/30] The Jupiter Grill → thejupitergrill.com
+[07:00:26][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[07:00:26][SEG2]   [27/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[07:00:26][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[07:00:26][SEG2]   [28/30] Jensen Beach Realty → jensenbeachrealty.com
+[07:00:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[07:00:27][SEG2]   [29/30] NAPA Auto Parts Stuart FL → napaonline.com
+[07:00:28][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[07:00:28][SEG2]   [30/30] A/C Care Heat & Air → accareheatair.com
+[07:00:30][SEG2]     → info@accareheatair.com (generic guess (accareheatair.com))
+[07:00:30][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[07:00:30][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[07:00:30][SEG2] ============================================================
+[07:15:11][SEG2] ============================================================
+[07:15:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[07:15:11][SEG2] ============================================================
+[07:15:11][SEG2] Loaded 2665 leads
+[07:15:11][SEG2] Leads in segment 2: 325
+[07:15:11][SEG2] Processing batch of 30
+[07:15:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[07:15:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[07:15:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[07:15:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[07:15:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[07:15:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[07:15:12][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[07:15:12][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[07:15:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[07:15:13][SEG2]     → SKIP: no MX for health.usnews.com
+[07:15:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[07:15:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:15:13][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[07:15:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:15:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[07:15:14][SEG2]     → SKIP: no MX for ourparents.com
+[07:15:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[07:15:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[07:15:14][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[07:15:14][SEG2]     → SKIP: no MX for jupitercove.net
+[07:15:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[07:15:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[07:15:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[07:15:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[07:15:15][SEG2]   [13/30] About Us → islandhousehoa.com
+[07:15:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[07:15:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[07:15:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[07:15:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[07:15:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[07:15:17][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[07:15:17][SEG2]     → SKIP: no MX for thelucieattradition.com
+[07:15:17][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[07:15:17][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[07:15:17][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[07:15:17][SEG2]     → SKIP: no MX for legendspointe.com
+[07:15:18][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[07:15:18][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[07:15:18][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[07:15:18][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[07:15:18][SEG2]   [21/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[07:15:20][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[07:15:20][SEG2]   [22/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[07:15:21][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[07:15:21][SEG2]   [23/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[07:15:21][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[07:15:21][SEG2]   [24/30] PMI Austin: Austin Property Management → pmiaustin.net
+[07:15:22][SEG2]     → info@pmiaustin.net (SMTP verified at pmiaustin.net)
+[07:15:22][SEG2]   [25/30] Charlotte Property Management: PM Servic → charlottepm.com
+[07:15:22][SEG2]     → SKIP: no MX for charlottepm.com
+[07:15:22][SEG2]   [26/30] The Jupiter Grill → thejupitergrill.com
+[07:15:23][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[07:15:23][SEG2]   [27/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[07:15:23][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[07:15:24][SEG2]   [28/30] Jensen Beach Realty → jensenbeachrealty.com
+[07:15:24][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[07:15:24][SEG2]   [29/30] NAPA Auto Parts Stuart FL → napaonline.com
+[07:15:25][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[07:15:26][SEG2]   [30/30] A/C Care Heat & Air → accareheatair.com
+[07:15:26][SEG2]     → info@accareheatair.com (generic guess (accareheatair.com))
+[07:15:27][SEG2] Wrote 6 guessed emails (1 SMTP verified)
+[07:15:27][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 1 verified
+[07:15:27][SEG2] ============================================================
+[07:30:12][SEG2] ============================================================
+[07:30:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[07:30:12][SEG2] ============================================================
+[07:30:12][SEG2] Loaded 2665 leads
+[07:30:12][SEG2] Leads in segment 2: 309
+[07:30:12][SEG2] Processing batch of 30
+[07:30:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[07:30:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[07:30:13][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[07:30:13][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[07:30:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[07:30:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[07:30:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[07:30:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[07:30:14][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[07:30:14][SEG2]     → SKIP: no MX for health.usnews.com
+[07:30:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[07:30:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:30:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[07:30:15][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:30:15][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[07:30:15][SEG2]     → SKIP: no MX for ourparents.com
+[07:30:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[07:30:15][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[07:30:16][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[07:30:16][SEG2]     → SKIP: no MX for jupitercove.net
+[07:30:16][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[07:30:16][SEG2]     → SKIP: no MX for swfconstruction.com
+[07:30:16][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[07:30:16][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[07:30:17][SEG2]   [13/30] About Us → islandhousehoa.com
+[07:30:17][SEG2]     → SKIP: no MX for islandhousehoa.com
+[07:30:17][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[07:30:17][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[07:30:17][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[07:30:17][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[07:30:18][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[07:30:18][SEG2]     → SKIP: no MX for thelucieattradition.com
+[07:30:18][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[07:30:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[07:30:18][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[07:30:18][SEG2]     → SKIP: no MX for legendspointe.com
+[07:30:19][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[07:30:19][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[07:30:19][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[07:30:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[07:30:19][SEG2]   [21/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[07:30:20][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[07:30:21][SEG2]   [22/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[07:30:21][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[07:30:22][SEG2]   [23/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[07:30:22][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[07:30:22][SEG2]   [24/30] PMI Austin: Austin Property Management → pmiaustin.net
+[07:30:23][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[07:30:24][SEG2]   [25/30] Charlotte Property Management: PM Servic → charlottepm.com
+[07:30:24][SEG2]     → SKIP: no MX for charlottepm.com
+[07:30:24][SEG2]   [26/30] The Jupiter Grill → thejupitergrill.com
+[07:30:25][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[07:30:26][SEG2]   [27/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[07:30:26][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[07:30:26][SEG2]   [28/30] Jensen Beach Realty → jensenbeachrealty.com
+[07:30:26][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[07:30:26][SEG2]   [29/30] NAPA Auto Parts Stuart FL → napaonline.com
+[07:30:28][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[07:30:28][SEG2]   [30/30] A/C Care Heat & Air → accareheatair.com
+[07:30:29][SEG2]     → info@accareheatair.com (generic guess (accareheatair.com))
+[07:30:29][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[07:30:29][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[07:30:29][SEG2] ============================================================
+[07:45:11][SEG2] ============================================================
+[07:45:11][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[07:45:11][SEG2] ============================================================
+[07:45:11][SEG2] Loaded 2665 leads
+[07:45:11][SEG2] Leads in segment 2: 296
+[07:45:11][SEG2] Processing batch of 30
+[07:45:11][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[07:45:11][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[07:45:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[07:45:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[07:45:12][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[07:45:12][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[07:45:12][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[07:45:12][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[07:45:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[07:45:13][SEG2]     → SKIP: no MX for health.usnews.com
+[07:45:13][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[07:45:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:45:13][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[07:45:13][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[07:45:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[07:45:14][SEG2]     → SKIP: no MX for ourparents.com
+[07:45:14][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[07:45:14][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[07:45:14][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[07:45:14][SEG2]     → SKIP: no MX for jupitercove.net
+[07:45:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[07:45:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[07:45:15][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[07:45:15][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[07:45:15][SEG2]   [13/30] About Us → islandhousehoa.com
+[07:45:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[07:45:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[07:45:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[07:45:16][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[07:45:16][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[07:45:17][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[07:45:17][SEG2]     → SKIP: no MX for thelucieattradition.com
+[07:45:17][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[07:45:17][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[07:45:17][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[07:45:17][SEG2]     → SKIP: no MX for legendspointe.com
+[07:45:18][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[07:45:18][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[07:45:18][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[07:45:18][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[07:45:18][SEG2]   [21/30] Boca Raton Association Management, HOA,  → vestapropertyservices.com
+[07:45:19][SEG2]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[07:45:20][SEG2]   [22/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[07:45:20][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[07:45:21][SEG2]   [23/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[07:45:21][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[07:45:21][SEG2]   [24/30] PMI Austin: Austin Property Management → pmiaustin.net
+[07:45:22][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[07:45:23][SEG2]   [25/30] Charlotte Property Management: PM Servic → charlottepm.com
+[07:45:23][SEG2]     → SKIP: no MX for charlottepm.com
+[07:45:23][SEG2]   [26/30] The Jupiter Grill → thejupitergrill.com
+[07:45:24][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[07:45:24][SEG2]   [27/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[07:45:24][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[07:45:24][SEG2]   [28/30] Jensen Beach Realty → jensenbeachrealty.com
+[07:45:25][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[07:45:25][SEG2]   [29/30] NAPA Auto Parts Stuart FL → napaonline.com
+[07:45:26][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[07:45:26][SEG2]   [30/30] A/C Care Heat & Air → accareheatair.com
+[07:45:28][SEG2]     → info@accareheatair.com (generic guess (accareheatair.com))
+[07:45:28][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[07:45:28][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[07:45:28][SEG2] ============================================================
+[08:00:12][SEG2] ============================================================
+[08:00:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[08:00:12][SEG2] ============================================================
+[08:00:12][SEG2] Loaded 2665 leads
+[08:00:12][SEG2] Leads in segment 2: 279
+[08:00:12][SEG2] Processing batch of 30
+[08:00:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[08:00:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[08:00:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[08:00:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[08:00:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[08:00:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[08:00:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[08:00:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[08:00:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[08:00:13][SEG2]     → SKIP: no MX for health.usnews.com
+[08:00:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[08:00:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[08:00:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[08:00:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[08:00:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[08:00:14][SEG2]     → SKIP: no MX for ourparents.com
+[08:00:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[08:00:15][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[08:00:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[08:00:15][SEG2]     → SKIP: no MX for jupitercove.net
+[08:00:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[08:00:15][SEG2]     → SKIP: no MX for swfconstruction.com
+[08:00:16][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[08:00:16][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[08:00:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[08:00:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[08:00:16][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[08:00:16][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[08:00:17][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[08:00:17][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[08:00:17][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[08:00:17][SEG2]     → SKIP: no MX for thelucieattradition.com
+[08:00:17][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[08:00:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[08:00:18][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[08:00:18][SEG2]     → SKIP: no MX for legendspointe.com
+[08:00:18][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[08:00:18][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[08:00:19][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[08:00:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[08:00:19][SEG2]   [21/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[08:00:20][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[08:00:20][SEG2]   [22/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[08:00:20][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[08:00:20][SEG2]   [23/30] PMI Austin: Austin Property Management → pmiaustin.net
+[08:00:21][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[08:00:22][SEG2]   [24/30] Charlotte Property Management: PM Servic → charlottepm.com
+[08:00:22][SEG2]     → SKIP: no MX for charlottepm.com
+[08:00:22][SEG2]   [25/30] The Jupiter Grill → thejupitergrill.com
+[08:00:23][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[08:00:24][SEG2]   [26/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[08:00:24][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[08:00:24][SEG2]   [27/30] Jensen Beach Realty → jensenbeachrealty.com
+[08:00:24][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[08:00:24][SEG2]   [28/30] NAPA Auto Parts Stuart FL → napaonline.com
+[08:00:26][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[08:00:26][SEG2]   [29/30] A/C Doctors at the Treasure Coast → acdoctorsinc.com
+[08:00:26][SEG2]     → info@acdoctorsinc.com (generic guess (acdoctorsinc.com))
+[08:00:27][SEG2]   [30/30] Down To Earth Landscape & Irrigation → dtelandscape.com
+[08:00:28][SEG2]     → info@dtelandscape.com (generic guess (dtelandscape.com))
+[08:00:28][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[08:00:28][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[08:00:28][SEG2] ============================================================
+[08:15:12][SEG2] ============================================================
+[08:15:12][SEG2] APOLLO PARALLEL — Segment 2/3 | Batch: 30
+[08:15:12][SEG2] ============================================================
+[08:15:12][SEG2] Loaded 2665 leads
+[08:15:12][SEG2] Leads in segment 2: 259
+[08:15:12][SEG2] Processing batch of 30
+[08:15:12][SEG2]   [1/30] Quest Property Management Services for Y → questrealestatesolutions.com
+[08:15:12][SEG2]     → SKIP: no MX for questrealestatesolutions.com
+[08:15:12][SEG2]   [2/30] Tru Mobile Detailing → trumobiledetailing.com
+[08:15:12][SEG2]     → SKIP: no MX for trumobiledetailing.com
+[08:15:13][SEG2]   [3/30] Lion Heartz Detailing: Mobile Auto Detai → lionheartzdetail.com
+[08:15:13][SEG2]     → SKIP: no MX for lionheartzdetail.com
+[08:15:13][SEG2]   [4/30] Top 5 Renovation Contractors in Palm Bea → westpalmbeachrenovations.com
+[08:15:13][SEG2]     → SKIP: no MX for westpalmbeachrenovations.com
+[08:15:13][SEG2]   [5/30] 3 Best Assisted Living Communities in Fo → health.usnews.com
+[08:15:13][SEG2]     → SKIP: no MX for health.usnews.com
+[08:15:14][SEG2]   [6/30] Transitional Kitchens Gallery → dreammaker-remodel.com
+[08:15:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[08:15:14][SEG2]   [7/30] Stuart Kitchen Contractors → dreammaker-remodel.com
+[08:15:14][SEG2]     → SKIP: no MX for dreammaker-remodel.com
+[08:15:14][SEG2]   [8/30] Senior Living Facilities in Fort Pierce, → ourparents.com
+[08:15:15][SEG2]     → SKIP: no MX for ourparents.com
+[08:15:15][SEG2]   [9/30] Jupiter Bay Condominium Association → jupiterbaycondoassoc.com
+[08:15:15][SEG2]     → SKIP: no MX for jupiterbaycondoassoc.com
+[08:15:15][SEG2]   [10/30] Jupiter Cove → jupitercove.net
+[08:15:15][SEG2]     → SKIP: no MX for jupitercove.net
+[08:15:15][SEG2]   [11/30] Remodeling Contractor → swfconstruction.com
+[08:15:16][SEG2]     → SKIP: no MX for swfconstruction.com
+[08:15:16][SEG2]   [12/30] Epoxy Garage Floor Coating Services in B → jdlsurfaceinnovations.com
+[08:15:16][SEG2]     → SKIP: no MX for jdlsurfaceinnovations.com
+[08:15:16][SEG2]   [13/30] About Us → islandhousehoa.com
+[08:15:16][SEG2]     → SKIP: no MX for islandhousehoa.com
+[08:15:17][SEG2]   [14/30] Concrete Contractor → unitedsurfacetechnologygroupinc.com
+[08:15:17][SEG2]     → SKIP: no MX for unitedsurfacetechnologygroupinc.com
+[08:15:17][SEG2]   [15/30] Molino's Ristorante → molinosrestaurant.com
+[08:15:17][SEG2]     → SKIP: no MX for molinosrestaurant.com
+[08:15:17][SEG2]   [16/30] Lucie at Tradition → thelucieattradition.com
+[08:15:17][SEG2]     → SKIP: no MX for thelucieattradition.com
+[08:15:18][SEG2]   [17/30] 10X Port St Lucie → 10xportstlucie.com
+[08:15:18][SEG2]     → SKIP: no MX for 10xportstlucie.com
+[08:15:18][SEG2]   [18/30] Legends Pointe → legendspointe.com
+[08:15:18][SEG2]     → SKIP: no MX for legendspointe.com
+[08:15:18][SEG2]   [19/30] Mercedes-Benz of Naples → mercedesbenzofnaples.com
+[08:15:18][SEG2]     → SKIP: no MX for mercedesbenzofnaples.com
+[08:15:19][SEG2]   [20/30] AutoNation Cadillac West Palm Beach → autonationcadillacwestpalmbeach.com
+[08:15:19][SEG2]     → SKIP: no MX for autonationcadillacwestpalmbeach.com
+[08:15:19][SEG2]   [21/30] Property Management in Boca Raton → campbellpropertymanagement.com
+[08:15:20][SEG2]     → info@campbellpropertymanagement.com (generic guess (campbellpropertymanagement.com))
+[08:15:20][SEG2]   [22/30] Austin Property Management Company | Pri → austinpropertymanagement.com
+[08:15:20][SEG2]     → SKIP: no MX for austinpropertymanagement.com
+[08:15:21][SEG2]   [23/30] PMI Austin: Austin Property Management → pmiaustin.net
+[08:15:22][SEG2]     → info@pmiaustin.net (generic guess (pmiaustin.net))
+[08:15:22][SEG2]   [24/30] Charlotte Property Management: PM Servic → charlottepm.com
+[08:15:22][SEG2]     → SKIP: no MX for charlottepm.com
+[08:15:22][SEG2]   [25/30] The Jupiter Grill → thejupitergrill.com
+[08:15:23][SEG2]     → info@thejupitergrill.com (generic guess (thejupitergrill.com))
+[08:15:24][SEG2]   [26/30] The Cooper Craft Kitchen & Bar → thecooperrestaurant.com
+[08:15:24][SEG2]     → SKIP: no MX for thecooperrestaurant.com
+[08:15:24][SEG2]   [27/30] Jensen Beach Realty → jensenbeachrealty.com
+[08:15:24][SEG2]     → SKIP: no MX for jensenbeachrealty.com
+[08:15:24][SEG2]   [28/30] NAPA Auto Parts Stuart FL → napaonline.com
+[08:15:26][SEG2]     → info@napaonline.com (generic guess (napaonline.com))
+[08:15:26][SEG2]   [29/30] A/C Doctors at the Treasure Coast → acdoctorsinc.com
+[08:15:27][SEG2]     → info@acdoctorsinc.com (generic guess (acdoctorsinc.com))
+[08:15:27][SEG2]   [30/30] Down To Earth Landscape & Irrigation → dtelandscape.com
+[08:15:28][SEG2]     → info@dtelandscape.com (generic guess (dtelandscape.com))
+[08:15:28][SEG2] Wrote 6 guessed emails (0 SMTP verified)
+[08:15:28][SEG2] SEGMENT 2 COMPLETE: 6 guessed, 0 verified
+[08:15:28][SEG2] ============================================================

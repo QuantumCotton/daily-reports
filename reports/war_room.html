@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Elite Service Hub - War Room</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #0f172a; color: #e2e8f0; }
+        .glass { background: rgba(30, 41, 59, 0.8); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; }
+        .message { padding: 1rem; margin: 0.5rem 0; border-radius: 8px; }
+        .user-message { background: rgba(59, 130, 246, 0.3); border-left: 4px solid #3b82f6; }
+        .advisor-message { background: rgba(30, 41, 59, 0.9); border-left: 4px solid #10b981; }
+        .advisor-name { font-weight: bold; color: #10b981; }
+        h1 { color: #60a5fa; }
+        .critical { color: #ef4444; }
+        .warning { color: #f97316; }
+        .success { color: #22c55e; }
+    </style>
+</head>
+<body>
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <div class="glass mb-8 p-6">
+            <h1 class="text-3xl font-bold mb-2">🧠 War Room - Live Advisor Strategy</h1>
+            <p class="text-gray-400">Real advisors. Real conversations. No bullshit.</p>
+            <div class="mt-4 flex gap-4">
+                <span class="inline-block px-3 py-1 bg-red-600 rounded-full text-white text-sm">Musk (CEO)</span>
+                <span class="inline-block px-3 py-1 bg-blue-600 rounded-full text-white text-sm">Thiel (CMO)</span>
+                <span class="inline-block px-3 py-1 bg-green-600 rounded-full text-white text-sm">Carmack (CTO)</span>
+                <span class="inline-block px-3 py-1 bg-purple-600 rounded-full text-white text-sm">Jensen (CRO)</span>
+            </div>
+        </div>
+
+        <!-- Chat Interface -->
+        <div class="glass mb-8 p-6">
+            <h2 class="text-xl font-bold mb-4">💬 Conversation</h2>
+            <div id="conversation" class="max-h-96 overflow-y-auto mb-4">
+                <div class="text-gray-400 text-center py-8">No messages yet. Ask a question below.</div>
+            </div>
+
+            <!-- Input -->
+            <div class="flex gap-4">
+                <input 
+                    type="text" 
+                    id="question" 
+                    placeholder="Ask advisors a question..."
+                    class="flex-1 px-4 py-2 bg-slate-700 text-white rounded-lg border border-slate-600 focus:border-blue-500 focus:outline-none"
+                >
+                <button 
+                    onclick="submitQuestion()"
+                    class="px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-bold transition"
+                >
+                    Submit to Team
+                </button>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="glass p-6">
+            <button 
+                onclick="clearConversation()"
+                class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg transition"
+            >
+                Clear Conversation
+            </button>
+            <button 
+                onclick="refreshConversation()"
+                class="px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg transition ml-2"
+            >
+                Refresh
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://107.172.20.181:8182/api/war_room';
+
+        async function submitQuestion() {
+            const question = document.getElementById('question').value;
+            if (!question.trim()) {
+                alert('Please enter a question');
+                return;
+            }
+
+            // Add user message immediately
+            addMessageToUI({
+                role: 'user',
+                name: 'Chris',
+                message: question,
+                timestamp: new Date().toISOString()
+            });
+
+            document.getElementById('question').value = '';
+
+            // Submit to server
+            try {
+                const response = await fetch(`${API_URL}/submit`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question })
+                });
+                
+                const data = await response.json();
+                
+                // Add advisor responses
+                data.advisor_responses.forEach(msg => {
+                    addMessageToUI(msg);
+                });
+            } catch (error) {
+                alert('Error: ' + error.message);
+            }
+        }
+
+        async function refreshConversation() {
+            try {
+                const response = await fetch(`${API_URL}/conversation`);
+                const data = await response.json();
+                
+                const conversationDiv = document.getElementById('conversation');
+                conversationDiv.innerHTML = '';
+                
+                if (data.messages.length === 0) {
+                    conversationDiv.innerHTML = '<div class="text-gray-400 text-center py-8">No messages yet. Ask a question below.</div>';
+                } else {
+                    data.messages.forEach(msg => addMessageToUI(msg));
+                }
+            } catch (error) {
+                alert('Error: ' + error.message);
+            }
+        }
+
+        async function clearConversation() {
+            if (!confirm('Clear all conversation history?')) return;
+            
+            try {
+                await fetch(`${API_URL}/clear`, { method: 'POST' });
+                document.getElementById('conversation').innerHTML = '<div class="text-gray-400 text-center py-8">No messages yet. Ask a question below.</div>';
+            } catch (error) {
+                alert('Error: ' + error.message);
+            }
+        }
+
+        function addMessageToUI(msg) {
+            const conversationDiv = document.getElementById('conversation');
+            const messageDiv = document.createElement('div');
+            
+            if (msg.role === 'user') {
+                messageDiv.className = 'message user-message';
+                messageDiv.innerHTML = `
+                    <div class="font-bold text-blue-400">Chris (You):</div>
+                    <div>${msg.message}</div>
+                    <div class="text-xs text-gray-400 mt-1">${new Date(msg.timestamp).toLocaleTimeString()}</div>
+                `;
+            } else {
+                const colors = {
+                    'Musk': 'bg-red-600',
+                    'Thiel': 'bg-blue-600',
+                    'Carmack': 'bg-green-600',
+                    'Jensen': 'bg-purple-600'
+                };
+                
+                messageDiv.className = 'message advisor-message';
+                messageDiv.innerHTML = `
+                    <div class="flex items-center gap-2">
+                        <span class="inline-block px-2 py-1 ${colors[msg.name] || 'bg-gray-600'} rounded text-white text-xs">${msg.name}</span>
+                        <span class="text-xs text-gray-400">${new Date(msg.timestamp).toLocaleTimeString()}</span>
+                    </div>
+                    <div class="mt-2">${msg.message}</div>
+                `;
+            }
+            
+            conversationDiv.appendChild(messageDiv);
+            conversationDiv.scrollTop = conversationDiv.scrollHeight;
+        }
+
+        // Load conversation on page load
+        refreshConversation();
+
+        // Handle Enter key
+        document.getElementById('question').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') submitQuestion();
+        });
+    </script>
+</body>
+</html>

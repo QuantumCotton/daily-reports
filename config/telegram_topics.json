@@ -1,0 +1,146 @@
+{
+  "channel_id": null,
+  "bot_token": null,
+  "topics": {
+    "daily_brief": {
+      "topic_id": "daily-brief",
+      "name": "📋 Daily Brief",
+      "description": "Daily summaries, briefings, and overviews",
+      "content_type": "daily_brief",
+      "icon": "📋",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "crm": {
+      "topic_id": "crm",
+      "name": "👥 CRM",
+      "description": "Customer relationship management, leads, contacts",
+      "content_type": "crm",
+      "icon": "👥",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "email": {
+      "topic_id": "email",
+      "name": "📧 Email",
+      "description": "Email notifications, campaigns, and updates",
+      "content_type": "email",
+      "icon": "📧",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "knowledge_base": {
+      "topic_id": "knowledge-base",
+      "name": "📚 Knowledge Base",
+      "description": "Documentation, wikis, and reference material",
+      "content_type": "knowledge_base",
+      "icon": "📚",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "meta_analysis": {
+      "topic_id": "meta-analysis",
+      "name": "🔍 Meta Analysis",
+      "description": "Analytics, insights, and strategic analysis",
+      "content_type": "meta_analysis",
+      "icon": "🔍",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "video_ideas": {
+      "topic_id": "video-ideas",
+      "name": "🎬 Video Ideas",
+      "description": "Video concepts, scripts, and content ideas",
+      "content_type": "video_ideas",
+      "icon": "🎬",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "earnings": {
+      "topic_id": "earnings",
+      "name": "💰 Earnings",
+      "description": "Revenue reports, earnings data, and financial performance",
+      "content_type": "earnings",
+      "icon": "💰",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "cron_updates": {
+      "topic_id": "cron-updates",
+      "name": "⏰ Cron Updates",
+      "description": "Cron job status - FAILURES ONLY",
+      "content_type": "cron_updates",
+      "icon": "⏰",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "financials": {
+      "topic_id": "financials",
+      "name": "🔐 Financials",
+      "description": "Financial data - LOCKED DOWN",
+      "content_type": "financials",
+      "icon": "🔐",
+      "is_locked": true,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": true
+    },
+    "health": {
+      "topic_id": "health",
+      "name": "💚 Health",
+      "description": "Health tracking, wellness metrics, and medical info",
+      "content_type": "health",
+      "icon": "💚",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "tasks": {
+      "topic_id": "tasks",
+      "name": "✅ Tasks",
+      "description": "Task management, todo items, and action items",
+      "content_type": "tasks",
+      "icon": "✅",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "calendar": {
+      "topic_id": "calendar",
+      "name": "📅 Calendar",
+      "description": "Calendar events, schedules, and reminders",
+      "content_type": "calendar",
+      "icon": "📅",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "alerts": {
+      "topic_id": "alerts",
+      "name": "🚨 Alerts",
+      "description": "System alerts, notifications, and urgent messages",
+      "content_type": "alerts",
+      "icon": "🚨",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    },
+    "notes": {
+      "topic_id": "notes",
+      "name": "📝 Notes",
+      "description": "General notes, thoughts, and miscellaneous",
+      "content_type": "notes",
+      "icon": "📝",
+      "is_locked": false,
+      "created_at": "2026-02-17T20:15:00Z",
+      "requires_approval": false
+    }
+  }
+}

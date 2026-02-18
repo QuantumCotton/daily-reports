@@ -1,0 +1,122 @@
+{
+  "empire-hq": {
+    "name": "\ud83c\udff0 Empire HQ",
+    "description": "Main strategy and empire coordination",
+    "purpose": "Overall business strategy, revenue tracking, major decisions",
+    "priority": "CRITICAL"
+  },
+  "contractor-recruitment": {
+    "name": "\ud83d\udc77 Contractor Recruitment",
+    "description": "Daily contractor outreach and onboarding",
+    "purpose": "Email campaigns, contractor follow-ups, recruitment pipeline",
+    "priority": "HIGH"
+  },
+  "elite-mail-dev": {
+    "name": "\ud83d\udce7 Elite Mail Development",
+    "description": "Email platform development and optimization",
+    "purpose": "Email infrastructure, reputation management, platform updates",
+    "priority": "HIGH"
+  },
+  "elite-services-dev": {
+    "name": "\ud83e\udd16 Elite Services Development",
+    "description": "Chatbot and automated services development",
+    "purpose": "Chatbot development, service automation, bot deployment",
+    "priority": "HIGH"
+  },
+  "revenue-tracking": {
+    "name": "\ud83d\udcb0 Revenue Tracking",
+    "description": "Financial metrics and revenue optimization",
+    "purpose": "Revenue tracking, commission payments, financial analysis",
+    "priority": "CRITICAL"
+  },
+  "technical-ops": {
+    "name": "\u2699\ufe0f Technical Operations",
+    "description": "System operations and infrastructure management",
+    "purpose": "Server management, system health, technical issues",
+    "priority": "HIGH"
+  },
+  "daily-scrum": {
+    "name": "\u2600\ufe0f Daily Scrum",
+    "description": "Daily standup and task coordination",
+    "purpose": "Daily check-ins, task assignments, progress updates",
+    "priority": "MEDIUM"
+  },
+  "project-status": {
+    "name": "\ud83d\udcca Project Status",
+    "description": "Real-time project progress and metrics",
+    "purpose": "Project milestones, completion tracking, status reports",
+    "priority": "MEDIUM"
+  },
+  "bug-reports": {
+    "name": "\ud83d\udc1b Bug Reports & Issues",
+    "description": "System issues and bug tracking",
+    "purpose": "Bug tracking, issue resolution, system fixes",
+    "priority": "MEDIUM"
+  },
+  "feature-requests": {
+    "name": "\ud83d\udca1 Feature Requests",
+    "description": "New feature ideas and enhancements",
+    "purpose": "Feature planning, enhancement ideas, innovation",
+    "priority": "LOW"
+  },
+  "quality-assurance": {
+    "name": "\u2705 Quality Assurance",
+    "description": "Testing and quality control",
+    "purpose": "Testing protocols, quality standards, QA processes",
+    "priority": "MEDIUM"
+  },
+  "deployment-tracking": {
+    "name": "\ud83d\ude80 Deployment Tracking",
+    "description": "System deployments and releases",
+    "purpose": "Deployment coordination, release management, version control",
+    "priority": "MEDIUM"
+  },
+  "market-research": {
+    "name": "\ud83d\udd0d Market Research",
+    "description": "Competitive analysis and market intelligence",
+    "purpose": "Competitor research, market trends, opportunity analysis",
+    "priority": "LOW"
+  },
+  "lead-generation": {
+    "name": "\ud83c\udfaf Lead Generation",
+    "description": "Lead sourcing and prospecting activities",
+    "purpose": "Lead generation, prospect research, lead quality",
+    "priority": "HIGH"
+  },
+  "customer-feedback": {
+    "name": "\ud83d\udce2 Customer Feedback",
+    "description": "Contractor and customer insights",
+    "purpose": "Customer satisfaction, feedback analysis, service improvements",
+    "priority": "MEDIUM"
+  },
+  "industry-trends": {
+    "name": "\ud83d\udcc8 Industry Trends",
+    "description": "Industry analysis and trend tracking",
+    "purpose": "Industry monitoring, trend analysis, future planning",
+    "priority": "LOW"
+  },
+  "email-specialists": {
+    "name": "\ud83d\udce7 Email Specialist Team",
+    "description": "Email marketing and deliverability experts",
+    "purpose": "Email strategy, deliverability, campaign optimization",
+    "priority": "MEDIUM"
+  },
+  "chatbot-developers": {
+    "name": "\ud83e\udd16 Chatbot Developer Team",
+    "description": "AI and chatbot development specialists",
+    "purpose": "Bot development, AI training, conversation optimization",
+    "priority": "MEDIUM"
+  },
+  "contractor-relations": {
+    "name": "\ud83e\udd1d Contractor Relations Team",
+    "description": "Contractor support and relationship management",
+    "purpose": "Contractor support, relationship building, satisfaction",
+    "priority": "HIGH"
+  },
+  "data-analytics": {
+    "name": "\ud83d\udcca Data Analytics Team",
+    "description": "Data analysis and business intelligence",
+    "purpose": "Data analysis, business insights, reporting optimization",
+    "priority": "MEDIUM"
+  }
+}

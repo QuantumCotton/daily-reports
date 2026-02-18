@@ -1,0 +1,1065 @@
+[04:30:01][SEG0] ============================================================
+[04:30:01][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[04:30:01][SEG0] ============================================================
+[04:30:01][SEG0] Loaded 785 leads
+[04:30:01][SEG0] Leads in segment 0: 11
+[04:30:01][SEG0] Processing batch of 11
+[04:30:01][SEG0]   [1/11] Circle Bay Yacht Club → circlebay.org
+[04:30:02][SEG0]     → SKIP: no MX for circlebay.org
+[04:30:02][SEG0]   [2/11] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[04:30:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[04:30:02][SEG0]   [3/11] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[04:30:02][SEG0]     → SKIP: no MX for brennityverobeach.com
+[04:30:03][SEG0]   [4/11] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[04:30:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[04:30:03][SEG0]   [5/11] 4 Best Assisted Living Communities in Je → health.usnews.com
+[04:30:03][SEG0]     → SKIP: no MX for health.usnews.com
+[04:30:03][SEG0]   [6/11] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[04:30:03][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[04:30:04][SEG0]   [7/11] Gutter Installation Tampa → gutterinstallationtampa.com
+[04:30:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[04:30:04][SEG0]   [8/11] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[04:30:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[04:30:04][SEG0]   [9/11] The Brennity at Tradition Senior Living → brennitytradition.com
+[04:30:04][SEG0]     → SKIP: no MX for brennitytradition.com
+[04:30:05][SEG0]   [10/11] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[04:30:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[04:30:05][SEG0]   [11/11] global-fleet → search.sunbiz.org
+[04:30:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[04:30:06][SEG0] SEGMENT 0 COMPLETE: 0 guessed, 0 verified
+[04:30:06][SEG0] ============================================================
+[04:45:01][SEG0] ============================================================
+[04:45:01][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[04:45:01][SEG0] ============================================================
+[04:45:01][SEG0] Loaded 1020 leads
+[04:45:01][SEG0] Leads in segment 0: 55
+[04:45:01][SEG0] Processing batch of 30
+[04:45:01][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[04:45:01][SEG0]     → SKIP: no MX for circlebay.org
+[04:45:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[04:45:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[04:45:02][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[04:45:02][SEG0]     → SKIP: no MX for brennityverobeach.com
+[04:45:02][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[04:45:02][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[04:45:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[04:45:03][SEG0]     → SKIP: no MX for health.usnews.com
+[04:45:03][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[04:45:03][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[04:45:03][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[04:45:03][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[04:45:04][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[04:45:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[04:45:04][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[04:45:04][SEG0]     → SKIP: no MX for brennitytradition.com
+[04:45:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[04:45:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[04:45:05][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[04:45:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[04:45:05][SEG0]   [12/30] AxisOne Stuart → axisoneapts.com
+[04:45:06][SEG0]     → info@axisoneapts.com (generic guess (axisoneapts.com))
+[04:45:06][SEG0]   [13/30] Grove Park Apartments → mygrovepark.com
+[04:45:07][SEG0]     → info@mygrovepark.com (generic guess (mygrovepark.com))
+[04:45:08][SEG0]   [14/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[04:45:08][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[04:45:08][SEG0]   [15/30] Mason Veranda Apartments → masonveranda.com
+[04:45:08][SEG0]     → SKIP: no MX for masonveranda.com
+[04:45:08][SEG0]   [16/30] Naples Luxury Imports → naplesluxuryimports.com
+[04:45:11][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[04:45:11][SEG0]   [17/30] Audi Naples → audinaples.com
+[04:45:14][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[04:45:14][SEG0]   [18/30] Naples Property Management, HOA, Condomi → vestapropertyservices.com
+[04:45:15][SEG0]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[04:45:16][SEG0]   [19/30] Boca Raton property management → fsresidential.com
+[04:45:17][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[04:45:18][SEG0]   [20/30] Scottsdale Property Management → goldenwestmanagement.com
+[04:45:18][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[04:45:19][SEG0]   [21/30] Nashville Property Management and Proper → browning-gordon.com
+[04:45:20][SEG0]     → info@browning-gordon.com (generic guess (browning-gordon.com))
+[04:45:20][SEG0]   [22/30] Boca Raton Property Management - #1 Sout → properties.rent
+[04:45:21][SEG0]     → info@properties.rent (SMTP verified at properties.rent)
+[04:45:21][SEG0]   [23/30] Sarasota Property Management → choosegulfcoast.com
+[04:45:22][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[04:45:22][SEG0]   [24/30] Jupiter Property Management → homepropertymanagement.com
+[04:45:22][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[04:45:23][SEG0]   [25/30] Coastal Property Management – Stuart & J → cpmfl.com
+[04:45:24][SEG0]     → info@cpmfl.com (generic guess (cpmfl.com))
+[04:45:24][SEG0]   [26/30] Scottsdale Property Management → goldenwestmanagement.com
+[04:45:26][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[04:45:26][SEG0]   [27/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[04:45:26][SEG0]     → info@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[04:45:27][SEG0]   [28/30] The 20 Best Property Management Companie → austinmonthly.com
+[04:45:28][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[04:45:29][SEG0]   [29/30] Nashville Property Management and Proper → browning-gordon.com
+[04:45:30][SEG0]     → info@browning-gordon.com (generic guess (browning-gordon.com))
+[04:45:30][SEG0]   [30/30] Brookside Properties, Inc. | Nashville,  → brooksideproperties.com
+[04:45:33][SEG0]     → info@brooksideproperties.com (generic guess (brooksideproperties.com))
+[04:45:33][SEG0] Wrote 17 guessed emails (3 SMTP verified)
+[04:45:33][SEG0] SEGMENT 0 COMPLETE: 17 guessed, 3 verified
+[04:45:33][SEG0] ============================================================
+[05:00:03][SEG0] ============================================================
+[05:00:03][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[05:00:03][SEG0] ============================================================
+[05:00:04][SEG0] Loaded 1253 leads
+[05:00:04][SEG0] Leads in segment 0: 76
+[05:00:04][SEG0] Processing batch of 30
+[05:00:04][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[05:00:04][SEG0]     → SKIP: no MX for circlebay.org
+[05:00:04][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[05:00:04][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[05:00:05][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[05:00:05][SEG0]     → SKIP: no MX for brennityverobeach.com
+[05:00:05][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[05:00:05][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[05:00:06][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[05:00:06][SEG0]     → SKIP: no MX for health.usnews.com
+[05:00:06][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[05:00:06][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[05:00:06][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[05:00:07][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[05:00:07][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[05:00:07][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[05:00:07][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[05:00:07][SEG0]     → SKIP: no MX for brennitytradition.com
+[05:00:08][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[05:00:08][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[05:00:08][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[05:00:08][SEG0]     → SKIP: no MX for search.sunbiz.org
+[05:00:08][SEG0]   [12/30] Grove Park Apartments → mygrovepark.com
+[05:00:09][SEG0]     → info@mygrovepark.com (generic guess (mygrovepark.com))
+[05:00:10][SEG0]   [13/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[05:00:10][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[05:00:10][SEG0]   [14/30] Mason Veranda Apartments → masonveranda.com
+[05:00:10][SEG0]     → SKIP: no MX for masonveranda.com
+[05:00:10][SEG0]   [15/30] Naples Luxury Imports → naplesluxuryimports.com
+[05:00:13][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[05:00:13][SEG0]   [16/30] Audi Naples → audinaples.com
+[05:00:16][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[05:00:16][SEG0]   [17/30] Naples Property Management, HOA, Condomi → vestapropertyservices.com
+[05:00:18][SEG0]     → info@vestapropertyservices.com (generic guess (vestapropertyservices.com))
+[05:00:18][SEG0]   [18/30] Boca Raton property management → fsresidential.com
+[05:00:20][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:00:20][SEG0]   [19/30] Scottsdale Property Management → goldenwestmanagement.com
+[05:00:21][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[05:00:21][SEG0]   [20/30] Sarasota Property Management → choosegulfcoast.com
+[05:00:22][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[05:00:22][SEG0]   [21/30] Jupiter Property Management → homepropertymanagement.com
+[05:00:23][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[05:00:23][SEG0]   [22/30] Coastal Property Management – Stuart & J → cpmfl.com
+[05:00:24][SEG0]     → info@cpmfl.com (generic guess (cpmfl.com))
+[05:00:24][SEG0]   [23/30] Scottsdale Property Management → goldenwestmanagement.com
+[05:00:25][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[05:00:25][SEG0]   [24/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[05:00:26][SEG0]     → info@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[05:00:26][SEG0]   [25/30] The 20 Best Property Management Companie → austinmonthly.com
+[05:00:27][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[05:00:28][SEG0]   [26/30] Charlotte Property Management | Curo Pro → curoprop.com
+[05:00:29][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[05:00:29][SEG0]   [27/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[05:00:30][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[05:00:30][SEG0]   [28/30] Spritz City Bistro → spritzcitybistro.com
+[05:00:31][SEG0]     → info@spritzcitybistro.com (generic guess (spritzcitybistro.com))
+[05:00:31][SEG0]   [29/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[05:00:31][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[05:00:32][SEG0]   [30/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[05:00:33][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[05:00:34][SEG0] Wrote 15 guessed emails (2 SMTP verified)
+[05:00:34][SEG0] SEGMENT 0 COMPLETE: 15 guessed, 2 verified
+[05:00:34][SEG0] ============================================================
+[05:15:01][SEG0] ============================================================
+[05:15:01][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[05:15:01][SEG0] ============================================================
+[05:15:01][SEG0] Loaded 2665 leads
+[05:15:01][SEG0] Leads in segment 0: 469
+[05:15:01][SEG0] Processing batch of 30
+[05:15:01][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[05:15:02][SEG0]     → SKIP: no MX for circlebay.org
+[05:15:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[05:15:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[05:15:02][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[05:15:02][SEG0]     → SKIP: no MX for brennityverobeach.com
+[05:15:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[05:15:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[05:15:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[05:15:03][SEG0]     → SKIP: no MX for health.usnews.com
+[05:15:03][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[05:15:03][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[05:15:04][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[05:15:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[05:15:04][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[05:15:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[05:15:04][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[05:15:04][SEG0]     → SKIP: no MX for brennitytradition.com
+[05:15:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[05:15:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[05:15:05][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[05:15:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[05:15:05][SEG0]   [12/30] Grove Park Apartments → mygrovepark.com
+[05:15:06][SEG0]     → info@mygrovepark.com (generic guess (mygrovepark.com))
+[05:15:07][SEG0]   [13/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[05:15:07][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[05:15:07][SEG0]   [14/30] Mason Veranda Apartments → masonveranda.com
+[05:15:07][SEG0]     → SKIP: no MX for masonveranda.com
+[05:15:07][SEG0]   [15/30] Naples Luxury Imports → naplesluxuryimports.com
+[05:15:10][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[05:15:10][SEG0]   [16/30] Audi Naples → audinaples.com
+[05:15:13][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[05:15:13][SEG0]   [17/30] Boca Raton property management → fsresidential.com
+[05:15:14][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:15:14][SEG0]   [18/30] Scottsdale Property Management → goldenwestmanagement.com
+[05:15:15][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[05:15:15][SEG0]   [19/30] Sarasota Property Management → choosegulfcoast.com
+[05:15:16][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[05:15:16][SEG0]   [20/30] Jupiter Property Management → homepropertymanagement.com
+[05:15:17][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[05:15:17][SEG0]   [21/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[05:15:17][SEG0]     → info@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[05:15:18][SEG0]   [22/30] The 20 Best Property Management Companie → austinmonthly.com
+[05:15:19][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[05:15:20][SEG0]   [23/30] Charlotte Property Management | Curo Pro → curoprop.com
+[05:15:21][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[05:15:21][SEG0]   [24/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[05:15:21][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[05:15:22][SEG0]   [25/30] Spritz City Bistro → spritzcitybistro.com
+[05:15:23][SEG0]     → info@spritzcitybistro.com (generic guess (spritzcitybistro.com))
+[05:15:23][SEG0]   [26/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[05:15:23][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[05:15:24][SEG0]   [27/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[05:15:25][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[05:15:25][SEG0]   [28/30] RE/MAX of Stuart → remax-stuart-fl.com
+[05:15:25][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[05:15:26][SEG0]   [29/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[05:15:27][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[05:15:28][SEG0]   [30/30] NAPA Port St Lucie FL #245 → napaonline.com
+[05:15:29][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[05:15:29][SEG0] Wrote 14 guessed emails (2 SMTP verified)
+[05:15:29][SEG0] SEGMENT 0 COMPLETE: 14 guessed, 2 verified
+[05:15:29][SEG0] ============================================================
+[05:30:03][SEG0] ============================================================
+[05:30:03][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[05:30:03][SEG0] ============================================================
+[05:30:03][SEG0] Loaded 2665 leads
+[05:30:04][SEG0] Leads in segment 0: 447
+[05:30:04][SEG0] Processing batch of 30
+[05:30:04][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[05:30:04][SEG0]     → SKIP: no MX for circlebay.org
+[05:30:04][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[05:30:04][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[05:30:05][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[05:30:05][SEG0]     → SKIP: no MX for brennityverobeach.com
+[05:30:05][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[05:30:05][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[05:30:06][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[05:30:06][SEG0]     → SKIP: no MX for health.usnews.com
+[05:30:06][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[05:30:06][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[05:30:06][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[05:30:07][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[05:30:07][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[05:30:07][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[05:30:07][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[05:30:07][SEG0]     → SKIP: no MX for brennitytradition.com
+[05:30:08][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[05:30:08][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[05:30:08][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[05:30:08][SEG0]     → SKIP: no MX for search.sunbiz.org
+[05:30:08][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[05:30:08][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[05:30:09][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[05:30:09][SEG0]     → SKIP: no MX for masonveranda.com
+[05:30:09][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[05:30:12][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[05:30:12][SEG0]   [15/30] Audi Naples → audinaples.com
+[05:30:15][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[05:30:15][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[05:30:16][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:30:16][SEG0]   [17/30] Scottsdale Property Management → goldenwestmanagement.com
+[05:30:18][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[05:30:18][SEG0]   [18/30] Sarasota Property Management → choosegulfcoast.com
+[05:30:18][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[05:30:19][SEG0]   [19/30] Jupiter Property Management → homepropertymanagement.com
+[05:30:19][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[05:30:19][SEG0]   [20/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[05:30:20][SEG0]     → info@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[05:30:20][SEG0]   [21/30] The 20 Best Property Management Companie → austinmonthly.com
+[05:30:20][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[05:30:21][SEG0]   [22/30] Charlotte Property Management | Curo Pro → curoprop.com
+[05:30:22][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[05:30:23][SEG0]   [23/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[05:30:23][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[05:30:23][SEG0]   [24/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[05:30:23][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[05:30:23][SEG0]   [25/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[05:30:24][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[05:30:24][SEG0]   [26/30] RE/MAX of Stuart → remax-stuart-fl.com
+[05:30:24][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[05:30:25][SEG0]   [27/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[05:30:25][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[05:30:25][SEG0]   [28/30] NAPA Port St Lucie FL #245 → napaonline.com
+[05:30:26][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[05:30:27][SEG0]   [29/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[05:30:28][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[05:30:28][SEG0]   [30/30] Ebens Air Conditioning & Plumbing → ebens.com
+[05:30:29][SEG0]     → info@ebens.com (generic guess (ebens.com))
+[05:30:29][SEG0] Wrote 14 guessed emails (2 SMTP verified)
+[05:30:29][SEG0] SEGMENT 0 COMPLETE: 14 guessed, 2 verified
+[05:30:29][SEG0] ============================================================
+[05:45:02][SEG0] ============================================================
+[05:45:02][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[05:45:02][SEG0] ============================================================
+[05:45:02][SEG0] Loaded 2665 leads
+[05:45:02][SEG0] Leads in segment 0: 428
+[05:45:02][SEG0] Processing batch of 30
+[05:45:02][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[05:45:02][SEG0]     → SKIP: no MX for circlebay.org
+[05:45:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[05:45:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[05:45:02][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[05:45:03][SEG0]     → SKIP: no MX for brennityverobeach.com
+[05:45:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[05:45:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[05:45:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[05:45:03][SEG0]     → SKIP: no MX for health.usnews.com
+[05:45:04][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[05:45:04][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[05:45:04][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[05:45:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[05:45:04][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[05:45:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[05:45:05][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[05:45:05][SEG0]     → SKIP: no MX for brennitytradition.com
+[05:45:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[05:45:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[05:45:05][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[05:45:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[05:45:06][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[05:45:06][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[05:45:06][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[05:45:06][SEG0]     → SKIP: no MX for masonveranda.com
+[05:45:06][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[05:45:09][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[05:45:09][SEG0]   [15/30] Audi Naples → audinaples.com
+[05:45:12][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[05:45:12][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[05:45:13][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[05:45:13][SEG0]   [17/30] Scottsdale Property Management → goldenwestmanagement.com
+[05:45:14][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[05:45:15][SEG0]   [18/30] Sarasota Property Management → choosegulfcoast.com
+[05:45:16][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[05:45:16][SEG0]   [19/30] Jupiter Property Management → homepropertymanagement.com
+[05:45:16][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[05:45:16][SEG0]   [20/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[05:45:18][SEG0]     → sales@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[05:45:18][SEG0]   [21/30] The 20 Best Property Management Companie → austinmonthly.com
+[05:45:19][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[05:45:19][SEG0]   [22/30] Charlotte Property Management | Curo Pro → curoprop.com
+[05:45:20][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[05:45:21][SEG0]   [23/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[05:45:21][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[05:45:21][SEG0]   [24/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[05:45:21][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[05:45:21][SEG0]   [25/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[05:45:22][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[05:45:22][SEG0]   [26/30] RE/MAX of Stuart → remax-stuart-fl.com
+[05:45:23][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[05:45:23][SEG0]   [27/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[05:45:23][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[05:45:24][SEG0]   [28/30] NAPA Port St Lucie FL #245 → napaonline.com
+[05:45:25][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[05:45:25][SEG0]   [29/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[05:45:27][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[05:45:27][SEG0]   [30/30] Ebens Air Conditioning & Plumbing → ebens.com
+[05:45:29][SEG0]     → info@ebens.com (generic guess (ebens.com))
+[05:45:29][SEG0] Wrote 14 guessed emails (2 SMTP verified)
+[05:45:29][SEG0] SEGMENT 0 COMPLETE: 14 guessed, 2 verified
+[05:45:29][SEG0] ============================================================
+[06:00:03][SEG0] ============================================================
+[06:00:03][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[06:00:03][SEG0] ============================================================
+[06:00:03][SEG0] Loaded 2665 leads
+[06:00:03][SEG0] Leads in segment 0: 403
+[06:00:03][SEG0] Processing batch of 30
+[06:00:03][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[06:00:03][SEG0]     → SKIP: no MX for circlebay.org
+[06:00:04][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[06:00:04][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[06:00:04][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[06:00:04][SEG0]     → SKIP: no MX for brennityverobeach.com
+[06:00:04][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[06:00:04][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[06:00:05][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[06:00:05][SEG0]     → SKIP: no MX for health.usnews.com
+[06:00:05][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[06:00:05][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[06:00:06][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[06:00:06][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[06:00:06][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[06:00:06][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[06:00:06][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[06:00:06][SEG0]     → SKIP: no MX for brennitytradition.com
+[06:00:07][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[06:00:07][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[06:00:07][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[06:00:07][SEG0]     → SKIP: no MX for search.sunbiz.org
+[06:00:07][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[06:00:07][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[06:00:08][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[06:00:08][SEG0]     → SKIP: no MX for masonveranda.com
+[06:00:08][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[06:00:11][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[06:00:12][SEG0]   [15/30] Audi Naples → audinaples.com
+[06:00:14][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[06:00:15][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[06:00:16][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[06:00:16][SEG0]   [17/30] Scottsdale Property Management → goldenwestmanagement.com
+[06:00:17][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[06:00:17][SEG0]   [18/30] Sarasota Property Management → choosegulfcoast.com
+[06:00:18][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[06:00:18][SEG0]   [19/30] Jupiter Property Management → homepropertymanagement.com
+[06:00:19][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[06:00:19][SEG0]   [20/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[06:00:19][SEG0]     → info@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[06:00:20][SEG0]   [21/30] The 20 Best Property Management Companie → austinmonthly.com
+[06:00:21][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[06:00:21][SEG0]   [22/30] Charlotte Property Management | Curo Pro → curoprop.com
+[06:00:23][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[06:00:23][SEG0]   [23/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[06:00:23][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[06:00:23][SEG0]   [24/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[06:00:23][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[06:00:24][SEG0]   [25/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[06:00:26][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[06:00:26][SEG0]   [26/30] RE/MAX of Stuart → remax-stuart-fl.com
+[06:00:26][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[06:00:26][SEG0]   [27/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[06:00:28][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[06:00:28][SEG0]   [28/30] NAPA Port St Lucie FL #245 → napaonline.com
+[06:00:29][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[06:00:29][SEG0]   [29/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[06:00:30][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[06:00:30][SEG0]   [30/30] Ebens Air Conditioning & Plumbing → ebens.com
+[06:00:31][SEG0]     → info@ebens.com (generic guess (ebens.com))
+[06:00:32][SEG0] Wrote 14 guessed emails (2 SMTP verified)
+[06:00:32][SEG0] SEGMENT 0 COMPLETE: 14 guessed, 2 verified
+[06:00:32][SEG0] ============================================================
+[06:15:02][SEG0] ============================================================
+[06:15:02][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[06:15:02][SEG0] ============================================================
+[06:15:02][SEG0] Loaded 2665 leads
+[06:15:02][SEG0] Leads in segment 0: 381
+[06:15:02][SEG0] Processing batch of 30
+[06:15:02][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[06:15:02][SEG0]     → SKIP: no MX for circlebay.org
+[06:15:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[06:15:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[06:15:02][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[06:15:03][SEG0]     → SKIP: no MX for brennityverobeach.com
+[06:15:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[06:15:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[06:15:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[06:15:03][SEG0]     → SKIP: no MX for health.usnews.com
+[06:15:04][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[06:15:04][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[06:15:04][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[06:15:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[06:15:04][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[06:15:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[06:15:05][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[06:15:05][SEG0]     → SKIP: no MX for brennitytradition.com
+[06:15:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[06:15:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[06:15:05][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[06:15:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[06:15:06][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[06:15:06][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[06:15:06][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[06:15:06][SEG0]     → SKIP: no MX for masonveranda.com
+[06:15:06][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[06:15:09][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[06:15:10][SEG0]   [15/30] Audi Naples → audinaples.com
+[06:15:12][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[06:15:12][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[06:15:14][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[06:15:14][SEG0]   [17/30] Scottsdale Property Management → goldenwestmanagement.com
+[06:15:16][SEG0]     → info@goldenwestmanagement.com (generic guess (goldenwestmanagement.com))
+[06:15:16][SEG0]   [18/30] Sarasota Property Management → choosegulfcoast.com
+[06:15:17][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[06:15:17][SEG0]   [19/30] Jupiter Property Management → homepropertymanagement.com
+[06:15:18][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[06:15:18][SEG0]   [20/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[06:15:19][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[06:15:20][SEG0]   [21/30] The 20 Best Property Management Companie → austinmonthly.com
+[06:15:21][SEG0]     → info@austinmonthly.com (generic guess (austinmonthly.com))
+[06:15:21][SEG0]   [22/30] Charlotte Property Management | Curo Pro → curoprop.com
+[06:15:23][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[06:15:23][SEG0]   [23/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[06:15:23][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[06:15:23][SEG0]   [24/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[06:15:24][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[06:15:24][SEG0]   [25/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[06:15:25][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[06:15:25][SEG0]   [26/30] RE/MAX of Stuart → remax-stuart-fl.com
+[06:15:25][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[06:15:25][SEG0]   [27/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[06:15:26][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[06:15:26][SEG0]   [28/30] NAPA Port St Lucie FL #245 → napaonline.com
+[06:15:27][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[06:15:28][SEG0]   [29/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[06:15:29][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[06:15:30][SEG0]   [30/30] Ebens Air Conditioning & Plumbing → ebens.com
+[06:15:31][SEG0]     → info@ebens.com (generic guess (ebens.com))
+[06:15:31][SEG0] Wrote 14 guessed emails (1 SMTP verified)
+[06:15:31][SEG0] SEGMENT 0 COMPLETE: 14 guessed, 1 verified
+[06:15:31][SEG0] ============================================================
+[06:30:03][SEG0] ============================================================
+[06:30:03][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[06:30:03][SEG0] ============================================================
+[06:30:03][SEG0] Loaded 2665 leads
+[06:30:04][SEG0] Leads in segment 0: 359
+[06:30:04][SEG0] Processing batch of 30
+[06:30:04][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[06:30:04][SEG0]     → SKIP: no MX for circlebay.org
+[06:30:04][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[06:30:04][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[06:30:05][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[06:30:05][SEG0]     → SKIP: no MX for brennityverobeach.com
+[06:30:05][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[06:30:05][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[06:30:06][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[06:30:06][SEG0]     → SKIP: no MX for health.usnews.com
+[06:30:06][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[06:30:06][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[06:30:06][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[06:30:06][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[06:30:07][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[06:30:07][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[06:30:07][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[06:30:07][SEG0]     → SKIP: no MX for brennitytradition.com
+[06:30:08][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[06:30:08][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[06:30:08][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[06:30:08][SEG0]     → SKIP: no MX for search.sunbiz.org
+[06:30:08][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[06:30:08][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[06:30:09][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[06:30:09][SEG0]     → SKIP: no MX for masonveranda.com
+[06:30:09][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[06:30:12][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[06:30:12][SEG0]   [15/30] Audi Naples → audinaples.com
+[06:30:15][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[06:30:15][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[06:30:15][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[06:30:16][SEG0]   [17/30] Sarasota Property Management → choosegulfcoast.com
+[06:30:16][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[06:30:17][SEG0]   [18/30] Jupiter Property Management → homepropertymanagement.com
+[06:30:17][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[06:30:18][SEG0]   [19/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[06:30:19][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[06:30:19][SEG0]   [20/30] Charlotte Property Management | Curo Pro → curoprop.com
+[06:30:21][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[06:30:21][SEG0]   [21/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[06:30:21][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[06:30:21][SEG0]   [22/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[06:30:22][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[06:30:22][SEG0]   [23/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[06:30:23][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[06:30:23][SEG0]   [24/30] RE/MAX of Stuart → remax-stuart-fl.com
+[06:30:23][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[06:30:23][SEG0]   [25/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[06:30:24][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[06:30:25][SEG0]   [26/30] NAPA Port St Lucie FL #245 → napaonline.com
+[06:30:26][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[06:30:26][SEG0]   [27/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[06:30:27][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[06:30:28][SEG0]   [28/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[06:30:28][SEG0]     → SKIP: no MX for snyderscooling.com
+[06:30:28][SEG0]   [29/30] Local Lawn Service FL → locallawnservicefl.com
+[06:30:28][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[06:30:29][SEG0]   [30/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[06:30:30][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[06:30:30][SEG0] Wrote 12 guessed emails (1 SMTP verified)
+[06:30:30][SEG0] SEGMENT 0 COMPLETE: 12 guessed, 1 verified
+[06:30:30][SEG0] ============================================================
+[06:45:02][SEG0] ============================================================
+[06:45:02][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[06:45:02][SEG0] ============================================================
+[06:45:02][SEG0] Loaded 2665 leads
+[06:45:02][SEG0] Leads in segment 0: 339
+[06:45:02][SEG0] Processing batch of 30
+[06:45:02][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[06:45:02][SEG0]     → SKIP: no MX for circlebay.org
+[06:45:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[06:45:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[06:45:03][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[06:45:03][SEG0]     → SKIP: no MX for brennityverobeach.com
+[06:45:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[06:45:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[06:45:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[06:45:04][SEG0]     → SKIP: no MX for health.usnews.com
+[06:45:04][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[06:45:04][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[06:45:04][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[06:45:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[06:45:05][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[06:45:05][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[06:45:05][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[06:45:05][SEG0]     → SKIP: no MX for brennitytradition.com
+[06:45:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[06:45:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[06:45:06][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[06:45:06][SEG0]     → SKIP: no MX for search.sunbiz.org
+[06:45:06][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[06:45:06][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[06:45:06][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[06:45:06][SEG0]     → SKIP: no MX for masonveranda.com
+[06:45:07][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[06:45:09][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[06:45:10][SEG0]   [15/30] Audi Naples → audinaples.com
+[06:45:12][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[06:45:12][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[06:45:14][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[06:45:14][SEG0]   [17/30] Sarasota Property Management → choosegulfcoast.com
+[06:45:15][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[06:45:15][SEG0]   [18/30] Jupiter Property Management → homepropertymanagement.com
+[06:45:16][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[06:45:16][SEG0]   [19/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[06:45:18][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[06:45:18][SEG0]   [20/30] Charlotte Property Management | Curo Pro → curoprop.com
+[06:45:20][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[06:45:20][SEG0]   [21/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[06:45:20][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[06:45:20][SEG0]   [22/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[06:45:20][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[06:45:21][SEG0]   [23/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[06:45:22][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[06:45:22][SEG0]   [24/30] RE/MAX of Stuart → remax-stuart-fl.com
+[06:45:22][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[06:45:23][SEG0]   [25/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[06:45:24][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[06:45:24][SEG0]   [26/30] NAPA Port St Lucie FL #245 → napaonline.com
+[06:45:26][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[06:45:27][SEG0]   [27/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[06:45:28][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[06:45:28][SEG0]   [28/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[06:45:28][SEG0]     → SKIP: no MX for snyderscooling.com
+[06:45:28][SEG0]   [29/30] Local Lawn Service FL → locallawnservicefl.com
+[06:45:28][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[06:45:29][SEG0]   [30/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[06:45:30][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[06:45:30][SEG0] Wrote 12 guessed emails (1 SMTP verified)
+[06:45:30][SEG0] SEGMENT 0 COMPLETE: 12 guessed, 1 verified
+[06:45:30][SEG0] ============================================================
+[07:00:04][SEG0] ============================================================
+[07:00:04][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[07:00:04][SEG0] ============================================================
+[07:00:04][SEG0] Loaded 2665 leads
+[07:00:04][SEG0] Leads in segment 0: 332
+[07:00:04][SEG0] Processing batch of 30
+[07:00:04][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[07:00:04][SEG0]     → SKIP: no MX for circlebay.org
+[07:00:05][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[07:00:05][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[07:00:05][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[07:00:05][SEG0]     → SKIP: no MX for brennityverobeach.com
+[07:00:05][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[07:00:06][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[07:00:06][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[07:00:06][SEG0]     → SKIP: no MX for health.usnews.com
+[07:00:06][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[07:00:06][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[07:00:07][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[07:00:07][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[07:00:07][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[07:00:07][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[07:00:07][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[07:00:07][SEG0]     → SKIP: no MX for brennitytradition.com
+[07:00:08][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[07:00:08][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[07:00:08][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[07:00:08][SEG0]     → SKIP: no MX for search.sunbiz.org
+[07:00:09][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[07:00:09][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[07:00:09][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[07:00:09][SEG0]     → SKIP: no MX for masonveranda.com
+[07:00:09][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[07:00:12][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[07:00:12][SEG0]   [15/30] Audi Naples → audinaples.com
+[07:00:15][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[07:00:15][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[07:00:17][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[07:00:17][SEG0]   [17/30] Sarasota Property Management → choosegulfcoast.com
+[07:00:18][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[07:00:19][SEG0]   [18/30] Jupiter Property Management → homepropertymanagement.com
+[07:00:19][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[07:00:19][SEG0]   [19/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[07:00:21][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[07:00:21][SEG0]   [20/30] Charlotte Property Management | Curo Pro → curoprop.com
+[07:00:23][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[07:00:23][SEG0]   [21/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[07:00:23][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[07:00:23][SEG0]   [22/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[07:00:23][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[07:00:24][SEG0]   [23/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[07:00:24][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[07:00:24][SEG0]   [24/30] RE/MAX of Stuart → remax-stuart-fl.com
+[07:00:25][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[07:00:25][SEG0]   [25/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[07:00:25][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[07:00:26][SEG0]   [26/30] NAPA Port St Lucie FL #245 → napaonline.com
+[07:00:27][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[07:00:28][SEG0]   [27/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[07:00:29][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[07:00:30][SEG0]   [28/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[07:00:30][SEG0]     → SKIP: no MX for snyderscooling.com
+[07:00:30][SEG0]   [29/30] Local Lawn Service FL → locallawnservicefl.com
+[07:00:30][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[07:00:30][SEG0]   [30/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[07:00:31][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[07:00:32][SEG0] Wrote 12 guessed emails (1 SMTP verified)
+[07:00:32][SEG0] SEGMENT 0 COMPLETE: 12 guessed, 1 verified
+[07:00:32][SEG0] ============================================================
+[07:15:01][SEG0] ============================================================
+[07:15:01][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[07:15:01][SEG0] ============================================================
+[07:15:02][SEG0] Loaded 2665 leads
+[07:15:02][SEG0] Leads in segment 0: 320
+[07:15:02][SEG0] Processing batch of 30
+[07:15:02][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[07:15:02][SEG0]     → SKIP: no MX for circlebay.org
+[07:15:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[07:15:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[07:15:02][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[07:15:02][SEG0]     → SKIP: no MX for brennityverobeach.com
+[07:15:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[07:15:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[07:15:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[07:15:03][SEG0]     → SKIP: no MX for health.usnews.com
+[07:15:03][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[07:15:03][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[07:15:04][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[07:15:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[07:15:04][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[07:15:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[07:15:04][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[07:15:04][SEG0]     → SKIP: no MX for brennitytradition.com
+[07:15:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[07:15:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[07:15:05][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[07:15:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[07:15:06][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[07:15:06][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[07:15:06][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[07:15:06][SEG0]     → SKIP: no MX for masonveranda.com
+[07:15:06][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[07:15:09][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[07:15:09][SEG0]   [15/30] Audi Naples → audinaples.com
+[07:15:11][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[07:15:12][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[07:15:13][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[07:15:14][SEG0]   [17/30] Sarasota Property Management → choosegulfcoast.com
+[07:15:15][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[07:15:15][SEG0]   [18/30] Jupiter Property Management → homepropertymanagement.com
+[07:15:15][SEG0]     → info@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[07:15:15][SEG0]   [19/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[07:15:16][SEG0]     → info@1836propertymanagement.com (SMTP verified at 1836propertymanagement.com)
+[07:15:16][SEG0]   [20/30] Charlotte Property Management | Curo Pro → curoprop.com
+[07:15:17][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[07:15:18][SEG0]   [21/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[07:15:18][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[07:15:18][SEG0]   [22/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[07:15:18][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[07:15:18][SEG0]   [23/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[07:15:20][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[07:15:20][SEG0]   [24/30] RE/MAX of Stuart → remax-stuart-fl.com
+[07:15:20][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[07:15:20][SEG0]   [25/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[07:15:22][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[07:15:22][SEG0]   [26/30] NAPA Port St Lucie FL #245 → napaonline.com
+[07:15:23][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[07:15:23][SEG0]   [27/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[07:15:24][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[07:15:25][SEG0]   [28/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[07:15:25][SEG0]     → SKIP: no MX for snyderscooling.com
+[07:15:25][SEG0]   [29/30] Local Lawn Service FL → locallawnservicefl.com
+[07:15:25][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[07:15:26][SEG0]   [30/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[07:15:26][SEG0]     → info@lawnstarter.com (SMTP verified at lawnstarter.com)
+[07:15:26][SEG0] Wrote 12 guessed emails (3 SMTP verified)
+[07:15:26][SEG0] SEGMENT 0 COMPLETE: 12 guessed, 3 verified
+[07:15:26][SEG0] ============================================================
+[07:30:03][SEG0] ============================================================
+[07:30:03][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[07:30:03][SEG0] ============================================================
+[07:30:04][SEG0] Loaded 2665 leads
+[07:30:04][SEG0] Leads in segment 0: 304
+[07:30:04][SEG0] Processing batch of 30
+[07:30:04][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[07:30:04][SEG0]     → SKIP: no MX for circlebay.org
+[07:30:04][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[07:30:04][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[07:30:05][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[07:30:05][SEG0]     → SKIP: no MX for brennityverobeach.com
+[07:30:05][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[07:30:05][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[07:30:06][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[07:30:06][SEG0]     → SKIP: no MX for health.usnews.com
+[07:30:06][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[07:30:06][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[07:30:06][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[07:30:06][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[07:30:07][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[07:30:07][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[07:30:07][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[07:30:07][SEG0]     → SKIP: no MX for brennitytradition.com
+[07:30:07][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[07:30:07][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[07:30:08][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[07:30:08][SEG0]     → SKIP: no MX for search.sunbiz.org
+[07:30:08][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[07:30:08][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[07:30:08][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[07:30:08][SEG0]     → SKIP: no MX for masonveranda.com
+[07:30:09][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[07:30:11][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[07:30:12][SEG0]   [15/30] Audi Naples → audinaples.com
+[07:30:14][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[07:30:14][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[07:30:16][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[07:30:16][SEG0]   [17/30] Sarasota Property Management → choosegulfcoast.com
+[07:30:17][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[07:30:17][SEG0]   [18/30] Jupiter Property Management → homepropertymanagement.com
+[07:30:17][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[07:30:18][SEG0]   [19/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[07:30:19][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[07:30:19][SEG0]   [20/30] Charlotte Property Management | Curo Pro → curoprop.com
+[07:30:21][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[07:30:21][SEG0]   [21/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[07:30:21][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[07:30:21][SEG0]   [22/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[07:30:21][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[07:30:22][SEG0]   [23/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[07:30:23][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[07:30:23][SEG0]   [24/30] RE/MAX of Stuart → remax-stuart-fl.com
+[07:30:23][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[07:30:23][SEG0]   [25/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[07:30:24][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[07:30:24][SEG0]   [26/30] NAPA Port St Lucie FL #245 → napaonline.com
+[07:30:26][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[07:30:26][SEG0]   [27/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[07:30:27][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[07:30:27][SEG0]   [28/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[07:30:27][SEG0]     → SKIP: no MX for snyderscooling.com
+[07:30:27][SEG0]   [29/30] Local Lawn Service FL → locallawnservicefl.com
+[07:30:27][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[07:30:28][SEG0]   [30/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[07:30:29][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[07:30:29][SEG0] Wrote 12 guessed emails (1 SMTP verified)
+[07:30:29][SEG0] SEGMENT 0 COMPLETE: 12 guessed, 1 verified
+[07:30:29][SEG0] ============================================================
+[07:45:02][SEG0] ============================================================
+[07:45:02][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[07:45:02][SEG0] ============================================================
+[07:45:02][SEG0] Loaded 2665 leads
+[07:45:02][SEG0] Leads in segment 0: 291
+[07:45:02][SEG0] Processing batch of 30
+[07:45:02][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[07:45:02][SEG0]     → SKIP: no MX for circlebay.org
+[07:45:02][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[07:45:02][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[07:45:02][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[07:45:02][SEG0]     → SKIP: no MX for brennityverobeach.com
+[07:45:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[07:45:03][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[07:45:03][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[07:45:03][SEG0]     → SKIP: no MX for health.usnews.com
+[07:45:03][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[07:45:04][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[07:45:04][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[07:45:04][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[07:45:04][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[07:45:04][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[07:45:05][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[07:45:05][SEG0]     → SKIP: no MX for brennitytradition.com
+[07:45:05][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[07:45:05][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[07:45:05][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[07:45:05][SEG0]     → SKIP: no MX for search.sunbiz.org
+[07:45:06][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[07:45:06][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[07:45:06][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[07:45:06][SEG0]     → SKIP: no MX for masonveranda.com
+[07:45:06][SEG0]   [14/30] Naples Luxury Imports → naplesluxuryimports.com
+[07:45:09][SEG0]     → info@naplesluxuryimports.com (generic guess (naplesluxuryimports.com))
+[07:45:09][SEG0]   [15/30] Audi Naples → audinaples.com
+[07:45:13][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[07:45:13][SEG0]   [16/30] Boca Raton property management → fsresidential.com
+[07:45:14][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[07:45:15][SEG0]   [17/30] Sarasota Property Management → choosegulfcoast.com
+[07:45:15][SEG0]     → info@choosegulfcoast.com (generic guess (choosegulfcoast.com))
+[07:45:15][SEG0]   [18/30] Jupiter Property Management → homepropertymanagement.com
+[07:45:16][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[07:45:16][SEG0]   [19/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[07:45:18][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[07:45:18][SEG0]   [20/30] Charlotte Property Management | Curo Pro → curoprop.com
+[07:45:20][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[07:45:20][SEG0]   [21/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[07:45:20][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[07:45:20][SEG0]   [22/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[07:45:20][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[07:45:21][SEG0]   [23/30] Berkshire Hathaway HomeServices Jensen B → bhhsfloridarealty.com
+[07:45:22][SEG0]     → info@bhhsfloridarealty.com (generic guess (bhhsfloridarealty.com))
+[07:45:22][SEG0]   [24/30] RE/MAX of Stuart → remax-stuart-fl.com
+[07:45:23][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[07:45:23][SEG0]   [25/30] Carquest Auto Parts Jensen Beach FL → carquest.com
+[07:45:24][SEG0]     → info@carquest.com (generic guess (carquest.com))
+[07:45:25][SEG0]   [26/30] NAPA Port St Lucie FL #245 → napaonline.com
+[07:45:26][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[07:45:27][SEG0]   [27/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[07:45:28][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[07:45:29][SEG0]   [28/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[07:45:29][SEG0]     → SKIP: no MX for snyderscooling.com
+[07:45:29][SEG0]   [29/30] Local Lawn Service FL → locallawnservicefl.com
+[07:45:29][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[07:45:29][SEG0]   [30/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[07:45:30][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[07:45:31][SEG0] Wrote 12 guessed emails (1 SMTP verified)
+[07:45:31][SEG0] SEGMENT 0 COMPLETE: 12 guessed, 1 verified
+[07:45:31][SEG0] ============================================================
+[08:00:03][SEG0] ============================================================
+[08:00:03][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[08:00:03][SEG0] ============================================================
+[08:00:03][SEG0] Loaded 2665 leads
+[08:00:03][SEG0] Leads in segment 0: 272
+[08:00:03][SEG0] Processing batch of 30
+[08:00:03][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[08:00:04][SEG0]     → SKIP: no MX for circlebay.org
+[08:00:04][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[08:00:04][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[08:00:04][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[08:00:04][SEG0]     → SKIP: no MX for brennityverobeach.com
+[08:00:05][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[08:00:05][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[08:00:05][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[08:00:05][SEG0]     → SKIP: no MX for health.usnews.com
+[08:00:05][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[08:00:05][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[08:00:06][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[08:00:06][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[08:00:06][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[08:00:06][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[08:00:06][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[08:00:07][SEG0]     → SKIP: no MX for brennitytradition.com
+[08:00:07][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[08:00:07][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[08:00:07][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[08:00:07][SEG0]     → SKIP: no MX for search.sunbiz.org
+[08:00:08][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[08:00:08][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[08:00:08][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[08:00:08][SEG0]     → SKIP: no MX for masonveranda.com
+[08:00:08][SEG0]   [14/30] Audi Naples → audinaples.com
+[08:00:11][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[08:00:12][SEG0]   [15/30] Boca Raton property management → fsresidential.com
+[08:00:13][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[08:00:13][SEG0]   [16/30] Jupiter Property Management → homepropertymanagement.com
+[08:00:14][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[08:00:14][SEG0]   [17/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[08:00:16][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[08:00:16][SEG0]   [18/30] Charlotte Property Management | Curo Pro → curoprop.com
+[08:00:17][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[08:00:18][SEG0]   [19/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[08:00:18][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[08:00:18][SEG0]   [20/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[08:00:18][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[08:00:18][SEG0]   [21/30] RE/MAX of Stuart → remax-stuart-fl.com
+[08:00:18][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[08:00:19][SEG0]   [22/30] NAPA Port St Lucie FL #245 → napaonline.com
+[08:00:20][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[08:00:20][SEG0]   [23/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[08:00:21][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[08:00:22][SEG0]   [24/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[08:00:22][SEG0]     → SKIP: no MX for snyderscooling.com
+[08:00:22][SEG0]   [25/30] Local Lawn Service FL → locallawnservicefl.com
+[08:00:22][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[08:00:22][SEG0]   [26/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[08:00:23][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[08:00:24][SEG0]   [27/30] TruGreen - Port St. Lucie → trugreen.com
+[08:00:24][SEG0]     → info@trugreen.com (generic guess (trugreen.com))
+[08:00:24][SEG0]   [28/30] Sobre, história e significado → trickingbr.com
+[08:00:24][SEG0]     → SKIP: no MX for trickingbr.com
+[08:00:25][SEG0]   [29/30] UPDATE! Orelha’s Body Exhumed As Authori → worldanimalnews.com
+[08:00:26][SEG0]     → info@worldanimalnews.com (generic guess (worldanimalnews.com))
+[08:00:26][SEG0]   [30/30] Tile Tracker → life360.com
+[08:00:32][SEG0]     → info@life360.com (generic guess (life360.com))
+[08:00:33][SEG0] Wrote 11 guessed emails (1 SMTP verified)
+[08:00:33][SEG0] SEGMENT 0 COMPLETE: 11 guessed, 1 verified
+[08:00:33][SEG0] ============================================================
+[08:15:02][SEG0] ============================================================
+[08:15:02][SEG0] APOLLO PARALLEL — Segment 0/3 | Batch: 30
+[08:15:02][SEG0] ============================================================
+[08:15:02][SEG0] Loaded 2665 leads
+[08:15:02][SEG0] Leads in segment 0: 255
+[08:15:02][SEG0] Processing batch of 30
+[08:15:02][SEG0]   [1/30] Circle Bay Yacht Club → circlebay.org
+[08:15:02][SEG0]     → SKIP: no MX for circlebay.org
+[08:15:03][SEG0]   [2/30] Bathroom Remodeling in Boca Raton, Flori → kbcgeneralservices.com
+[08:15:03][SEG0]     → SKIP: no MX for kbcgeneralservices.com
+[08:15:03][SEG0]   [3/30] The Brennity at Vero Beach Senior Living → brennityverobeach.com
+[08:15:03][SEG0]     → SKIP: no MX for brennityverobeach.com
+[08:15:03][SEG0]   [4/30] Bathroom Remodeling Contractor | Stuart, → bobbyandbrothershandyman.com
+[08:15:04][SEG0]     → SKIP: no MX for bobbyandbrothershandyman.com
+[08:15:04][SEG0]   [5/30] 4 Best Assisted Living Communities in Je → health.usnews.com
+[08:15:04][SEG0]     → SKIP: no MX for health.usnews.com
+[08:15:04][SEG0]   [6/30] Gutter Contractor → bradenton-sarasota.brothersgutters.com
+[08:15:04][SEG0]     → SKIP: no MX for bradenton-sarasota.brothersgutters.com
+[08:15:05][SEG0]   [7/30] Gutter Installation Tampa → gutterinstallationtampa.com
+[08:15:05][SEG0]     → SKIP: no MX for gutterinstallationtampa.com
+[08:15:05][SEG0]   [8/30] Frisco, TX Professional Garage Floor Coa → customgarageworkstx.com
+[08:15:05][SEG0]     → SKIP: no MX for customgarageworkstx.com
+[08:15:05][SEG0]   [9/30] The Brennity at Tradition Senior Living → brennitytradition.com
+[08:15:05][SEG0]     → SKIP: no MX for brennitytradition.com
+[08:15:06][SEG0]   [10/30] Expert Concrete Contractors in St Peters → saintpetersburgconcrete.com
+[08:15:06][SEG0]     → SKIP: no MX for saintpetersburgconcrete.com
+[08:15:06][SEG0]   [11/30] global-fleet → search.sunbiz.org
+[08:15:06][SEG0]     → SKIP: no MX for search.sunbiz.org
+[08:15:06][SEG0]   [12/30] The Howell Port St Lucie → thehowellportsaintlucie.com
+[08:15:06][SEG0]     → SKIP: no MX for thehowellportsaintlucie.com
+[08:15:07][SEG0]   [13/30] Mason Veranda Apartments → masonveranda.com
+[08:15:07][SEG0]     → SKIP: no MX for masonveranda.com
+[08:15:07][SEG0]   [14/30] Audi Naples → audinaples.com
+[08:15:10][SEG0]     → info@audinaples.com (generic guess (audinaples.com))
+[08:15:10][SEG0]   [15/30] Boca Raton property management → fsresidential.com
+[08:15:11][SEG0]     → info@fsresidential.com (generic guess (fsresidential.com))
+[08:15:12][SEG0]   [16/30] Jupiter Property Management → homepropertymanagement.com
+[08:15:12][SEG0]     → contact@homepropertymanagement.com (SMTP verified at homepropertymanagement.com)
+[08:15:13][SEG0]   [17/30] Austin Property Management | Next Gen Pr → 1836propertymanagement.com
+[08:15:14][SEG0]     → info@1836propertymanagement.com (generic guess (1836propertymanagement.com))
+[08:15:14][SEG0]   [18/30] Charlotte Property Management | Curo Pro → curoprop.com
+[08:15:16][SEG0]     → info@curoprop.com (generic guess (curoprop.com))
+[08:15:16][SEG0]   [19/30] Commercial Kitchen of Naples → commercialkitchenofnaples.com
+[08:15:16][SEG0]     → SKIP: no MX for commercialkitchenofnaples.com
+[08:15:16][SEG0]   [20/30] Beach Front Mann Realty → beachfrontmannrealty.com
+[08:15:17][SEG0]     → SKIP: no MX for beachfrontmannrealty.com
+[08:15:17][SEG0]   [21/30] RE/MAX of Stuart → remax-stuart-fl.com
+[08:15:17][SEG0]     → SKIP: no MX for remax-stuart-fl.com
+[08:15:17][SEG0]   [22/30] NAPA Port St Lucie FL #245 → napaonline.com
+[08:15:18][SEG0]     → info@napaonline.com (generic guess (napaonline.com))
+[08:15:18][SEG0]   [23/30] Elite Electric Plumbing & Air → eliteelectricandair.com
+[08:15:19][SEG0]     → info@eliteelectricandair.com (generic guess (eliteelectricandair.com))
+[08:15:20][SEG0]   [24/30] Snyder's Cooling & Heating Inc → snyderscooling.com
+[08:15:20][SEG0]     → SKIP: no MX for snyderscooling.com
+[08:15:20][SEG0]   [25/30] Local Lawn Service FL → locallawnservicefl.com
+[08:15:20][SEG0]     → SKIP: no MX for locallawnservicefl.com
+[08:15:21][SEG0]   [26/30] Lawn Starter - Port St Lucie → lawnstarter.com
+[08:15:22][SEG0]     → info@lawnstarter.com (generic guess (lawnstarter.com))
+[08:15:22][SEG0]   [27/30] TruGreen - Port St. Lucie → trugreen.com
+[08:15:22][SEG0]     → info@trugreen.com (generic guess (trugreen.com))
+[08:15:23][SEG0]   [28/30] Sobre, história e significado → trickingbr.com
+[08:15:23][SEG0]     → SKIP: no MX for trickingbr.com
+[08:15:23][SEG0]   [29/30] UPDATE! Orelha’s Body Exhumed As Authori → worldanimalnews.com
+[08:15:24][SEG0]     → info@worldanimalnews.com (generic guess (worldanimalnews.com))
+[08:15:25][SEG0]   [30/30] Tile Tracker → life360.com
+[08:15:26][SEG0]     → info@life360.com (generic guess (life360.com))
+[08:15:26][SEG0] Wrote 11 guessed emails (1 SMTP verified)
+[08:15:26][SEG0] SEGMENT 0 COMPLETE: 11 guessed, 1 verified
+[08:15:26][SEG0] ============================================================

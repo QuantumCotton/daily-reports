@@ -1,0 +1,5 @@
+{
+  "api_key": "your_beehiiv_api_key_here",
+  "publication_id": "your_publication_id_here",
+  "notes": "Get your API key from https://www.beehiiv.com/developers/api"
+}

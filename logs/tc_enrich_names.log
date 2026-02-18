@@ -1,0 +1,236 @@
+[2026-02-16 04:27:58] ============================================================
+[2026-02-16 04:27:58] TREASURE COAST ENRICHMENT - FIND NAMES
+[2026-02-16 04:27:58] ============================================================
+[2026-02-16 04:27:58] Found 50 leads with personal emails but no names
+[2026-02-16 04:27:58] FATAL: log() missing 1 required positional argument: 'msg'
+Traceback (most recent call last):
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enrich_names.py", line 170, in <module>
+    stats = main()
+            ^^^^^^
+  File "/home/chris/.openclaw/sandboxes/agent-lead-scout-8f938708/tc_enrich_names.py", line 89, in main
+    log()
+TypeError: log() missing 1 required positional argument: 'msg'
+
+[2026-02-16 04:28:33] ============================================================
+[2026-02-16 04:28:33] TREASURE COAST ENRICHMENT - FIND NAMES
+[2026-02-16 04:28:33] ============================================================
+[2026-02-16 04:28:33] Found 50 leads with personal emails but no names
+[2026-02-16 04:28:33] [1/50] Custom Paint (Vero Beach)
+[2026-02-16 04:28:33]   Email: Custompaintservice1@gmail.com
+[2026-02-16 04:28:33]   Website: https://www.custompaintingservicellc.com/
+[2026-02-16 04:28:38]   ✓ Name from search: Hello All
+[2026-02-16 04:28:38]   ✅ Database updated
+[2026-02-16 04:28:38] [2/50] T-Hangar Layout Map (Vero Beach)
+[2026-02-16 04:28:38]   Email: bdambeck@covb.org
+[2026-02-16 04:28:38]   Website: https://www.verobeachairport.com/t-hangarlayoutmap
+[2026-02-16 04:28:41]   ✓ Name from search: offers aircraft
+[2026-02-16 04:28:41]   ✅ Database updated
+[2026-02-16 04:28:41] [3/50] Tony's Showroom Finish Detailing: Top Car Detailing Services in ... (Stuart)
+[2026-02-16 04:28:41]   Email: Stuart@auto-genie.co.uk
+[2026-02-16 04:28:41]   Website: https://tonysshowroomfinishdetailing1.sitesgpt.com/
+[2026-02-16 04:28:44]   ❌ No name found
+[2026-02-16 04:28:44] [4/50] Wallace Chrysler, Jeep, Dodge, Ram & Wagoneer Dealership In ... (Stuart)
+[2026-02-16 04:28:44]   Email: users@wallaceautogroup.net
+[2026-02-16 04:28:44]   Website: https://www.wallacecjd.com/?srsltid=AfmBOorlSn6JaJN7zDU4gP6dI2IL6n2skx1ksjZz0VgzKlEPoooQxAhB
+[2026-02-16 04:28:47]   ✓ Name from search: Wallace Community
+[2026-02-16 04:28:47]   ✅ Database updated
+[2026-02-16 04:28:47] [5/50] Classic Collision Port Saint Lucie (Port St Lucie)
+[2026-02-16 04:28:47]   Email: red@2x.png
+[2026-02-16 04:28:47]   Website: https://classiccollision.com/locations/classic-collision-port-saint-lucie/
+[2026-02-16 04:28:49]   ❌ No name found
+[2026-02-16 04:28:49] [6/50] CCVB (Vero Beach)
+[2026-02-16 04:28:49]   Email: church@ccvb.net
+[2026-02-16 04:28:49]   Website: https://ccvb.net/
+[2026-02-16 04:28:50]   ✓ Name from search: Aaron Edgcomb
+[2026-02-16 04:28:50]   ✅ Database updated
+[2026-02-16 04:28:50] [7/50] Castlewood Assisted Living Residence (Stuart)
+[2026-02-16 04:28:50]   Email: brittanyf.cal@outlook.com
+[2026-02-16 04:28:50]   Website: https://www.castlewoodresidence.com/
+[2026-02-16 04:28:50]   ✓ Name from email: Brittanyf Cal
+[2026-02-16 04:28:50]   ✅ Database updated
+[2026-02-16 04:28:50] [8/50] Property Management Companies in Port Saint Lucie, FL (Port St Lucie)
+[2026-02-16 04:28:50]   Email: Choicepropertiesrentals@gmail.com
+[2026-02-16 04:28:50]   Website: https://www.apartments.com/pmc/port-saint-lucie-fl/
+[2026-02-16 04:28:53]   ❌ No name found
+[2026-02-16 04:28:53] [9/50] Community Association - Reblawpa (Stuart)
+[2026-02-16 04:28:53]   Email: jee@reblawpa.com
+[2026-02-16 04:28:53]   Website: https://reblawpa.com/areas-of-practice/community-association/
+[2026-02-16 04:28:55]   ❌ No name found
+[2026-02-16 04:28:55] [10/50] Veterinarian in Vero Beach, FL (Vero Beach)
+[2026-02-16 04:28:55]   Email: drphil@villagepetclinic.com
+[2026-02-16 04:28:55]   Website: https://www.villagepetclinic.com/
+[2026-02-16 04:28:57]   ❌ No name found
+[2026-02-16 04:28:57] [11/50] The Best Restaurants in Jensen Beach, Florida - Trip Canvas - AAA (Jensen Beach)
+[2026-02-16 04:28:57]   Email: takotikijensenbeach@gmail.com
+[2026-02-16 04:28:57]   Website: https://www.aaa.com/tripcanvas/jensen-beach-fl/category/restaurants
+[2026-02-16 04:28:59]   ❌ No name found
+[2026-02-16 04:28:59] [12/50] Port St. Lucie Luxury Assisted Living (Port St Lucie)
+[2026-02-16 04:28:59]   Email: stluciewest@watercrestseniorliving.com
+[2026-02-16 04:28:59]   Website: https://watercrestseniorliving.com/st-lucie-west/
+[2026-02-16 04:29:01]   ❌ No name found
+[2026-02-16 04:29:01] [13/50] Metal Roofing Contractor | Stuart, FL - Leo Roofing & Construction (Stuart)
+[2026-02-16 04:29:01]   Email: resume@leorc.com
+[2026-02-16 04:29:01]   Website: https://www.leoroofingfl.com/blog/2025/september/metal-roofing-contractor-stuart-fl/
+[2026-02-16 04:29:02]   ❌ No name found
+[2026-02-16 04:29:02] [14/50] Gutter Contractor | The Brothers that just do Gutters (Stuart)
+[2026-02-16 04:29:02]   Email: will@viralbitespos.com
+[2026-02-16 04:29:02]   Website: https://treasure-coast.brothersgutters.com/
+[2026-02-16 04:29:05]   ❌ No name found
+[2026-02-16 04:29:05] [15/50] FAQ (Vero Beach)
+[2026-02-16 04:29:05]   Email: airport@covb.org
+[2026-02-16 04:29:05]   Website: https://www.verobeachairport.com/faq
+[2026-02-16 04:29:07]   ✓ Name from search: List Apple
+[2026-02-16 04:29:07]   ✅ Database updated
+[2026-02-16 04:29:07] [16/50] Professional HOA & COA Services in Martin County (Stuart)
+[2026-02-16 04:29:07]   Email: esposito@macombgov.org
+[2026-02-16 04:29:07]   Website: https://www.tamcare.com/hoa-coa-services-martin-county/
+[2026-02-16 04:29:09]   ❌ No name found
+[2026-02-16 04:29:09] [17/50] Custom Cabinets (Vero Beach)
+[2026-02-16 04:29:09]   Email: capital32967@aol.com
+[2026-02-16 04:29:09]   Website: https://www.capitalcabinets.net/about-us
+[2026-02-16 04:29:11]   ❌ No name found
+[2026-02-16 04:29:11] [18/50] RE/MAX Gold (Stuart)
+[2026-02-16 04:29:11]   Email: Meconnormckinney.re@gmail.com
+[2026-02-16 04:29:11]   Website: https://www.remaxgoldflorida.com/
+[2026-02-16 04:29:11]   ✓ Name from email: Meconnormckinney Re
+[2026-02-16 04:29:11]   ✅ Database updated
+[2026-02-16 04:29:11] [19/50] Jensen Seamless Gutters (Jensen Beach)
+[2026-02-16 04:29:11]   Email: gutterguy@gutterguyfl.com
+[2026-02-16 04:29:11]   Website: https://unitedseamlessgutters.com/jensen-seamless-gutters
+[2026-02-16 04:29:13]   ❌ No name found
+[2026-02-16 04:29:13] [20/50] Treasure Coast Commercial Real Estate for Sales and Leasing. (Stuart)
+[2026-02-16 04:29:13]   Email: jaime@slccommercial.com
+[2026-02-16 04:29:13]   Website: https://www.slccommercial.com/
+[2026-02-16 04:29:15]   ❌ No name found
+[2026-02-16 04:29:15] [21/50] Business Directory (Vero Beach)
+[2026-02-16 04:29:15]   Email: customerservice@villagebeachmarket.com
+[2026-02-16 04:29:15]   Website: https://verovine.com/business-directory/village-beach-market/
+[2026-02-16 04:29:17]   ❌ No name found
+[2026-02-16 04:29:17] [22/50] South Stuart – Apple Tree Academy (Stuart)
+[2026-02-16 04:29:17]   Email: appletreeacademy4@gmail.com
+[2026-02-16 04:29:17]   Website: https://www.apple-tree-academy.com/south-stuart/
+[2026-02-16 04:29:19]   ❌ No name found
+[2026-02-16 04:29:19] [23/50] Property Managers in Port Saint Lucie, FL (Port St Lucie)
+[2026-02-16 04:29:19]   Email: Choicepropertiesrentals@gmail.com
+[2026-02-16 04:29:19]   Website: https://www.zillow.com/professionals/property-manager-reviews/port-saint-lucie-fl/
+[2026-02-16 04:29:21]   ❌ No name found
+[2026-02-16 04:29:21] [24/50] Nex-Gen Partners Property Management (Port St Lucie)
+[2026-02-16 04:29:21]   Email: tenants@nex-genpartners.com
+[2026-02-16 04:29:21]   Website: https://nex-genpartners.com/
+[2026-02-16 04:29:23]   ❌ No name found
+[2026-02-16 04:29:23] [25/50] NAI Southcoast (Stuart)
+[2026-02-16 04:29:23]   Email: marketing@naisouthcoast.com
+[2026-02-16 04:29:23]   Website: https://www.naisouthcoast.com/
+[2026-02-16 04:29:25]   ❌ No name found
+[2026-02-16 04:29:25] [26/50] Vinyl Plank, Laminate & Hardwood Flooring (Vero Beach)
+[2026-02-16 04:29:25]   Email: Shop@BuyRiteFlooring.com
+[2026-02-16 04:29:25]   Website: https://buyriteflooring.com/
+[2026-02-16 04:29:27]   ❌ No name found
+[2026-02-16 04:29:27] [27/50] Signature Property Management (Stuart)
+[2026-02-16 04:29:27]   Email: Ira@signaturepropertymgmt.com
+[2026-02-16 04:29:27]   Website: https://www.signaturepropertymgmt.com/
+[2026-02-16 04:29:29]   ✓ Name from search: information or
+[2026-02-16 04:29:29]   ✅ Database updated
+[2026-02-16 04:29:29] [28/50] Pet Clinic Near Me 34997 (Stuart)
+[2026-02-16 04:29:29]   Email: ssah@bellsouth.net
+[2026-02-16 04:29:29]   Website: https://stuartsound.com/our-practice/
+[2026-02-16 04:29:31]   ❌ No name found
+[2026-02-16 04:29:31] [29/50] CUSTOM FABRICATION CONTRACT MANUFACTURING Your One Stop Source Visit (Vero Beach)
+[2026-02-16 04:29:31]   Email: programs@itstowers.com
+[2026-02-16 04:29:31]   Website: https://www.willburt.com/wp-content/Contract%20Manufacturing%20Brochure_WEB.pdf
+[2026-02-16 04:29:33]   ❌ No name found
+[2026-02-16 04:29:33] [30/50] Kitchen Cabinets (Vero Beach)
+[2026-02-16 04:29:33]   Email: capital32967@aol.com
+[2026-02-16 04:29:33]   Website: https://www.capitalcabinets.net/
+[2026-02-16 04:29:36]   ❌ No name found
+[2026-02-16 04:29:36] [31/50] The Landings of Martin County | HOA in Stuart, FL (Stuart)
+[2026-02-16 04:29:36]   Email: tkryzda@martin.fl.us
+[2026-02-16 04:29:36]   Website: https://tlomc.communitysite.com/
+[2026-02-16 04:29:38]   ❌ No name found
+[2026-02-16 04:29:38] [32/50] Home Services at Jensen Beach #221 (Jensen Beach)
+[2026-02-16 04:29:38]   Email: cgallant@floridaelkscts.org
+[2026-02-16 04:29:38]   Website: https://www.homedepot.com/l/Jensen-Beach/FL/Jensen-Beach/34957/221/services
+[2026-02-16 04:29:40]   ❌ No name found
+[2026-02-16 04:29:40] [33/50] Auto Body Shop (Port St Lucie)
+[2026-02-16 04:29:40]   Email: stlucie@jhcc.com
+[2026-02-16 04:29:40]   Website: https://jhcc.com/locations/auto-body-shop-port-st-lucie/
+[2026-02-16 04:29:42]   ❌ No name found
+[2026-02-16 04:29:42] [34/50] Trusted Cleaning Company in Stuart FL (Stuart)
+[2026-02-16 04:29:42]   Email: ncsnatyka@gmail.com
+[2026-02-16 04:29:42]   Website: https://www.customcleaningtc.com/
+[2026-02-16 04:29:44]   ❌ No name found
+[2026-02-16 04:29:44] [35/50] Florida Investment Properties (Stuart)
+[2026-02-16 04:29:44]   Email: nabertke@gmail.com
+[2026-02-16 04:29:44]   Website: https://www.treasurecoasthomesales.com/buying-investment-properties/
+[2026-02-16 04:29:47]   ✓ Name from search: this office
+[2026-02-16 04:29:47]   ✅ Database updated
+[2026-02-16 04:29:47] [36/50] Rain Gutter Guards & Downspout Extensions Port St Lucie, PSL, Stuart FL (Stuart)
+[2026-02-16 04:29:47]   Email: gutterguy@gutterguyfl.com
+[2026-02-16 04:29:47]   Website: https://gutterguyofflorida.com/contact-us/
+[2026-02-16 04:29:48]   ❌ No name found
+[2026-02-16 04:29:48] [37/50] School District Virtual Contact Information (Stuart)
+[2026-02-16 04:29:48]   Email: commissioner@fldoe.org
+[2026-02-16 04:29:48]   Website: https://www.fldoe.org/schools/school-choice/virtual-edu/directories/district-virtual-contacts.stml
+[2026-02-16 04:29:50]   ❌ No name found
+[2026-02-16 04:29:50] [38/50] Property Boss LLC (Stuart)
+[2026-02-16 04:29:50]   Email: Staff@propertybossllc.com
+[2026-02-16 04:29:50]   Website: https://www.propertybossllc.com/stuart
+[2026-02-16 04:29:52]   ❌ No name found
+[2026-02-16 04:29:52] [39/50] Caterer Service in Treasure Coast, FL | Corporate Caterers - Menu (Stuart)
+[2026-02-16 04:29:52]   Email: joe.stellato@gmail.com
+[2026-02-16 04:29:52]   Website: https://chicago.corpcaterers.com/location/corporate-caterers-treasure-coast-fl/full-menu/
+[2026-02-16 04:29:52]   ✓ Name from email: Joe Stellato
+[2026-02-16 04:29:52]   ✅ Database updated
+[2026-02-16 04:29:52] [40/50] 55+ Communities in Port St. Lucie and Fort Pierce, Florida (Port St Lucie)
+[2026-02-16 04:29:52]   Email: homes@spanishlakes.com
+[2026-02-16 04:29:52]   Website: https://spanishlakes.com/
+[2026-02-16 04:29:54]   ❌ No name found
+[2026-02-16 04:29:54] [41/50] Contact (Stuart)
+[2026-02-16 04:29:54]   Email: Summerfield@advpropmgt.com
+[2026-02-16 04:29:54]   Website: https://www.summerfieldstuart.com/contact/
+[2026-02-16 04:29:56]   ✓ Name from search: Sur votre
+[2026-02-16 04:29:56]   ✅ Database updated
+[2026-02-16 04:29:56] [42/50] Vantazma Collision (Port St Lucie)
+[2026-02-16 04:29:56]   Email: vantazmacollision@gmail.com
+[2026-02-16 04:29:56]   Website: https://www.vantazma-car-care.com/
+[2026-02-16 04:29:58]   ❌ No name found
+[2026-02-16 04:29:58] [43/50] Bathroom Remodeling Services | Stuart & Port St. Lucie, FL (Stuart)
+[2026-02-16 04:29:58]   Email: isaac@tileanddecorusa.com
+[2026-02-16 04:29:58]   Website: https://bobbyandbrothershandyman.com/bathroom-remodeling
+[2026-02-16 04:30:00]   ❌ No name found
+[2026-02-16 04:30:00] [44/50] Custom Cabinets (Vero Beach)
+[2026-02-16 04:30:00]   Email: designsincab@aol.com
+[2026-02-16 04:30:00]   Website: https://designsincabinets.com/
+[2026-02-16 04:30:02]   ❌ No name found
+[2026-02-16 04:30:02] [45/50] Express Laundry (Stuart)
+[2026-02-16 04:30:02]   Email: Doubledowncoinlaundry@gmail.com
+[2026-02-16 04:30:02]   Website: https://express-laundry.com/locations/stuart.html
+[2026-02-16 04:30:04]   ❌ No name found
+[2026-02-16 04:30:04] [46/50] South Florida Realty Management (Stuart)
+[2026-02-16 04:30:04]   Email: property.manager@floridapm.net/
+[2026-02-16 04:30:04]   Website: https://www.floridapm.net/
+[2026-02-16 04:30:04]   ✓ Name from email: Property Manager
+[2026-02-16 04:30:04]   ✅ Database updated
+[2026-02-16 04:30:04] [47/50] Contact Us –orate Air. (Vero Beach)
+[2026-02-16 04:30:04]   Email: reservation@corporate-air.com
+[2026-02-16 04:30:04]   Website: https://corporate-air.com/contact-us/
+[2026-02-16 04:30:07]   ✓ Name from search: Sur votre
+[2026-02-16 04:30:07]   ✅ Database updated
+[2026-02-16 04:30:07] [48/50] Gutter Installation in Jensen Beach, FL, 34957 - Lowe's (Jensen Beach)
+[2026-02-16 04:30:07]   Email: DLBlanton@bellsouth.net
+[2026-02-16 04:30:07]   Website: https://www.lowes.com/store/0703-jensen-beach-fl/gutter-installation
+[2026-02-16 04:30:09]   ❌ No name found
+[2026-02-16 04:30:09] [49/50] School District of Martin County (Stuart)
+[2026-02-16 04:30:09]   Email: millayj@martinschools.org
+[2026-02-16 04:30:09]   Website: https://211pbtc.myresourcedirectory.com/index.php/component/cpx/?task=resource.view&id=3864313
+[2026-02-16 04:30:11]   ❌ No name found
+[2026-02-16 04:30:11] [50/50] Kitchen Bath & Home Design | Remodel: Stuart, Florida (Stuart)
+[2026-02-16 04:30:11]   Email: regina@kbhomedesign.com
+[2026-02-16 04:30:11]   Website: https://www.kitchenbathandhomedesign.com/
+[2026-02-16 04:30:13]   ❌ No name found
+[2026-02-16 04:30:13] ============================================================
+[2026-02-16 04:30:13] ENRICHMENT COMPLETE
+[2026-02-16 04:30:13]   Processed: 50
+[2026-02-16 04:30:13]   Found names: 13
+[2026-02-16 04:30:13]   Updated: 13
+[2026-02-16 04:30:13] ============================================================

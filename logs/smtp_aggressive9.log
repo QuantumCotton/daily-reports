@@ -1,0 +1,1695 @@
+[04:30:10][SEG9] ============================================================
+[04:30:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[04:30:10][SEG9] ============================================================
+[04:30:10][SEG9] Loaded 785 leads
+[04:30:10][SEG9] Leads in segment 9: 38
+[04:30:10][SEG9] Processing batch of 15
+[04:30:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[04:30:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:30:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[04:30:11][SEG9]     → ✗ REJECTED: rejected
+[04:30:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[04:30:11][SEG9]     → ✗ REJECTED: rejected
+[04:30:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[04:30:12][SEG9]     → ? UNKNOWN: unknown
+[04:30:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[04:30:12][SEG9]     → ✗ REJECTED: rejected
+[04:30:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[04:30:13][SEG9]     → ✗ REJECTED: rejected
+[04:30:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[04:30:14][SEG9]     → ? UNKNOWN: unknown
+[04:30:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[04:30:15][SEG9]     → ✗ REJECTED: rejected
+[04:30:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[04:30:16][SEG9]     → ? UNKNOWN: unknown
+[04:30:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[04:30:16][SEG9]     → ✓ VERIFIED
+[04:30:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[04:30:17][SEG9]     → ✓ VERIFIED
+[04:30:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[04:30:28][SEG9]     → ✓ VERIFIED
+[04:30:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[04:30:29][SEG9]     → ? UNKNOWN: unknown
+[04:30:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[04:30:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:30:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[04:30:30][SEG9]     → ? UNKNOWN: unknown
+[04:30:31][SEG9] Wrote 3 verified emails
+[04:30:31][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[04:30:31][SEG9] ============================================================
+[04:35:10][SEG9] ============================================================
+[04:35:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[04:35:10][SEG9] ============================================================
+[04:35:10][SEG9] Loaded 921 leads
+[04:35:10][SEG9] FATAL: 'NoneType' object has no attribute 'lower'
+[04:40:10][SEG9] ============================================================
+[04:40:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[04:40:10][SEG9] ============================================================
+[04:40:10][SEG9] Loaded 983 leads
+[04:40:10][SEG9] Leads in segment 9: 45
+[04:40:10][SEG9] Processing batch of 15
+[04:40:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[04:40:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[04:40:10][SEG9]     → ✗ REJECTED: rejected
+[04:40:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[04:40:11][SEG9]     → ✗ REJECTED: rejected
+[04:40:11][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[04:40:12][SEG9]     → ? UNKNOWN: unknown
+[04:40:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[04:40:12][SEG9]     → ✗ REJECTED: rejected
+[04:40:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[04:40:13][SEG9]     → ✗ REJECTED: rejected
+[04:40:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[04:40:14][SEG9]     → ? UNKNOWN: unknown
+[04:40:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[04:40:15][SEG9]     → ✗ REJECTED: rejected
+[04:40:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[04:40:15][SEG9]     → ? UNKNOWN: unknown
+[04:40:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[04:40:16][SEG9]     → ✓ VERIFIED
+[04:40:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[04:40:17][SEG9]     → ✓ VERIFIED
+[04:40:17][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[04:40:18][SEG9]     → ✗ REJECTED: rejected
+[04:40:18][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[04:40:18][SEG9]     → ? UNKNOWN: unknown
+[04:40:19][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[04:40:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:40:20][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[04:40:20][SEG9]     → ? UNKNOWN: unknown
+[04:40:20][SEG9] Wrote 2 verified emails
+[04:40:20][SEG9] SEGMENT 9 COMPLETE: 2 verified, 6 rejected
+[04:40:20][SEG9] ============================================================
+[04:45:10][SEG9] ============================================================
+[04:45:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[04:45:10][SEG9] ============================================================
+[04:45:10][SEG9] Loaded 1020 leads
+[04:45:10][SEG9] Leads in segment 9: 45
+[04:45:10][SEG9] Processing batch of 15
+[04:45:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[04:45:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:45:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[04:45:11][SEG9]     → ✗ REJECTED: rejected
+[04:45:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[04:45:12][SEG9]     → ✗ REJECTED: rejected
+[04:45:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[04:45:12][SEG9]     → ? UNKNOWN: unknown
+[04:45:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[04:45:13][SEG9]     → ✗ REJECTED: rejected
+[04:45:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[04:45:14][SEG9]     → ✗ REJECTED: rejected
+[04:45:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[04:45:14][SEG9]     → ? UNKNOWN: unknown
+[04:45:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[04:45:15][SEG9]     → ✗ REJECTED: rejected
+[04:45:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[04:45:16][SEG9]     → ? UNKNOWN: unknown
+[04:45:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[04:45:17][SEG9]     → ✓ VERIFIED
+[04:45:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[04:45:17][SEG9]     → ✓ VERIFIED
+[04:45:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[04:45:28][SEG9]     → ✓ VERIFIED
+[04:45:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[04:45:29][SEG9]     → ? UNKNOWN: unknown
+[04:45:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[04:45:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:45:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[04:45:31][SEG9]     → ? UNKNOWN: unknown
+[04:45:31][SEG9] Wrote 3 verified emails
+[04:45:31][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[04:45:31][SEG9] ============================================================
+[04:50:11][SEG9] ============================================================
+[04:50:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[04:50:11][SEG9] ============================================================
+[04:50:11][SEG9] Loaded 1044 leads
+[04:50:11][SEG9] FATAL: 'NoneType' object has no attribute 'lower'
+[04:55:10][SEG9] ============================================================
+[04:55:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[04:55:10][SEG9] ============================================================
+[04:55:10][SEG9] Loaded 1237 leads
+[04:55:10][SEG9] Leads in segment 9: 59
+[04:55:10][SEG9] Processing batch of 15
+[04:55:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[04:55:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:55:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[04:55:11][SEG9]     → ✗ REJECTED: rejected
+[04:55:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[04:55:12][SEG9]     → ✗ REJECTED: rejected
+[04:55:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[04:55:12][SEG9]     → ? UNKNOWN: unknown
+[04:55:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[04:55:13][SEG9]     → ✗ REJECTED: rejected
+[04:55:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[04:55:13][SEG9]     → ✗ REJECTED: rejected
+[04:55:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[04:55:14][SEG9]     → ? UNKNOWN: unknown
+[04:55:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[04:55:15][SEG9]     → ✗ REJECTED: rejected
+[04:55:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[04:55:15][SEG9]     → ? UNKNOWN: unknown
+[04:55:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[04:55:16][SEG9]     → ✓ VERIFIED
+[04:55:16][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[04:55:17][SEG9]     → ✓ VERIFIED
+[04:55:17][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[04:55:28][SEG9]     → ✓ VERIFIED
+[04:55:28][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[04:55:28][SEG9]     → ? UNKNOWN: unknown
+[04:55:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[04:55:29][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[04:55:29][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[04:55:30][SEG9]     → ? UNKNOWN: unknown
+[04:55:30][SEG9] Wrote 3 verified emails
+[04:55:30][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[04:55:30][SEG9] ============================================================
+[05:00:11][SEG9] ============================================================
+[05:00:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:00:11][SEG9] ============================================================
+[05:00:11][SEG9] Loaded 1253 leads
+[05:00:11][SEG9] Leads in segment 9: 59
+[05:00:11][SEG9] Processing batch of 15
+[05:00:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:00:12][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:12][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:00:12][SEG9]     → ✗ REJECTED: rejected
+[05:00:13][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:00:13][SEG9]     → ✗ REJECTED: rejected
+[05:00:14][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:00:14][SEG9]     → ? UNKNOWN: unknown
+[05:00:14][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:00:14][SEG9]     → ✗ REJECTED: rejected
+[05:00:15][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:00:15][SEG9]     → ✗ REJECTED: rejected
+[05:00:16][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:00:16][SEG9]     → ? UNKNOWN: unknown
+[05:00:17][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:00:17][SEG9]     → ✗ REJECTED: rejected
+[05:00:17][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:00:18][SEG9]     → ? UNKNOWN: unknown
+[05:00:18][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:00:18][SEG9]     → ✓ VERIFIED
+[05:00:19][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:00:19][SEG9]     → ✓ VERIFIED
+[05:00:20][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:00:20][SEG9]     → ✗ REJECTED: rejected
+[05:00:20][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:00:21][SEG9]     → ? UNKNOWN: unknown
+[05:00:21][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:00:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:00:22][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:00:22][SEG9]     → ? UNKNOWN: unknown
+[05:00:22][SEG9] Wrote 2 verified emails
+[05:00:22][SEG9] SEGMENT 9 COMPLETE: 2 verified, 6 rejected
+[05:00:22][SEG9] ============================================================
+[05:05:10][SEG9] ============================================================
+[05:05:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:05:10][SEG9] ============================================================
+[05:05:10][SEG9] Loaded 1330 leads
+[05:05:10][SEG9] Leads in segment 9: 69
+[05:05:10][SEG9] Processing batch of 15
+[05:05:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:05:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:05:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:05:11][SEG9]     → ✗ REJECTED: rejected
+[05:05:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:05:12][SEG9]     → ✗ REJECTED: rejected
+[05:05:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:05:12][SEG9]     → ? UNKNOWN: unknown
+[05:05:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:05:13][SEG9]     → ✗ REJECTED: rejected
+[05:05:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:05:14][SEG9]     → ✗ REJECTED: rejected
+[05:05:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:05:15][SEG9]     → ? UNKNOWN: unknown
+[05:05:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:05:15][SEG9]     → ✗ REJECTED: rejected
+[05:05:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:05:16][SEG9]     → ? UNKNOWN: unknown
+[05:05:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:05:17][SEG9]     → ✓ VERIFIED
+[05:05:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:05:18][SEG9]     → ✓ VERIFIED
+[05:05:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:05:28][SEG9]     → ✓ VERIFIED
+[05:05:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:05:29][SEG9]     → ? UNKNOWN: unknown
+[05:05:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:05:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:05:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:05:30][SEG9]     → ? UNKNOWN: unknown
+[05:05:30][SEG9] Wrote 3 verified emails
+[05:05:30][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:05:30][SEG9] ============================================================
+[05:10:11][SEG9] ============================================================
+[05:10:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:10:11][SEG9] ============================================================
+[05:10:11][SEG9] Loaded 1330 leads
+[05:10:11][SEG9] Leads in segment 9: 69
+[05:10:11][SEG9] Processing batch of 15
+[05:10:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:10:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:10:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:10:12][SEG9]     → ✗ REJECTED: rejected
+[05:10:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:10:12][SEG9]     → ✗ REJECTED: rejected
+[05:10:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:10:13][SEG9]     → ? UNKNOWN: unknown
+[05:10:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:10:13][SEG9]     → ✗ REJECTED: rejected
+[05:10:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:10:14][SEG9]     → ✗ REJECTED: rejected
+[05:10:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:10:14][SEG9]     → ? UNKNOWN: unknown
+[05:10:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:10:15][SEG9]     → ✗ REJECTED: rejected
+[05:10:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:10:16][SEG9]     → ? UNKNOWN: unknown
+[05:10:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:10:17][SEG9]     → ✓ VERIFIED
+[05:10:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:10:17][SEG9]     → ✓ VERIFIED
+[05:10:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:10:28][SEG9]     → ✓ VERIFIED
+[05:10:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:10:29][SEG9]     → ? UNKNOWN: unknown
+[05:10:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:10:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:10:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:10:30][SEG9]     → ? UNKNOWN: unknown
+[05:10:30][SEG9] Wrote 3 verified emails
+[05:10:30][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:10:30][SEG9] ============================================================
+[05:15:10][SEG9] ============================================================
+[05:15:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:15:10][SEG9] ============================================================
+[05:15:10][SEG9] Loaded 2665 leads
+[05:15:10][SEG9] Leads in segment 9: 70
+[05:15:10][SEG9] Processing batch of 15
+[05:15:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:15:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:15:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:15:11][SEG9]     → ✗ REJECTED: rejected
+[05:15:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:15:12][SEG9]     → ✗ REJECTED: rejected
+[05:15:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:15:12][SEG9]     → ? UNKNOWN: unknown
+[05:15:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:15:13][SEG9]     → ✗ REJECTED: rejected
+[05:15:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:15:14][SEG9]     → ✗ REJECTED: rejected
+[05:15:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:15:15][SEG9]     → ? UNKNOWN: unknown
+[05:15:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:15:15][SEG9]     → ✗ REJECTED: rejected
+[05:15:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:15:16][SEG9]     → ? UNKNOWN: unknown
+[05:15:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:15:17][SEG9]     → ✓ VERIFIED
+[05:15:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:15:17][SEG9]     → ✓ VERIFIED
+[05:15:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:15:28][SEG9]     → ✓ VERIFIED
+[05:15:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:15:29][SEG9]     → ? UNKNOWN: unknown
+[05:15:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:15:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:15:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:15:30][SEG9]     → ? UNKNOWN: unknown
+[05:15:31][SEG9] Wrote 3 verified emails
+[05:15:31][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:15:31][SEG9] ============================================================
+[05:20:10][SEG9] ============================================================
+[05:20:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:20:10][SEG9] ============================================================
+[05:20:11][SEG9] Loaded 2665 leads
+[05:20:11][SEG9] Leads in segment 9: 85
+[05:20:11][SEG9] Processing batch of 15
+[05:20:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:20:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:20:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:20:11][SEG9]     → ✗ REJECTED: rejected
+[05:20:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:20:12][SEG9]     → ✗ REJECTED: rejected
+[05:20:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:20:12][SEG9]     → ? UNKNOWN: unknown
+[05:20:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:20:13][SEG9]     → ✗ REJECTED: rejected
+[05:20:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:20:14][SEG9]     → ✗ REJECTED: rejected
+[05:20:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:20:14][SEG9]     → ? UNKNOWN: unknown
+[05:20:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:20:15][SEG9]     → ✗ REJECTED: rejected
+[05:20:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:20:16][SEG9]     → ? UNKNOWN: unknown
+[05:20:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:20:17][SEG9]     → ✓ VERIFIED
+[05:20:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:20:17][SEG9]     → ✓ VERIFIED
+[05:20:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:20:28][SEG9]     → ✓ VERIFIED
+[05:20:28][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:20:29][SEG9]     → ? UNKNOWN: unknown
+[05:20:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:20:31][SEG9]     → SKIP: no MX for crosbysconstructionfl.com
+[05:20:31][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:20:31][SEG9]     → ? UNKNOWN: unknown
+[05:20:32][SEG9] Wrote 3 verified emails
+[05:20:32][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:20:32][SEG9] ============================================================
+[05:25:09][SEG9] ============================================================
+[05:25:09][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:25:09][SEG9] ============================================================
+[05:25:09][SEG9] Loaded 2665 leads
+[05:25:09][SEG9] Leads in segment 9: 85
+[05:25:09][SEG9] Processing batch of 15
+[05:25:09][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:25:09][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:25:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:25:10][SEG9]     → ✗ REJECTED: rejected
+[05:25:10][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:25:11][SEG9]     → ✗ REJECTED: rejected
+[05:25:11][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:25:11][SEG9]     → ? UNKNOWN: unknown
+[05:25:11][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:25:12][SEG9]     → ✗ REJECTED: rejected
+[05:25:12][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:25:13][SEG9]     → ✗ REJECTED: rejected
+[05:25:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:25:13][SEG9]     → ? UNKNOWN: unknown
+[05:25:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:25:14][SEG9]     → ✗ REJECTED: rejected
+[05:25:14][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:25:14][SEG9]     → ? UNKNOWN: unknown
+[05:25:15][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:25:15][SEG9]     → ✓ VERIFIED
+[05:25:15][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:25:16][SEG9]     → ✓ VERIFIED
+[05:25:16][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:25:27][SEG9]     → ✓ VERIFIED
+[05:25:27][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:25:27][SEG9]     → ? UNKNOWN: unknown
+[05:25:27][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:25:28][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:25:28][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:25:28][SEG9]     → ? UNKNOWN: unknown
+[05:25:29][SEG9] Wrote 3 verified emails
+[05:25:29][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:25:29][SEG9] ============================================================
+[05:30:10][SEG9] ============================================================
+[05:30:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:30:10][SEG9] ============================================================
+[05:30:10][SEG9] Loaded 2665 leads
+[05:30:10][SEG9] Leads in segment 9: 85
+[05:30:10][SEG9] Processing batch of 15
+[05:30:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:30:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:30:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:30:12][SEG9]     → ✗ REJECTED: rejected
+[05:30:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:30:12][SEG9]     → ✗ REJECTED: rejected
+[05:30:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:30:13][SEG9]     → ? UNKNOWN: unknown
+[05:30:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:30:13][SEG9]     → ✗ REJECTED: rejected
+[05:30:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:30:14][SEG9]     → ✗ REJECTED: rejected
+[05:30:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:30:15][SEG9]     → ? UNKNOWN: unknown
+[05:30:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:30:15][SEG9]     → ✗ REJECTED: rejected
+[05:30:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:30:16][SEG9]     → ? UNKNOWN: unknown
+[05:30:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:30:17][SEG9]     → ✓ VERIFIED
+[05:30:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:30:18][SEG9]     → ✓ VERIFIED
+[05:30:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:30:29][SEG9]     → ✓ VERIFIED
+[05:30:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:30:29][SEG9]     → ? UNKNOWN: unknown
+[05:30:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:30:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:30:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:30:31][SEG9]     → ? UNKNOWN: unknown
+[05:30:31][SEG9] Wrote 3 verified emails
+[05:30:31][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:30:31][SEG9] ============================================================
+[05:35:10][SEG9] ============================================================
+[05:35:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:35:10][SEG9] ============================================================
+[05:35:10][SEG9] Loaded 2665 leads
+[05:35:10][SEG9] Leads in segment 9: 85
+[05:35:10][SEG9] Processing batch of 15
+[05:35:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:35:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:35:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:35:11][SEG9]     → ✗ REJECTED: rejected
+[05:35:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:35:12][SEG9]     → ✗ REJECTED: rejected
+[05:35:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:35:12][SEG9]     → ? UNKNOWN: unknown
+[05:35:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:35:13][SEG9]     → ✗ REJECTED: rejected
+[05:35:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:35:14][SEG9]     → ✗ REJECTED: rejected
+[05:35:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:35:15][SEG9]     → ? UNKNOWN: unknown
+[05:35:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:35:15][SEG9]     → ✗ REJECTED: rejected
+[05:35:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:35:16][SEG9]     → ? UNKNOWN: unknown
+[05:35:16][SEG9]   [10/15] Ceramic Coating Experts | Best Auto → showtimedetailing28@gmail.com
+[05:35:17][SEG9]     → ✓ VERIFIED
+[05:35:17][SEG9]   [11/15] Caterer Service in Treasure Coast,  → joe.stellato@gmail.com
+[05:35:17][SEG9]     → ✓ VERIFIED
+[05:35:18][SEG9]   [12/15] Treasure Coast Commercial Cleaning  → info@cleanproservicesllc.com
+[05:35:28][SEG9]     → ✓ VERIFIED
+[05:35:29][SEG9]   [13/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:35:29][SEG9]     → ? UNKNOWN: unknown
+[05:35:29][SEG9]   [14/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:35:30][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:35:30][SEG9]   [15/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:35:30][SEG9]     → ? UNKNOWN: unknown
+[05:35:31][SEG9] Wrote 3 verified emails
+[05:35:31][SEG9] SEGMENT 9 COMPLETE: 3 verified, 5 rejected
+[05:35:31][SEG9] ============================================================
+[05:40:09][SEG9] ============================================================
+[05:40:09][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:40:09][SEG9] ============================================================
+[05:40:09][SEG9] Loaded 2665 leads
+[05:40:09][SEG9] Leads in segment 9: 82
+[05:40:09][SEG9] Processing batch of 15
+[05:40:09][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:40:09][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:09][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:40:10][SEG9]     → ✗ REJECTED: rejected
+[05:40:10][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:40:10][SEG9]     → ✗ REJECTED: rejected
+[05:40:11][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:40:11][SEG9]     → ? UNKNOWN: unknown
+[05:40:11][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:40:12][SEG9]     → ✗ REJECTED: rejected
+[05:40:12][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:40:12][SEG9]     → ✗ REJECTED: rejected
+[05:40:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:40:14][SEG9]     → ? UNKNOWN: unknown
+[05:40:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:40:14][SEG9]     → ✗ REJECTED: rejected
+[05:40:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:40:15][SEG9]     → ? UNKNOWN: unknown
+[05:40:15][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:40:16][SEG9]     → ? UNKNOWN: unknown
+[05:40:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:40:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:40:17][SEG9]     → ? UNKNOWN: unknown
+[05:40:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[05:40:18][SEG9]     → ? UNKNOWN: unknown
+[05:40:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[05:40:19][SEG9]     → ? UNKNOWN: unknown
+[05:40:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[05:40:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:40:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[05:40:20][SEG9] ============================================================
+[05:45:10][SEG9] ============================================================
+[05:45:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:45:10][SEG9] ============================================================
+[05:45:10][SEG9] Loaded 2665 leads
+[05:45:10][SEG9] Leads in segment 9: 82
+[05:45:10][SEG9] Processing batch of 15
+[05:45:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:45:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:45:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:45:11][SEG9]     → ✗ REJECTED: rejected
+[05:45:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:45:12][SEG9]     → ✗ REJECTED: rejected
+[05:45:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:45:13][SEG9]     → ? UNKNOWN: unknown
+[05:45:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:45:13][SEG9]     → ✗ REJECTED: rejected
+[05:45:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:45:14][SEG9]     → ✗ REJECTED: rejected
+[05:45:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:45:15][SEG9]     → ? UNKNOWN: unknown
+[05:45:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:45:15][SEG9]     → ✗ REJECTED: rejected
+[05:45:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:45:16][SEG9]     → ? UNKNOWN: unknown
+[05:45:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:45:17][SEG9]     → ? UNKNOWN: unknown
+[05:45:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:45:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:45:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:45:18][SEG9]     → ? UNKNOWN: unknown
+[05:45:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[05:45:20][SEG9]     → ? UNKNOWN: unknown
+[05:45:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[05:45:21][SEG9]     → ? UNKNOWN: unknown
+[05:45:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[05:45:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:45:22][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[05:45:22][SEG9] ============================================================
+[05:50:10][SEG9] ============================================================
+[05:50:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:50:10][SEG9] ============================================================
+[05:50:10][SEG9] Loaded 2665 leads
+[05:50:10][SEG9] Leads in segment 9: 82
+[05:50:10][SEG9] Processing batch of 15
+[05:50:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:50:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:50:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:50:11][SEG9]     → ✗ REJECTED: rejected
+[05:50:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:50:12][SEG9]     → ✗ REJECTED: rejected
+[05:50:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:50:12][SEG9]     → ? UNKNOWN: unknown
+[05:50:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:50:13][SEG9]     → ✗ REJECTED: rejected
+[05:50:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:50:14][SEG9]     → ✗ REJECTED: rejected
+[05:50:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:50:14][SEG9]     → ? UNKNOWN: unknown
+[05:50:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:50:15][SEG9]     → ✗ REJECTED: rejected
+[05:50:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:50:15][SEG9]     → ? UNKNOWN: unknown
+[05:50:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:50:16][SEG9]     → ? UNKNOWN: unknown
+[05:50:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:50:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:50:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:50:17][SEG9]     → ? UNKNOWN: unknown
+[05:50:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[05:50:19][SEG9]     → ? UNKNOWN: unknown
+[05:50:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[05:50:19][SEG9]     → ? UNKNOWN: unknown
+[05:50:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[05:50:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:50:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[05:50:20][SEG9] ============================================================
+[05:55:09][SEG9] ============================================================
+[05:55:09][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[05:55:09][SEG9] ============================================================
+[05:55:09][SEG9] Loaded 2665 leads
+[05:55:09][SEG9] Leads in segment 9: 82
+[05:55:09][SEG9] Processing batch of 15
+[05:55:09][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[05:55:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:55:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[05:55:11][SEG9]     → ✗ REJECTED: rejected
+[05:55:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[05:55:11][SEG9]     → ✗ REJECTED: rejected
+[05:55:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[05:55:12][SEG9]     → ? UNKNOWN: unknown
+[05:55:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[05:55:12][SEG9]     → ✗ REJECTED: rejected
+[05:55:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[05:55:13][SEG9]     → ✗ REJECTED: rejected
+[05:55:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[05:55:14][SEG9]     → ? UNKNOWN: unknown
+[05:55:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[05:55:14][SEG9]     → ✗ REJECTED: rejected
+[05:55:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[05:55:15][SEG9]     → ? UNKNOWN: unknown
+[05:55:15][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[05:55:16][SEG9]     → ? UNKNOWN: unknown
+[05:55:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[05:55:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:55:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[05:55:17][SEG9]     → ? UNKNOWN: unknown
+[05:55:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[05:55:18][SEG9]     → ? UNKNOWN: unknown
+[05:55:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[05:55:19][SEG9]     → ? UNKNOWN: unknown
+[05:55:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[05:55:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[05:55:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[05:55:20][SEG9] ============================================================
+[06:00:11][SEG9] ============================================================
+[06:00:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:00:11][SEG9] ============================================================
+[06:00:11][SEG9] Loaded 2665 leads
+[06:00:11][SEG9] Leads in segment 9: 82
+[06:00:11][SEG9] Processing batch of 15
+[06:00:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:00:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:00:11][SEG9]     → ✗ REJECTED: rejected
+[06:00:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:00:12][SEG9]     → ✗ REJECTED: rejected
+[06:00:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:00:13][SEG9]     → ? UNKNOWN: unknown
+[06:00:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:00:14][SEG9]     → ✗ REJECTED: rejected
+[06:00:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:00:14][SEG9]     → ✗ REJECTED: rejected
+[06:00:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:00:15][SEG9]     → ? UNKNOWN: unknown
+[06:00:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:00:16][SEG9]     → ✗ REJECTED: rejected
+[06:00:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:00:16][SEG9]     → ? UNKNOWN: unknown
+[06:00:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:00:17][SEG9]     → ? UNKNOWN: unknown
+[06:00:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:00:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:00:18][SEG9]     → ? UNKNOWN: unknown
+[06:00:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:00:20][SEG9]     → ? UNKNOWN: unknown
+[06:00:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:00:20][SEG9]     → ? UNKNOWN: unknown
+[06:00:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:00:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:00:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:00:21][SEG9] ============================================================
+[06:05:10][SEG9] ============================================================
+[06:05:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:05:10][SEG9] ============================================================
+[06:05:10][SEG9] Loaded 2665 leads
+[06:05:10][SEG9] Leads in segment 9: 82
+[06:05:10][SEG9] Processing batch of 15
+[06:05:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:05:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:05:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:05:11][SEG9]     → ✗ REJECTED: rejected
+[06:05:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:05:12][SEG9]     → ✗ REJECTED: rejected
+[06:05:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:05:13][SEG9]     → ? UNKNOWN: unknown
+[06:05:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:05:13][SEG9]     → ✗ REJECTED: rejected
+[06:05:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:05:14][SEG9]     → ✗ REJECTED: rejected
+[06:05:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:05:15][SEG9]     → ? UNKNOWN: unknown
+[06:05:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:05:15][SEG9]     → ✗ REJECTED: rejected
+[06:05:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:05:16][SEG9]     → ? UNKNOWN: unknown
+[06:05:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:05:17][SEG9]     → ? UNKNOWN: unknown
+[06:05:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:05:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:05:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:05:18][SEG9]     → ? UNKNOWN: unknown
+[06:05:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:05:19][SEG9]     → ? UNKNOWN: unknown
+[06:05:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:05:20][SEG9]     → ? UNKNOWN: unknown
+[06:05:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:05:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:05:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:05:21][SEG9] ============================================================
+[06:10:09][SEG9] ============================================================
+[06:10:09][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:10:09][SEG9] ============================================================
+[06:10:09][SEG9] Loaded 2665 leads
+[06:10:09][SEG9] Leads in segment 9: 82
+[06:10:09][SEG9] Processing batch of 15
+[06:10:09][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:10:09][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:10:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:10:10][SEG9]     → ✗ REJECTED: rejected
+[06:10:10][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:10:11][SEG9]     → ✗ REJECTED: rejected
+[06:10:11][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:10:11][SEG9]     → ? UNKNOWN: unknown
+[06:10:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:10:12][SEG9]     → ✗ REJECTED: rejected
+[06:10:12][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:10:12][SEG9]     → ✗ REJECTED: rejected
+[06:10:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:10:13][SEG9]     → ? UNKNOWN: unknown
+[06:10:13][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:10:14][SEG9]     → ✗ REJECTED: rejected
+[06:10:14][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:10:14][SEG9]     → ? UNKNOWN: unknown
+[06:10:15][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:10:15][SEG9]     → ? UNKNOWN: unknown
+[06:10:15][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:10:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:10:16][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:10:16][SEG9]     → ? UNKNOWN: unknown
+[06:10:16][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:10:17][SEG9]     → ? UNKNOWN: unknown
+[06:10:18][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:10:18][SEG9]     → ? UNKNOWN: unknown
+[06:10:18][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:10:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:10:19][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:10:19][SEG9] ============================================================
+[06:15:10][SEG9] ============================================================
+[06:15:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:15:10][SEG9] ============================================================
+[06:15:10][SEG9] Loaded 2665 leads
+[06:15:10][SEG9] Leads in segment 9: 82
+[06:15:10][SEG9] Processing batch of 15
+[06:15:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:15:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:15:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:15:11][SEG9]     → ✗ REJECTED: rejected
+[06:15:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:15:12][SEG9]     → ✗ REJECTED: rejected
+[06:15:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:15:12][SEG9]     → ? UNKNOWN: unknown
+[06:15:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:15:13][SEG9]     → ✗ REJECTED: rejected
+[06:15:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:15:14][SEG9]     → ✗ REJECTED: rejected
+[06:15:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:15:14][SEG9]     → ? UNKNOWN: unknown
+[06:15:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:15:15][SEG9]     → ✗ REJECTED: rejected
+[06:15:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:15:15][SEG9]     → ? UNKNOWN: unknown
+[06:15:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:15:16][SEG9]     → ? UNKNOWN: unknown
+[06:15:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:15:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:15:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:15:17][SEG9]     → ? UNKNOWN: unknown
+[06:15:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:15:18][SEG9]     → ? UNKNOWN: unknown
+[06:15:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:15:19][SEG9]     → ? UNKNOWN: unknown
+[06:15:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:15:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:15:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:15:20][SEG9] ============================================================
+[06:25:09][SEG9] ============================================================
+[06:25:09][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:25:09][SEG9] ============================================================
+[06:25:09][SEG9] Loaded 2665 leads
+[06:25:09][SEG9] Leads in segment 9: 82
+[06:25:09][SEG9] Processing batch of 15
+[06:25:09][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:25:09][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:25:09][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:25:10][SEG9]     → ✗ REJECTED: rejected
+[06:25:10][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:25:10][SEG9]     → ✗ REJECTED: rejected
+[06:25:11][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:25:11][SEG9]     → ? UNKNOWN: unknown
+[06:25:11][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:25:12][SEG9]     → ✗ REJECTED: rejected
+[06:25:12][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:25:12][SEG9]     → ✗ REJECTED: rejected
+[06:25:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:25:13][SEG9]     → ? UNKNOWN: unknown
+[06:25:13][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:25:14][SEG9]     → ✗ REJECTED: rejected
+[06:25:14][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:25:14][SEG9]     → ? UNKNOWN: unknown
+[06:25:15][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:25:15][SEG9]     → ? UNKNOWN: unknown
+[06:25:15][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:25:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:25:16][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:25:16][SEG9]     → ? UNKNOWN: unknown
+[06:25:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:25:17][SEG9]     → ? UNKNOWN: unknown
+[06:25:18][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:25:18][SEG9]     → ? UNKNOWN: unknown
+[06:25:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:25:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:25:19][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:25:19][SEG9] ============================================================
+[06:30:11][SEG9] ============================================================
+[06:30:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:30:11][SEG9] ============================================================
+[06:30:11][SEG9] Loaded 2665 leads
+[06:30:11][SEG9] Leads in segment 9: 82
+[06:30:11][SEG9] Processing batch of 15
+[06:30:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:30:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:30:12][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:30:12][SEG9]     → ✗ REJECTED: rejected
+[06:30:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:30:13][SEG9]     → ✗ REJECTED: rejected
+[06:30:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:30:13][SEG9]     → ? UNKNOWN: unknown
+[06:30:14][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:30:14][SEG9]     → ✗ REJECTED: rejected
+[06:30:15][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:30:15][SEG9]     → ✗ REJECTED: rejected
+[06:30:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:30:16][SEG9]     → ? UNKNOWN: unknown
+[06:30:16][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:30:16][SEG9]     → ✗ REJECTED: rejected
+[06:30:17][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:30:17][SEG9]     → ? UNKNOWN: unknown
+[06:30:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:30:18][SEG9]     → ? UNKNOWN: unknown
+[06:30:18][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:30:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:30:19][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:30:19][SEG9]     → ? UNKNOWN: unknown
+[06:30:20][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:30:20][SEG9]     → ? UNKNOWN: unknown
+[06:30:21][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:30:21][SEG9]     → ? UNKNOWN: unknown
+[06:30:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:30:22][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:30:22][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:30:22][SEG9] ============================================================
+[06:35:10][SEG9] ============================================================
+[06:35:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:35:10][SEG9] ============================================================
+[06:35:10][SEG9] Loaded 2665 leads
+[06:35:10][SEG9] Leads in segment 9: 82
+[06:35:10][SEG9] Processing batch of 15
+[06:35:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:35:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:35:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:35:11][SEG9]     → ✗ REJECTED: rejected
+[06:35:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:35:12][SEG9]     → ✗ REJECTED: rejected
+[06:35:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:35:13][SEG9]     → ? UNKNOWN: unknown
+[06:35:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:35:13][SEG9]     → ✗ REJECTED: rejected
+[06:35:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:35:14][SEG9]     → ✗ REJECTED: rejected
+[06:35:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:35:14][SEG9]     → ? UNKNOWN: unknown
+[06:35:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:35:15][SEG9]     → ✗ REJECTED: rejected
+[06:35:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:35:16][SEG9]     → ? UNKNOWN: unknown
+[06:35:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:35:16][SEG9]     → ? UNKNOWN: unknown
+[06:35:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:35:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:35:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:35:17][SEG9]     → ? UNKNOWN: unknown
+[06:35:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:35:19][SEG9]     → ? UNKNOWN: unknown
+[06:35:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:35:19][SEG9]     → ? UNKNOWN: unknown
+[06:35:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:35:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:35:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:35:20][SEG9] ============================================================
+[06:40:09][SEG9] ============================================================
+[06:40:09][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:40:09][SEG9] ============================================================
+[06:40:09][SEG9] Loaded 2665 leads
+[06:40:09][SEG9] Leads in segment 9: 82
+[06:40:09][SEG9] Processing batch of 15
+[06:40:09][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:40:09][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:40:10][SEG9]     → ✗ REJECTED: rejected
+[06:40:10][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:40:11][SEG9]     → ✗ REJECTED: rejected
+[06:40:11][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:40:11][SEG9]     → ? UNKNOWN: unknown
+[06:40:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:40:12][SEG9]     → ✗ REJECTED: rejected
+[06:40:12][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:40:12][SEG9]     → ✗ REJECTED: rejected
+[06:40:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:40:13][SEG9]     → ? UNKNOWN: unknown
+[06:40:13][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:40:14][SEG9]     → ✗ REJECTED: rejected
+[06:40:14][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:40:14][SEG9]     → ? UNKNOWN: unknown
+[06:40:14][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:40:15][SEG9]     → ? UNKNOWN: unknown
+[06:40:15][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:40:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:16][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:40:16][SEG9]     → ? UNKNOWN: unknown
+[06:40:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:40:18][SEG9]     → ? UNKNOWN: unknown
+[06:40:18][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:40:19][SEG9]     → ? UNKNOWN: unknown
+[06:40:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:40:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:40:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:40:20][SEG9] ============================================================
+[06:45:10][SEG9] ============================================================
+[06:45:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:45:10][SEG9] ============================================================
+[06:45:10][SEG9] Loaded 2665 leads
+[06:45:10][SEG9] Leads in segment 9: 86
+[06:45:10][SEG9] Processing batch of 15
+[06:45:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:45:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:45:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:45:11][SEG9]     → ✗ REJECTED: rejected
+[06:45:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:45:12][SEG9]     → ✗ REJECTED: rejected
+[06:45:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:45:12][SEG9]     → ? UNKNOWN: unknown
+[06:45:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:45:13][SEG9]     → ✗ REJECTED: rejected
+[06:45:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:45:14][SEG9]     → ✗ REJECTED: rejected
+[06:45:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:45:15][SEG9]     → ? UNKNOWN: unknown
+[06:45:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:45:15][SEG9]     → ✗ REJECTED: rejected
+[06:45:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:45:16][SEG9]     → ? UNKNOWN: unknown
+[06:45:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:45:17][SEG9]     → ? UNKNOWN: unknown
+[06:45:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:45:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:45:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:45:18][SEG9]     → ? UNKNOWN: unknown
+[06:45:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:45:19][SEG9]     → ? UNKNOWN: unknown
+[06:45:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:45:20][SEG9]     → ? UNKNOWN: unknown
+[06:45:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:45:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:45:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:45:21][SEG9] ============================================================
+[06:50:10][SEG9] ============================================================
+[06:50:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:50:10][SEG9] ============================================================
+[06:50:10][SEG9] Loaded 2665 leads
+[06:50:10][SEG9] Leads in segment 9: 87
+[06:50:10][SEG9] Processing batch of 15
+[06:50:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:50:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:50:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:50:11][SEG9]     → ✗ REJECTED: rejected
+[06:50:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:50:12][SEG9]     → ✗ REJECTED: rejected
+[06:50:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:50:12][SEG9]     → ? UNKNOWN: unknown
+[06:50:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:50:13][SEG9]     → ✗ REJECTED: rejected
+[06:50:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:50:14][SEG9]     → ✗ REJECTED: rejected
+[06:50:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:50:14][SEG9]     → ? UNKNOWN: unknown
+[06:50:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:50:15][SEG9]     → ✗ REJECTED: rejected
+[06:50:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:50:15][SEG9]     → ? UNKNOWN: unknown
+[06:50:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:50:16][SEG9]     → ? UNKNOWN: unknown
+[06:50:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:50:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:50:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:50:17][SEG9]     → ? UNKNOWN: unknown
+[06:50:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:50:18][SEG9]     → ? UNKNOWN: unknown
+[06:50:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:50:19][SEG9]     → ? UNKNOWN: unknown
+[06:50:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:50:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:50:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:50:20][SEG9] ============================================================
+[06:55:10][SEG9] ============================================================
+[06:55:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[06:55:10][SEG9] ============================================================
+[06:55:10][SEG9] Loaded 2665 leads
+[06:55:10][SEG9] Leads in segment 9: 89
+[06:55:10][SEG9] Processing batch of 15
+[06:55:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[06:55:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:55:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[06:55:11][SEG9]     → ✗ REJECTED: rejected
+[06:55:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[06:55:12][SEG9]     → ✗ REJECTED: rejected
+[06:55:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[06:55:12][SEG9]     → ? UNKNOWN: unknown
+[06:55:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[06:55:13][SEG9]     → ✗ REJECTED: rejected
+[06:55:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[06:55:14][SEG9]     → ✗ REJECTED: rejected
+[06:55:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[06:55:14][SEG9]     → ? UNKNOWN: unknown
+[06:55:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[06:55:15][SEG9]     → ✗ REJECTED: rejected
+[06:55:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[06:55:16][SEG9]     → ? UNKNOWN: unknown
+[06:55:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[06:55:16][SEG9]     → ? UNKNOWN: unknown
+[06:55:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[06:55:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:55:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[06:55:17][SEG9]     → ? UNKNOWN: unknown
+[06:55:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[06:55:19][SEG9]     → ? UNKNOWN: unknown
+[06:55:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[06:55:20][SEG9]     → ? UNKNOWN: unknown
+[06:55:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[06:55:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[06:55:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[06:55:21][SEG9] ============================================================
+[07:00:11][SEG9] ============================================================
+[07:00:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:00:11][SEG9] ============================================================
+[07:00:11][SEG9] Loaded 2665 leads
+[07:00:11][SEG9] Leads in segment 9: 89
+[07:00:11][SEG9] Processing batch of 15
+[07:00:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:00:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:12][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:00:12][SEG9]     → ✗ REJECTED: rejected
+[07:00:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:00:12][SEG9]     → ✗ REJECTED: rejected
+[07:00:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:00:13][SEG9]     → ? UNKNOWN: unknown
+[07:00:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:00:14][SEG9]     → ✗ REJECTED: rejected
+[07:00:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:00:14][SEG9]     → ✗ REJECTED: rejected
+[07:00:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:00:15][SEG9]     → ? UNKNOWN: unknown
+[07:00:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:00:16][SEG9]     → ✗ REJECTED: rejected
+[07:00:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:00:16][SEG9]     → ? UNKNOWN: unknown
+[07:00:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:00:17][SEG9]     → ? UNKNOWN: unknown
+[07:00:18][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:00:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:00:19][SEG9]     → ? UNKNOWN: unknown
+[07:00:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:00:20][SEG9]     → ? UNKNOWN: unknown
+[07:00:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:00:21][SEG9]     → ? UNKNOWN: unknown
+[07:00:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:00:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:00:22][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:00:22][SEG9] ============================================================
+[07:05:10][SEG9] ============================================================
+[07:05:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:05:10][SEG9] ============================================================
+[07:05:10][SEG9] Loaded 2665 leads
+[07:05:10][SEG9] Leads in segment 9: 89
+[07:05:10][SEG9] Processing batch of 15
+[07:05:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:05:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:05:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:05:11][SEG9]     → ✗ REJECTED: rejected
+[07:05:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:05:12][SEG9]     → ✗ REJECTED: rejected
+[07:05:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:05:12][SEG9]     → ? UNKNOWN: unknown
+[07:05:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:05:13][SEG9]     → ✗ REJECTED: rejected
+[07:05:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:05:14][SEG9]     → ✗ REJECTED: rejected
+[07:05:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:05:14][SEG9]     → ? UNKNOWN: unknown
+[07:05:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:05:15][SEG9]     → ✗ REJECTED: rejected
+[07:05:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:05:15][SEG9]     → ? UNKNOWN: unknown
+[07:05:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:05:16][SEG9]     → ? UNKNOWN: unknown
+[07:05:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:05:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:05:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:05:17][SEG9]     → ? UNKNOWN: unknown
+[07:05:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:05:18][SEG9]     → ? UNKNOWN: unknown
+[07:05:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:05:19][SEG9]     → ? UNKNOWN: unknown
+[07:05:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:05:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:05:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:05:20][SEG9] ============================================================
+[07:10:10][SEG9] ============================================================
+[07:10:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:10:10][SEG9] ============================================================
+[07:10:10][SEG9] Loaded 2665 leads
+[07:10:10][SEG9] Leads in segment 9: 89
+[07:10:10][SEG9] Processing batch of 15
+[07:10:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:10:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:10:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:10:11][SEG9]     → ✗ REJECTED: rejected
+[07:10:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:10:11][SEG9]     → ✗ REJECTED: rejected
+[07:10:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:10:12][SEG9]     → ? UNKNOWN: unknown
+[07:10:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:10:13][SEG9]     → ✗ REJECTED: rejected
+[07:10:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:10:13][SEG9]     → ✗ REJECTED: rejected
+[07:10:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:10:14][SEG9]     → ? UNKNOWN: unknown
+[07:10:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:10:14][SEG9]     → ✗ REJECTED: rejected
+[07:10:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:10:15][SEG9]     → ? UNKNOWN: unknown
+[07:10:15][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:10:16][SEG9]     → ? UNKNOWN: unknown
+[07:10:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:10:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:10:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:10:17][SEG9]     → ? UNKNOWN: unknown
+[07:10:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:10:18][SEG9]     → ? UNKNOWN: unknown
+[07:10:18][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:10:18][SEG9]     → ? UNKNOWN: unknown
+[07:10:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:10:19][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:10:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:10:20][SEG9] ============================================================
+[07:15:10][SEG9] ============================================================
+[07:15:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:15:10][SEG9] ============================================================
+[07:15:10][SEG9] Loaded 2665 leads
+[07:15:10][SEG9] Leads in segment 9: 89
+[07:15:10][SEG9] Processing batch of 15
+[07:15:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:15:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:15:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:15:11][SEG9]     → ✗ REJECTED: rejected
+[07:15:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:15:12][SEG9]     → ✗ REJECTED: rejected
+[07:15:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:15:12][SEG9]     → ? UNKNOWN: unknown
+[07:15:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:15:13][SEG9]     → ✗ REJECTED: rejected
+[07:15:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:15:14][SEG9]     → ✗ REJECTED: rejected
+[07:15:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:15:14][SEG9]     → ? UNKNOWN: unknown
+[07:15:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:15:15][SEG9]     → ✗ REJECTED: rejected
+[07:15:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:15:16][SEG9]     → ? UNKNOWN: unknown
+[07:15:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:15:16][SEG9]     → ? UNKNOWN: unknown
+[07:15:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:15:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:15:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:15:18][SEG9]     → ? UNKNOWN: unknown
+[07:15:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:15:19][SEG9]     → ? UNKNOWN: unknown
+[07:15:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:15:20][SEG9]     → ? UNKNOWN: unknown
+[07:15:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:15:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:15:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:15:21][SEG9] ============================================================
+[07:20:10][SEG9] ============================================================
+[07:20:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:20:10][SEG9] ============================================================
+[07:20:10][SEG9] Loaded 2665 leads
+[07:20:10][SEG9] Leads in segment 9: 89
+[07:20:10][SEG9] Processing batch of 15
+[07:20:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:20:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:20:11][SEG9]     → ✗ REJECTED: rejected
+[07:20:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:20:12][SEG9]     → ✗ REJECTED: rejected
+[07:20:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:20:12][SEG9]     → ? UNKNOWN: unknown
+[07:20:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:20:13][SEG9]     → ✗ REJECTED: rejected
+[07:20:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:20:13][SEG9]     → ✗ REJECTED: rejected
+[07:20:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:20:14][SEG9]     → ? UNKNOWN: unknown
+[07:20:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:20:15][SEG9]     → ✗ REJECTED: rejected
+[07:20:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:20:15][SEG9]     → ? UNKNOWN: unknown
+[07:20:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:20:16][SEG9]     → ? UNKNOWN: unknown
+[07:20:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:20:16][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:20:17][SEG9]     → ? UNKNOWN: unknown
+[07:20:17][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:20:18][SEG9]     → ? UNKNOWN: unknown
+[07:20:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:20:19][SEG9]     → ? UNKNOWN: unknown
+[07:20:19][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:20:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:20:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:20:20][SEG9] ============================================================
+[07:25:10][SEG9] ============================================================
+[07:25:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:25:10][SEG9] ============================================================
+[07:25:10][SEG9] Loaded 2665 leads
+[07:25:10][SEG9] Leads in segment 9: 89
+[07:25:10][SEG9] Processing batch of 15
+[07:25:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:25:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:25:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:25:11][SEG9]     → ✗ REJECTED: rejected
+[07:25:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:25:12][SEG9]     → ✗ REJECTED: rejected
+[07:25:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:25:12][SEG9]     → ? UNKNOWN: unknown
+[07:25:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:25:13][SEG9]     → ✗ REJECTED: rejected
+[07:25:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:25:14][SEG9]     → ✗ REJECTED: rejected
+[07:25:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:25:14][SEG9]     → ? UNKNOWN: unknown
+[07:25:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:25:15][SEG9]     → ✗ REJECTED: rejected
+[07:25:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:25:16][SEG9]     → ? UNKNOWN: unknown
+[07:25:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:25:17][SEG9]     → ? UNKNOWN: unknown
+[07:25:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:25:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:25:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:25:18][SEG9]     → ? UNKNOWN: unknown
+[07:25:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:25:19][SEG9]     → ? UNKNOWN: unknown
+[07:25:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:25:20][SEG9]     → ? UNKNOWN: unknown
+[07:25:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:25:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:25:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:25:21][SEG9] ============================================================
+[07:30:11][SEG9] ============================================================
+[07:30:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:30:11][SEG9] ============================================================
+[07:30:11][SEG9] Loaded 2665 leads
+[07:30:11][SEG9] Leads in segment 9: 89
+[07:30:11][SEG9] Processing batch of 15
+[07:30:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:30:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:30:12][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:30:12][SEG9]     → ✗ REJECTED: rejected
+[07:30:13][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:30:13][SEG9]     → ✗ REJECTED: rejected
+[07:30:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:30:13][SEG9]     → ? UNKNOWN: unknown
+[07:30:14][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:30:14][SEG9]     → ✗ REJECTED: rejected
+[07:30:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:30:15][SEG9]     → ✗ REJECTED: rejected
+[07:30:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:30:15][SEG9]     → ? UNKNOWN: unknown
+[07:30:16][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:30:16][SEG9]     → ✗ REJECTED: rejected
+[07:30:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:30:16][SEG9]     → ? UNKNOWN: unknown
+[07:30:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:30:17][SEG9]     → ? UNKNOWN: unknown
+[07:30:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:30:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:30:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:30:18][SEG9]     → ? UNKNOWN: unknown
+[07:30:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:30:19][SEG9]     → ? UNKNOWN: unknown
+[07:30:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:30:20][SEG9]     → ? UNKNOWN: unknown
+[07:30:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:30:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:30:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:30:21][SEG9] ============================================================
+[07:35:11][SEG9] ============================================================
+[07:35:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:35:11][SEG9] ============================================================
+[07:35:11][SEG9] Loaded 2665 leads
+[07:35:11][SEG9] Leads in segment 9: 89
+[07:35:11][SEG9] Processing batch of 15
+[07:35:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:35:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:35:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:35:12][SEG9]     → ✗ REJECTED: rejected
+[07:35:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:35:12][SEG9]     → ✗ REJECTED: rejected
+[07:35:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:35:13][SEG9]     → ? UNKNOWN: unknown
+[07:35:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:35:13][SEG9]     → ✗ REJECTED: rejected
+[07:35:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:35:14][SEG9]     → ✗ REJECTED: rejected
+[07:35:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:35:15][SEG9]     → ? UNKNOWN: unknown
+[07:35:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:35:16][SEG9]     → ✗ REJECTED: rejected
+[07:35:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:35:16][SEG9]     → ? UNKNOWN: unknown
+[07:35:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:35:17][SEG9]     → ? UNKNOWN: unknown
+[07:35:18][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:35:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:35:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:35:18][SEG9]     → ? UNKNOWN: unknown
+[07:35:19][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:35:19][SEG9]     → ? UNKNOWN: unknown
+[07:35:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:35:20][SEG9]     → ? UNKNOWN: unknown
+[07:35:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:35:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:35:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:35:21][SEG9] ============================================================
+[07:40:10][SEG9] ============================================================
+[07:40:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:40:10][SEG9] ============================================================
+[07:40:10][SEG9] Loaded 2665 leads
+[07:40:10][SEG9] Leads in segment 9: 89
+[07:40:10][SEG9] Processing batch of 15
+[07:40:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:40:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:40:11][SEG9]     → ✗ REJECTED: rejected
+[07:40:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:40:12][SEG9]     → ✗ REJECTED: rejected
+[07:40:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:40:12][SEG9]     → ? UNKNOWN: unknown
+[07:40:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:40:13][SEG9]     → ✗ REJECTED: rejected
+[07:40:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:40:14][SEG9]     → ✗ REJECTED: rejected
+[07:40:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:40:15][SEG9]     → ? UNKNOWN: unknown
+[07:40:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:40:16][SEG9]     → ✗ REJECTED: rejected
+[07:40:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:40:16][SEG9]     → ? UNKNOWN: unknown
+[07:40:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:40:17][SEG9]     → ? UNKNOWN: unknown
+[07:40:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:40:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:40:18][SEG9]     → ? UNKNOWN: unknown
+[07:40:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:40:19][SEG9]     → ? UNKNOWN: unknown
+[07:40:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:40:20][SEG9]     → ? UNKNOWN: unknown
+[07:40:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:40:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:40:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:40:21][SEG9] ============================================================
+[07:45:10][SEG9] ============================================================
+[07:45:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:45:10][SEG9] ============================================================
+[07:45:10][SEG9] Loaded 2665 leads
+[07:45:10][SEG9] Leads in segment 9: 89
+[07:45:10][SEG9] Processing batch of 15
+[07:45:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:45:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:45:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:45:11][SEG9]     → ✗ REJECTED: rejected
+[07:45:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:45:12][SEG9]     → ✗ REJECTED: rejected
+[07:45:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:45:12][SEG9]     → ? UNKNOWN: unknown
+[07:45:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:45:13][SEG9]     → ✗ REJECTED: rejected
+[07:45:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:45:14][SEG9]     → ✗ REJECTED: rejected
+[07:45:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:45:15][SEG9]     → ? UNKNOWN: unknown
+[07:45:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:45:15][SEG9]     → ✗ REJECTED: rejected
+[07:45:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:45:16][SEG9]     → ? UNKNOWN: unknown
+[07:45:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:45:16][SEG9]     → ? UNKNOWN: unknown
+[07:45:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:45:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:45:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:45:18][SEG9]     → ? UNKNOWN: unknown
+[07:45:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:45:19][SEG9]     → ? UNKNOWN: unknown
+[07:45:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:45:20][SEG9]     → ? UNKNOWN: unknown
+[07:45:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:45:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:45:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:45:21][SEG9] ============================================================
+[07:50:10][SEG9] ============================================================
+[07:50:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:50:10][SEG9] ============================================================
+[07:50:10][SEG9] Loaded 2665 leads
+[07:50:10][SEG9] Leads in segment 9: 89
+[07:50:10][SEG9] Processing batch of 15
+[07:50:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:50:10][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:50:10][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:50:11][SEG9]     → ✗ REJECTED: rejected
+[07:50:11][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:50:11][SEG9]     → ✗ REJECTED: rejected
+[07:50:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:50:12][SEG9]     → ? UNKNOWN: unknown
+[07:50:12][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:50:12][SEG9]     → ✗ REJECTED: rejected
+[07:50:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:50:13][SEG9]     → ✗ REJECTED: rejected
+[07:50:13][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:50:14][SEG9]     → ? UNKNOWN: unknown
+[07:50:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:50:15][SEG9]     → ✗ REJECTED: rejected
+[07:50:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:50:15][SEG9]     → ? UNKNOWN: unknown
+[07:50:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:50:16][SEG9]     → ? UNKNOWN: unknown
+[07:50:16][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:50:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:50:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:50:17][SEG9]     → ? UNKNOWN: unknown
+[07:50:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:50:19][SEG9]     → ? UNKNOWN: unknown
+[07:50:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:50:19][SEG9]     → ? UNKNOWN: unknown
+[07:50:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:50:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:50:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:50:20][SEG9] ============================================================
+[07:55:11][SEG9] ============================================================
+[07:55:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[07:55:11][SEG9] ============================================================
+[07:55:11][SEG9] Loaded 2665 leads
+[07:55:11][SEG9] Leads in segment 9: 89
+[07:55:11][SEG9] Processing batch of 15
+[07:55:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[07:55:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:55:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[07:55:12][SEG9]     → ✗ REJECTED: rejected
+[07:55:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[07:55:12][SEG9]     → ✗ REJECTED: rejected
+[07:55:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[07:55:13][SEG9]     → ? UNKNOWN: unknown
+[07:55:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[07:55:13][SEG9]     → ✗ REJECTED: rejected
+[07:55:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[07:55:14][SEG9]     → ✗ REJECTED: rejected
+[07:55:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[07:55:15][SEG9]     → ? UNKNOWN: unknown
+[07:55:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[07:55:16][SEG9]     → ✗ REJECTED: rejected
+[07:55:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[07:55:16][SEG9]     → ? UNKNOWN: unknown
+[07:55:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[07:55:17][SEG9]     → ? UNKNOWN: unknown
+[07:55:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[07:55:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:55:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[07:55:18][SEG9]     → ? UNKNOWN: unknown
+[07:55:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[07:55:20][SEG9]     → ? UNKNOWN: unknown
+[07:55:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[07:55:21][SEG9]     → ? UNKNOWN: unknown
+[07:55:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[07:55:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[07:55:22][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[07:55:22][SEG9] ============================================================
+[08:00:10][SEG9] ============================================================
+[08:00:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[08:00:10][SEG9] ============================================================
+[08:00:10][SEG9] Loaded 2665 leads
+[08:00:10][SEG9] Leads in segment 9: 89
+[08:00:10][SEG9] Processing batch of 15
+[08:00:10][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[08:00:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[08:00:12][SEG9]     → ✗ REJECTED: rejected
+[08:00:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:00:12][SEG9]     → ✗ REJECTED: rejected
+[08:00:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[08:00:13][SEG9]     → ? UNKNOWN: unknown
+[08:00:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[08:00:13][SEG9]     → ✗ REJECTED: rejected
+[08:00:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[08:00:14][SEG9]     → ✗ REJECTED: rejected
+[08:00:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[08:00:15][SEG9]     → ? UNKNOWN: unknown
+[08:00:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[08:00:15][SEG9]     → ✗ REJECTED: rejected
+[08:00:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[08:00:16][SEG9]     → ? UNKNOWN: unknown
+[08:00:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[08:00:16][SEG9]     → ? UNKNOWN: unknown
+[08:00:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[08:00:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[08:00:17][SEG9]     → ? UNKNOWN: unknown
+[08:00:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[08:00:19][SEG9]     → ? UNKNOWN: unknown
+[08:00:19][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[08:00:19][SEG9]     → ? UNKNOWN: unknown
+[08:00:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[08:00:20][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:00:20][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[08:00:20][SEG9] ============================================================
+[08:05:10][SEG9] ============================================================
+[08:05:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[08:05:10][SEG9] ============================================================
+[08:05:11][SEG9] Loaded 2665 leads
+[08:05:11][SEG9] Leads in segment 9: 89
+[08:05:11][SEG9] Processing batch of 15
+[08:05:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[08:05:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:05:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[08:05:11][SEG9]     → ✗ REJECTED: rejected
+[08:05:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:05:12][SEG9]     → ✗ REJECTED: rejected
+[08:05:12][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[08:05:12][SEG9]     → ? UNKNOWN: unknown
+[08:05:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[08:05:13][SEG9]     → ✗ REJECTED: rejected
+[08:05:13][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[08:05:13][SEG9]     → ✗ REJECTED: rejected
+[08:05:14][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[08:05:14][SEG9]     → ? UNKNOWN: unknown
+[08:05:14][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[08:05:15][SEG9]     → ✗ REJECTED: rejected
+[08:05:15][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[08:05:16][SEG9]     → ? UNKNOWN: unknown
+[08:05:16][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[08:05:16][SEG9]     → ? UNKNOWN: unknown
+[08:05:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[08:05:17][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:05:17][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[08:05:18][SEG9]     → ? UNKNOWN: unknown
+[08:05:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[08:05:19][SEG9]     → ? UNKNOWN: unknown
+[08:05:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[08:05:20][SEG9]     → ? UNKNOWN: unknown
+[08:05:21][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[08:05:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:05:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[08:05:21][SEG9] ============================================================
+[08:10:11][SEG9] ============================================================
+[08:10:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[08:10:11][SEG9] ============================================================
+[08:10:11][SEG9] Loaded 2665 leads
+[08:10:11][SEG9] Leads in segment 9: 89
+[08:10:11][SEG9] Processing batch of 15
+[08:10:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[08:10:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:10:11][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[08:10:12][SEG9]     → ✗ REJECTED: rejected
+[08:10:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:10:12][SEG9]     → ✗ REJECTED: rejected
+[08:10:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[08:10:13][SEG9]     → ? UNKNOWN: unknown
+[08:10:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[08:10:13][SEG9]     → ✗ REJECTED: rejected
+[08:10:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[08:10:14][SEG9]     → ✗ REJECTED: rejected
+[08:10:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[08:10:23][SEG9]     → ? UNKNOWN: timed out
+[08:10:23][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[08:10:24][SEG9]     → ✗ REJECTED: rejected
+[08:10:24][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[08:10:24][SEG9]     → ? UNKNOWN: unknown
+[08:10:25][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[08:10:25][SEG9]     → ? UNKNOWN: unknown
+[08:10:26][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[08:10:26][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:10:26][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[08:10:26][SEG9]     → ? UNKNOWN: unknown
+[08:10:27][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[08:10:27][SEG9]     → ? UNKNOWN: unknown
+[08:10:28][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[08:10:28][SEG9]     → ? UNKNOWN: unknown
+[08:10:28][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[08:10:28][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:10:29][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[08:10:29][SEG9] ============================================================
+[08:15:11][SEG9] ============================================================
+[08:15:11][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[08:15:11][SEG9] ============================================================
+[08:15:11][SEG9] Loaded 2665 leads
+[08:15:11][SEG9] Leads in segment 9: 89
+[08:15:11][SEG9] Processing batch of 15
+[08:15:11][SEG9]   [1/15] Garcia & Sons Construction LLC → info@garciaandsonsconstruct.com
+[08:15:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:15:12][SEG9]   [2/15] Auto Body Shop → info@jhcc.com
+[08:15:12][SEG9]     → ✗ REJECTED: rejected
+[08:15:12][SEG9]   [3/15] Commercial Cleaning Services in Stu → office@customcleaningtc.com
+[08:15:13][SEG9]     → ✗ REJECTED: rejected
+[08:15:13][SEG9]   [4/15] Fleet Washing Jupiter FL → info@danryanspressurecleaning.com
+[08:15:13][SEG9]     → ? UNKNOWN: unknown
+[08:15:13][SEG9]   [5/15] Martin Downs Property Owners Associ → reception@mdpoa.org
+[08:15:14][SEG9]     → ✗ REJECTED: rejected
+[08:15:14][SEG9]   [6/15] About Us - Management Specialists P → info@mgtspec.com
+[08:15:14][SEG9]     → ✗ REJECTED: rejected
+[08:15:15][SEG9]   [7/15] General Building Contractor Boca Ra → info@kmr-gc.com
+[08:15:15][SEG9]     → ? UNKNOWN: unknown
+[08:15:15][SEG9]   [8/15] Jensen Seamless Gutters → gutterguy@gutterguyfl.com
+[08:15:16][SEG9]     → ✗ REJECTED: rejected
+[08:15:16][SEG9]   [9/15] Martin North Hospital | Cleveland C → PHPPRcontactus@providence.org
+[08:15:16][SEG9]     → ? UNKNOWN: unknown
+[08:15:17][SEG9]   [10/15] Watson Association Management - HOA → paminfo@watsonrealtycorp.com
+[08:15:17][SEG9]     → ? UNKNOWN: unknown
+[08:15:17][SEG9]   [11/15] Crosby's Construction LLC: Home → info@crosbysconstructionfl.com
+[08:15:18][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:15:18][SEG9]   [12/15] Apartments for Rent in Fort Pierce, → info@rentcafe.com
+[08:15:18][SEG9]     → ? UNKNOWN: unknown
+[08:15:18][SEG9]   [13/15] Scm Handyman Services → info@scm-handyman-services.com
+[08:15:20][SEG9]     → ? UNKNOWN: unknown
+[08:15:20][SEG9]   [14/15] Stuart, FL Industrial & Warehouse S → info@commercialsearch.com
+[08:15:20][SEG9]     → ? UNKNOWN: unknown
+[08:15:20][SEG9]   [15/15] Car Dealerships in Stuart, FL 34997 → sales@jldauto.net
+[08:15:21][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:15:21][SEG9] SEGMENT 9 COMPLETE: 0 verified, 5 rejected
+[08:15:21][SEG9] ============================================================
+[08:20:10][SEG9] ============================================================
+[08:20:10][SEG9] SMTP VERIFIER — Segment 9/10 | Batch: 15
+[08:20:10][SEG9] ============================================================
+[08:20:10][SEG9] Treasure Coast leads: 2061
+[08:20:10][SEG9] Loaded 2061 leads
+[08:20:10][SEG9] Leads in segment 9: 50
+[08:20:10][SEG9] Processing batch of 15
+[08:20:10][SEG9]   [1/15] Real Property Management Dynamic → support@rpmdynamic.com/
+[08:20:10][SEG9]     → SKIP: no MX for rpmdynamic.com/
+[08:20:10][SEG9]   [2/15] Professional HOA & COA Services in  → esposito@macombgov.org
+[08:20:10][SEG9]     → ✗ REJECTED: rejected
+[08:20:11][SEG9]   [3/15] Treasure Coast Realty Group → Meluke@treasurecoastrg.com
+[08:20:11][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:20:11][SEG9]   [4/15] All Dealers in Stuart, FL 34997 → sales@jldauto.net
+[08:20:12][SEG9]     → ? UNKNOWN: [Errno 104] Connection reset b
+[08:20:12][SEG9]   [5/15] Fort Pierce, FL Industrial & Wareho → info@commercialsearch.com
+[08:20:12][SEG9]     → ? UNKNOWN: unknown
+[08:20:13][SEG9]   [6/15] Clearshine Detailing: Vehicle Detai → office@reigncitysoftwash.com
+[08:20:13][SEG9]     → ? UNKNOWN: unknown
+[08:20:13][SEG9]   [7/15] Our Experienced Handyman Palm City, → info@tamcare.com
+[08:20:14][SEG9]     → ✗ REJECTED: rejected
+[08:20:14][SEG9]   [8/15] jd treasure coast assisted living f → info@quality.healthfinder.fl.gov
+[08:20:22][SEG9]     → ? UNKNOWN: timed out
+[08:20:23][SEG9]   [9/15] Luxury Airbnb Property Management i → contact@luxurylodgingstr.com
+[08:20:23][SEG9]     → ? UNKNOWN: unknown
+[08:20:23][SEG9]   [10/15] Hudson's On The River | Waterfront  → info@hudsonontheriver.com
+[08:20:23][SEG9]     → ? UNKNOWN: [Errno -2] Name or service not
+[08:20:24][SEG9]   [11/15] Martin North Hospital | Cleveland C → roiwestonfl@ccf.org
+[08:20:24][SEG9]     → ✗ REJECTED: rejected
+[08:20:25][SEG9]   [12/15] Handyman & Home Repair Services in  → info@acehandymanservices.com
+[08:20:25][SEG9]     → ? UNKNOWN: unknown
+[08:20:25][SEG9]   [13/15] HOME - DA Detailing - PSL → info@dadetailingpsl.com
+[08:20:25][SEG9]     → ? UNKNOWN: [Errno -2] Name or service not
+[08:20:26][SEG9]   [14/15] CRA Investment Program | Martin Cou → info@martin.fl.us
+[08:20:26][SEG9]     → ? UNKNOWN: unknown
+[08:20:27][SEG9]   [15/15] Restaurants Jensen Beach | Seafood  → info@conchyjoes.com
+[08:20:27][SEG9]     → ✗ REJECTED: rejected
+[08:20:27][SEG9] SEGMENT 9 COMPLETE: 0 verified, 4 rejected
+[08:20:27][SEG9] ============================================================

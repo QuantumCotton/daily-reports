@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ESH National Dashboard — Fixed</title>
+<style>
+    :root {
+        --bg: #0a0a0f;
+        --card: #12121a;
+        --border: #1e1e2e;
+        --accent: #B8860B;
+        --accent2: #4CAF50;
+        --accent3: #2196F3;
+        --text: #e0e0e0;
+        --muted: #888;
+        --high-income: #FFD700;
+        --medium-income: #4CAF50;
+        --low-income: #2196F3;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); padding: 20px; }
+    
+    .header {
+        display: flex; justify-content: space-between; align-items: center;
+        background: linear-gradient(135deg, #1a1a2e 0%, #0a0a0f 100%);
+        border-bottom: 2px solid var(--accent);
+        padding: 15px 25px; border-radius: 10px; margin-bottom: 20px;
+    }
+    .header h1 { font-size: 1.5rem; color: var(--accent); }
+    .header .stats { display: flex; gap: 20px; }
+    .header .stats .stat { 
+        background: var(--card); border: 1px solid var(--border);
+        padding: 8px 16px; border-radius: 6px; text-align: center;
+    }
+    .header .stats .stat .num { font-size: 1.2rem; font-weight: 700; }
+    .header .stats .stat .label { font-size: 0.75rem; color: var(--muted); }
+    
+    .metro-grid {
+        display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 15px; margin-top: 15px;
+    }
+    .metro-card {
+        background: var(--card); border: 1px solid var(--border);
+        border-radius: 10px; padding: 15px; cursor: pointer;
+        transition: all 0.2s ease;
+    }
+    .metro-card:hover {
+        transform: translateY(-3px); box-shadow: 0 5px 15px rgba(136, 102, 85, 0.3);
+        border-color: var(--accent);
+    }
+    
+    .metro-card .metro-name {
+        font-size: 1.1rem; font-weight: 600; color: var(--accent);
+        margin-bottom: 8px;
+    }
+    .metro-card .metro-state {
+        font-size: 0.85rem; color: var(--muted); margin-bottom: 10px;
+    }
+    .metro-card .stats {
+        display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+        margin-bottom: 10px;
+    }
+    .metro-card .stat { display: flex; justify-content: space-between; }
+    .metro-card .stat .label { font-size: 0.75rem; color: var(--muted); }
+    .metro-card .stat .num { font-size: 1rem; font-weight: 700; }
+    
+    .reminder-banner {
+        background: linear-gradient(135deg, #FFD700 0%, #FF6B35 100%);
+        border: 2px solid var(--accent);
+        border-radius: 8px; padding: 15px 20px; margin-bottom: 20px;
+    }
+    .reminder-banner h3 { color: #000; margin-bottom: 10px; }
+    .reminder-banner ul { list-style: none; padding-left: 0; }
+    .reminder-banner li {
+        padding: 8px 0; border-left: 3px solid var(--accent);
+        margin-bottom: 8px; padding-left: 12px;
+    }
+    .reminder-banner li.done { border-left-color: var(--accent3); }
+    
+    @media (max-width: 768px) {
+        .metro-grid { grid-template-columns: 1fr; }
+        .metro-detail-header h2 { font-size: 1.1rem; }
+    }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <div>
+        <h1>🌍 ESH National Dashboard</h1>
+        <div style="color:var(--muted);font-size:0.8rem;margin-top:5px;">
+            Countries → Metros → Leads | Full-Screen Views
+        </div>
+    </div>
+    <div class="stats">
+        <div class="stat">
+            <div class="num">21930</div>
+            <div class="label">Total Leads</div>
+        </div>
+        <div class="stat">
+            <div class="num" style="color:var(--accent2)">1540</div>
+            <div class="label">Tier 4-5</div>
+        </div>
+        <div class="stat">
+            <div class="num" style="color:var(--accent3)">50</div>
+            <div class="label">Metro Areas</div>
+        </div>
+    </div>
+</div>
+
+<div class="reminder-banner">
+    <h3>⚠️ ACTION REQUIRED: Buy Warming Domain</h3>
+    <ul>
+        <li>📍 Buy domain (e.g., warming.kmjk.pro)</li>
+        <li>⚙️ Point MX to VPS (107.172.20.181)</li>
+        <li>📧 Add 100 warming accounts to Postfix</li>
+        <li>✅ Test email delivery</li>
+        <li>🚀 Start 24/7 warming</li>
+        <li>✅ NO Josue email downtime!</li>
+    </ul>
+</div>
+
+<div id="countries-view">
+    <h2 style="margin-bottom:15px;color:var(--accent);">Click a metro to see Contractors & Clients</h2>
+    <div class="metro-grid">
+
+            <div class="metro-card" onclick="loadMetroDetail('Stuart FL')">
+                <div class="metro-name">Stuart FL</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">1,896</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">12</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Stuart')">
+                <div class="metro-name">Stuart</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">944</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">512</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('')">
+                <div class="metro-name"></div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">791</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">7</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Jupiter')">
+                <div class="metro-name">Jupiter</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">493</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">35</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Vero Beach')">
+                <div class="metro-name">Vero Beach</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">483</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">133</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Fort Pierce')">
+                <div class="metro-name">Fort Pierce</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">479</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">124</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Sewalls Point, FL')">
+                <div class="metro-name">Sewalls Point, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">465</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">1</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Tequesta, FL')">
+                <div class="metro-name">Tequesta, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">458</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">1</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Sailfish Point, FL')">
+                <div class="metro-name">Sailfish Point, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">447</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Hutchinson Island, FL')">
+                <div class="metro-name">Hutchinson Island, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">446</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Tradition, FL')">
+                <div class="metro-name">Tradition, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">444</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">1</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Hobe Sound, FL')">
+                <div class="metro-name">Hobe Sound, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">439</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Jensen Beach, FL')">
+                <div class="metro-name">Jensen Beach, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">431</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Stuart, FL')">
+                <div class="metro-name">Stuart, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">427</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Vero Beach, FL')">
+                <div class="metro-name">Vero Beach, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">416</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Jupiter Island, FL')">
+                <div class="metro-name">Jupiter Island, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">416</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Palm Beach Gardens, FL')">
+                <div class="metro-name">Palm Beach Gardens, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">413</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Miami')">
+                <div class="metro-name">Miami</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">399</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">41</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Naples')">
+                <div class="metro-name">Naples</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">399</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">47</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Port St. Lucie')">
+                <div class="metro-name">Port St. Lucie</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">394</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">18</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Sarasota')">
+                <div class="metro-name">Sarasota</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">391</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">40</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Jacksonville')">
+                <div class="metro-name">Jacksonville</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">391</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">29</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Palm City, FL')">
+                <div class="metro-name">Palm City, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">387</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Tampa')">
+                <div class="metro-name">Tampa</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">384</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">30</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('St. Petersburg')">
+                <div class="metro-name">St. Petersburg</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">381</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">18</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Fort Pierce, FL')">
+                <div class="metro-name">Fort Pierce, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">380</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('West Palm Beach')">
+                <div class="metro-name">West Palm Beach</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">378</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">23</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Orlando')">
+                <div class="metro-name">Orlando</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">377</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">25</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Bradenton')">
+                <div class="metro-name">Bradenton</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">375</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">31</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Clearwater')">
+                <div class="metro-name">Clearwater</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">374</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">22</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Tallahassee')">
+                <div class="metro-name">Tallahassee</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">373</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">22</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Gainesville')">
+                <div class="metro-name">Gainesville</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">370</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">25</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Pensacola')">
+                <div class="metro-name">Pensacola</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">366</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">17</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Fort Myers')">
+                <div class="metro-name">Fort Myers</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">365</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">28</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Fort Lauderdale')">
+                <div class="metro-name">Fort Lauderdale</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">364</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">28</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Jupiter, FL')">
+                <div class="metro-name">Jupiter, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">361</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Ocala')">
+                <div class="metro-name">Ocala</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">361</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">23</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Cape Coral')">
+                <div class="metro-name">Cape Coral</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">357</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">18</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Port St Lucie, FL')">
+                <div class="metro-name">Port St Lucie, FL</div>
+                <div class="metro-state"></div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">357</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Lakeland')">
+                <div class="metro-name">Lakeland</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">355</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">25</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Boca Raton')">
+                <div class="metro-name">Boca Raton</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">353</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">47</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Kissimmee')">
+                <div class="metro-name">Kissimmee</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">351</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">19</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Melbourne')">
+                <div class="metro-name">Melbourne</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">349</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">17</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Daytona Beach')">
+                <div class="metro-name">Daytona Beach</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">344</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">27</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Hollywood')">
+                <div class="metro-name">Hollywood</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">343</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">22</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Palm Coast')">
+                <div class="metro-name">Palm Coast</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">338</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">21</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Deltona')">
+                <div class="metro-name">Deltona</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">335</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">11</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Atlanta')">
+                <div class="metro-name">Atlanta</div>
+                <div class="metro-state">GA</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">332</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">9</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Palm Bay')">
+                <div class="metro-name">Palm Bay</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">330</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">14</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metro-card" onclick="loadMetroDetail('Hialeah')">
+                <div class="metro-name">Hialeah</div>
+                <div class="metro-state">FL</div>
+                <div class="stats">
+                    <div class="stat">
+                        <span class="label">Leads</span>
+                        <span class="num">328</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Tier 4-5</span>
+                        <span class="num">17</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div id="metro-detail" class="metro-detail">
+    <div style="padding: 20px; background: var(--bg); color: var(--text);">
+        <h2 id="detail-metro-name">Loading...</h2>
+        <p>Click "← Back to Metros" above to return</p>
+    </div>
+</div>
+
+<script>
+function loadMetroDetail(metroName) {{
+    document.getElementById('countries-view').style.display = 'none';
+    document.getElementById('metro-detail').style.display = 'flex';
+    document.getElementById('detail-metro-name').textContent = metroName;
+    document.getElementById('detail-metro-name').scrollIntoView();
+}}
+
+function showMetroDetail(metroName) {{
+    loadMetroDetail(metroName);
+}}
+</script>
+
+</body>
+</html>

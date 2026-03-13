@@ -1,0 +1,4 @@
+warming_email,sends,opens,replies,engagement_rate,reply_rate,avg_response_time,avg_engagement_score,composite_score,is_top_performer
+warming-02@kmjk.pro,3,3,3,100.0,100.0,0.53,84.67,99.89,False
+projects-tri@kmjk.pro,4,4,4,100.0,100.0,0.85,85.0,99.83,True
+warming-01@kmjk.pro,3,3,3,100.0,100.0,0.83,90.0,99.83,False

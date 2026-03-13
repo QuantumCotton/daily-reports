@@ -1,0 +1,16 @@
+business_name,address,phone,email,contact_name,url,city,source,notes
+YMCA of the Treasure Coast - Stuart,,(772) 286-4444,G51ed3fc9dc18463eb3e1a22292797bc1@ymcatreasurecoast.org,,https://ymcatreasurecoast.org/stuart/,Stuart,Direct Scrape,
+Orangetheory Fitness - Stuart,,6629184900,,,https://www.orangetheory.com/en-us/studios/stuart-fl,Stuart,Direct Scrape,
+Planet Fitness - Stuart,,1773093813,,,https://www.planetfitness.com/gyms/stuart-fl,Stuart,Direct Scrape,
+LA Fitness - Port St Lucie,,6389015197,,,https://www.lafitness.com/Pages/ClubDetails.aspx,Port St Lucie,Direct Scrape,
+Crunch Fitness - Stuart,,,,,https://www.crunch.com/locations/florida/stuart,Stuart,Direct Scrape,
+Gold's Gym - Vero Beach,,1589017372,websiteinquiries@goldsgym.com,,https://www.goldsgym.com/vero-beach-fl,Vero Beach,Direct Scrape,
+World Gym - Vero Beach,,(800) 544-7441,,,https://worldgym.com/,Vero Beach,Direct Scrape,
+Anytime Fitness - Fort Pierce,,4395409186,mediainquiries@sebrands.com,,https://www.anytimefitness.com/us-en/gyms/fl/fort-pierce,Fort Pierce,Direct Scrape,
+Jazzercise - Stuart,,6583936946,m@m.pl,,https://www.jazzercise.com/,Stuart,Direct Scrape,
+CrossFit Treasure Coast,,,,,https://www.crossfittreasurecoast.com/,Stuart,Direct Scrape (Failed),"Scrape error: HTTPSConnectionPool(host='www.crossfittreasurecoast.com', port=443): Max retries exceeded with url: "
+Fit Body Boot Camp - Port St Lucie,,(978) 855-4036,mellersergey@gmail.com,,https://www.fitbodybootcamp.com/,Port St Lucie,Direct Scrape,
+Pilates Studio of the Treasure Coast,,,,,https://www.pilatesstudiostc.com/,Stuart,Direct Scrape (Failed),"Scrape error: HTTPSConnectionPool(host='www.pilatesstudiostc.com', port=443): Max retries exceeded with url: / (Ca"
+Vero Beach Athletic Club,,,,,https://www.vbathleticclub.com/,Vero Beach,Direct Scrape (Failed),"Scrape error: HTTPSConnectionPool(host='www.vbathleticclub.com', port=443): Max retries exceeded with url: / (Caus"
+Martial Arts and Fitness Center - Jensen Beach,,,,,https://www.mafacfl.com/,Jensen Beach,Direct Scrape (Failed),"Scrape error: HTTPSConnectionPool(host='www.mafacfl.com', port=443): Max retries exceeded with url: / (Caused by N"
+Fitness World - Fort Pierce,,,,,https://www.fitnessworld247.com/,Fort Pierce,Direct Scrape (Failed),"Scrape error: HTTPSConnectionPool(host='www.fitnessworld247.com', port=443): Max retries exceeded with url: / (Cau"

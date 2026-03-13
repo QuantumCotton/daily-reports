@@ -1,0 +1,6 @@
+business_name,address,phone,email,website,contact_name,city,category,source,date_found
+Industrial Warehouse - Selvitz Rd,Stuart FL,772-286-5744,jbaron@commercialrealestatellc.com,,John Baron (commercial real estate),Stuart,Warehouse,websearch,2026-03-07
+St Lucie Warehouse Complex,1600 SE Village Green Dr Port Saint Lucie FL 34952,,info@slcwarehouse.com,,Unlisted,Port St Lucie,Warehouse,database,2026-02-27
+Florida East Coast Industries,Stuart FL,,info@feci.com,https://www.feci.com/,Unlisted,Stuart,Industrial,websearch,2026-02-12
+Costco Distribution Center,Port St Lucie FL (coming 2026),,,www.costco.com,,Unlisted,Port St Lucie,Distribution Center,websearch,2026-02-27
+Platform Status - Search Limitation,SEARCH LIMITATION DOCUMENTED: Generic web search (SearXNG, Bing) returns directory listings, dictionary entries, articles, and irrelevant results (e.g., Martin TN instead of Martin County FL). Quality filters working correctly but removing garbage leaves few real Treasure Coast warehouse businesses with contact information.,Stuart,772-000-0000,,search_results.md,See warehouses_search_results.md,Stuart,Research,websearch,2026-03-07

@@ -1,0 +1,6 @@
+Business Name,Address,Phone,Email,Contact Name,Source,Notes
+,,,,,,Search services unavailable - SearXNG Docker down, home proxy offline, Brave API invalid token
+,,,,,,To fix: 1) Start SearXNG Docker (sudo -H docker-compose up -d in ~/searxng/)
+,,,,,,        2) Start home proxy tunnel on Chris's PC
+,,,,,,        3) Check Brave API credentials
+,,,,,,TC 10X Orchestrator is running - may already have real estate leads in database

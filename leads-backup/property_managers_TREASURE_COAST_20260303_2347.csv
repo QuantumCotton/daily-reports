@@ -1,0 +1,23 @@
+Business Name,Address,Phone,Email,Contact Name,City
+NOTICE: CRON JOB COMPLETED WITH ERRORS
+
+ERROR DETAILS:
+1. Exec tool broken: host=node parameter ignored, requires paired node
+2. Brave Search API invalid: SUBSCRIPTION_TOKEN_INVALID (422 error)
+3. Cannot spawn coding-specialist agent: agentId not allowed for sessions_spawn
+
+WORKAROUNDS REQUIRED:
+- Use SSH to run Python scripts directly
+- Fix Brave API subscription token
+- Reconfigure exec tool or use alternative approach
+- Use web_fetch for direct site access (if URLs known)
+
+AFFECTED SYSTEM:
+- Cannot use free_search.py script
+- Cannot spawn agents to handle scraping
+- Cannot run Python commands via exec
+
+PRIORITY: HIGH - This cron job requires fixes to:
+1. Exec tool configuration
+2. Brave API subscription
+3. Agent spawning permissions

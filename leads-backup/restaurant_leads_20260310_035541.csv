@@ -1,0 +1,5 @@
+business_name,address,phone,email,contact_name,website,city,source
+Waterfront,"131 SW Flagler Ave, Stuart, FL 34994",772-288-1881,waterfront@sandcrg.com,,thewaterfrontstuart.com,Stuart,Google Maps + Web Scrape
+BOATHOUSE,"49 SW Seminole St, Stuart, FL 34994",,,,,Stuart,Google Maps + Web Scrape
+Spritz City Bistro,"61 SW Osceola St, Stuart, FL 34994",,,,,Stuart,Google Maps + Web Scrape
+Riverwalk Cafe and Oyster Bar,"201 SW St Lucie Ave, Stuart, FL 34994",,,,,Stuart,Google Maps + Web Scrape

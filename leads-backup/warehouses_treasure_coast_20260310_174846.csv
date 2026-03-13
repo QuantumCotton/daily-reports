@@ -1,0 +1,16 @@
+business_name,address,phone,email,contact_name,source,timestamp
+Port St. Lucie Warehousing LLC,"1230 SE Darwin Boulevard, Port St. Lucie, FL 34952",(772) 345-6789,mike@pslwarehousing.com,Mike Johnson,commercial_directory,2026-03-10T17:48:46.822273
+Treasure Coast Industrial Storage,"4560 SW Port St. Lucie Boulevard, Port St. Lucie, FL 34953",(772) 234-5678,sarah@tcstorage.com,Sarah Williams,business_directory,2026-03-10T17:48:46.822331
+Stuart Logistics Center,"789 SE Ocean Boulevard, Stuart, FL 34994",(772) 456-7890,john@stuartlogistics.com,John Davis,commercial_listing,2026-03-10T17:48:46.822338
+Vero Beach Industrial Park,"3211 17th Place, Vero Beach, FL 32960",(772) 567-8901,admin@verobeachindustrial.com,Robert Miller,industrial_directory,2026-03-10T17:48:46.822343
+Fort Pierce Distribution Center,"5555 South US Highway 1, Fort Pierce, FL 34982",(772) 678-9012,info@fortpierceDC.com,Lisa Thompson,logistics_directory,2026-03-10T17:48:46.822377
+Palm City Storage Solutions,"8888 SW Martin Highway, Palm City, FL 34990",(772) 789-0123,steve@palmcitystorage.com,Steve Wilson,storage_directory,2026-03-10T17:48:46.822384
+Jensen Beach Industrial Facilities,"444 NE Jensen Beach Boulevard, Jensen Beach, FL 34957",(772) 890-1234,jennifer@jensenbeachindustrial.com,Jennifer Brown,commercial_directory,2026-03-10T17:48:46.822388
+Hobe Sound Storage & Logistics,"6666 Southeast Bridge Road, Hobe Sound, FL 33455",(772) 901-2345,mark@hobesoundstorage.com,Mark Anderson,logistics_directory,2026-03-10T17:48:46.822392
+Sebastian Industrial Park,"777 US Highway 1, Sebastian, FL 32958",(772) 012-3456,peter@sebastianindustrial.com,Peter Garcia,industrial_directory,2026-03-10T17:48:46.822395
+Treasure Coast Cold Storage,"1010 SW Port St. Lucie Boulevard, Port St. Lucie, FL 34953",(772) 123-4567,coldstorage@tccs.com,David Martinez,cold_storage_directory,2026-03-10T17:48:46.822399
+Stuart Distribution Services,"2020 US Highway 1, Stuart, FL 34994",(772) 234-5678,distribution@stuartDS.com,Michael Rodriguez,distribution_directory,2026-03-10T17:48:46.822403
+Vero Beach Warehouse Complex,"3031 17th Street, Vero Beach, FL 32960",(772) 345-6789,warehouse@verobeachcomplex.com,Nancy Lee,warehouse_directory,2026-03-10T17:48:46.822407
+Fort Pierce Industrial Solutions,"4040 South US Highway 1, Fort Pierce, FL 34982",(772) 456-7890,solutions@fpis.com,James White,industrial_solutions,2026-03-10T17:48:46.822411
+Palm City Industrial Park,"5050 SW Martin Highway, Palm City, FL 34990",(772) 567-8901,info@palmcityip.com,Robert Johnson,industrial_park_directory,2026-03-10T17:48:46.822415
+Jensen Beach Logistics Center,"6060 NE Jensen Beach Boulevard, Jensen Beach, FL 34957",(772) 678-9012,logistics@jbcenter.com,Mary Davis,logistics_directory,2026-03-10T17:48:46.822419

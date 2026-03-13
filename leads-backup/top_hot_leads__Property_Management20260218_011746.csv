@@ -1,0 +1,4 @@
+email,name,category,city,warming_email_used,template_used,date_sent,date_engaged,response_text,status,auto_reply_sent,engagement_score
+manager@seaviewpm.com,Linda Wilson,Property Management,Hobe Sound,warming-01@kmjk.pro,Menu inquiry,2026-02-18T08:00:00,2026-02-18T08:30:00,Interested in bulk pricing,ENGAGED,2026-02-18T08:40:00,90
+leasing@coastalliving.com,Jennifer Lee,Property Management,Stuart,warming-01@kmjk.pro,Menu inquiry,2026-02-18T09:00:00,2026-02-18T09:45:00,Need pricing for 3 properties,ENGAGED,2026-02-18T09:55:00,88
+john@sunshineproperties.com,John Martinez,Property Management,Stuart,projects-tri@kmjk.pro,Quick follow-up,2026-02-18T00:00:00,2026-02-18T00:15:00,"Yes, I'm interested",ENGAGED,2026-02-18T00:25:00,85

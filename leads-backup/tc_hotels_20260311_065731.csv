@@ -1,0 +1,16 @@
+business_name,city,address,phone,email,contact_name,source_url,personal_emails,all_emails
+Hampton Inn & Suites Palm City,Palm City,"3440 SW Mapp Rd, Palm City, FL 34990",(772) 219-7000,hiltonpalmcity@hilton.com,,https://www.hilton.com,hiltonpalmcity@hilton.com,hiltonpalmcity@hilton.com
+Fairfield Inn & Suites Stuart,Stuart,"2041 SE Monterey Commons Blvd, Stuart, FL 34996",(772) 287-9000,stuart@marriott.com,,https://www.marriott.com,stuart@marriott.com,stuart@marriott.com
+Holiday Inn Express & Suites Vero Beach,Vero Beach,"1800 US Highway 1, Vero Beach, FL 32960",(772) 778-8800,sales@ihg.com,,https://www.ihg.com,sales@ihg.com,sales@ihg.com
+Homewood Suites Jensen Beach,Jensen Beach,"3840 NW US Highway 1, Jensen Beach, FL 34957",(772) 334-4400,manager@homewoodjensen.com,,https://www.hilton.com,manager@homewoodjensen.com,manager@homewoodjensen.com
+Embassy Suites Vero Beach,Vero Beach,"5565 US Highway 1, Vero Beach, FL 32967",(772) 770-9000,sales@embassyvero.com,,https://www.hilton.com,sales@embassyvero.com,sales@embassyvero.com
+Hampton Inn Port St. Lucie,Port St. Lucie,"10510 US Highway 1, Port St. Lucie, FL 34986",(772) 335-6000,info@hamptonpsl.com,,https://www.hilton.com,,info@hamptonpsl.com
+SpringHill Suites Fort Pierce,Fort Pierce,"1200 Virginia Ave, Fort Pierce, FL 34950",(772) 468-4600,springhill@fortpierce.com,,https://www.marriott.com,springhill@fortpierce.com,springhill@fortpierce.com
+Courtyard Stuart,Stuart,"2150 SE Federal Hwy, Stuart, FL 34994",(772) 286-1700,courtyardstuart@marriott.com,,https://www.marriott.com,courtyardstuart@marriott.com,courtyardstuart@marriott.com
+Best Western Plus Sebastian,Sebastian,"1250 US Highway 1, Sebastian, FL 32958",(772) 589-5000,manager@bestwesternsebastian.com,,https://www.bestwestern.com,manager@bestwesternsebastian.com,manager@bestwesternsebastian.com
+Hyatt Place Vero Beach,Vero Beach,"800 Beachland Blvd, Vero Beach, FL 32963",(772) 562-3600,sales@hyattplacevero.com,,https://www.hyatt.com,sales@hyattplacevero.com,sales@hyattplacevero.com
+Residence Inn Vero Beach,Vero Beach,"950 20th St, Vero Beach, FL 32960",(772) 567-0500,frontdesk@residenceinnvero.com,,https://www.marriott.com,,frontdesk@residenceinnvero.com
+Country Inn & Suites Hobe Sound,Hobe Sound,"11785 SE Federal Hwy, Hobe Sound, FL 33455",(772) 546-8000,info@countryinnhobe.com,,https://www.choicehotels.com,,info@countryinnhobe.com
+Comfort Inn & Suites Fort Pierce,Fort Pierce,"1201 Virginia Ave, Fort Pierce, FL 34950",(772) 465-0500,manager@comfortinnfp.com,,https://www.choicehotels.com,manager@comfortinnfp.com,manager@comfortinnfp.com
+Staybridge Suites Port St. Lucie,Port St. Lucie,"10180 SW Port St. Lucie Blvd, Port St. Lucie, FL 34987",(772) 873-7700,sales@staybridgepsl.com,,https://www.ihg.com,sales@staybridgepsl.com,sales@staybridgepsl.com
+Candlewood Suites Vero Beach,Vero Beach,"6200 20th St, Vero Beach, FL 32960",(772) 770-0100,manager@candlewoodvero.com,,https://www.ihg.com,manager@candlewoodvero.com,manager@candlewoodvero.com

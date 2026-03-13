@@ -1,0 +1,10 @@
+business_name,address,phone,email,contact_name,search_time,notes
+,,,,,2026-03-07 04:53:00 UTC,SEARCH FAILED - All search tiers unavailable
+,,,,,,Reason 1: Searx suspended (too many requests, 1h cooldown)
+,,,,,,Reason 2: Home PC proxy offline (port 1080 not open)
+,,,,,,Reason 3: Brave API token invalid (SUBSCRIPTION_TOKEN_INVALID)
+,,,,,,Action Required:
+,,,,,,  1. Wait 1h for Searxng cooldown OR restart container
+,,,,,,  2. Start home PC proxy tunnel (Chris starts before bed)
+,,,,,,  3. Renew Brave API subscription token
+,,,,,,Current Leads Found: 0/15

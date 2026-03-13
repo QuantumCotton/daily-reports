@@ -1,0 +1,18 @@
+business_name,contact_name,phone,email,website,address,city,notes,source
+Wallace Auto Group,Bill Wallace (Owner),772-466-2888,,https://www.wallaceautogroup.com,3801 SE Federal Hwy,Fort Pierce FL 34982,Multi-brand auto dealership group - 15 dealerships 400+ used cars. Service bays need epoxy. Parts Manager George Rodriguez. 65+ years in business.,commercial_epoxy_2026-02-26_v2.csv
+Wallace Hyundai Fort Pierce,,772-468-6000,,https://www.wallacehyundaioffortpierce.com,Fort Pierce FL,Hyundai dealership service center. Part of Wallace Auto Group.,commercial_epoxy_2026-02-26_v2.csv
+Coggin Acura Service Center,,772-742-4342,,https://www.cogginacura.com,4400 South US Highway 1,Fort Pierce FL 34982,Acura dealership service center. Service bays need epoxy flooring.,commercial_epoxy_2026-02-26_v2.csv
+Mercedes-Benz of Fort Pierce Service,,4500 US-1,,https://www.mercedesbenzofftpierce.com,4500 US-1,Fort Pierce FL 34982,Mercedes-Benz dealership service center. Premium brand - quality epoxy needed.,commercial_epoxy_2026-02-26_v2.csv
+Arrigo CDJR Fort Pierce Service,,,https://www.arrigochryslerdodgejeepramofftpierce.com,Fort Pierce FL,Chrysler Dodge Jeep RAM dealership service center. Part of Arrigo dealership group.,commercial_epoxy_2026-02-26_v2.csv
+Curt's Auto Service of Stuart,,772-283-1016,,https://www.yelp.com/biz/curts-auto-service-stuart,Stuart FL,Auto repair shop. Service bay floors. Potential epoxy customer.,commercial_epoxy_2026-02-26_v2.csv
+Eddie's Garage Stuart,,772-286-1161,,https://www.yelp.com/biz/eddies-garage-stuart,Stuart FL,Auto repair garage. Shop floor epoxy potential.,commercial_epoxy_2026-02-26_v2.csv
+Shearwater Marine Stuart,,772-781-5553,,https://www.shearwaterfl.com,4519 SE Commerce Ave,Stuart FL 34997,Marine service facility. Boat repair shop. Shop floors for marine epoxy. Mon-Fri 8-4.,commercial_epoxy_2026-02-26_v2.csv
+Shearwater Boatyard Fort Pierce,,772-460-0660,,https://www.shearwaterfl.com,1945 Harbortown Drive Suite F,Fort Pierce FL 34946,Boatyard facility. Complete yacht repairs electrical marine electronics. Large shop floors. Mon-Fri 7:30-4:30.,commercial_epoxy_2026-02-26_v2.csv
+Stuart Automotive,,,Stuart FL,Auto dealership in Stuart - needs verification and contact info.,tc_auto_dealers_scraper
+Jensen Beach Auto Sales,,,Jensen Beach FL,Auto dealership in Jensen Beach - needs verification and contact info.,tc_auto_dealers_scraper
+Port St. Lucie Chrysler Dodge Jeep Ram,,,Port St. Lucie FL,Auto dealership in Port St. Lucie - needs verification and contact info.,tc_auto_dealers_scraper
+Vero Beach Ford,,,Vero Beach FL,Auto dealership in Vero Beach - needs verification and contact info.,tc_auto_dealers_scraper
+Fort Pierce Nissan,,,Fort Pierce FL,Auto dealership in Fort Pierce - needs verification and contact info.,tc_auto_dealers_scraper
+Palm City Chevrolet,,,Palm City FL,Auto dealership in Palm City - needs verification and contact info.,tc_auto_dealers_scraper
+Hobe Sound Toyota,,,Hobe Sound FL,Auto dealership in Hobe Sound - needs verification and contact info.,tc_auto_dealers_scraper
+Sebastian Honda,,,Sebastian FL,Auto dealership in Sebastian - needs verification and contact info.,tc_auto_dealers_scraper

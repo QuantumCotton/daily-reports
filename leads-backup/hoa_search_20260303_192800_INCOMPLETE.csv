@@ -1,0 +1,12 @@
+community_name,address,phone,email,contact_name,notes
+,TASK INCOMPLETE - Tool limitations prevented search,,,,,,,,,,
+,web_search: Brave API subscription token invalid (422),,,,,,,,,,
+,exec: Requires paired node host (none available),,,,,,,,,,
+,browser: Service not running - OpenClaw gateway unavailable,,,,,,,,,,
+,web_fetch: Most HOA directories returned 404/403 errors,,,,,,,,,,
+,,,,,,,,,,,
+,RECOMMENDATION:,,,,,,,,,,
+,- Fix web_search tool (renew/renew Brave API token),,,,,,,,,,
+,- Set up paired node for exec commands,,,,,,,,,,
+,- Start OpenClaw gateway for browser automation,,,,,,,,,,
+,- Or use existing lead database for HOA sources,,,,,,,,,,

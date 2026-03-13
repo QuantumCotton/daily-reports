@@ -1,0 +1,11 @@
+business_name,phone,email,city,source,priority,notes,is_homeowner_request,has_contact_info
+OX Floor Coatings,855-968-4191,help@oxfloors.com,Stuart,Facebook Warm Referral,HIGH,Floor coatings specialist with phone and email,False,855-968-4191
+CJ Epoxy & Advanced Floor Coatings,772-800-2900,cjepoxyflorida@gmail.com,Vero Beach,Facebook Warm Referral,HIGH,Epoxy coatings specialist with phone and email,False,772-800-2900
+Kitchen Remodeler Request - Reddit,,https://www.reddit.com/r/PortStLucie/comments/1ilm4hz/kitchen_remodeler/,Warm Referral - Homeowner Request,HIGH,Reddit comment,,False,https://www.reddit.com/r/PortStLucie/comments/1ilm4hz/kitchen_remodeler/
+Bathroom Remodel GC Request - Reddit,,https://www.reddit.com/r/PortStLucie/comments/1h985qw/bathroom_remodel_gc_recommendations/,Warm Referral - Homeowner Request,HIGH,Reddit comment,,False,https://www.reddit.com/r/PortStLucie/comments/1h985qw/bathroom_remodel_gc_recommendations/
+Handyman Request - Reddit,,https://www.reddit.com/r/PortStLucie/comments/1jcv4ua/handyman_organizer_recommendations/,Warm Referral - Homeowner Request,HIGH,Reddit comment,,False,https://www.reddit.com/r/PortStLucie/comments/1jcv4ua/handyman_organizer_recommendations/
+Sanders Screening and Repair Inc,772-238-6754,,Warm Referral - Screen Repair,HIGH,Phone call,,False,772-238-6754
+Entry Point of The Treasure Coast,772-463-6500,,Warm Referral - Door Replacement,HIGH,Phone call,,False,772-463-6500
+South Stuart Remodeler,772-200-8480,,Warm Referral - General Remodeling,HIGH,Phone call,,False,772-200-8480
+KG Concrete & Development,,https://nextdoor.com/pages/kg-concrete-development-port-st-lucie-fl/,Warm Referral - Neighbor Recommended,MEDIUM,Nextdoor message/website,,False,https://nextdoor.com/pages/kg-concrete-development-port-st-lucie-fl/
+Grande Construction Inc,,https://nextdoor.com/pages/grande-construction-port-st-lucie-fl/,Warm Referral - Neighbor Recommended,MEDIUM,Nextdoor message/website,,False,https://nextdoor.com/pages/grande-construction-port-st-lucie-fl/

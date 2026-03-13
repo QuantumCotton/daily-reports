@@ -1,0 +1,9 @@
+leads_consolidated.db
+*.csv
+*.csv
+*.log
+*.db
+leads_consolidated.db
+manifest.json
+QUERY_GUIDE.md
+search_leads.py

@@ -1,0 +1,7 @@
+{
+  "database": "leads_consolidated.db",
+  "total_records": 87746,
+  "unique_emails": 4019,
+  "files_processed": 460,
+  "query_guide": "QUERY_GUIDE.md"
+}
